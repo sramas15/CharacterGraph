@@ -1,28 +1,74 @@
 # END_ACT
 # <after char name> (Aside)
+import re
 
 NUM_PLAYS = 34
 
-# Checks if a line starts a new scene
+# Returns whether a line starts a new scene
 def startsNewScene(line):
-	# ACT <roman numeral>. SCENE <roman numeral>.
+	match = re.match(r'^(ACT [A-Z][A-Z]?. )?SCENE [A-Z][A-Z]?[A-Z]?.$', line)
+	if match:
+		return True
 
-# Checks if a line starts a new character's speech, and if so updates currSpeaker
-# and removes speaker's name from line
-def newCharacterSpeaking(line, currSpeaker):
-	# <two spaces><speaker name in all caps>.
-	# set currSpeaker to new speaker
-	# remove speaker's name and period from line
+# Checks if a new character starts speaking, and if so
+# returns (newSpeaker, line with speaker's name removed)
+def newCharacterSpeaking(line):
+	match = re.match(r'^  ([A-Z]+). ', line)
+	if match:
+		currSpeaker = match.group(0)
+		line = replace(lstrip(line), currSpeaker, "")[2:]
+		return (currSpeaker, line)
+	return None
 
-# Checks if a line contains characters entering the scene, and if so updates currCharList
+# Checks if a line contains characters entering the scene, and if so 
+# returns the updated currCharList
+
+# Lines still to deal with:
+# Enter [Oswald the] Steward.
+
+# Will get wrong:
+# Re-enter WHITMORE with SUFFOLK'S body
+
 def checkEntryLine(line, currCharList):
-	# if line contains 'enter' and doesn't start with character name and has names in all caps
-	# add characters to currCharList
-	# return whether it's an entry line or not
+	match = re.search(r'[Ee]nter ([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)[., ]', line)
+	if match:
+		char = match.group(0)
+		currCharList.add(char)
+		moreChars = re.search(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)[., ]', line)
+		if moreChars:
+			for group in moreChars.groups() where group != char:
+				currCharList.add(group)
+		return currCharList
+	return None
 
-# Checks if a line contains characters leaving the scene, and if so updates currCharList
-def checkExit(line, currCharList):
-	# if line has Exit with no character name following it, remove character that was speaking
+# Checks if a line contains characters leaving the scene, and if so
+# returns updated currCharList
+
+# Lines still to deal with:
+# Exeunt Goneril, [Edmund, and Oswald].
+# Exit [one] with Gloucester.
+# Exit [Cornwall, led by Regan].
+# Exit running.
+# [Exit.]
+# Exit servant with PETER
+# Exit WALTER with SUFFOLK
+# Exeunt all but the FIRST GENTLEMAN
+
+# Will definitely miss
+# [Edmund is borne off.]
+
+def checkExit(line, currSpeaker, currCharList):
+	match = re.search(r'Exit\.', line)
+	if match:
+		currCharList.remove(currSpeaker)
+		return currCharList
+	moreChars = re.search(r'Exit ', line)
+	if moreChars:
+		for group in moreChars.groups():
+			currCharList.remove(group)
+		return currCharList
+	return None
+
 	# if line has Exit with a character name following it, remove that character
 	# if line has exeunt, figure out who to remove
 
@@ -52,18 +98,26 @@ for playNum in range(NUM_PLAYS):
 				if needToWriteTriple:
 					writeToFile(currSpeaker, currCharList, currSpeech, outFile)
 				resetAll(currSpeaker, currSpeech, currCharList)
-			elif newCharacterSpeaking(line, currSpeaker):
-				if needToWriteTriple:
-					writeToFile(currSpeaker, currCharList, currSpeech, outFile)
-				currSpeech = line
-				needToWriteTriple = True
-				if checkExit(line, currCharList):
-					needToWriteTriple = True
-			elif not checkEntryLine(line, currCharList):
-				if checkSpeechContinuation(line):
+			else:
+				tup = newCharacterSpeaking(line, currSpeaker) 
+				if tup != None:
 					if needToWriteTriple:
 						writeToFile(currSpeaker, currCharList, currSpeech, outFile)
-					currSpeech += '\n' + line
-				if checkExit(line, currCharList):
+					currSpeaker = tup[0]
+					line = tup[1]
+					currSpeech = line
 					needToWriteTriple = True
+					if checkExit(line, currSpeaker, currCharList):
+						writeToFile(currSpeaker, currCharList, currSpeech, outFile)
+						needToWriteTriple = False
+				else:
+					newCharList = checkEntryLine(line, currCharList)
+					if newCharList != None:
+						currCharList = newCharList
+						if checkSpeechContinuation(line):
+							if needToWriteTriple:
+								writeToFile(currSpeaker, currCharList, currSpeech, outFile)
+							currSpeech += line
+						if checkExit(line, currSpeaker, currCharList):
+							needToWriteTriple = True
 
