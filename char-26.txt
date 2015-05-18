@@ -1,6 +1,7 @@
 THE TRAGEDY OF ROMEO AND JULIET
 Par
 Pet
+An Apothecary
 Father
 Abr
 Jul
@@ -8,10 +9,12 @@ Citizen
 Nurse
 Samp
 John
+Chief Watch
 Tyb
 Apoth
 Mon
 Mer
+An Officer
 Lady
 Man
 Serv
@@ -30,7 +33,9 @@ Laur
 Friar
 Bal
 Page
+Nurse to Juliet
 Rom
+Three Musicians
 Fellow
 Peter
 Prince

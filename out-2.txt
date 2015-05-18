@@ -447,7 +447,7 @@ Enter ROSALIND and CELIA
     O poor Orlando, thou art overthrown!
     Or Charles or something weaker masters thee.
 
-                      Re-enter LE BEAU
+                      Enter LE BEAU
 
   LE BEAU. Good sir, I do in friendship counsel you
     To leave this place. Albeit you have deserv'd
@@ -1222,7 +1222,7 @@ A table set out. Enter DUKE SENIOR, AMIENS, and LORDS, like outlaws
     Is second childishness and mere oblivion;
     Sans teeth, sans eyes, sans taste, sans every thing.
 
-                  Re-enter ORLANDO with ADAM
+                  Enter ORLANDO with ADAM
 
   DUKE SENIOR. Welcome. Set down your venerable burden.
     And let him feed.

@@ -447,7 +447,7 @@ Enter MARIA and CLOWN
   CLOWN. Now Mercury endue thee with leasing, for thou speak'st well
     of fools!
 
-                             Re-enter MARIA
+                             Enter MARIA
 
   MARIA. Madam, there is at the gate a young gentleman much desires
     to speak with you.
@@ -488,7 +488,7 @@ Enter MARIA and CLOWN
   CLOWN. He is but mad yet, madonna, and the fool shall look to the
     madman.                                                 Exit
 
-                           Re-enter MALVOLIO
+                           Enter MALVOLIO
 
   MALVOLIO. Madam, yond young fellow swears he will speak with you. I
     told him you were sick; he takes on him to understand so much,
@@ -513,7 +513,7 @@ Enter MARIA and CLOWN
   OLIVIA. Let him approach. Call in my gentlewoman.
   MALVOLIO. Gentlewoman, my lady calls.                     Exit
 
-                          Re-enter MARIA
+                          Enter MARIA
 
   OLIVIA. Give me my veil; come, throw it o'er my face;
     We'll once more hear Orsino's embassy.
@@ -643,7 +643,7 @@ Enter MARIA and CLOWN
     To creep in at mine eyes. Well, let it be.
     What ho, Malvolio!
 
-                        Re-enter MALVOLIO
+                        Enter MALVOLIO
 
   MALVOLIO. Here, madam, at your service.
   OLIVIA. Run after that same peevish messenger,
@@ -1011,7 +1011,7 @@ Enter DUKE, VIOLA, CURIO, and OTHERS
   VIOLA. And so they are; alas, that they are so!
     To die, even when they to perfection grow!
 
-                  Re-enter CURIO and CLOWN
+                  Enter CURIO and CLOWN
 
   DUKE. O, fellow, come, the song we had last night.
     Mark it, Cesario; it is old and plain;
@@ -1664,7 +1664,7 @@ Enter OLIVIA and MARIA
     I am as mad as he,
     If sad and merry madness equal be.
 
-               Re-enter MARIA with MALVOLIO
+               Enter MARIA with MALVOLIO
 
     How now, Malvolio!
   MALVOLIO. Sweet lady, ho, ho.
@@ -1730,7 +1730,7 @@ Enter OLIVIA and MARIA
     hopes. Well, Jove, not I, is the doer of this, and he is to be
     thanked.
 
-             Re-enter MARIA, with SIR TOBY and FABIAN
+             Enter MARIA, with SIR TOBY and FABIAN
 
   SIR TOBY. Which way is he, in the name of sanctity? If all the
     devils of hell be drawn in little, and Legion himself possess'd
@@ -1832,7 +1832,7 @@ Enter OLIVIA and MARIA
     will so fright them both that they will kill one another by the
     look, like cockatrices.
 
-                Re-enter OLIVIA. With VIOLA
+                Enter OLIVIA. With VIOLA
 
   FABIAN. Here he comes with your niece; give them way till he take
     leave, and presently after him.
@@ -1858,7 +1858,7 @@ Enter OLIVIA and MARIA
   OLIVIA. Well, come again to-morrow. Fare thee well;
     A fiend like thee might bear my soul to hell.           Exit
 
-              Re-enter SIR TOBY and SIR FABIAN
+              Enter SIR TOBY and SIR FABIAN
 
   SIR TOBY. Gentleman, God save thee.
   VIOLA. And you, sir.
@@ -1908,7 +1908,7 @@ Enter OLIVIA and MARIA
     rather go with sir priest than sir knight. I care not who knows
     so much of my mettle.                                 Exeunt
 
-                Re-enter SIR TOBY With SIR ANDREW
+                Enter SIR TOBY With SIR ANDREW
 
   SIR TOBY. Why, man, he's a very devil; I have not seen such a
     firago. I had a pass with him, rapier, scabbard, and all, and he
@@ -1927,7 +1927,7 @@ Enter OLIVIA and MARIA
     this shall end without the perdition of souls. [Aside] Marry,
     I'll ride your horse as well as I ride you.
 
-              Re-enter FABIAN and VIOLA
+              Enter FABIAN and VIOLA
 
     [To FABIAN] I have his horse to take up the quarrel; I have
     persuaded him the youth's a devil.
@@ -2617,7 +2617,7 @@ Enter CLOWN and FABIAN
     And yet, alas, now I remember me,
     They say, poor gentleman, he's much distract.
 
-        Re-enter CLOWN, with a letter, and FABIAN
+        Enter CLOWN, with a letter, and FABIAN
 
     A most extracting frenzy of mine own
     From my remembrance clearly banish'd his.
@@ -2666,7 +2666,7 @@ Enter CLOWN and FABIAN
     You master's mistress.
   OLIVIA. A sister! You are she.
 
-                Re-enter FABIAN, with MALVOLIO
+                Enter FABIAN, with MALVOLIO
 
   DUKE. Is this the madman?
   OLIVIA. Ay, my lord, this same.

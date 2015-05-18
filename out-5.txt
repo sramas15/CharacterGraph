@@ -168,7 +168,7 @@ Britain. The garden of CYMBELINE'S palace
     And with mine eyes I'll drink the words you send,
     Though ink be made of gall.
 
-                     Re-enter QUEEN
+                     Enter QUEEN
 
   QUEEN. Be brief, I pray you.
     If the King come, I shall incur I know not
@@ -238,7 +238,7 @@ Britain. The garden of CYMBELINE'S palace
     A neat-herd's daughter, and my Leonatus
     Our neighbour shepherd's son!
 
-                          Re-enter QUEEN
+                          Enter QUEEN
 
   CYMBELINE. Thou foolish thing!
     [To the QUEEN] They were again together. You have done
@@ -647,7 +647,7 @@ Enter QUEEN, LADIES, and CORNELIUS
     Except she bend her humour, shall be assur'd
     To taste of too.
 
-                   Re-enter PISANIO and LADIES
+                   Enter PISANIO and LADIES
 
     So, so. Well done, well done.
     The violets, cowslips, and the primroses,
@@ -2112,7 +2112,7 @@ Enter CYMBELINE, QUEEN, CLOTEN, LUCIUS, and LORDS
     So tender of rebukes that words are strokes,
     And strokes death to her.
 
-                 Re-enter MESSENGER
+                 Enter MESSENGER
 
   CYMBELINE. Where is she, sir? How
     Can her contempt be answer'd?
@@ -2144,7 +2144,7 @@ Enter CYMBELINE, QUEEN, CLOTEN, LUCIUS, and LORDS
     Can make good use of either. She being down,
     I have the placing of the British crown.
 
-                   Re-enter CLOTEN
+                   Enter CLOTEN
 
     How now, my son?
   CLOTEN. 'Tis certain she is fled.
@@ -2237,7 +2237,7 @@ Enter CYMBELINE, QUEEN, CLOTEN, LUCIUS, and LORDS
     again. She hath despis'd me rejoicingly, and I'll be merry in my
     revenge.
 
-                Re-enter PISANIO, with the clothes
+                Enter PISANIO, with the clothes
 
     Be those the garments?
   PISANIO. Ay, my noble lord.
@@ -2314,7 +2314,7 @@ Enter IMOGEN alone, in boy's clothes
     An earthly paragon! Behold divineness
     No elder than a boy!
 
-                       Re-enter IMOGEN
+                       Enter IMOGEN
 
   IMOGEN. Good masters, harm me not.
     Before I enter'd here I call'd, and thought
@@ -2581,7 +2581,7 @@ Enter, from the cave, BELARIUS, GUIDERIUS, ARVIRAGUS, and IMOGEN
     And on the gates of Lud's Town set your heads.
     Yield, rustic mountaineer.                  Exeunt, fighting
 
-                Re-enter BELARIUS and ARVIRAGUS
+                Enter BELARIUS and ARVIRAGUS
 
   BELARIUS. No company's abroad.
   ARVIRAGUS. None in the world; you did mistake him, sure.
@@ -2598,7 +2598,7 @@ Enter, from the cave, BELARIUS, GUIDERIUS, ARVIRAGUS, and IMOGEN
     Or roaring terrors; for defect of judgment
     Is oft the cease of fear.
 
-              Re-enter GUIDERIUS with CLOTEN'S head
+              Enter GUIDERIUS with CLOTEN'S head
 
     But, see, thy brother.
   GUIDERIUS. This Cloten was a fool, an empty purse;
@@ -2684,7 +2684,7 @@ Enter, from the cave, BELARIUS, GUIDERIUS, ARVIRAGUS, and IMOGEN
     What Cloten's being here to us portends,
     Or what his death will bring us.
 
-                    Re-enter GUIDERIUS
+                    Enter GUIDERIUS
 
   GUIDERIUS. Where's my brother?
     I have sent Cloten's clotpoll down the stream,
@@ -2702,7 +2702,7 @@ Enter, from the cave, BELARIUS, GUIDERIUS, ARVIRAGUS, and IMOGEN
     Is jollity for apes and grief for boys.
     Is Cadwal mad?
 
-       Re-enter ARVIRAGUS, with IMOGEN as dead, bearing
+       Enter ARVIRAGUS, with IMOGEN as dead, bearing
                          her in his arms
 
   BELARIUS. Look, here he comes,
@@ -2816,7 +2816,7 @@ Enter, from the cave, BELARIUS, GUIDERIUS, ARVIRAGUS, and IMOGEN
   BOTH.      Quiet consummation have,
              And renowned be thy grave!
 
-         Re-enter BELARIUS with the body of CLOTEN
+         Enter BELARIUS with the body of CLOTEN
 
   GUIDERIUS. We have done our obsequies. Come, lay him down.
   BELARIUS. Here's a few flowers; but 'bout midnight, more.
@@ -3168,8 +3168,8 @@ and then leaves him
     The villainy of our fears.
   GUIDERIUS and ARVIRAGUS. Stand, stand, and fight!
 
-    Re-enter POSTHUMUS, and seconds the Britons; they rescue
-    CYMBELINE, and exeunt. Then re-enter LUCIUS and IACHIMO,
+    Enter POSTHUMUS, and seconds the Britons; they rescue
+    CYMBELINE, and exeunt. Then Enter LUCIUS and IACHIMO,
                          with IMOGEN
 
   LUCIUS. Away, boy, from the troops, and save thyself;
@@ -3486,7 +3486,7 @@ Enter POSTHUMUS and two GAOLERS
     The action of my life is like it, which
     I'll keep, if but for sympathy.
 
-                  Re-enter GAOLER
+                  Enter GAOLER
 
   GAOLER. Come, sir, are you ready for death?
   POSTHUMUS. Over-roasted rather; ready long ago.

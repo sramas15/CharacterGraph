@@ -230,7 +230,7 @@ at the other, with drums and trumpets
     When Goths were Goths and Tamora was queen-
     To quit the bloody wrongs upon her foes.
 
-            Re-enter LUCIUS, QUINTUS, MARTIUS, and
+            Enter LUCIUS, QUINTUS, MARTIUS, and
    MUTIUS, the sons of ANDRONICUS, with their swords bloody
 
   LUCIUS. See, lord and father, how we have perform'd
@@ -266,7 +266,7 @@ at the other, with drums and trumpets
     And fame's eternal date, for virtue's praise!
 
           Enter, above, MARCUS ANDRONICUS and TRIBUNES;
-          re-enter SATURNINUS, BASSIANUS, and attendants
+          Enter SATURNINUS, BASSIANUS, and attendants
 
   MARCUS. Long live Lord Titus, my beloved brother,
     Gracious triumpher in the eyes of Rome!
@@ -403,14 +403,14 @@ at the other, with drums and trumpets
             TITUS kills him. During the fray, exeunt SATURNINUS,
                             TAMORA, DEMETRIUS, CHIRON, and AARON
 
-                      Re-enter Lucius
+                      Enter Lucius
 
   LUCIUS. My lord, you are unjust, and more than so:
     In wrongful quarrel you have slain your son.
   TITUS. Nor thou nor he are any sons of mine;
     My sons would never so dishonour me.
 
-                 Re-enter aloft the EMPEROR
+                 Enter aloft the EMPEROR
       with TAMORA and her two Sons, and AARON the Moor
 
     Traitor, restore Lavinia to the Emperor.
@@ -460,7 +460,7 @@ at the other, with drums and trumpets
   TITUS, when wert thou wont to walk alone,
     Dishonoured thus, and challenged of wrongs?
 
-                      Re-enter MARCUS,
+                      Enter MARCUS,
         and TITUS' SONS, LUCIUS, QUINTUS, and MARTIUS
 
   MARCUS. O Titus, see, O, see what thou hast done!
@@ -525,7 +525,7 @@ at the other, with drums and trumpets
     That brought her for this high good turn so far?
   MARCUS. Yes, and will nobly him remunerate.
 
-           Flourish. Re-enter the EMPEROR, TAMORA
+           Flourish. Enter the EMPEROR, TAMORA
         and her two SONS, with the MOOR, at one door;
     at the other door, BASSIANUS and LAVINIA, with others
 
@@ -1047,7 +1047,7 @@ Enter AARON alone, with a bag of gold
     Now will I hence to seek my lovely Moor,
     And let my spleenful sons this trull deflower.          Exit
 
-                  Re-enter AARON, with two
+                  Enter AARON, with two
              of TITUS' sons, QUINTUS and MARTIUS
 
   AARON. Come on, my lords, the better foot before;
@@ -1122,7 +1122,7 @@ Enter AARON alone, with a bag of gold
   MARTIUS. We know not where you left them all alive;
     But, out alas! here have we found him dead.
 
-                   Re-enter TAMORA, with
+                   Enter TAMORA, with
          attendants; TITUS ANDRONICUS and Lucius
 
   TAMORA. Where is my lord the King?
@@ -1469,7 +1469,7 @@ and TITUS going before, pleading
     And that you'll say ere half an hour pass.
                                        [He cuts off TITUS' hand]
 
-                 Re-enter LUCIUS and MARCUS
+                 Enter LUCIUS and MARCUS
 
  TITUS. Now stay your strife. What shall be is dispatch'd.
     Good Aaron, give his Majesty my hand;
@@ -2678,7 +2678,7 @@ Enter TAMORA, and her two sons, DEMETRIUS and CHIRON, disguised
     Stop close their mouths, let them not speak a word.
     Is he sure bound? Look that you bind them fast.
 
-               Re-enter TITUS ANDRONICUS
+               Enter TITUS ANDRONICUS
         with a knife, and LAVINIA, with a basin
 
   TITUS. Come, come, Lavinia; look, thy foes are bound.
@@ -2927,7 +2927,7 @@ and his CHILD in the arms of an attendant
     O Lord, I cannot speak to him for weeping;
     My tears will choke me, if I ope my mouth.
 
-            Re-enter attendants with AARON
+            Enter attendants with AARON
 
   A ROMAN. You sad Andronici, have done with woes;
     Give sentence on the execrable wretch

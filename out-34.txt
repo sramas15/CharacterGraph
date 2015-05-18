@@ -907,7 +907,7 @@ Enter PAULINA, a GENTLEMAN, and ATTENDANTS
     No court in Europe is too good for thee;
     What dost thou then in prison?
 
-                 Re-enter GENTLEMAN with the GAOLER
+                 Enter GENTLEMAN with the GAOLER
 
     Now, good sir,
     You know me, do you not?
@@ -931,7 +931,7 @@ Enter PAULINA, a GENTLEMAN, and ATTENDANTS
     Here's such ado to make no stain a stain
     As passes colouring.
 
-                 Re-enter GAOLER, with EMILIA
+                 Enter GAOLER, with EMILIA
 
     Dear gentlewoman,
     How fares our gracious lady?
@@ -1426,7 +1426,7 @@ Enter LEONTES, LORDS, and OFFICERS
     The flatness of my misery; yet with eyes
     Of pity, not revenge!
 
-           Re-enter OFFICERS, with CLEOMENES and DION
+           Enter OFFICERS, with CLEOMENES and DION
 
   OFFICER. You here shall swear upon this sword of justice
     That you, Cleomenes and Dion, have
@@ -1490,7 +1490,7 @@ Enter LEONTES, LORDS, and OFFICERS
     Thorough my rust! And how his piety
     Does my deeds make the blacker!
 
-                      Re-enter PAULINA
+                      Enter PAULINA
 
   PAULINA. Woe the while!
     O, cut my lace, lest my heart, cracking it,
@@ -2313,7 +2313,7 @@ Enter FLORIZEL and PERDITA
              Money's a meddler
            That doth utter all men's ware-a.
 
-                   Re-enter SERVANT
+                   Enter SERVANT
 
   SERVANT. Master, there is three carters, three shepherds, three
     neat-herds, three swineherds, that have made themselves all men
@@ -2645,7 +2645,7 @@ Enter FLORIZEL and PERDITA
     That you may know you shall not want- one word.
                                                [They talk aside]
 
-                     Re-enter AUTOLYCUS
+                     Enter AUTOLYCUS
 
   AUTOLYCUS. Ha, ha! what a fool Honesty is! and Trust, his sworn
     brother, a very simple gentleman! I have sold all my trumpery;
@@ -2745,7 +2745,7 @@ Enter FLORIZEL and PERDITA
     knavery to conceal it; and therein am I constant to my
     profession.
 
-                   Re-enter CLOWN and SHEPHERD
+                   Enter CLOWN and SHEPHERD
 
     Aside, aside- here is more matter for a hot brain. Every lane's
     end, every shop, church, session, hanging, yields a careful man
@@ -3057,7 +3057,7 @@ Enter LEONTES, CLEOMENES, DION, PAULINA, and OTHERS
     Will bring me to consider that which may
     Unfurnish me of reason.
 
-         Re-enter CLEOMENES, with FLORIZEL, PERDITA, and
+         Enter CLEOMENES, with FLORIZEL, PERDITA, and
                             ATTENDANTS
 
     They are come.

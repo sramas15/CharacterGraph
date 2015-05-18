@@ -545,7 +545,7 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
     Music, make their welcome.                        Exit CUPID
   FIRST LORD. You see, my lord, how ample y'are belov'd.
 
-      Music. Re-enter CUPID, witb a Masque of LADIES as Amazons,
+      Music. Enter CUPID, witb a Masque of LADIES as Amazons,
           with lutes in their hands, dancing and playing
 
   APEMANTUS. Hoy-day, what a sweep of vanity comes this way!
@@ -594,7 +594,7 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
   SERVANT. Here, my lord, in readiness.
   SECOND LORD. Our horses!
 
-               Re-enter FLAVIUS, with the casket
+               Enter FLAVIUS, with the casket
 
   TIMON. O my friends,
     I have one word to say to you. Look you, my good lord,
@@ -895,7 +895,7 @@ Enter FLAVIUS, TIMON'S Steward, with many bills in his hand
   APEMANTUS. That answer might have become Apemantus.
   VARRO'S SERVANT. Aside, aside; here comes Lord Timon.
 
-                    Re-enter TIMON and FLAVIUS
+                    Enter TIMON and FLAVIUS
 
   APEMANTUS. Come with me, fool, come.
   FOOL. I do not always follow lover, elder brother, and woman;
@@ -1067,7 +1067,7 @@ FLAMINIUS waiting to speak with LUCULLUS. Enter SERVANT to him
     by my coming. Every man has his fault, and honesty is his. I ha'
     told him on't, but I could ne'er get him from't.
 
-                    Re-enter SERVANT, with wine
+                    Enter SERVANT, with wine
 
   SERVANT. Please your lordship, here is the wine.
   LUCULLUS. Flaminius, I have noted thee always wise. Here's to thee.
@@ -1382,7 +1382,7 @@ Then enter TITUS and HORTENSIUS
     their money. These debts may well be call'd desperate ones, for a
     madman owes 'em.                                      Exeunt
 
-                    Re-enter TIMON and FLAVIUS
+                    Enter TIMON and FLAVIUS
 
   TIMON. They have e'en put my breath from me, the slaves.
     Creditors? Devils!
@@ -1648,7 +1648,7 @@ friends of TIMON, at several doors
     Burn house! Sink Athens! Henceforth hated be
     Of Timon man and all humanity!                          Exit
 
-                           Re-enter the LORDS
+                           Enter the LORDS
 
   FIRST LORD. How now, my lords!
   SECOND LORD. Know you the quality of Lord Timon's fury?

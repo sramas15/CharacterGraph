@@ -324,7 +324,7 @@ Enter Othello, Iago, and Attendants with torches.
   IAGO.                        He's married.
   CASSIO.                                    To who?
 
-                          Re-enter Othello.
+                          Enter Othello.
 
   IAGO. Marry, to- Come, captain, will you go?
   OTHELLO.                                     Have with you.
@@ -917,7 +917,7 @@ Enter Montano and two Gentlemen.
     And in the essential vesture of creation
     Does tire the ingener.
 
-                      Re-enter second Gentleman.
+                      Enter second Gentleman.
 
                            How now! who has put in?
   SECOND GENTLEMAN. 'Tis one Iago, ancient to the general.
@@ -1261,7 +1261,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     If consequence do but approve my dream,
     My boat sails freely, both with wind and stream.
 
-           Re-enter Cassio; with him Montano and Gentlemen;
+           Enter Cassio; with him Montano and Gentlemen;
                     Servants following with wine.
 
   CASSIO. 'Fore God, they have given me a rouse already.
@@ -1350,7 +1350,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     To cure him of this evil- But, hark! What noise?
                                           A cry within, "Help, help!"
 
-                Re-enter Cassio, driving in Roderigo.
+                Enter Cassio, driving in Roderigo.
 
   CASSIO. 'Zounds! You rogue! You rascal!
   MONTANO. What's the matter, lieutenant?
@@ -1372,7 +1372,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     The town will rise. God's will, lieutenant, hold!
     You will be shamed forever.
 
-                   Re-enter Othello and Attendants.
+                   Enter Othello and Attendants.
 
   OTHELLO.                      What is the matter here?
   MONTANO. 'Zounds, I bleed still; I am hurt to the death.
@@ -1466,7 +1466,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     Making it light to Cassio. Cassio, I love thee,
     But never more be officer of mine.
 
-                    Re-enter Desdemona, attended.
+                    Enter Desdemona, attended.
 
     Look, if my gentle love be not raised up!
     I'll make thee an example.
@@ -2023,7 +2023,7 @@ Enter Desdemona, Cassio, and Emilia.
     Even then this forked plague is fated to us
     When we do quicken. Desdemona comes:
 
-                    Re-enter Desdemona and Emilia.
+                    Enter Desdemona and Emilia.
 
     If she be false, O, then heaven mocks itself!
     I'll not believe't.
@@ -2053,7 +2053,7 @@ Enter Desdemona, Cassio, and Emilia.
     Heaven knows, not I;
     I nothing but to please his fantasy.
 
-                            Re-enter Iago.
+                            Enter Iago.
 
   IAGO. How now, what do you here alone?
   EMILIA. Do not you chide; I have a thing for you.
@@ -2090,7 +2090,7 @@ Enter Desdemona, Cassio, and Emilia.
     Burn like the mines of sulphur. I did say so.
     Look, where he comes!
 
-                          Re-enter Othello.
+                          Enter Othello.
 
                           Not poppy, nor mandragora,
     Nor all the drowsy syrups of the world,
@@ -2629,7 +2629,7 @@ Enter Othello and Iago.
     He, when he hears of her, cannot refrain
     From the excess of laughter. Here he comes.
 
-                           Re-enter Cassio.
+                           Enter Cassio.
 
     As he shall smile, Othello shall go mad;
     And his unbookish jealousy must construe
@@ -2946,7 +2946,7 @@ Enter Othello and Emilia.
     That have the office opposite to Saint Peter,
     And keep the gate of hell!
 
-                           Re-enter Emilia.
+                           Enter Emilia.
 
                                You, you, ay, you!
     We have done our course; there's money for your pains.
@@ -2970,7 +2970,7 @@ Enter Othello and Emilia.
     How have I been behaved, that he might stick
     The small'st opinion on my least misuse?
 
-                      Re-enter Emilia with Iago.
+                      Enter Emilia with Iago.
 
   IAGO. What is your pleasure, madam? How is't with you?
   DESDEMONA. I cannot tell. Those that do teach young babes
@@ -3316,7 +3316,7 @@ Enter Iago and Roderigo:
   RODERIGO. Nobody come? Then shall I bleed to death.
   LODOVICO. Hark!
 
-                     Re-enter Iago, with a light.
+                     Enter Iago, with a light.
 
   GRATIANO. Here's one comes in his shirt, with light and weapons.
   IAGO. Who's there? Whose noise is this that cries on murther?
@@ -3737,7 +3737,7 @@ Enter Othello.
   OTHELLO. Look in upon me then, and speak with me,
     Or, naked as I am, I will assault thee.
 
-                          Re-enter Gratiano.
+                          Enter Gratiano.
 
   GRATIANO. What is the matter?
   OTHELLO.                      Behold, I have a weapon;

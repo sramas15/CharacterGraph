@@ -26,6 +26,7 @@ DRAMATIS PERSONAE
 
   VIOLENTA, neighbour and friend to the Widow
   MARIANA, neighbour and friend to the Widow
+  CLOWN
 
   Lords, Officers, Soldiers, etc., French and Florentine
 
@@ -38,7 +39,7 @@ Rousillon. The COUNT'S palace
 
 Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
 
-  COUNTESS. In delivering my son from me, I bury a second husband.
+  COUNTESS OF ROUSILLON. In delivering my son from me, I bury a second husband.
   BERTRAM. And I in going, madam, weep o'er my father's death anew;
     but I must attend his Majesty's command, to whom I am now in
     ward, evermore in subjection.
@@ -47,18 +48,18 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
     necessity hold his virtue to you, whose worthiness would stir it
     up where it wanted, rather than lack it where there is such
     abundance.
-  COUNTESS. What hope is there of his Majesty's amendment?
+  COUNTESS OF ROUSILLON. What hope is there of his Majesty's amendment?
   LAFEU. He hath abandon'd his physicians, madam; under whose
     practices he hath persecuted time with hope, and finds no other
     advantage in the process but only the losing of hope by time.
-  COUNTESS. This young gentlewoman had a father- O, that 'had,' how
+  COUNTESS OF ROUSILLON. This young gentlewoman had a father- O, that 'had,' how
     sad a passage 'tis!-whose skill was almost as great as his
     honesty; had it stretch'd so far, would have made nature
     immortal, and death should have play for lack of work. Would, for
     the King's sake, he were living! I think it would be the death of
     the King's disease.
   LAFEU. How call'd you the man you speak of, madam?
-  COUNTESS. He was famous, sir, in his profession, and it was his
+  COUNTESS OF ROUSILLON. He was famous, sir, in his profession, and it was his
     great right to be so- Gerard de Narbon.
   LAFEU. He was excellent indeed, madam; the King very lately spoke
     of him admiringly and mourningly; he was skilful enough to have
@@ -68,7 +69,7 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
   BERTRAM. I heard not of it before.
   LAFEU. I would it were not notorious. Was this gentlewoman the
     daughter of Gerard de Narbon?
-  COUNTESS. His sole child, my lord, and bequeathed to my
+  COUNTESS OF ROUSILLON. His sole child, my lord, and bequeathed to my
     overlooking. I have those hopes of her good that her education
     promises; her dispositions she inherits, which makes fair gifts
     fairer; for where an unclean mind carries virtuous qualities,
@@ -76,7 +77,7 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
     too. In her they are the better for their simpleness; she derives
     her honesty, and achieves her goodness.
   LAFEU. Your commendations, madam, get from her tears.
-  COUNTESS. 'Tis the best brine a maiden can season her praise in.
+  COUNTESS OF ROUSILLON. 'Tis the best brine a maiden can season her praise in.
     The remembrance of her father never approaches her heart but the
     tyranny of her sorrows takes all livelihood from her cheek. No
     more of this, Helena; go to, no more, lest it be rather thought
@@ -84,11 +85,11 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
   HELENA. I do affect a sorrow indeed, but I have it too.
   LAFEU. Moderate lamentation is the right of the dead: excessive
     grief the enemy to the living.
-  COUNTESS. If the living be enemy to the grief, the excess makes it
+  COUNTESS OF ROUSILLON. If the living be enemy to the grief, the excess makes it
     soon mortal.
   BERTRAM. Madam, I desire your holy wishes.
   LAFEU. How understand we that?
-  COUNTESS. Be thou blest, Bertram, and succeed thy father
+  COUNTESS OF ROUSILLON. Be thou blest, Bertram, and succeed thy father
     In manners, as in shape! Thy blood and virtue
     Contend for empire in thee, and thy goodness
     Share with thy birthright! Love all, trust a few,
@@ -102,7 +103,7 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
     Advise him.
   LAFEU. He cannot want the best
     That shall attend his love.
-  COUNTESS. Heaven bless him! Farewell, Bertram.            Exit
+  COUNTESS OF ROUSILLON. Heaven bless him! Farewell, Bertram.            Exit
   BERTRAM. The best wishes that can be forg'd in your thoughts be
     servants to you!  [To HELENA]  Be comfortable to my mother, your
     mistress, and make much of her.
@@ -131,7 +132,7 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
 
                        Enter PAROLLES
 
-    [Aside]  One that goes with him. I love him for his sake;
+  HELENA. [Aside]  One that goes with him. I love him for his sake;
     And yet I know him a notorious liar,
     Think him a great way fool, solely a coward;
     Yet these fix'd evils sit so fit in him
@@ -213,7 +214,7 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
 
                       Enter PAGE
 
-  PAGE. Monsieur Parolles, my lord calls for you.      Exit PAGE
+  PAGE. Monsieur Parolles, my lord calls for you.            Exit PAGE
   PAROLLES. Little Helen, farewell; if I can remember thee, I will
     think of thee at court.
   HELENA. Monsieur Parolles, you were born under a charitable star.
@@ -237,8 +238,7 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
     thou diest in thine unthankfulness, and thine ignorance makes
     thee away. Farewell. When thou hast leisure, say thy prayers;
     when thou hast none, remember thy friends. Get thee a good
-    husband and use him as he uses thee. So, farewell.
- Exit
+    husband and use him as he uses thee. So, farewell.            Exit
   HELENA. Our remedies oft in ourselves do lie,
     Which we ascribe to heaven. The fated sky
     Gives us free scope; only doth backward pull
@@ -255,19 +255,17 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
     But my intents are fix'd, and will not leave me.        Exit
 
 
-
-
 ACT I. SCENE 2.
 Paris. The KING'S palace
 
 Flourish of cornets. Enter the KING OF FRANCE, with letters,
 and divers ATTENDANTS
 
-  KING. The Florentines and Senoys are by th' ears;
+  KING OF FRANCE. The Florentines and Senoys are by th' ears;
     Have fought with equal fortune, and continue
     A braving war.
   FIRST LORD. So 'tis reported, sir.
-  KING. Nay, 'tis most credible. We here receive it,
+  KING OF FRANCE. Nay, 'tis most credible. We here receive it,
     A certainty, vouch'd from our cousin Austria,
     With caution, that the Florentine will move us
     For speedy aid; wherein our dearest friend
@@ -276,7 +274,7 @@ and divers ATTENDANTS
   FIRST LORD. His love and wisdom,
     Approv'd so to your Majesty, may plead
     For amplest credence.
-  KING. He hath arm'd our answer,
+  KING OF FRANCE. He hath arm'd our answer,
     And Florence is denied before he comes;
     Yet, for our gentlemen that mean to see
     The Tuscan service, freely have they leave
@@ -284,18 +282,18 @@ and divers ATTENDANTS
   SECOND LORD. It well may serve
     A nursery to our gentry, who are sick
     For breathing and exploit.
-  KING. What's he comes here?
+  KING OF FRANCE. What's he comes here?
 
               Enter BERTRAM, LAFEU, and PAROLLES
 
   FIRST LORD. It is the Count Rousillon, my good lord,
     Young Bertram.
-  KING. Youth, thou bear'st thy father's face;
+  KING OF FRANCE. Youth, thou bear'st thy father's face;
     Frank nature, rather curious than in haste,
     Hath well compos'd thee. Thy father's moral parts
     Mayst thou inherit too! Welcome to Paris.
   BERTRAM. My thanks and duty are your Majesty's.
-  KING. I would I had that corporal soundness now,
+  KING OF FRANCE. I would I had that corporal soundness now,
     As when thy father and myself in friendship
     First tried our soldiership. He did look far
     Into the service of the time, and was
@@ -324,7 +322,7 @@ and divers ATTENDANTS
     Lies richer in your thoughts than on his tomb;
     So in approof lives not his epitaph
     As in your royal speech.
-  KING. Would I were with him! He would always say-
+  KING OF FRANCE. Would I were with him! He would always say-
     Methinks I hear him now; his plausive words
     He scatter'd not in ears, but grafted them
     To grow there, and to bear- 'Let me not live'-
@@ -342,16 +340,16 @@ and divers ATTENDANTS
     To give some labourers room.
   SECOND LORD. You're loved, sir;
     They that least lend it you shall lack you first.
-  KING. I fill a place, I know't. How long is't, Count,
+  KING OF FRANCE. I fill a place, I know't. How long is't, Count,
     Since the physician at your father's died?
     He was much fam'd.
   BERTRAM. Some six months since, my lord.
-  KING. If he were living, I would try him yet-
+  KING OF FRANCE. If he were living, I would try him yet-
     Lend me an arm-the rest have worn me out
     With several applications. Nature and sickness
     Debate it at their leisure. Welcome, Count;
     My son's no dearer.
-  BERTRAM. Thank your Majesty.                 Exeunt [Flourish]
+  BERTRAM. Thank your Majesty.                 Exeunt
 
 
 
@@ -359,40 +357,40 @@ and divers ATTENDANTS
 ACT I. SCENE 3.
 Rousillon. The COUNT'S palace
 
-Enter COUNTESS, STEWARD, and CLOWN
+Enter COUNTESS OF ROUSILLON, STEWARD, and CLOWN
 
-  COUNTESS. I will now hear; what say you of this gentlewoman?
+  COUNTESS OF ROUSILLON. I will now hear; what say you of this gentlewoman?
   STEWARD. Madam, the care I have had to even your content I wish
     might be found in the calendar of my past endeavours; for then we
     wound our modesty, and make foul the clearness of our deservings,
     when of ourselves we publish them.
-  COUNTESS. What does this knave here? Get you gone, sirrah. The
+  COUNTESS OF ROUSILLON. What does this knave here? Get you gone, sirrah. The
     complaints I have heard of you I do not all believe; 'tis my
     slowness that I do not, for I know you lack not folly to commit
     them and have ability enough to make such knaveries yours.
   CLOWN. 'Tis not unknown to you, madam, I am a poor fellow.
-  COUNTESS. Well, sir.
+  COUNTESS OF ROUSILLON. Well, sir.
   CLOWN. No, madam, 'tis not so well that I am poor, though many of
     the rich are damn'd; but if I may have your ladyship's good will
     to go to the world, Isbel the woman and I will do as we may.
-  COUNTESS. Wilt thou needs be a beggar?
+  COUNTESS OF ROUSILLON. Wilt thou needs be a beggar?
   CLOWN. I do beg your good will in this case.
-  COUNTESS. In what case?
+  COUNTESS OF ROUSILLON. In what case?
   CLOWN. In Isbel's case and mine own. Service is no heritage; and I
     think I shall never have the blessing of God till I have issue o'
     my body; for they say bames are blessings.
-  COUNTESS. Tell me thy reason why thou wilt marry.
+  COUNTESS OF ROUSILLON. Tell me thy reason why thou wilt marry.
   CLOWN. My poor body, madam, requires it. I am driven on by the
     flesh; and he must needs go that the devil drives.
-  COUNTESS. Is this all your worship's reason?
+  COUNTESS OF ROUSILLON. Is this all your worship's reason?
   CLOWN. Faith, madam, I have other holy reasons, such as they are.
-  COUNTESS. May the world know them?
+  COUNTESS OF ROUSILLON. May the world know them?
   CLOWN. I have been, madam, a wicked creature, as you and all flesh
     and blood are; and, indeed, I do marry that I may repent.
-  COUNTESS. Thy marriage, sooner than thy wickedness.
+  COUNTESS OF ROUSILLON. Thy marriage, sooner than thy wickedness.
   CLOWN. I am out o' friends, madam, and I hope to have friends for
     my wife's sake.
-  COUNTESS. Such friends are thine enemies, knave.
+  COUNTESS OF ROUSILLON. Such friends are thine enemies, knave.
   CLOWN. Y'are shallow, madam-in great friends; for the knaves come
     to do that for me which I am aweary of. He that ears my land
     spares my team, and gives me leave to in the crop. If I be his
@@ -405,48 +403,45 @@ Enter COUNTESS, STEWARD, and CLOWN
     papist, howsome'er their hearts are sever'd in religion, their
     heads are both one; they may jowl horns together like any deer
     i' th' herd.
-  COUNTESS. Wilt thou ever be a foul-mouth'd and calumnious knave?
+  COUNTESS OF ROUSILLON. Wilt thou ever be a foul-mouth'd and calumnious knave?
   CLOWN. A prophet I, madam; and I speak the truth the next way:
+    For I the ballad will repeat,
+    Which men full true shall find:
+    Your marriage comes by destiny,
+    Your cuckoo sings by kind.
 
-              For I the ballad will repeat,
-                Which men full true shall find:
-              Your marriage comes by destiny,
-                Your cuckoo sings by kind.
-
-  COUNTESS. Get you gone, sir; I'll talk with you more anon.
+  COUNTESS OF ROUSILLON. Get you gone, sir; I'll talk with you more anon.
   STEWARD. May it please you, madam, that he bid Helen come to you.
     Of her I am to speak.
-  COUNTESS. Sirrah, tell my gentlewoman I would speak with her; Helen
+  COUNTESS OF ROUSILLON. Sirrah, tell my gentlewoman I would speak with her; Helen
     I mean.
   CLOWN.  [Sings]
+    'Was this fair face the cause' quoth she
+    'Why the Grecians sacked Troy?
+    Fond done, done fond,
+    Was this King Priam's joy?'
+    With that she sighed as she stood,
+    With that she sighed as she stood,
+    And gave this sentence then:
+    'Among nine bad if one be good,
+    Among nine bad if one be good,
+    There's yet one good in ten.'
 
-               'Was this fair face the cause' quoth she
-                 'Why the Grecians sacked Troy?
-               Fond done, done fond,
-                 Was this King Priam's joy?'
-               With that she sighed as she stood,
-               With that she sighed as she stood,
-                 And gave this sentence then:
-               'Among nine bad if one be good,
-               Among nine bad if one be good,
-                 There's yet one good in ten.'
-
-  COUNTESS. What, one good in ten? You corrupt the song, sirrah.
+  COUNTESS OF ROUSILLON. What, one good in ten? You corrupt the song, sirrah.
   CLOWN. One good woman in ten, madam, which is a purifying o' th'
     song. Would God would serve the world so all the year! We'd find
     no fault with the tithe-woman, if I were the parson. One in ten,
     quoth 'a! An we might have a good woman born before every blazing
     star, or at an earthquake, 'twould mend the lottery well: a man
     may draw his heart out ere 'a pluck one.
-  COUNTESS. You'll be gone, sir knave, and do as I command you.
+  COUNTESS OF ROUSILLON. You'll be gone, sir knave, and do as I command you.
   CLOWN. That man should be at woman's command, and yet no hurt done!
     Though honesty be no puritan, yet it will do no hurt; it will
     wear the surplice of humility over the black gown of a big heart.
-    I am going, forsooth. The business is for Helen to come hither.
- Exit
-  COUNTESS. Well, now.
+    I am going, forsooth. The business is for Helen to come hither.           Exit
+  COUNTESS OF ROUSILLON. Well, now.
   STEWARD. I know, madam, you love your gentlewoman entirely.
-  COUNTESS. Faith I do. Her father bequeath'd her to me; and she
+  COUNTESS OF ROUSILLON. Faith I do. Her father bequeath'd her to me; and she
     herself, without other advantage, may lawfully make title to as
     much love as she finds. There is more owing her than is paid; and
     more shall be paid her than she'll demand.
@@ -463,7 +458,7 @@ Enter COUNTESS, STEWARD, and CLOWN
     virgin exclaim in; which I held my duty speedily to acquaint you
     withal; sithence, in the loss that may happen, it concerns you
     something to know it.
-  COUNTESS. YOU have discharg'd this honestly; keep it to yourself.
+  COUNTESS OF ROUSILLON. YOU have discharg'd this honestly; keep it to yourself.
     Many likelihoods inform'd me of this before, which hung so
     tott'ring in the balance that I could neither believe nor
     misdoubt. Pray you leave me. Stall this in your bosom; and I
@@ -472,7 +467,7 @@ Enter COUNTESS, STEWARD, and CLOWN
 
                             Enter HELENA
 
-    Even so it was with me when I was young.
+  COUNTESS OF ROUSILLON. Even so it was with me when I was young.
     If ever we are nature's, these are ours; this thorn
     Doth to our rose of youth rightly belong;
     Our blood to us, this to our blood is born.
@@ -482,10 +477,10 @@ Enter COUNTESS, STEWARD, and CLOWN
     Such were our faults, or then we thought them none.
     Her eye is sick on't; I observe her now.
   HELENA. What is your pleasure, madam?
-  COUNTESS. You know, Helen,
+  COUNTESS OF ROUSILLON. You know, Helen,
     I am a mother to you.
   HELENA. Mine honourable mistress.
-  COUNTESS. Nay, a mother.
+  COUNTESS OF ROUSILLON. Nay, a mother.
     Why not a mother? When I said 'a mother,'
     Methought you saw a serpent. What's in 'mother'
     That you start at it? I say I am your mother,
@@ -501,7 +496,7 @@ Enter COUNTESS, STEWARD, and CLOWN
     The many-colour'd Iris, rounds thine eye?
     Why, that you are my daughter?
   HELENA. That I am not.
-  COUNTESS. I say I am your mother.
+  COUNTESS OF ROUSILLON. I say I am your mother.
   HELENA. Pardon, madam.
     The Count Rousillon cannot be my brother:
     I am from humble, he from honoured name;
@@ -509,14 +504,14 @@ Enter COUNTESS, STEWARD, and CLOWN
     My master, my dear lord he is; and I
     His servant live, and will his vassal die.
     He must not be my brother.
-  COUNTESS. Nor I your mother?
+  COUNTESS OF ROUSILLON. Nor I your mother?
   HELENA. You are my mother, madam; would you were-
     So that my lord your son were not my brother-
     Indeed my mother! Or were you both our mothers,
     I care no more for than I do for heaven,
     So I were not his sister. Can't no other,
     But, I your daughter, he must be my brother?
-  COUNTESS. Yes, Helen, you might be my daughter-in-law.
+  COUNTESS OF ROUSILLON. Yes, Helen, you might be my daughter-in-law.
     God shield you mean it not! 'daughter' and 'mother'
     So strive upon your pulse. What! pale again?
     My fear hath catch'd your fondness. Now I see
@@ -536,11 +531,11 @@ Enter COUNTESS, STEWARD, and CLOWN
     As heaven shall work in me for thine avail,
     To tell me truly.
   HELENA. Good madam, pardon me.
-  COUNTESS. Do you love my son?
+  COUNTESS OF ROUSILLON. Do you love my son?
   HELENA. Your pardon, noble mistress.
-  COUNTESS. Love you my son?
+  COUNTESS OF ROUSILLON. Love you my son?
   HELENA. Do not you love him, madam?
-  COUNTESS. Go not about; my love hath in't a bond
+  COUNTESS OF ROUSILLON. Go not about; my love hath in't a bond
     Whereof the world takes note. Come, come, disclose
     The state of your affection; for your passions
     Have to the full appeach'd.
@@ -571,10 +566,10 @@ Enter COUNTESS, STEWARD, and CLOWN
     But lend and give where she is sure to lose;
     That seeks not to find that her search implies,
     But, riddle-like, lives sweetly where she dies!
-  COUNTESS. Had you not lately an intent-speak truly-
+  COUNTESS OF ROUSILLON. Had you not lately an intent-speak truly-
     To go to Paris?
   HELENA. Madam, I had.
-  COUNTESS. Wherefore? Tell true.
+  COUNTESS OF ROUSILLON. Wherefore? Tell true.
   HELENA. I will tell truth; by grace itself I swear.
     You know my father left me some prescriptions
     Of rare and prov'd effects, such as his reading
@@ -586,13 +581,13 @@ Enter COUNTESS, STEWARD, and CLOWN
     There is a remedy, approv'd, set down,
     To cure the desperate languishings whereof
     The King is render'd lost.
-  COUNTESS. This was your motive
+  COUNTESS OF ROUSILLON. This was your motive
     For Paris, was it? Speak.
   HELENA. My lord your son made me to think of this,
     Else Paris, and the medicine, and the King,
     Had from the conversation of my thoughts
     Haply been absent then.
-  COUNTESS. But think you, Helen,
+  COUNTESS OF ROUSILLON. But think you, Helen,
     If you should tender your supposed aid,
     He would receive it? He and his physicians
     Are of a mind: he, that they cannot help him;
@@ -608,29 +603,25 @@ Enter COUNTESS, STEWARD, and CLOWN
     But give me leave to try success, I'd venture
     The well-lost life of mine on his Grace's cure.
     By such a day and hour.
-  COUNTESS. Dost thou believe't?
+  COUNTESS OF ROUSILLON. Dost thou believe't?
   HELENA. Ay, madam, knowingly.
-  COUNTESS. Why, Helen, thou shalt have my leave and love,
+  COUNTESS OF ROUSILLON. Why, Helen, thou shalt have my leave and love,
     Means and attendants, and my loving greetings
     To those of mine in court. I'll stay at home,
     And pray God's blessing into thy attempt.
     Be gone to-morrow; and be sure of this,
     What I can help thee to thou shalt not miss.          Exeunt
 
-
-
 END_ACT
-
-
 
 
 ACT II. SCENE 1.
 Paris. The KING'S palace
 
-Flourish of cornets. Enter the KING with divers young LORDS taking leave
+Flourish of cornets. Enter the KING OF FRANCE with divers young FIRST LORD, SECOND LORD taking leave
 for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
 
-  KING. Farewell, young lords; these war-like principles
+  KING OF FRANCE. Farewell, young lords; these war-like principles
     Do not throw from you. And you, my lords, farewell;
     Share the advice betwixt you; if both gain all,
     The gift doth stretch itself as 'tis receiv'd,
@@ -638,7 +629,7 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
   FIRST LORD. 'Tis our hope, sir,
     After well-ent'red soldiers, to return
     And find your Grace in health.
-  KING. No, no, it cannot be; and yet my heart
+  KING OF FRANCE. No, no, it cannot be; and yet my heart
     Will not confess he owes the malady
     That doth my life besiege. Farewell, young lords;
     Whether I live or die, be you the sons
@@ -649,13 +640,13 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     The bravest questant shrinks, find what you seek,
     That fame may cry you aloud. I say farewell.
   SECOND LORD. Health, at your bidding, serve your Majesty!
-  KING. Those girls of Italy, take heed of them;
+  KING OF FRANCE. Those girls of Italy, take heed of them;
     They say our French lack language to deny,
     If they demand; beware of being captives
     Before you serve.
     BOTH. Our hearts receive your warnings.
-  KING. Farewell.  [To ATTENDANTS]  Come hither to me.
-                                       The KING retires attended
+  KING OF FRANCE. Farewell.  
+  KING OF FRANCE. [To ATTENDANTS]  Come hither to me.      Exeunt KING OF FRANCE and ATTENDANTS
   FIRST LORD. O my sweet lord, that you will stay behind us!
   PAROLLES. 'Tis not his fault, the spark.
     SECOND LORD. O, 'tis brave wars!
@@ -679,10 +670,10 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     war, here on his sinister cheek; it was this very sword
     entrench'd it. Say to him I live; and observe his reports for me.
   FIRST LORD. We shall, noble Captain.
-  PAROLLES. Mars dote on you for his novices!       Exeunt LORDS
-    What will ye do?
+  PAROLLES. Mars dote on you for his novices!       Exeunt FIRST LORD, SECOND LORD
+  PAROLLES.  What will ye do?
 
-                            Re-enter the KING
+                            Enter the KING OF FRANCE
 
   BERTRAM. Stay; the King!
   PAROLLES. Use a more spacious ceremony to the noble lords; you have
@@ -694,21 +685,21 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     dilated farewell.
   BERTRAM. And I will do so.
   PAROLLES. Worthy fellows; and like to prove most sinewy sword-men.
-                                     Exeunt BERTRAM and PAROLLES
+    Exeunt BERTRAM and PAROLLES
 
                               Enter LAFEU
 
   LAFEU.  [Kneeling]  Pardon, my lord, for me and for my tidings.
-  KING. I'll fee thee to stand up.
+  KING OF FRANCE. I'll fee thee to stand up.
   LAFEU. Then here's a man stands that has brought his pardon.
     I would you had kneel'd, my lord, to ask me mercy;
     And that at my bidding you could so stand up.
-  KING. I would I had; so I had broke thy pate,
+  KING OF FRANCE. I would I had; so I had broke thy pate,
     And ask'd thee mercy for't.
   LAFEU. Good faith, across!
     But, my good lord, 'tis thus: will you be cur'd
     Of your infirmity?
-  KING. No.
+  KING OF FRANCE. No.
   LAFEU. O, will you eat
     No grapes, my royal fox? Yes, but you will
     My noble grapes, an if my royal fox
@@ -719,7 +710,7 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     Is powerful to araise King Pepin, nay,
     To give great Charlemain a pen in's hand
     And write to her a love-line.
-  KING. What her is this?
+  KING OF FRANCE. What her is this?
   LAFEU. Why, Doctor She! My lord, there's one arriv'd,
     If you will see her. Now, by my faith and honour,
     If seriously I may convey my thoughts
@@ -729,28 +720,28 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     Than I dare blame my weakness. Will you see her,
     For that is her demand, and know her business?
     That done, laugh well at me.
-  KING. Now, good Lafeu,
+  KING OF FRANCE. Now, good Lafeu,
     Bring in the admiration, that we with the
     May spend our wonder too, or take off thine
     By wond'ring how thou took'st it.
   LAFEU. Nay, I'll fit you,
     And not be all day neither.                       Exit LAFEU
-  KING. Thus he his special nothing ever prologues.
+  KING OF FRANCE. Thus he his special nothing ever prologues.
 
-                   Re-enter LAFEU with HELENA
+                   Enter LAFEU with HELENA
 
   LAFEU. Nay, come your ways.
-  KING. This haste hath wings indeed.
+  KING OF FRANCE. This haste hath wings indeed.
   LAFEU. Nay, come your ways;
     This is his Majesty; say your mind to him.
     A traitor you do look like; but such traitors
     His Majesty seldom fears. I am Cressid's uncle,
     That dare leave two together. Fare you well.            Exit
-  KING. Now, fair one, does your business follow us?
+  KING OF FRANCE. Now, fair one, does your business follow us?
   HELENA. Ay, my good lord.
     Gerard de Narbon was my father,
     In what he did profess, well found.
-  KING. I knew him.
+  KING OF FRANCE. I knew him.
   HELENA. The rather will I spare my praises towards him;
     Knowing him is enough. On's bed of death
     Many receipts he gave me; chiefly one,
@@ -763,7 +754,7 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     Of my dear father's gift stands chief in power,
     I come to tender it, and my appliance,
     With all bound humbleness.
-  KING. We thank you, maiden;
+  KING OF FRANCE. We thank you, maiden;
     But may not be so credulous of cure,
     When our most learned doctors leave us, and
     The congregated college have concluded
@@ -778,7 +769,7 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     I will no more enforce mine office on you;
     Humbly entreating from your royal thoughts
     A modest one to bear me back again.
-  KING. I cannot give thee less, to be call'd grateful.
+  KING OF FRANCE. I cannot give thee less, to be call'd grateful.
     Thou thought'st to help me; and such thanks I give
     As one near death to those that wish him live.
     But what at full I know, thou know'st no part;
@@ -794,7 +785,7 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     Oft expectation fails, and most oft there
     Where most it promises; and oft it hits
     Where hope is coldest, and despair most fits.
-  KING. I must not hear thee. Fare thee well, kind maid;
+  KING OF FRANCE. I must not hear thee. Fare thee well, kind maid;
     Thy pains, not us'd, must by thyself be paid;
     Proffers not took reap thanks for their reward.
   HELENA. Inspired merit so by breath is barr'd.
@@ -808,7 +799,7 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     Myself against the level of mine aim;
     But know I think, and think I know most sure,
     My art is not past power nor you past cure.
-  KING. Art thou so confident? Within what space
+  KING OF FRANCE. Art thou so confident? Within what space
     Hop'st thou my cure?
   HELENA. The greatest Grace lending grace.
     Ere twice the horses of the sun shall bring
@@ -819,14 +810,14 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     Hath told the thievish minutes how they pass,
     What is infirm from your sound parts shall fly,
     Health shall live free, and sickness freely die.
-  KING. Upon thy certainty and confidence
+  KING OF FRANCE. Upon thy certainty and confidence
     What dar'st thou venture?
   HELENA. Tax of impudence,
     A strumpet's boldness, a divulged shame,
     Traduc'd by odious ballads; my maiden's name
     Sear'd otherwise; ne worse of worst-extended
     With vilest torture let my life be ended.
-  KING. Methinks in thee some blessed spirit doth speak
+  KING OF FRANCE. Methinks in thee some blessed spirit doth speak
     His powerful sound within an organ weak;
     And what impossibility would slay
     In common sense, sense saves another way.
@@ -842,9 +833,9 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     Of what I spoke, unpitied let me die;
     And well deserv'd. Not helping, death's my fee;
     But, if I help, what do you promise me?
-  KING. Make thy demand.
+  KING OF FRANCE. Make thy demand.
   HELENA. But will you make it even?
-  KING. Ay, by my sceptre and my hopes of heaven.
+  KING OF FRANCE. Ay, by my sceptre and my hopes of heaven.
   HELENA. Then shalt thou give me with thy kingly hand
     What husband in thy power I will command.
     Exempted be from me the arrogance
@@ -853,7 +844,7 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
     With any branch or image of thy state;
     But such a one, thy vassal, whom I know
     Is free for me to ask, thee to bestow.
-  KING. Here is my hand; the premises observ'd,
+  KING OF FRANCE. Here is my hand; the premises observ'd,
     Thy will by my performance shall be serv'd.
     So make the choice of thy own time, for I,
     Thy resolv'd patient, on thee still rely.
@@ -871,65 +862,65 @@ for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
 ACT II. SCENE 2.
 Rousillon. The COUNT'S palace
 
-Enter COUNTESS and CLOWN
+Enter COUNTESS OF ROUSILLON and CLOWN
 
-  COUNTESS. Come on, sir; I shall now put you to the height of your
+  COUNTESS OF ROUSILLON. Come on, sir; I shall now put you to the height of your
     breeding.
   CLOWN. I will show myself highly fed and lowly taught. I know my
     business is but to the court.
-  COUNTESS. To the court! Why, what place make you special, when you
+  COUNTESS OF ROUSILLON. To the court! Why, what place make you special, when you
     put off that with such contempt? But to the court!
   CLOWN. Truly, madam, if God have lent a man any manners, he may
     easily put it off at court. He that cannot make a leg, put off's
     cap, kiss his hand, and say nothing, has neither leg, hands, lip,
     nor cap; and indeed such a fellow, to say precisely, were not for
     the court; but for me, I have an answer will serve all men.
-  COUNTESS. Marry, that's a bountiful answer that fits all questions.
+  COUNTESS OF ROUSILLON. Marry, that's a bountiful answer that fits all questions.
   CLOWN. It is like a barber's chair, that fits all buttocks-the pin
     buttock, the quatch buttock, the brawn buttock, or any buttock.
-  COUNTESS. Will your answer serve fit to all questions?
+  COUNTESS OF ROUSILLON. Will your answer serve fit to all questions?
   CLOWN. As fit as ten groats is for the hand of an attorney, as your
     French crown for your taffety punk, as Tib's rush for Tom's
     forefinger, as a pancake for Shrove Tuesday, a morris for Mayday,
     as the nail to his hole, the cuckold to his horn, as a scolding
     quean to a wrangling knave, as the nun's lip to the friar's
     mouth; nay, as the pudding to his skin.
-  COUNTESS. Have you, I, say, an answer of such fitness for all
+  COUNTESS OF ROUSILLON. Have you, I, say, an answer of such fitness for all
     questions?
   CLOWN. From below your duke to beneath your constable, it will fit
     any question.
-  COUNTESS. It must be an answer of most monstrous size that must fit
+  COUNTESS OF ROUSILLON. It must be an answer of most monstrous size that must fit
     all demands.
   CLOWN. But a trifle neither, in good faith, if the learned should
     speak truth of it. Here it is, and all that belongs to't. Ask me
     if I am a courtier: it shall do you no harm to learn.
-  COUNTESS. To be young again, if we could, I will be a fool in
+  COUNTESS OF ROUSILLON. To be young again, if we could, I will be a fool in
     question, hoping to be the wiser by your answer. I pray you, sir,
     are you a courtier?
   CLOWN. O Lord, sir!-There's a simple putting off. More, more, a
     hundred of them.
-  COUNTESS. Sir, I am a poor friend of yours, that loves you.
+  COUNTESS OF ROUSILLON. Sir, I am a poor friend of yours, that loves you.
   CLOWN. O Lord, sir!-Thick, thick; spare not me.
-  COUNTESS. I think, sir, you can eat none of this homely meat.
+  COUNTESS OF ROUSILLON. I think, sir, you can eat none of this homely meat.
   CLOWN. O Lord, sir!-Nay, put me to't, I warrant you.
-  COUNTESS. You were lately whipp'd, sir, as I think.
+  COUNTESS OF ROUSILLON. You were lately whipp'd, sir, as I think.
   CLOWN. O Lord, sir!-Spare not me.
-  COUNTESS. Do you cry 'O Lord, sir!' at your whipping, and 'spare
+  COUNTESS OF ROUSILLON. Do you cry 'O Lord, sir!' at your whipping, and 'spare
     not me'? Indeed your 'O Lord, sir!' is very sequent to your
     whipping. You would answer very well to a whipping, if you were
     but bound to't.
   CLOWN. I ne'er had worse luck in my life in my 'O Lord, sir!' I see
     thing's may serve long, but not serve ever.
-  COUNTESS. I play the noble housewife with the time,
+  COUNTESS OF ROUSILLON. I play the noble housewife with the time,
     To entertain it so merrily with a fool.
   CLOWN. O Lord, sir!-Why, there't serves well again.
-  COUNTESS. An end, sir! To your business: give Helen this,
+  COUNTESS OF ROUSILLON. An end, sir! To your business: give Helen this,
     And urge her to a present answer back;
     Commend me to my kinsmen and my son. This is not much.
   CLOWN. Not much commendation to them?
-  COUNTESS. Not much employment for you. You understand me?
+  COUNTESS OF ROUSILLON. Not much employment for you. You understand me?
   CLOWN. Most fruitfully; I am there before my legs.
-  COUNTESS. Haste you again.                              Exeunt
+  COUNTESS OF ROUSILLON. Haste you again.                              Exeunt
 
 
 
@@ -976,7 +967,7 @@ Enter BERTRAM, LAFEU, and PAROLLES
     the recov'ry of the King, as to be-
   LAFEU. Generally thankful.
 
-                 Enter KING, HELENA, and ATTENDANTS
+                 Enter KING OF FRANCE, HELENA, and ATTENDANTS
 
   PAROLLES. I would have said it; you say well. Here comes the King.
   LAFEU. Lustig, as the Dutchman says. I'll like a maid the better,
@@ -984,15 +975,14 @@ Enter BERTRAM, LAFEU, and PAROLLES
     coranto.
   PAROLLES. Mort du vinaigre! Is not this Helen?
   LAFEU. 'Fore God, I think so.
-  KING. Go, call before me all the lords in court.
-                                               Exit an ATTENDANT
-    Sit, my preserver, by thy patient's side;
+  KING OF FRANCE. Go, call before me all the lords in court.       Exit ATTENDANT
+  KING OF FRANCE. Sit, my preserver, by thy patient's side;
     And with this healthful hand, whose banish'd sense
     Thou has repeal'd, a second time receive
     The confirmation of my promis'd gift,
     Which but attends thy naming.
 
-                     Enter three or four LORDS
+                     Enter FIRST LORD, SECOND LORD, THIRD LORD, FOURTH LORD
 
     Fair maid, send forth thine eye. This youthful parcel
     Of noble bachelors stand at my bestowing,
@@ -1004,7 +994,7 @@ Enter BERTRAM, LAFEU, and PAROLLES
   LAFEU. I'd give bay Curtal and his furniture
     My mouth no more were broken than these boys',
     And writ as little beard.
-  KING. Peruse them well.
+  KING OF FRANCE. Peruse them well.
     Not one of those but had a noble father.
   HELENA. Gentlemen,
     Heaven hath through me restor'd the King to health.
@@ -1016,7 +1006,7 @@ Enter BERTRAM, LAFEU, and PAROLLES
     'We blush that thou shouldst choose; but, be refused,
     Let the white death sit on thy cheek for ever,
     We'll ne'er come there again.'
-  KING. Make choice and see:
+  KING OF FRANCE. Make choice and see:
     Who shuns thy love shuns all his love in me.
   HELENA. Now, Dian, from thy altar do I fly,
     And to imperial Love, that god most high,
@@ -1049,21 +1039,21 @@ Enter BERTRAM, LAFEU, and PAROLLES
   HELENA.  [To BERTRAM]  I dare not say I take you; but I give
     Me and my service, ever whilst I live,
     Into your guiding power. This is the man.
-  KING. Why, then, young Bertram, take her; she's thy wife.
+  KING OF FRANCE. Why, then, young Bertram, take her; she's thy wife.
   BERTRAM. My wife, my liege! I shall beseech your Highness,
     In such a business give me leave to use
     The help of mine own eyes.
-  KING. Know'st thou not, Bertram,
+  KING OF FRANCE. Know'st thou not, Bertram,
     What she has done for me?
   BERTRAM. Yes, my good lord;
     But never hope to know why I should marry her.
-  KING. Thou know'st she has rais'd me from my sickly bed.
+  KING OF FRANCE. Thou know'st she has rais'd me from my sickly bed.
   BERTRAM. But follows it, my lord, to bring me down
     Must answer for your raising? I know her well:
     She had her breeding at my father's charge.
     A poor physician's daughter my wife! Disdain
     Rather corrupt me ever!
-  KING. 'Tis only title thou disdain'st in her, the which
+  KING OF FRANCE. 'Tis only title thou disdain'st in her, the which
     I can build up. Strange is it that our bloods,
     Of colour, weight, and heat, pour'd all together,
     Would quite confound distinction, yet stand off
@@ -1092,10 +1082,10 @@ Enter BERTRAM, LAFEU, and PAROLLES
     I can create the rest. Virtue and she
     Is her own dower; honour and wealth from me.
   BERTRAM. I cannot love her, nor will strive to do 't.
-  KING. Thou wrong'st thyself, if thou shouldst strive to choose.
+  KING OF FRANCE. Thou wrong'st thyself, if thou shouldst strive to choose.
   HELENA. That you are well restor'd, my lord, I'm glad.
     Let the rest go.
-  KING. My honour's at the stake; which to defeat,
+  KING OF FRANCE. My honour's at the stake; which to defeat,
     I must produce my power. Here, take her hand,
     Proud scornful boy, unworthy this good gift,
     That dost in vile misprision shackle up
@@ -1120,20 +1110,21 @@ Enter BERTRAM, LAFEU, and PAROLLES
     Was in my nobler thoughts most base is now
     The praised of the King; who, so ennobled,
     Is as 'twere born so.
-  KING. Take her by the hand,
+  KING OF FRANCE. Take her by the hand,
     And tell her she is thine; to whom I promise
     A counterpoise, if not to thy estate
     A balance more replete.
   BERTRAM. I take her hand.
-  KING. Good fortune and the favour of the King
+  KING OF FRANCE. Good fortune and the favour of the King
     Smile upon this contract; whose ceremony
     Shall seem expedient on the now-born brief,
     And be perform'd to-night. The solemn feast
     Shall more attend upon the coming space,
     Expecting absent friends. As thou lov'st her,
-    Thy love's to me religious; else, does err.
-              Exeunt all but LAFEU and PAROLLES who stay behind,
-                                      commenting of this wedding
+    Thy love's to me religious; else, does err.         Exeunt
+
+    Enter LAFEU and PAROLLES
+
   LAFEU. Do you hear, monsieur? A word with you.
   PAROLLES. Your pleasure, sir?
   LAFEU. Your lord and master did well to make his recantation.
@@ -1183,7 +1174,7 @@ Enter BERTRAM, LAFEU, and PAROLLES
     lord. I'll have no more pity of his age than I would have of-
     I'll beat him, and if I could but meet him again.
 
-                         Re-enter LAFEU
+                         Enter LAFEU
 
   LAFEU. Sirrah, your lord and master's married; there's news for
     you; you have a new mistress.
@@ -1204,8 +1195,7 @@ Enter BERTRAM, LAFEU, and PAROLLES
     out of a pomegranate; you are a vagabond, and no true traveller;
     you are more saucy with lords and honourable personages than the
     commission of your birth and virtue gives you heraldry. You are
-    not worth another word, else I'd call you knave. I leave you.
- Exit
+    not worth another word, else I'd call you knave. I leave you.       Exit
 
                            Enter BERTRAM
 
@@ -1223,7 +1213,7 @@ Enter BERTRAM, LAFEU, and PAROLLES
   BERTRAM. There's letters from my mother; what th' import is I know
     not yet.
   PAROLLES. Ay, that would be known. To th' wars, my boy, to th'
-      wars!
+    wars!
     He wears his honour in a box unseen
     That hugs his kicky-wicky here at home,
     Spending his manly marrow in her arms,
@@ -1309,7 +1299,7 @@ Enter HELENA and CLOWN
   HELENA. In everything I wait upon his will.
   PAROLLES. I shall report it so.
   HELENA. I pray you.                              Exit PAROLLES
-    Come, sirrah.                                         Exeunt
+  HELENA. Come, sirrah.                                         Exeunt
 
 
 
@@ -1416,7 +1406,7 @@ Enter LAFEU and BERTRAM
   HELENA. I shall not break your bidding, good my lord.
   BERTRAM. Where are my other men, monsieur?
     Farewell!                                        Exit HELENA
-    Go thou toward home, where I will never come
+  BERTRAM. Go thou toward home, where I will never come
     Whilst I can shake my sword or hear the drum.
     Away, and for our flight.
   PAROLLES. Bravely, coragio!                             Exeunt
@@ -1432,16 +1422,16 @@ ACT III. SCENE 1.
 Florence. The DUKE's palace
 
         Flourish. Enter the DUKE OF FLORENCE, attended; two
-               FRENCH LORDS, with a TROOP OF SOLDIERS
+               FIRST LORD, SECOND LORD with a TROOP OF SOLDIERS
 
-  DUKE. So that, from point to point, now have you hear
+  DUKE OF FLORENCE. So that, from point to point, now have you hear
     The fundamental reasons of this war;
     Whose great decision hath much blood let forth
     And more thirsts after.
   FIRST LORD. Holy seems the quarrel
     Upon your Grace's part; black and fearful
     On the opposer.
-  DUKE. Therefore we marvel much our cousin France
+  DUKE OF FLORENCE. Therefore we marvel much our cousin France
     Would in so just a business shut his bosom
     Against our borrowing prayers.
   SECOND LORD. Good my lord,
@@ -1452,11 +1442,11 @@ Florence. The DUKE's palace
     Say what I think of it, since I have found
     Myself in my incertain grounds to fail
     As often as I guess'd.
-  DUKE. Be it his pleasure.
+  DUKE OF FLORENCE. Be it his pleasure.
   FIRST LORD. But I am sure the younger of our nature,
     That surfeit on their ease, will day by day
     Come here for physic.
-  DUKE. Welcome shall they be
+  DUKE OF FLORENCE. Welcome shall they be
     And all the honours that can fly from us
     Shall on them settle. You know your places well;
     When better fall, for your avails they fell.
@@ -1468,61 +1458,60 @@ Florence. The DUKE's palace
 ACT III. SCENE 2.
 Rousillon. The COUNT'S palace
 
-Enter COUNTESS and CLOWN
+Enter COUNTESS OF ROUSILLON and CLOWN
 
-  COUNTESS. It hath happen'd all as I would have had it, save that he
+  COUNTESS OF ROUSILLON. It hath happen'd all as I would have had it, save that he
     comes not along with her.
   CLOWN. By my troth, I take my young lord to be a very melancholy
     man.
-  COUNTESS. By what observance, I pray you?
+  COUNTESS OF ROUSILLON. By what observance, I pray you?
   CLOWN. Why, he will look upon his boot and sing; mend the ruff and
     sing; ask questions and sing; pick his teeth and sing. I know a
     man that had this trick of melancholy sold a goodly manor for a
     song.
-  COUNTESS. Let me see what he writes, and when he means to come.
+  COUNTESS OF ROUSILLON. Let me see what he writes, and when he means to come.
                                               [Opening a letter]
   CLOWN. I have no mind to Isbel since I was at court. Our old ling
     and our Isbels o' th' country are nothing like your old ling and
     your Isbels o' th' court. The brains of my Cupid's knock'd out;
     and I begin to love, as an old man loves money, with no stomach.
-  COUNTESS. What have we here?
+  COUNTESS OF ROUSILLON. What have we here?
   CLOWN. E'en that you have there.                          Exit
-  COUNTESS.  [Reads]  'I have sent you a daughter-in-law; she hath
+  COUNTESS OF ROUSILLON.  [Reads]  'I have sent you a daughter-in-law; she hath
     recovered the King and undone me. I have wedded her, not bedded
     her; and sworn to make the "not" eternal. You shall hear I am run
     away; know it before the report come. If there be breadth enough
     in the world, I will hold a long distance. My duty to you.
-                                           Your unfortunate son,
-                                                       BERTRAM.'
+                                           Your unfortunate son, BERTRAM.'
     This is not well, rash and unbridled boy,
     To fly the favours of so good a king,
     To pluck his indignation on thy head
     By the misprizing of a maid too virtuous
     For the contempt of empire.
 
-                           Re-enter CLOWN
+                           Enter CLOWN
 
   CLOWN. O madam, yonder is heavy news within between two soldiers
     and my young lady.
-  COUNTESS. What is the -matter?
+  COUNTESS OF ROUSILLON. What is the -matter?
   CLOWN. Nay, there is some comfort in the news, some comfort; your
     son will not be kill'd so soon as I thought he would.
-  COUNTESS. Why should he be kill'd?
+  COUNTESS OF ROUSILLON. Why should he be kill'd?
   CLOWN. So say I, madam, if he run away, as I hear he does the
     danger is in standing to 't; that's the loss of men, though it be
     the getting of children. Here they come will tell you more. For my
     part, I only hear your son was run away.                Exit
 
-              Enter HELENA and the two FRENCH GENTLEMEN
+              Enter HELENA and the two FIRST GENTLEMAN, SECOND GENTLEMAN
 
   SECOND GENTLEMAN. Save you, good madam.
   HELENA. Madam, my lord is gone, for ever gone.
   FIRST GENTLEMAN. Do not say so.
-  COUNTESS. Think upon patience. Pray you, gentlemen-
+  COUNTESS OF ROUSILLON. Think upon patience. Pray you, gentlemen-
     I have felt so many quirks of joy and grief
     That the first face of neither, on the start,
     Can woman me unto 't. Where is my son, I pray you?
-  FIRST GENTLEMAN. Madam, he's gone to serve the Duke of Florence.
+  FIRST GENTLEMAN. Madam, he's gone to serve the DUKE OF FLORENCE.
     We met him thitherward; for thence we came,
     And, after some dispatch in hand at court,
     Thither we bend again.
@@ -1532,51 +1521,51 @@ Enter COUNTESS and CLOWN
     that I am father to, then call me husband; but in such a "then" I
     write a "never."
     This is a dreadful sentence.
-  COUNTESS. Brought you this letter, gentlemen?
+  COUNTESS OF ROUSILLON. Brought you this letter, gentlemen?
   FIRST GENTLEMAN. Ay, madam;
     And for the contents' sake are sorry for our pains.
-  COUNTESS. I prithee, lady, have a better cheer;
+  COUNTESS OF ROUSILLON. I prithee, lady, have a better cheer;
     If thou engrossest all the griefs are thine,
     Thou robb'st me of a moiety. He was my son;
     But I do wash his name out of my blood,
     And thou art all my child. Towards Florence is he?
   FIRST GENTLEMAN. Ay, madam.
-  COUNTESS. And to be a soldier?
+  COUNTESS OF ROUSILLON. And to be a soldier?
   FIRST GENTLEMAN. Such is his noble purpose; and, believe 't,
     The Duke will lay upon him all the honour
     That good convenience claims.
-  COUNTESS. Return you thither?
+  COUNTESS OF ROUSILLON. Return you thither?
   SECOND GENTLEMAN. Ay, madam, with the swiftest wing of speed.
   HELENA.  [Reads]  'Till I have no wife, I have nothing in France.'
     'Tis bitter.
-  COUNTESS. Find you that there?
+  COUNTESS OF ROUSILLON. Find you that there?
   HELENA. Ay, madam.
   SECOND GENTLEMAN. 'Tis but the boldness of his hand haply, which
     his heart was not consenting to.
-  COUNTESS. Nothing in France until he have no wife!
+  COUNTESS OF ROUSILLON. Nothing in France until he have no wife!
     There's nothing here that is too good for him
     But only she; and she deserves a lord
     That twenty such rude boys might tend upon,
     And call her hourly mistress. Who was with him?
   SECOND GENTLEMAN. A servant only, and a gentleman
     Which I have sometime known.
-  COUNTESS. Parolles, was it not?
+  COUNTESS OF ROUSILLON. Parolles, was it not?
   SECOND GENTLEMAN. Ay, my good lady, he.
-  COUNTESS. A very tainted fellow, and full of wickedness.
+  COUNTESS OF ROUSILLON. A very tainted fellow, and full of wickedness.
     My son corrupts a well-derived nature
     With his inducement.
   SECOND GENTLEMAN. Indeed, good lady,
     The fellow has a deal of that too much
     Which holds him much to have.
-  COUNTESS. Y'are welcome, gentlemen.
+  COUNTESS OF ROUSILLON. Y'are welcome, gentlemen.
     I will entreat you, when you see my son,
     To tell him that his sword can never win
     The honour that he loses. More I'll entreat you
     Written to bear along.
   FIRST GENTLEMAN. We serve you, madam,
     In that and all your worthiest affairs.
-  COUNTESS. Not so, but as we change our courtesies.
-    Will you draw near?            Exeunt COUNTESS and GENTLEMEN
+  COUNTESS OF ROUSILLON. Not so, but as we change our courtesies.
+    Will you draw near?            Exeunt COUNTESS OF ROUSILLON and GENTLEMEN
   HELENA. 'Till I have no wife, I have nothing in France.'
     Nothing in France until he has no wife!
     Thou shalt have none, Rousillon, none in France
@@ -1618,14 +1607,14 @@ Florence. Before the DUKE's palace
 Flourish. Enter the DUKE OF FLORENCE, BERTRAM, PAROLLES, SOLDIERS,
 drum and trumpets
 
-  DUKE. The General of our Horse thou art; and we,
+  DUKE OF FLORENCE. The General of our Horse thou art; and we,
     Great in our hope, lay our best love and credence
     Upon thy promising fortune.
   BERTRAM. Sir, it is
     A charge too heavy for my strength; but yet
     We'll strive to bear it for your worthy sake
     To th' extreme edge of hazard.
-  DUKE. Then go thou forth;
+  DUKE OF FLORENCE. Then go thou forth;
     And Fortune play upon thy prosperous helm,
     As thy auspicious mistress!
   BERTRAM. This very day,
@@ -1639,9 +1628,9 @@ drum and trumpets
 ACT III. SCENE 4.
 Rousillon. The COUNT'S palace
 
-Enter COUNTESS and STEWARD
+Enter COUNTESS OF ROUSILLON and STEWARD
 
-  COUNTESS. Alas! and would you take the letter of her?
+  COUNTESS OF ROUSILLON. Alas! and would you take the letter of her?
     Might you not know she would do as she has done
     By sending me a letter? Read it again.
   STEWARD.  [Reads]  'I am Saint Jaques' pilgrim, thither gone.
@@ -1658,7 +1647,7 @@ Enter COUNTESS and STEWARD
     Where death and danger dogs the heels of worth.
     He is too good and fair for death and me;
     Whom I myself embrace to set him free.'
-  COUNTESS. Ah, what sharp stings are in her mildest words!
+  COUNTESS OF ROUSILLON. Ah, what sharp stings are in her mildest words!
     Rinaldo, you did never lack advice so much
     As letting her pass so; had I spoke with her,
     I could have well diverted her intents,
@@ -1667,7 +1656,7 @@ Enter COUNTESS and STEWARD
     If I had given you this at over-night,
     She might have been o'er ta'en; and yet she writes
     Pursuit would be but vain.
-  COUNTESS. What angel shall
+  COUNTESS OF ROUSILLON. What angel shall
     Bless this unworthy husband? He cannot thrive,
     Unless her prayers, whom heaven delights to hear
     And loves to grant, reprieve him from the wrath
@@ -1692,7 +1681,7 @@ Enter COUNTESS and STEWARD
 ACT III. SCENE 5.
 
 Without the walls of Florence
-A tucket afar off. Enter an old WIDOW OF FLORENCE, her daughter DIANA,
+A tucket afar off. Enter an old WIDOW, her daughter DIANA,
 VIOLENTA, and MARIANA, with other CITIZENS
 
   WIDOW. Nay, come; for if they do approach the city we shall lose
@@ -1820,7 +1809,7 @@ VIOLENTA, and MARIANA, with other CITIZENS
 ACT III. SCENE 6.
 Camp before Florence
 
-Enter BERTRAM, and the two FRENCH LORDS
+Enter BERTRAM, and the two FIRST LORD, SECOND LORD
 
   SECOND LORD. Nay, good my lord, put him to't; let him have his way.
   FIRST LORD. If your lordship find him not a hiding, hold me no more
@@ -1914,7 +1903,7 @@ Enter BERTRAM, and the two FRENCH LORDS
     shall see this very night.
   SECOND LORD. I must go look my twigs; he shall be caught.
   BERTRAM. Your brother, he shall go along with me.
-  SECOND LORD. As't please your lordship. I'll leave you.   Exit
+  SECOND LORD. As't please your lordship. I'll leave you.     Exit
   BERTRAM. Now will I lead you to the house, and show you
     The lass I spoke of.
   FIRST LORD. But you say she's honest.
@@ -1999,7 +1988,7 @@ END_ACT
 ACT IV. SCENE 1.
 Without the Florentine camp
 
-Enter SECOND FRENCH LORD with five or six other SOLDIERS in ambush
+Enter SECOND LORD with five or six other FIRST SOLDIER, SECOND SOLDIER in ambush
 
   SECOND LORD. He can come no other way but by this hedge-corner.
     When you sally upon him, speak what terrible language you will;
@@ -2084,8 +2073,7 @@ Enter SECOND FRENCH LORD with five or six other SOLDIERS in ambush
   FIRST SOLDIER. But wilt thou faithfully?
   PAROLLES. If I do not, damn me.
   FIRST SOLDIER. Acordo linta.
-    Come on; thou art granted space.
-                   Exit, PAROLLES guarded. A short alarum within
+    Come on; thou art granted space.     Exit, PAROLLES guarded. A short alarum within
   SECOND LORD. Go, tell the Count Rousillon and my brother
     We have caught the woodcock, and will keep him muffled
     Till we do hear from them.
@@ -2179,8 +2167,7 @@ Enter BERTRAM and DIANA
     May token to the future our past deeds.
     Adieu till then; then fail not. You have won
     A wife of me, though there my hope be done.
-  BERTRAM. A heaven on earth I have won by wooing thee.
- Exit
+  BERTRAM. A heaven on earth I have won by wooing thee.     Exit
   DIANA. For which live long to thank both heaven and me!
     You may so in the end.
     My mother told me just how he would woo,
@@ -2198,7 +2185,7 @@ Enter BERTRAM and DIANA
 ACT IV. SCENE 3.
 The Florentine camp
 
-Enter the two FRENCH LORDS, and two or three SOLDIERS
+Enter the two FIRST LORD, SECOND LORD and two or three SOLDIERS
 
   SECOND LORD. You have not given him his mother's letter?
   FIRST LORD. I have deliv'red it an hour since. There is something
@@ -2307,8 +2294,7 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
     face; if your lordship be in't, as I believe you are, you must
     have the patience to hear it.
 
-                   Enter PAROLLES guarded, and
-                  FIRST SOLDIER as interpreter
+                   Enter PAROLLES guarded, and FIRST SOLDIER as interpreter
 
   BERTRAM. A plague upon him! muffled! He can say nothing of me.
   SECOND LORD. Hush, hush! Hoodman comes. Portotartarossa.
@@ -2359,7 +2345,7 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
     pieces.
   BERTRAM. What shall be done to him?
   SECOND LORD. Nothing, but let him have thanks. Demand of him my
-    condition, and what credit I have with the Duke.
+    condition, and what credit I have with the DUKE OF FLORENCE.
   FIRST SOLDIER. Well, that's set down. 'You shall demand of him
     whether one Captain Dumain be i' th' camp, a Frenchman; what his
     reputation is with the Duke, what his valour, honesty, expertness
@@ -2374,7 +2360,7 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
     dumb innocent that could not say him nay.
   BERTRAM. Nay, by your leave, hold your hands; though I know his
     brains are forfeit to the next tile that falls.
-  FIRST SOLDIER. Well, is this captain in the Duke of Florence's
+  FIRST SOLDIER. Well, is this captain in the DUKE OF FLORENCE's
     camp?
   PAROLLES. Upon my knowledge, he is, and lousy.
   SECOND LORD. Nay, look not so upon me; we shall hear of your
@@ -2566,7 +2552,7 @@ Enter HELENA, WIDOW, and DIANA
 ACT IV SCENE 5.
 Rousillon. The COUNT'S palace
 
-Enter COUNTESS, LAFEU, and CLOWN
+Enter COUNTESS OF ROUSILLON, LAFEU, and CLOWN
 
   LAFEU. No, no, no, son was misled with a snipt-taffeta fellow
     there, whose villainous saffron would have made all the unbak'd
@@ -2574,7 +2560,7 @@ Enter COUNTESS, LAFEU, and CLOWN
     had been alive at this hour, and your son here at home, more
     advanc'd by the King than by that red-tail'd humble-bee I speak
     of.
-  COUNTESS. I would I had not known him. It was the death of the most
+  COUNTESS OF ROUSILLON. I would I had not known him. It was the death of the most
     virtuous gentlewoman that ever nature had praise for creating. If
     she had partaken of my flesh, and cost me the dearest groans of a
     mother. I could not have owed her a more rooted love.
@@ -2615,10 +2601,9 @@ Enter COUNTESS, LAFEU, and CLOWN
     so before, because I would not fall out with thee. Go thy ways;
     let my horses be well look'd to, without any tricks.
   CLOWN. If I put any tricks upon 'em, sir, they shall be jades'
-    tricks, which are their own right by the law of nature.
- Exit
+    tricks, which are their own right by the law of nature.     Exit
   LAFEU. A shrewd knave, and an unhappy.
-  COUNTESS. So 'a is. My lord that's gone made himself much  sport
+  COUNTESS OF ROUSILLON. So 'a is. My lord that's gone made himself much  sport
     out of him. By his authority he remains here, which he thinks is
     a patent for his sauciness; and indeed he has no pace, but runs
     where he will.
@@ -2630,21 +2615,21 @@ Enter COUNTESS, LAFEU, and CLOWN
     first propose. His Highness hath promis'd me to do it; and, to
     stop up the displeasure he hath conceived against your son, there
     is no fitter matter. How does your ladyship like it?
-  COUNTESS. With very much content, my lord; and I wish it happily
+  COUNTESS OF ROUSILLON. With very much content, my lord; and I wish it happily
     effected.
   LAFEU. His Highness comes post from Marseilles, of as able body as
     when he number'd thirty; 'a will be here to-morrow, or I am
     deceiv'd by him that in such intelligence hath seldom fail'd.
-  COUNTESS. It rejoices me that I hope I shall see him ere I die.
+  COUNTESS OF ROUSILLON. It rejoices me that I hope I shall see him ere I die.
     I have letters that my son will be here to-night. I shall beseech
     your lordship to remain with me tal they meet together.
   LAFEU. Madam, I was thinking with what manners I might safely be
     admitted.
-  COUNTESS. You need but plead your honourable privilege.
+  COUNTESS OF ROUSILLON. You need but plead your honourable privilege.
   LAFEU. Lady, of that I have made a bold charter; but, I thank my
     God, it holds yet.
 
-                         Re-enter CLOWN
+                         Enter CLOWN
 
   CLOWN. O madam, yonder's my lord your son with a patch of velvet
     on's face; whether there be a scar under 't or no, the velvet
@@ -2746,13 +2731,12 @@ Enter CLOWN and PAROLLES
 
                            Enter LAFEU
 
-    Here is a pur of Fortune's, sir, or of Fortune's cat, but not
+  CLOWN.  Here is a pur of Fortune's, sir, or of Fortune's cat, but not
     a musk-cat, that has fall'n into the unclean fishpond of her
     displeasure, and, as he says, is muddied withal. Pray you, sir,
     use the carp as you may; for he looks like a poor, decayed,
     ingenious, foolish, rascally knave. I do pity his distress
-    in my similes of comfort, and leave him to your lordship.
- Exit
+    in my similes of comfort, and leave him to your lordship.     Exit
   PAROLLES. My lord, I am a man whom Fortune hath cruelly scratch'd.
   LAFEU. And what would you have me to do? 'Tis too late to pare her
     nails now. Wherein have you played the knave with Fortune, that
@@ -2784,18 +2768,18 @@ Enter CLOWN and PAROLLES
 ACT V SCENE 3.
 Rousillon. The COUNT'S palace
 
-Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
+Flourish. Enter KING OF FRANCE, COUNTESS OF ROUSILLON, LAFEU, the FIRST LORD, SECOND LORD, with ATTENDANTS
 
-  KING. We lost a jewel of her, and our esteem
+  KING OF FRANCE. We lost a jewel of her, and our esteem
     Was made much poorer by it; but your son,
     As mad in folly, lack'd the sense to know
     Her estimation home.
-  COUNTESS. 'Tis past, my liege;
+  COUNTESS OF ROUSILLON. 'Tis past, my liege;
     And I beseech your Majesty to make it
     Natural rebellion, done i' th' blaze of youth,
     When oil and fire, too strong for reason's force,
     O'erbears it and burns on.
-  KING. My honour'd lady,
+  KING OF FRANCE. My honour'd lady,
     I have forgiven and forgotten all;
     Though my revenges were high bent upon him
     And watch'd the time to shoot.
@@ -2808,7 +2792,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Of richest eyes; whose words all ears took captive;
     Whose dear perfection hearts that scorn'd to serve
     Humbly call'd mistress.
-  KING. Praising what is lost
+  KING OF FRANCE. Praising what is lost
     Makes the remembrance dear. Well, call him hither;
     We are reconcil'd, and the first view shall kill
     All repetition. Let him not ask our pardon;
@@ -2818,22 +2802,22 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     A stranger, no offender; and inform him
     So 'tis our will he should.
   GENTLEMAN. I shall, my liege.                 Exit GENTLEMAN
-  KING. What says he to your daughter? Have you spoke?
+  KING OF FRANCE. What says he to your daughter? Have you spoke?
   LAFEU. All that he is hath reference to your Highness.
-  KING. Then shall we have a match. I have letters sent me
+  KING OF FRANCE. Then shall we have a match. I have letters sent me
     That sets him high in fame.
 
                           Enter BERTRAM
 
   LAFEU. He looks well on 't.
-  KING. I am not a day of season,
+  KING OF FRANCE. I am not a day of season,
     For thou mayst see a sunshine and a hail
     In me at once. But to the brightest beams
     Distracted clouds give way; so stand thou forth;
     The time is fair again.
   BERTRAM. My high-repented blames,
     Dear sovereign, pardon to me.
-  KING. All is whole;
+  KING OF FRANCE. All is whole;
     Not one word more of the consumed time.
     Let's take the instant by the forward top;
     For we are old, and on our quick'st decrees
@@ -2852,7 +2836,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     That she whom all men prais'd, and whom myself,
     Since I have lost, have lov'd, was in mine eye
     The dust that did offend it.
-  KING. Well excus'd.
+  KING OF FRANCE. Well excus'd.
     That thou didst love her, strikes some scores away
     From the great compt; but love that comes too late,
     Like a remorseful pardon slowly carried,
@@ -2868,7 +2852,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Send forth your amorous token for fair Maudlin.
     The main consents are had; and here we'll stay
     To see our widower's second marriage-day.
-  COUNTESS. Which better than the first, O dear heaven, bless!
+  COUNTESS OF ROUSILLON. Which better than the first, O dear heaven, bless!
     Or, ere they meet, in me, O nature, cesse!
   LAFEU. Come on, my son, in whom my house's name
     Must be digested; give a favour from you,
@@ -2881,7 +2865,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     The last that e'er I took her leave at court,
     I saw upon her finger.
   BERTRAM. Hers it was not.
-  KING. Now, pray you, let me see it; for mine eye,
+  KING OF FRANCE. Now, pray you, let me see it; for mine eye,
     While I was speaking, oft was fasten'd to't.
     This ring was mine; and when I gave it Helen
     I bade her, if her fortunes ever stood
@@ -2891,7 +2875,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
   BERTRAM. My gracious sovereign,
     Howe'er it pleases you to take it so,
     The ring was never hers.
-  COUNTESS. Son, on my life,
+  COUNTESS OF ROUSILLON. Son, on my life,
     I have seen her wear it; and she reckon'd it
     At her life's rate.
   LAFEU. I am sure I saw her wear it.
@@ -2905,7 +2889,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     As she had made the overture, she ceas'd,
     In heavy satisfaction, and would never
     Receive the ring again.
-  KING. Plutus himself,
+  KING OF FRANCE. Plutus himself,
     That knows the tinct and multiplying med'cine,
     Hath not in nature's mystery more science
     Than I have in this ring. 'Twas mine, 'twas Helen's,
@@ -2918,7 +2902,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Where you have never come- or sent it us
     Upon her great disaster.
   BERTRAM. She never saw it.
-  KING. Thou speak'st it falsely, as I love mine honour;
+  KING OF FRANCE. Thou speak'st it falsely, as I love mine honour;
     And mak'st conjectural fears to come into me
     Which I would fain shut out. If it should prove
     That thou art so inhuman- 'twill not prove so.
@@ -2935,7 +2919,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     This ring was ever hers, you shall as easy
     Prove that I husbanded her bed in Florence,
     Where she yet never was.                       Exit, guarded
-  KING. I am wrapp'd in dismal thinkings.
+  KING OF FRANCE. I am wrapp'd in dismal thinkings.
 
                         Enter a GENTLEMAN
 
@@ -2950,7 +2934,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     With an importing visage; and she told me
     In a sweet verbal brief it did concern
     Your Highness with herself.
-  KING.  [Reads the letter]  'Upon his many protestations to marry me
+  KING OF FRANCE.  [Reads the letter]  'Upon his many protestations to marry me
     when his wife was dead, I blush to say it, he won me. Now is the
     Count Rousillon a widower; his vows are forfeited to me, and my
     honour's paid to him. He stole from Florence, taking no leave,
@@ -2960,17 +2944,17 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
                                                 DIANA CAPILET.'
   LAFEU. I will buy me a son-in-law in a fair, and toll for this.
     I'll none of him.
-  KING. The heavens have thought well on thee, Lafeu,
+  KING OF FRANCE. The heavens have thought well on thee, Lafeu,
     To bring forth this discov'ry. Seek these suitors.
     Go speedily, and bring again the Count.
                                                Exeunt ATTENDANTS
     I am afeard the life of Helen, lady,
     Was foully snatch'd.
-  COUNTESS. Now, justice on the doers!
+  COUNTESS OF ROUSILLON. Now, justice on the doers!
 
                        Enter BERTRAM, guarded
 
-  KING. I wonder, sir, sith wives are monsters to you.
+  KING OF FRANCE. I wonder, sir, sith wives are monsters to you.
     And that you fly them as you swear them lordship,
     Yet you desire to marry.
                                            Enter WIDOW and DIANA
@@ -2982,7 +2966,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
   WIDOW. I am her mother, sir, whose age and honour
     Both suffer under this complaint we bring,
     And both shall cease, without your remedy.
-  KING. Come hither, Count; do you know these women?
+  KING OF FRANCE. Come hither, Count; do you know these women?
   BERTRAM. My lord, I neither can nor will deny
     But that I know them. Do they charge me further?
   DIANA. Why do you look so strange upon your wife?
@@ -3000,13 +2984,13 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Whom sometime I have laugh'd with. Let your Highness
     Lay a more noble thought upon mine honour
     Than for to think that I would sink it here.
-  KING. Sir, for my thoughts, you have them ill to friend
+  KING OF FRANCE. Sir, for my thoughts, you have them ill to friend
     Till your deeds gain them. Fairer prove your honour
     Than in my thought it lies!
   DIANA. Good my lord,
     Ask him upon his oath if he does think
     He had not my virginity.
-  KING. What say'st thou to her?
+  KING OF FRANCE. What say'st thou to her?
   BERTRAM. She's impudent, my lord,
     And was a common gamester to the camp.
   DIANA. He does me wrong, my lord; if I were so
@@ -3016,24 +3000,24 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Did lack a parallel; yet, for all that,
     He gave it to a commoner o' th' camp,
     If I be one.
-  COUNTESS. He blushes, and 'tis it.
+  COUNTESS OF ROUSILLON. He blushes, and 'tis it.
     Of six preceding ancestors, that gem
     Conferr'd by testament to th' sequent issue,
     Hath it been ow'd and worn. This is his wife:
     That ring's a thousand proofs.
-  KING. Methought you said
+  KING OF FRANCE. Methought you said
     You saw one here in court could witness it.
   DIANA. I did, my lord, but loath am to produce
     So bad an instrument; his name's Parolles.
   LAFEU. I saw the man to-day, if man he be.
-  KING. Find him, and bring him hither.        Exit an ATTENDANT
+  KING OF FRANCE. Find him, and bring him hither.        Exit an ATTENDANT
   BERTRAM. What of him?
     He's quoted for a most perfidious slave,
     With all the spots o' th' world tax'd and debauch'd,
     Whose nature sickens but to speak a truth.
     Am I or that or this for what he'll utter
     That will speak anything?
-  KING. She hath that ring of yours.
+  KING OF FRANCE. She hath that ring of yours.
   BERTRAM. I think she has. Certain it is I lik'd her,
     And boarded her i' th' wanton way of youth.
     She knew her distance, and did angle for me,
@@ -3051,40 +3035,40 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Send for your ring, I will return it home,
     And give me mine again.
   BERTRAM. I have it not.
-  KING. What ring was yours, I pray you?
+  KING OF FRANCE. What ring was yours, I pray you?
   DIANA. Sir, much like
     The same upon your finger.
-  KING. Know you this ring? This ring was his of late.
+  KING OF FRANCE. Know you this ring? This ring was his of late.
   DIANA. And this was it I gave him, being abed.
-  KING. The story, then, goes false you threw it him
+  KING OF FRANCE. The story, then, goes false you threw it him
     Out of a casement.
   DIANA. I have spoke the truth.
 
                        Enter PAROLLES
 
   BERTRAM. My lord, I do confess the ring was hers.
-  KING. You boggle shrewdly; every feather starts you.
+  KING OF FRANCE. You boggle shrewdly; every feather starts you.
     Is this the man you speak of?
   DIANA. Ay, my lord.
-  KING. Tell me, sirrah-but tell me true I charge you,
+  KING OF FRANCE. Tell me, sirrah-but tell me true I charge you,
     Not fearing the displeasure of your master,
     Which, on your just proceeding, I'll keep off-
     By him and by this woman here what know you?
   PAROLLES. So please your Majesty, my master hath been an honourable
     gentleman; tricks he hath had in him, which gentlemen have.
-  KING. Come, come, to th' purpose. Did he love this woman?
+  KING OF FRANCE. Come, come, to th' purpose. Did he love this woman?
   PAROLLES. Faith, sir, he did love her; but how?
-  KING. How, I pray you?
+  KING OF FRANCE. How, I pray you?
   PAROLLES. He did love her, sir, as a gentleman loves a woman.
-  KING. How is that?
+  KING OF FRANCE. How is that?
   PAROLLES. He lov'd her, sir, and lov'd her not.
-  KING. As thou art a knave and no knave.
+  KING OF FRANCE. As thou art a knave and no knave.
     What an equivocal companion is this!
   PAROLLES. I am a poor man, and at your Majesty's command.
   LAFEU. He's a good drum, my lord, but a naughty orator.
   DIANA. Do you know he promis'd me marriage?
   PAROLLES. Faith, I know more than I'll speak.
-  KING. But wilt thou not speak all thou know'st?
+  KING OF FRANCE. But wilt thou not speak all thou know'st?
   PAROLLES. Yes, so please your Majesty. I did go between them, as I
     said; but more than that, he loved her-for indeed he was mad for
     her, and talk'd of Satan, and of Limbo, and of Furies, and I know
@@ -3092,44 +3076,43 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     knew of their going to bed; and of other motions, as promising
     her marriage, and things which would derive me ill will to speak
     of; therefore I will not speak what I know.
-  KING. Thou hast spoken all already, unless thou canst say they are
+  KING OF FRANCE. Thou hast spoken all already, unless thou canst say they are
     married; but thou art too fine in thy evidence; therefore stand
     aside.
     This ring, you say, was yours?
   DIANA. Ay, my good lord.
-  KING. Where did you buy it? Or who gave it you?
+  KING OF FRANCE. Where did you buy it? Or who gave it you?
   DIANA. It was not given me, nor I did not buy it.
-  KING. Who lent it you?
+  KING OF FRANCE. Who lent it you?
   DIANA. It was not lent me neither.
-  KING. Where did you find it then?
+  KING OF FRANCE. Where did you find it then?
   DIANA. I found it not.
-  KING. If it were yours by none of all these ways,
+  KING OF FRANCE. If it were yours by none of all these ways,
     How could you give it him?
   DIANA. I never gave it him.
   LAFEU. This woman's an easy glove, my lord; she goes of and on at
     pleasure.
-  KING. This ring was mine, I gave it his first wife.
+  KING OF FRANCE. This ring was mine, I gave it his first wife.
   DIANA. It might be yours or hers, for aught I know.
-  KING. Take her away, I do not like her now;
+  KING OF FRANCE. Take her away, I do not like her now;
     To prison with her. And away with him.
     Unless thou tell'st me where thou hadst this ring,
     Thou diest within this hour.
   DIANA. I'll never tell you.
-  KING. Take her away.
+  KING OF FRANCE. Take her away.
   DIANA. I'll put in bail, my liege.
-  KING. I think thee now some common customer.
+  KING OF FRANCE. I think thee now some common customer.
   DIANA. By Jove, if ever I knew man, 'twas you.
-  KING. Wherefore hast thou accus'd him all this while?
+  KING OF FRANCE. Wherefore hast thou accus'd him all this while?
   DIANA. Because he's guilty, and he is not guilty.
     He knows I am no maid, and he'll swear to't:
     I'll swear I am a maid, and he knows not.
     Great King, I am no strumpet, by my life;
     I am either maid, or else this old man's wife.
                                              [Pointing to LAFEU]
-  KING. She does abuse our ears; to prison with her.
-  DIANA. Good mother, fetch my bail. Stay, royal sir;
-                                                      Exit WIDOW
-    The jeweller that owes the ring is sent for,
+  KING OF FRANCE. She does abuse our ears; to prison with her.
+  DIANA. Good mother, fetch my bail. Stay, royal sir;     Exit       WIDOW
+  DIANA.  The jeweller that owes the ring is sent for,
     And he shall surety me. But for this lord
     Who hath abus'd me as he knows himself,
     Though yet he never harm'd me, here I quit him.
@@ -3139,9 +3122,9 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     So there's my riddle: one that's dead is quick-
     And now behold the meaning.
 
-                     Re-enter WIDOW with HELENA
+                     Enter WIDOW with HELENA
 
-  KING. Is there no exorcist
+  KING OF FRANCE. Is there no exorcist
     Beguiles the truer office of mine eyes?
     Is't real that I see?
   HELENA. No, my good lord;
@@ -3163,7 +3146,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Good Tom Drum, lend me a handkercher. So, I
     thank thee. Wait on me home, I'll make sport with thee;
     let thy curtsies alone, they are scurvy ones.
-  KING. Let us from point to point this story know,
+  KING OF FRANCE. Let us from point to point this story know,
     To make the even truth in pleasure flow.
     [To DIANA]  If thou beest yet a fresh uncropped flower,
     Choose thou thy husband, and I'll pay thy dower;
@@ -3177,7 +3160,7 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
 EPILOGUE
                              EPILOGUE.
 
-  KING. The King's a beggar, now the play is done.
+  KING OF FRANCE. The King's a beggar, now the play is done.
     All is well ended if this suit be won,
     That you express content; which we will pay
     With strife to please you, day exceeding day.

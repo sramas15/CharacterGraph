@@ -11,20 +11,27 @@ Thieves
 Messenger
 John
 Blunt
+King Henry the Fourth
 North
 Mess
 Fran
+Sir Richard Vernon
 Bald
 Host
 Fal
-Gads
+Sir M
 Lady
 Serv
 King
+Owen Glendower
+Vint
 Bar
 Bardolph
+Earl of Westmoreland
+Lady P
+Sir Walter Blunt
 Carrier
-Prince
+Gads
 Poins
 Arch
 Ost
@@ -32,4 +39,5 @@ Cham
 Sher
 Bard
 Doug
-Vint
+Sir John Falstaff
+Prince

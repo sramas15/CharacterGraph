@@ -605,7 +605,7 @@ ROSALINE, MARIA, KATHARINE, BOYET, and two other LORDS
     With such bedecking ornaments of praise?
   FIRST LORD. Here comes Boyet.
 
-                       Re-enter BOYET
+                       Enter BOYET
 
   PRINCESS OF FRANCE. Now, what admittance, lord?
   BOYET. Navarre had notice of your fair approach,
@@ -880,7 +880,7 @@ Enter ARMADO and MOTH
     Most rude melancholy, valour gives thee place.
     My herald is return'd.
 
-                       Re-enter MOTH with COSTARD
+                       Enter MOTH with COSTARD
 
   MOTH. A wonder, master! here's a costard broken in a shin.
   ARMADO. Some enigma, some riddle; come, thy l'envoy; begin.
@@ -2297,7 +2297,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
   PRINCESS OF FRANCE. Whip to our tents, as roes run o'er land.
                  Exeunt PRINCESS, ROSALINE, KATHARINE, and MARIA
 
-         Re-enter the KING, BEROWNE, LONGAVILLE, and DUMAIN,
+         Enter the KING, BEROWNE, LONGAVILLE, and DUMAIN,
                         in their proper habits
 
   KING. Fair sir, God save you! Where's the Princess?
@@ -2328,7 +2328,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
   KING. A blister on his sweet tongue, with my heart,
     That put Armado's page out of his part!
 
-        Re-enter the PRINCESS, ushered by BOYET; ROSALINE,
+        Enter the PRINCESS, ushered by BOYET; ROSALINE,
                       MARIA, and KATHARINE
 
   BEROWNE. See where it comes! Behaviour, what wert thou
@@ -2910,7 +2910,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
     And then 'twill end.
   BEROWNE. That's too long for a play.
 
-                          Re-enter ARMADO
+                          Enter ARMADO
 
   ARMADO. Sweet Majesty, vouchsafe me-
   PRINCESS OF FRANCE. Was not that not Hector?

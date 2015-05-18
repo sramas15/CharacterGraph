@@ -1410,7 +1410,7 @@ Enter THERSITES, solus
     faction. But it was a strong composure a fool could disunite!
   ULYSSES. The amity that wisdom knits not, folly may easily untie.
 
-                    Re-enter PATROCLUS
+                    Enter PATROCLUS
 
     Here comes Patroclus.
   NESTOR. No Achilles with him.
@@ -1468,7 +1468,7 @@ Enter THERSITES, solus
     his own trumpet, his own chronicle; and whatever praises itself
     but in the deed devours the deed in the praise.
 
-                      Re-enter ULYSSES
+                      Enter ULYSSES
 
   AJAX. I do hate a proud man as I do hate the engend'ring of toads.
   NESTOR. [Aside] And yet he loves himself: is't not strange?
@@ -1783,7 +1783,7 @@ Enter PANDARUS and TROILUS' BOY, meeting
     As doth a battle, when they charge on heaps
     The enemy flying.
 
-                     Re-enter PANDARUS
+                     Enter PANDARUS
 
   PANDARUS. She's making her ready, she'll come straight; you must be
     witty now. She does so blush, and fetches her wind so short, as
@@ -1796,7 +1796,7 @@ Enter PANDARUS and TROILUS' BOY, meeting
     Like vassalage at unawares encount'ring
     The eye of majesty.
 
-              Re-enter PANDARUS With CRESSIDA
+              Enter PANDARUS With CRESSIDA
 
   PANDARUS. Come, come, what need you blush? Shame's a baby.-Here she
     is now; swear the oaths now to her that you have sworn to me.-
@@ -1851,7 +1851,7 @@ Enter PANDARUS and TROILUS' BOY, meeting
     truer than Troilus.
   CRESSIDA. Will you walk in, my lord?
 
-                    Re-enter PANDARUS
+                    Enter PANDARUS
 
   PANDARUS. What, blushing still? Have you not done talking yet?
   CRESSIDA. Well, uncle, what folly I commit, I dedicate to you.
@@ -2472,7 +2472,7 @@ Enter TROILUS and CRESSIDA
     ware; you'll be so true to him to be false to him. Do not you
     know of him, but yet go fetch him hither; go.
 
-                       Re-enter TROILUS
+                       Enter TROILUS
 
   TROILUS. How now! What's the matter?
   AENEAS. My lord, I scarce have leisure to salute you,
@@ -2496,7 +2496,7 @@ Enter TROILUS and CRESSIDA
     Antenor! The young prince will go mad. A plague upon Antenor! I
     would they had broke's neck.
 
-                     Re-enter CRESSIDA
+                     Enter CRESSIDA
 
   CRESSIDA. How now! What's the matter? Who was here?
   PANDARUS. Ah, ah!
@@ -2846,7 +2846,7 @@ NESTOR, and others
     This blended knight, half Troyan and half Greek.
   ACHILLES. A maiden battle then? O, I perceive you!
 
-                   Re-enter DIOMEDES
+                   Enter DIOMEDES
 
   AGAMEMNON. Here is Sir Diomed. Go, gentle knight,
     Stand by our Ajax. As you and Lord ]Eneas
@@ -3163,7 +3163,7 @@ Enter ACHILLES and PATROCLUS
   HECTOR. I trouble you.
   AJAX. No, not a whit.
 
-                    Re-enter ACHILLES
+                    Enter ACHILLES
 
   ULYSSES. Here comes himself to guide you.
   ACHILLES. Welcome, brave Hector; welcome, Princes all.
@@ -3289,7 +3289,7 @@ Enter DIOMEDES
     I will not be myself, nor have cognition
     Of what I feel. I am all patience.
 
-                    Re-enter CRESSIDA
+                    Enter CRESSIDA
 
   THERSITES. Now the pledge; now, now, now!
   CRESSIDA. Here, Diomed, keep this sleeve.
@@ -3523,7 +3523,7 @@ Enter HECTOR and ANDROMACHE
     Oppos'd to hinder me, should stop my way,
     But by my ruin.
 
-              Re-enter CASSANDRA, with PRIAM
+              Enter CASSANDRA, with PRIAM
 
   CASSANDRA. Lay hold upon him, Priam, hold him fast;
     He is thy crutch; now if thou lose thy stay,
@@ -3757,7 +3757,7 @@ Enter AJAX
     I would have been much more a fresher man,
     Had I expected thee.
 
-                     Re-enter TROILUS
+                     Enter TROILUS
 
     How now, my brother!
   TROILUS. Ajax hath ta'en Aeneas. Shall it be?

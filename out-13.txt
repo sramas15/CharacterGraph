@@ -388,7 +388,7 @@ ACT I. SCENE 2.
 
 London. The Council Chamber
 
-Cornets. Enter KING HENRY, leaning on the CARDINAL'S shoulder, the NOBLES,
+Cornets. Enter KING, leaning on the CARDINAL'S shoulder, the NOBLES,
 and SIR THOMAS LOVELL, with others. The CARDINAL places himself
 under the KING'S feet on his right side
 
@@ -835,7 +835,7 @@ at another door enter SIR HENRY GUILDFORD
     And to what end, is this? Nay, ladies, fear not:
     By all the laws of war y'are privileg'd.
 
-            Re-enter SERVANT
+            Enter SERVANT
 
   CHAMBERLAIN. How now! what is't?
   SERVANT. A noble troop of strangers-
@@ -1224,7 +1224,7 @@ Enter the LORD CHAMBERLAIN reading this letter
   SUFFOLK. How sad he looks; sure, he is much afflicted.
   KING. Who's there, ha?
   NORFOLK. Pray God he be not angry.
-  KING HENRY. Who's there, I say? How dare you thrust yourselves
+  KING. Who's there, I say? How dare you thrust yourselves
     Into my private meditations?
     Who am I, ha?
   NORFOLK. A gracious king that pardons all offences
@@ -1289,7 +1289,7 @@ Enter the LORD CHAMBERLAIN reading this letter
     Prithee call Gardiner to me, my new secretary;
     I find him a fit fellow.                              Exit WOLSEY
 
-          Re-enter WOLSEY with GARDINER
+          Enter WOLSEY with GARDINER
 
   WOLSEY.  [Aside to GARDINER]  Give me your hand: much
       joy and favour to you;
@@ -2277,7 +2277,7 @@ and the LORD CHAMBERLAIN
     Like a bright exhalation in the evening,
     And no man see me more.
 
-        Re-enter to WOLSEY the DUKES OF NORFOLK and
+        Enter to WOLSEY the DUKES OF NORFOLK and
         SUFFOLK, the EARL OF SURREY, and the LORD
         CHAMBERLAIN
 
@@ -2985,10 +2985,10 @@ ACT V. SCENE 1.
 London. A gallery in the palace
 
 Enter GARDINER, BISHOP OF WINCHESTER, a PAGE with a torch before him,
-met by SIR THOMAS LOVELL
+met by SIR THOMAS LOVELL, BOY
 
   GARDINER. It's one o'clock, boy, is't not?
-  BOY. It hath struck.
+  BOY. It hath struck.       Exit
   GARDINER. These should be hours for necessities,
     Not for delights; times to repair our nature
     With comforting repose, and not for us
@@ -3097,7 +3097,7 @@ met by SIR THOMAS LOVELL
   LOVELL.  [Aside]  This is about that which the bishop spake.
     I am happily come hither.
 
-         Re-enter DENNY, With CRANMER
+         Enter DENNY, With CRANMER
 
   KING. Avoid the gallery.                     [LOVELL seems to stay]
     Ha! I have said. Be gone.

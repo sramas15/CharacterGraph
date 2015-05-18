@@ -2328,7 +2328,7 @@ and others; HERALD, OFFICERS, and BAGOT
     Little are we beholding to your love,
     And little look'd for at your helping hands.
 
-      Re-enter YORK, with KING RICHARD, and OFFICERS
+      Enter YORK, with KING RICHARD, and OFFICERS
                 bearing the regalia
 
   KING RICHARD. Alack, why am I sent for to a king,
@@ -2449,7 +2449,7 @@ and others; HERALD, OFFICERS, and BAGOT
     When I do see the very book indeed
     Where all my sins are writ, and that's myself.
 
-                Re-enter attendant with glass
+                Enter attendant with glass
 
     Give me that glass, and therein will I read.
     No deeper wrinkles yet? Hath sorrow struck

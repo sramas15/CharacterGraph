@@ -302,7 +302,7 @@ Enter JUSTICE SHALLOW, SLENDER, and SIR HUGH EVANS
   SHALLOW. Ay, I think my cousin meant well.
   SLENDER. Ay, or else I would I might be hang'd, la!
 
-                       Re-enter ANNE PAGE
+                       Enter ANNE PAGE
 
   SHALLOW. Here comes fair Mistress Anne. Would I were
     young for your sake, Mistress Anne!
@@ -344,7 +344,7 @@ Enter JUSTICE SHALLOW, SLENDER, and SIR HUGH EVANS
     shriek'd at it that it pass'd; but women, indeed, cannot
     abide 'em; they are very ill-favour'd rough things.
 
-                         Re-enter PAGE
+                         Enter PAGE
 
   PAGE. Come, gentle Master Slender, come; we stay for you.
   SLENDER. I'll eat nothing, I thank you, sir.
@@ -530,7 +530,7 @@ Enter MISTRESS QUICKLY, SIMPLE, and RUGBY
     Tell Master Parson Evans I will do what I can for your
     master. Anne is a good girl, and I wish-
 
-                         Re-enter RUGBY
+                         Enter RUGBY
 
   RUGBY. Out, alas! here comes my master.
   QUICKLY. We shall all be shent. Run in here, good young
@@ -1058,7 +1058,7 @@ Enter FALSTAFF and PISTOL
     Ford and Mistress Page, have I encompass'd you? Go to;
     via!
 
-              Re-enter BARDOLPH, with FORD disguised
+              Enter BARDOLPH, with FORD disguised
 
   FORD. Bless you, sir!
   FALSTAFF. And you, sir! Would you speak with me?
@@ -1338,7 +1338,7 @@ Enter SIR HUGH EVANS and SIMPLE
     And a thousand vagram posies.
     To shallow, etc.
 
-                       Re-enter SIMPLE
+                       Enter SIMPLE
 
   SIMPLE. Yonder he is, coming this way, Sir Hugh.
   EVANS. He's welcome.                                   [Sings]
@@ -1641,7 +1641,7 @@ Enter MISTRESS FORD and MISTRESS PAGE
   MRS. FORD. Pray you, do so; she's a very tattling woman.
                                       [FALSTAFF hides himself]
 
-               Re-enter MISTRESS PAGE and ROBIN
+               Enter MISTRESS PAGE and ROBIN
 
     What's the matter? How now!
   MRS. PAGE. O Mistress Ford, what have you done? You're
@@ -1691,7 +1691,7 @@ Enter MISTRESS FORD and MISTRESS PAGE
     Mistress Ford. You dissembling knight!
   MRS. FORD. What, John! Robert! John!                Exit ROBIN
 
-                 Re-enter SERVANTS
+                 Enter SERVANTS
 
     Go, take up these clothes here, quickly; where's the
     cowl-staff? Look how you drumble. Carry them to the laundress
@@ -1744,7 +1744,7 @@ Enter MISTRESS FORD and MISTRESS PAGE
   MRS. PAGE. We will do it; let him be sent for to-morrow
     eight o'clock, to have amends.
 
-       Re-enter FORD, PAGE, CAIUS, and SIR HUGH EVANS
+       Enter FORD, PAGE, CAIUS, and SIR HUGH EVANS
 
   FORD. I cannot find him; may be the knave bragg'd of that
     he could not compass.
@@ -1944,7 +1944,7 @@ Enter FALSTAFF and BARDOLPH
     had been swell'd! I should have been a mountain of
     mummy.
 
-                  Re-enter BARDOLPH, with sack
+                  Enter BARDOLPH, with sack
 
   BARDOLPH. Here's Mistress Quickly, sir, to speak with you
   FALSTAFF. Come, let me pour in some sack to the Thames
@@ -2211,7 +2211,7 @@ Enter FALSTAFF and MISTRESS FORD
   MRS. FORD. Which way should he go? How should I bestow
     him? Shall I put him into the basket again?
 
-                  Re-enter FALSTAFF
+                  Enter FALSTAFF
 
   FALSTAFF. No, I'll come no more i' th' basket. May I not go
     out ere he come?
@@ -2268,7 +2268,7 @@ Enter FALSTAFF and MISTRESS FORD
     We do not act that often jest and laugh;
     'Tis old but true: Still swine eats all the draff.      Exit
 
-            Re-enter MISTRESS FORD, with two SERVANTS
+            Enter MISTRESS FORD, with two SERVANTS
 
   MRS. FORD. Go, sirs, take the basket again on your shoulders;
     your master is hard at door; if he bid you set it down, obey
@@ -2292,7 +2292,7 @@ Enter FALSTAFF and MISTRESS FORD
   SHALLOW. Indeed, Master Ford, this is not well, indeed.
   FORD. So say I too, sir.
 
-                     Re-enter MISTRESS FORD
+                     Enter MISTRESS FORD
 
     Come hither, Mistress Ford; Mistress Ford, the honest
     woman, the modest wife, the virtuous creature, that hath
@@ -2342,7 +2342,7 @@ Enter FALSTAFF and MISTRESS FORD
   MRS. FORD. Nay, good sweet husband! Good gentlemen, let
     him not strike the old woman.
 
-   Re-enter FALSTAFF in woman's clothes, and MISTRESS PAGE
+   Enter FALSTAFF in woman's clothes, and MISTRESS PAGE
 
   MRS. PAGE. Come, Mother Prat; come. give me your hand.
   FORD. I'll prat her.  [Beating him]  Out of my door, you

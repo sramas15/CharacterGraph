@@ -726,7 +726,7 @@ Enter CORPORAL NYM and LIEUTENANT BARDOLPH
   PISTOL. In cash most justly paid.
   NYM. [Shaking hands] Well, then, that's the humour of't.
 
-                       Re-enter HOSTESS
+                       Enter HOSTESS
 
   HOSTESS. As ever you come of women, come in quickly to Sir John.
     Ah, poor heart! he is so shak'd of a burning quotidian tertian
@@ -1104,7 +1104,7 @@ and BRITAINE, the CONSTABLE, and others
     Self-love, my liege, is not so vile a sin
     As self-neglecting.
 
-               Re-enter LORDS, with EXETER and train
+               Enter LORDS, with EXETER and train
 
   FRENCH KING. From our brother of England?
   EXETER. From him, and thus he greets your Majesty:
@@ -1340,7 +1340,7 @@ Enter NYM, BARDOLPH, PISTOL, and BOY
     seek some better service; their villainy goes against my weak
     stomach, and therefore I must cast it up.               Exit
 
-                 Re-enter FLUELLEN, GOWER following
+                 Enter FLUELLEN, GOWER following
 
   GOWER. Captain Fluellen, you must come presently to the mines; the
     Duke of Gloucester would speak with you.
@@ -2508,7 +2508,7 @@ SALISBURY and WESTMORELAND
     And hold their manhoods cheap whiles any speaks
     That fought with us upon Saint Crispin's day.
 
-                      Re-enter SALISBURY
+                      Enter SALISBURY
 
   SALISBURY. My sovereign lord, bestow yourself with speed:
     The French are bravely in their battles set,

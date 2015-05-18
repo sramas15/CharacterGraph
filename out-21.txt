@@ -691,7 +691,7 @@ Enter a FAIRY at One door, and PUCK at another
   OBERON. Fare thee well, nymph; ere he do leave this grove,
     Thou shalt fly him, and he shall seek thy love.
 
-                            Re-enter PUCK
+                            Enter PUCK
 
     Hast thou the flower there? Welcome, wanderer.
   PUCK. Ay, there it is.
@@ -998,7 +998,7 @@ Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING
     all. Pyramus enter: your cue is past; it is 'never tire.'
   FLUTE. O- As true as truest horse, that y et would never tire.
 
-            Re-enter PUCK, and BOTTOM with an ass's head
+            Enter PUCK, and BOTTOM with an ass's head
 
   BOTTOM. If I were fair, Thisby, I were only thine.
   QUINCE. O monstrous! O strange! We are haunted. Pray, masters! fly,
@@ -1014,13 +1014,13 @@ Exit
   BOTTOM. Why do they run away? This is a knavery of them to make me
     afeard.
 
-                          Re-enter SNOUT
+                          Enter SNOUT
 
   SNOUT. O Bottom, thou art chang'd! What do I see on thee?
   BOTTOM. What do you see? You see an ass-head of your own, do you?
                                                       Exit SNOUT
 
-                          Re-enter QUINCE
+                          Enter QUINCE
 
   QUINCE. Bless thee, Bottom, bless thee! Thou art translated.
  Exit
@@ -1236,7 +1236,7 @@ Enter OBERON
                 When thou wak'st, if she be by,
                 Beg of her for remedy.
 
-                       Re-enter PUCK
+                       Enter PUCK
 
   PUCK.         Captain of our fairy band,
                 Helena is here at hand,
@@ -1572,7 +1572,7 @@ Enter OBERON
   DEMETRIUS. Yea, art thou there?
   PUCK. Follow my voice; we'll try no manhood here.       Exeunt
 
-                      Re-enter LYSANDER
+                      Enter LYSANDER
 
   LYSANDER. He goes before me, and still dares me on;
     When I come where he calls, then he is gone.
@@ -1583,7 +1583,7 @@ Enter OBERON
     For if but once thou show me thy grey light,
     I'll find Demetrius, and revenge this spite.        [Sleeps]
 
-                 Re-enter PUCK and DEMETRIUS
+                 Enter PUCK and DEMETRIUS
 
   PUCK. Ho, ho, ho! Coward, why com'st thou not?
   DEMETRIUS. Abide me, if thou dar'st; for well I wot
@@ -2063,7 +2063,7 @@ Enter THESEUS, HIPPOLYTA, PHILOSTRATE, LORDS, and ATTENDANTS
     Love, therefore, and tongue-tied simplicity
     In least speak most to my capacity.
 
-                       Re-enter PHILOSTRATE
+                       Enter PHILOSTRATE
 
   PHILOSTRATE. SO please your Grace, the Prologue is address'd.
   THESEUS. Let him approach.              [Flourish of trumpets]
@@ -2229,7 +2229,7 @@ Enter THESEUS, HIPPOLYTA, PHILOSTRATE, LORDS, and ATTENDANTS
   DEMETRIUS. Why, all these should be in the lantern; for all these
     are in the moon. But silence; here comes Thisby.
 
-                        Re-enter THISBY
+                        Enter THISBY
 
   THISBY. This is old Ninny's tomb. Where is my love?
   LION. [Roaring] O-                           [THISBY runs off]
@@ -2239,7 +2239,7 @@ Enter THESEUS, HIPPOLYTA, PHILOSTRATE, LORDS, and ATTENDANTS
     grace.            [The LION tears THISBY'S Mantle, and exit]
   THESEUS. Well mous'd, Lion.
 
-                        Re-enter PYRAMUS
+                        Enter PYRAMUS
 
   DEMETRIUS. And then came Pyramus.
   LYSANDER. And so the lion vanish'd.
@@ -2285,7 +2285,7 @@ Enter THESEUS, HIPPOLYTA, PHILOSTRATE, LORDS, and ATTENDANTS
   HIPPOLYTA. How chance Moonshine is gone before Thisby comes back
     and finds her lover?
 
-                       Re-enter THISBY
+                       Enter THISBY
 
   THESEUS. She will find him by starlight. Here she comes; and her
     passion ends the play.

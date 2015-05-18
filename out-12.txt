@@ -8,34 +8,34 @@ by William Shakespeare
 DRAMATIS PERSONAE
 
   KING HENRY THE SIXTH
-  EDWARD, PRINCE OF WALES, his son
-  LEWIS XI, King of France
-  DUKE OF SOMERSET
-  DUKE OF EXETER
-  EARL OF OXFORD
-  EARL OF NORTHUMBERLAND
-  EARL OF WESTMORELAND
-  LORD CLIFFORD
-  RICHARD PLANTAGENET, DUKE OF YORK
-  EDWARD, EARL OF MARCH, afterwards KING EDWARD IV, his son
-  EDMUND, EARL OF RUTLAND, his son
-  GEORGE, afterwards DUKE OF CLARENCE, his son
-  RICHARD, afterwards DUKE OF GLOUCESTER, his son
-  DUKE OF NORFOLK
-  MARQUIS OF MONTAGUE
-  EARL OF WARWICK
+  (EDWARD,) PRINCE OF WALES, his son
+  LEWIS (XI, King of France)
+  (DUKE OF) SOMERSET
+  (DUKE OF) EXETER
+  (EARL OF) OXFORD
+  (EARL OF) NORTHUMBERLAND
+  (EARL OF) WESTMORELAND
+  (LORD) CLIFFORD
+  (RICHARD PLANTAGENET, DUKE OF) YORK
+  EDWARD(, EARL OF MARCH, afterwards KING EDWARD IV,) his son
+  (EDMUND, EARL OF) RUTLAND, his son
+  (GEORGE, afterwards DUKE OF) CLARENCE, his son
+  RICHARD(, afterwards DUKE OF GLOUCESTER,) his son
+  (DUKE OF )NORFOLK
+  (MARQUIS OF) MONTAGUE
+  (EARL OF) WARWICK
   EARL OF PEMBROKE
-  LORD HASTINGS
+  (LORD) HASTINGS
   LORD STAFFORD
-  SIR JOHN MORTIMER, uncle to the Duke of York
+  SIR JOHN (MORTIMER), uncle to the Duke of York
   SIR HUGH MORTIMER, uncle to the Duke of York
   HENRY, EARL OF RICHMOND, a youth
-  LORD RIVERS, brother to Lady Grey
+  (LORD) RIVERS, brother to Lady Grey
   SIR WILLIAM STANLEY
-  SIR JOHN MONTGOMERY
-  SIR JOHN SOMERVILLE
+  (SIR JOHN) MONTGOMERY
+  (SIR JOHN) SOMERVILLE
   TUTOR, to Rutland
-  MAYOR OF YORK
+  MAYOR (OF YORK)
   LIEUTENANT OF THE TOWER
   A NOBLEMAN
   TWO KEEPERS
@@ -62,7 +62,7 @@ England and France
 ACT I. SCENE I.
 London. The Parliament House
 
-Alarum. Enter DUKE OF YORK, EDWARD, RICHARD, NORFOLK, MONTAGUE, WARWICK,
+Alarum. Enter YORK, EDWARD, RICHARD, NORFOLK, MONTAGUE, WARWICK,
 and soldiers, with white roses in their hats
 
   WARWICK. I wonder how the King escap'd our hands.
@@ -374,7 +374,7 @@ Flourish. Enter EDWARD, RICHARD, and MONTAGUE
   EDWARD. No, I can better play the orator.
   MONTAGUE. But I have reasons strong and forcible.
 
-                     Enter the DUKE OF YORK
+                     Enter the YORK
 
   YORK. Why, how now, sons and brother! at a strife?
     What is your quarrel? How began it first?
@@ -528,7 +528,7 @@ Alarum. Enter RUTLAND and his TUTOR
 SCENE IV.
 Another part of the field
 
-Alarum. Enter the DUKE OF YORK
+Alarum. Enter the YORK
 
   YORK. The army of the Queen hath got the field.
     My uncles both are slain in rescuing me;
@@ -1047,7 +1047,7 @@ NORTHUMBERLAND, with drum and trumpets
     And hearten those that fight in your defence.
     Unsheathe your sword, good father; cry 'Saint George!'
 
-         March. Enter EDWARD, GEORGE, RICHARD, WARWICK,
+         March. Enter EDWARD, CLARENCE, RICHARD, WARWICK,
                 NORFOLK, MONTAGUE, and soldiers
 
   EDWARD. Now, perjur'd Henry, wilt thou kneel for grace
@@ -1132,7 +1132,7 @@ NORTHUMBERLAND, with drum and trumpets
     Hadst thou been meek, our title still had slept;
     And we, in pity of the gentle King,
     Had slipp'd our claim until another age.
-  GEORGE. But when we saw our sunshine made thy spring,
+  CLARENCE. But when we saw our sunshine made thy spring,
     And that thy summer bred us no increase,
     We set the axe to thy usurping root;
     And though the edge hath something hit ourselves,
@@ -1169,9 +1169,9 @@ Alarum; excursions. Enter WARWICK
     For this world frowns, and Edward's sun is clouded.
   WARWICK. How now, my lord. What hap? What hope of good?
 
-                         Enter GEORGE
+                         Enter CLARENCE
 
-  GEORGE. Our hap is lost, our hope but sad despair;
+  CLARENCE. Our hap is lost, our hope but sad despair;
     Our ranks are broke, and ruin follows us.
     What counsel give you? Whither shall we fly?
   EDWARD. Bootless is flight: they follow us with wings;
@@ -1214,7 +1214,7 @@ Alarum; excursions. Enter WARWICK
     I that did never weep now melt with woe
     That winter should cut off our spring-time so.
   WARWICK. Away, away! Once more, sweet lords, farewell.
-  GEORGE. Yet let us all together to our troops,
+  CLARENCE. Yet let us all together to our troops,
     And give them leave to fly that will not stay,
     And call them pillars that will stand to us;
     And if we thrive, promise them such rewards
@@ -1450,7 +1450,7 @@ A loud alarum. Enter CLIFFORD, wounded
     I stabb'd your fathers' bosoms: split my breast.
                                                      [He faints]
 
-       Alarum and retreat. Enter EDWARD, GEORGE, RICHARD
+       Alarum and retreat. Enter EDWARD, CLARENCE, RICHARD
                MONTAGUE, WARWICK, and soldiers
 
   EDWARD. Now breathe we, lords. Good fortune bids us pause
@@ -1492,14 +1492,14 @@ A loud alarum. Enter CLIFFORD, wounded
     'Tis but his policy to counterfeit,
     Because he would avoid such bitter taunts
     Which in the time of death he gave our father.
-  GEORGE. If so thou think'st, vex him with eager words.
+  CLARENCE. If so thou think'st, vex him with eager words.
   RICHARD. Clifford, ask mercy and obtain no grace.
   EDWARD. Clifford, repent in bootless penitence.
   WARWICK. Clifford, devise excuses for thy faults.
-  GEORGE. While we devise fell tortures for thy faults.
+  CLARENCE. While we devise fell tortures for thy faults.
   RICHARD. Thou didst love York, and I am son to York.
   EDWARD. Thou pitied'st Rutland, I will pity thee.
-  GEORGE. Where's Captain Margaret, to fence you now?
+  CLARENCE. Where's Captain Margaret, to fence you now?
   WARWICK. They mock thee, Clifford; swear as thou wast wont.
   RICHARD. What, not an oath? Nay, then the world goes hard
     When Clifford cannot spare his friends an oath.
@@ -1546,7 +1546,7 @@ END_ACT
 ACT III. SCENE I.
 A chase in the north of England
 
-Enter two KEEPERS, with cross-bows in their hands
+Enter FIRST KEEPER, SECOND KEEPER, with cross-bows in their hands
 
   FIRST KEEPER. Under this thick-grown brake we'll shroud ourselves,
     For through this laund anon the deer will come;
@@ -1663,100 +1663,100 @@ END_ACT
 SCENE II.
 London. The palace
 
-Enter KING EDWARD, GLOUCESTER, CLARENCE, and LADY GREY
+Enter EDWARD, RICHARD, CLARENCE, and LADY GREY
 
-  KING EDWARD. Brother of Gloucester, at Saint Albans' field
+  EDWARD. Brother of Gloucester, at Saint Albans' field
     This lady's husband, Sir Richard Grey, was slain,
     His land then seiz'd on by the conqueror.
     Her suit is now to repossess those lands;
     Which we in justice cannot well deny,
     Because in quarrel of the house of York
     The worthy gentleman did lose his life.
-  GLOUCESTER. Your Highness shall do well to grant her suit;
+  RICHARD. Your Highness shall do well to grant her suit;
     It were dishonour to deny it her.
-  KING EDWARD. It were no less; but yet I'll make a pause.
-  GLOUCESTER. [Aside to CLARENCE] Yea, is it so?
+  EDWARD. It were no less; but yet I'll make a pause.
+  RICHARD. [Aside to CLARENCE] Yea, is it so?
     I see the lady hath a thing to grant,
     Before the King will grant her humble suit.
-  CLARENCE. [Aside to GLOUCESTER] He knows the game; how true he
+  CLARENCE. [Aside to RICHARD] He knows the game; how true he
     keeps the wind!
-  GLOUCESTER. [Aside to CLARENCE] Silence!
-  KING EDWARD. Widow, we will consider of your suit;
+  RICHARD. [Aside to CLARENCE] Silence!
+  EDWARD. Widow, we will consider of your suit;
     And come some other time to know our mind.
   LADY GREY. Right gracious lord, I cannot brook delay.
     May it please your Highness to resolve me now;
     And what your pleasure is shall satisfy me.
-  GLOUCESTER. [Aside] Ay, widow? Then I'll warrant you all your
+  RICHARD. [Aside] Ay, widow? Then I'll warrant you all your
       lands,
     An if what pleases him shall pleasure you.
     Fight closer or, good faith, you'll catch a blow.
-  CLARENCE. [Aside to GLOUCESTER] I fear her not, unless she chance
+  CLARENCE. [Aside to RICHARD] I fear her not, unless she chance
     to fall.
-  GLOUCESTER. [Aside to CLARENCE] God forbid that, for he'll take
+  RICHARD. [Aside to CLARENCE] God forbid that, for he'll take
     vantages.
-  KING EDWARD. How many children hast thou, widow, tell me.
-  CLARENCE. [Aside to GLOUCESTER] I think he means to beg a child of
+  EDWARD. How many children hast thou, widow, tell me.
+  CLARENCE. [Aside to RICHARD] I think he means to beg a child of
     her.
-  GLOUCESTER. [Aside to CLARENCE] Nay, then whip me; he'll rather
+  RICHARD. [Aside to CLARENCE] Nay, then whip me; he'll rather
     give her two.
   LADY GREY. Three, my most gracious lord.
-  GLOUCESTER. [Aside] You shall have four if you'll be rul'd by him.
-  KING EDWARD. 'Twere pity they should lose their father's lands.
+  RICHARD. [Aside] You shall have four if you'll be rul'd by him.
+  EDWARD. 'Twere pity they should lose their father's lands.
   LADY GREY. Be pitiful, dread lord, and grant it, then.
-  KING EDWARD. Lords, give us leave; I'll try this widow's wit.
-  GLOUCESTER. [Aside] Ay, good leave have you; for you will have
+  EDWARD. Lords, give us leave; I'll try this widow's wit.
+  RICHARD. [Aside] Ay, good leave have you; for you will have
       leave
     Till youth take leave and leave you to the crutch.
-                              [GLOUCESTER and CLARENCE withdraw]
-  KING EDWARD. Now tell me, madam, do you love your children?
+                              [RICHARD and CLARENCE withdraw]
+  EDWARD. Now tell me, madam, do you love your children?
   LADY GREY. Ay, full as dearly as I love myself.
-  KING EDWARD. And would you not do much to do them good?
+  EDWARD. And would you not do much to do them good?
   LADY GREY. To do them good I would sustain some harm.
-  KING EDWARD. Then get your husband's lands, to do them good.
+  EDWARD. Then get your husband's lands, to do them good.
   LADY GREY. Therefore I came unto your Majesty.
-  KING EDWARD. I'll tell you how these lands are to be got.
+  EDWARD. I'll tell you how these lands are to be got.
   LADY GREY. So shall you bind me to your Highness' service.
-  KING EDWARD. What service wilt thou do me if I give them?
+  EDWARD. What service wilt thou do me if I give them?
   LADY GREY. What you command that rests in me to do.
-  KING EDWARD. But you will take exceptions to my boon.
+  EDWARD. But you will take exceptions to my boon.
   LADY GREY. No, gracious lord, except I cannot do it.
-  KING EDWARD. Ay, but thou canst do what I mean to ask.
+  EDWARD. Ay, but thou canst do what I mean to ask.
   LADY GREY. Why, then I will do what your Grace commands.
-  GLOUCESTER. He plies her hard; and much rain wears the marble.
+  RICHARD. He plies her hard; and much rain wears the marble.
   CLARENCE. As red as fire! Nay, then her wax must melt.
   LADY GREY. Why stops my lord? Shall I not hear my task?
-  KING EDWARD. An easy task; 'tis but to love a king.
+  EDWARD. An easy task; 'tis but to love a king.
   LADY GREY. That's soon perform'd, because I am a subject.
-  KING EDWARD. Why, then, thy husband's lands I freely give thee.
+  EDWARD. Why, then, thy husband's lands I freely give thee.
   LADY GREY. I take my leave with many thousand thanks.
-  GLOUCESTER. The match is made; she seals it with a curtsy.
-  KING EDWARD. But stay thee- 'tis the fruits of love I mean.
+  RICHARD. The match is made; she seals it with a curtsy.
+  EDWARD. But stay thee- 'tis the fruits of love I mean.
   LADY GREY. The fruits of love I mean, my loving liege.
-  KING EDWARD. Ay, but, I fear me, in another sense.
+  EDWARD. Ay, but, I fear me, in another sense.
     What love, thinkst thou, I sue so much to get?
   LADY GREY. My love till death, my humble thanks, my prayers;
     That love which virtue begs and virtue grants.
-  KING EDWARD. No, by my troth, I did not mean such love.
+  EDWARD. No, by my troth, I did not mean such love.
   LADY GREY. Why, then you mean not as I thought you did.
-  KING EDWARD. But now you partly may perceive my mind.
+  EDWARD. But now you partly may perceive my mind.
   LADY GREY. My mind will never grant what I perceive
     Your Highness aims at, if I aim aright.
-  KING EDWARD. To tell thee plain, I aim to lie with thee.
+  EDWARD. To tell thee plain, I aim to lie with thee.
   LADY GREY. To tell you plain, I had rather lie in prison.
-  KING EDWARD. Why, then thou shalt not have thy husband's lands.
+  EDWARD. Why, then thou shalt not have thy husband's lands.
   LADY GREY. Why, then mine honesty shall be my dower;
     For by that loss I will not purchase them.
-  KING EDWARD. Therein thou wrong'st thy children mightily.
+  EDWARD. Therein thou wrong'st thy children mightily.
   LADY GREY. Herein your Highness wrongs both them and me.
     But, mighty lord, this merry inclination
     Accords not with the sadness of my suit.
     Please you dismiss me, either with ay or no.
-  KING EDWARD. Ay, if thou wilt say ay to my request;
+  EDWARD. Ay, if thou wilt say ay to my request;
     No, if thou dost say no to my demand.
   LADY GREY. Then, no, my lord. My suit is at an end.
-  GLOUCESTER. The widow likes him not; she knits her brows.
+  RICHARD. The widow likes him not; she knits her brows.
   CLARENCE. He is the bluntest wooer in Christendom.
-  KING EDWARD. [Aside] Her looks doth argue her replete with modesty;
+  EDWARD. [Aside] Her looks doth argue her replete with modesty;
     Her words doth show her wit incomparable;
     All her perfections challenge sovereignty.
     One way or other, she is for a king;
@@ -1765,43 +1765,43 @@ Enter KING EDWARD, GLOUCESTER, CLARENCE, and LADY GREY
   LADY GREY. 'Tis better said than done, my gracious lord.
     I am a subject fit to jest withal,
     But far unfit to be a sovereign.
-  KING EDWARD. Sweet widow, by my state I swear to thee
+  EDWARD. Sweet widow, by my state I swear to thee
     I speak no more than what my soul intends;
     And that is to enjoy thee for my love.
   LADY GREY. And that is more than I will yield unto.
     I know I am too mean to be your queen,
     And yet too good to be your concubine.
-  KING EDWARD. You cavil, widow; I did mean my queen.
+  EDWARD. You cavil, widow; I did mean my queen.
   LADY GREY. 'Twill grieve your Grace my sons should call you father.
-  KING EDWARD.No more than when my daughters call thee mother.
+  EDWARD.No more than when my daughters call thee mother.
     Thou art a widow, and thou hast some children;
     And, by God's Mother, I, being but a bachelor,
     Have other some. Why, 'tis a happy thing
     To be the father unto many sons.
     Answer no more, for thou shalt be my queen.
-  GLOUCESTER. The ghostly father now hath done his shrift.
+  RICHARD. The ghostly father now hath done his shrift.
   CLARENCE. When he was made a shriver, 'twas for shrift.
-  KING EDWARD. Brothers, you muse what chat we two have had.
-  GLOUCESTER. The widow likes it not, for she looks very sad.
-  KING EDWARD. You'd think it strange if I should marry her.
+  EDWARD. Brothers, you muse what chat we two have had.
+  RICHARD. The widow likes it not, for she looks very sad.
+  EDWARD. You'd think it strange if I should marry her.
   CLARENCE. To who, my lord?
-  KING EDWARD. Why, Clarence, to myself.
-  GLOUCESTER. That would be ten days' wonder at the least.
+  EDWARD. Why, Clarence, to myself.
+  RICHARD. That would be ten days' wonder at the least.
   CLARENCE. That's a day longer than a wonder lasts.
-  GLOUCESTER. By so much is the wonder in extremes.
-  KING EDWARD. Well, jest on, brothers; I can tell you both
+  RICHARD. By so much is the wonder in extremes.
+  EDWARD. Well, jest on, brothers; I can tell you both
     Her suit is granted for her husband's lands.
 
                        Enter a NOBLEMAN
 
   NOBLEMAN. My gracious lord, Henry your foe is taken
     And brought your prisoner to your palace gate.
-  KING EDWARD. See that he be convey'd unto the Tower.
+  EDWARD. See that he be convey'd unto the Tower.
     And go we, brothers, to the man that took him
     To question of his apprehension.
     Widow, go you along. Lords, use her honourably.
-                                       Exeunt all but GLOUCESTER
-  GLOUCESTER. Ay, Edward will use women honourably.
+                                       Exeunt all but RICHARD
+  RICHARD. Ay, Edward will use women honourably.
     Would he were wasted, marrow, bones, and all,
     That from his loins no hopeful branch may spring
     To cross me from the golden time I look for!
@@ -1881,8 +1881,8 @@ SCENE III.
 France.  The KING'S palace
 
 Flourish.  Enter LEWIS the French King, his sister BONA,
-his Admiral call'd BOURBON; PRINCE EDWARD, QUEEN MARGARET,
-and the EARL of OXFORD.  LEWIS sits, and riseth up again
+his Admiral call'd BOURBON; PRINCE OF WALES, QUEEN MARGARET,
+and the OXFORD.  LEWIS sits, and riseth up again
 
   LEWIS. Fair Queen of England, worthy Margaret,
     Sit down with us. It ill befits thy state
@@ -2175,37 +2175,37 @@ END_ACT
 ACT IV. SCENE I.
 London. The palace
 
-Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
+Enter RICHARD, CLARENCE, SOMERSET, and MONTAGUE
 
-  GLOUCESTER. Now tell me, brother Clarence, what think you
+  RICHARD. Now tell me, brother Clarence, what think you
     Of this new marriage with the Lady Grey?
     Hath not our brother made a worthy choice?
   CLARENCE. Alas, you know 'tis far from hence to France!
     How could he stay till Warwick made return?
   SOMERSET. My lords, forbear this talk; here comes the King.
 
-           Flourish. Enter KING EDWARD, attended; LADY
+           Flourish. Enter EDWARD, attended; LADY
           GREY, as Queen; PEMBROKE, STAFFORD, HASTINGS,
       and others. Four stand on one side, and four on the other
 
-  GLOUCESTER. And his well-chosen bride.
+  RICHARD. And his well-chosen bride.
   CLARENCE. I mind to tell him plainly what I think.
-  KING EDWARD. Now, brother of Clarence, how like you our choice
+  EDWARD. Now, brother of Clarence, how like you our choice
     That you stand pensive as half malcontent?
   CLARENCE. As well as Lewis of France or the Earl of Warwick,
     Which are so weak of courage and in judgment
     That they'll take no offence at our abuse.
-  KING EDWARD. Suppose they take offence without a cause;
+  EDWARD. Suppose they take offence without a cause;
     They are but Lewis and Warwick: I am Edward,
     Your King and Warwick's and must have my will.
-  GLOUCESTER. And shall have your will, because our King.
+  RICHARD. And shall have your will, because our King.
     Yet hasty marriage seldom proveth well.
-  KING EDWARD. Yea, brother Richard, are you offended too?
-  GLOUCESTER. Not I.
+  EDWARD. Yea, brother Richard, are you offended too?
+  RICHARD. Not I.
     No, God forbid that I should wish them sever'd
     Whom God hath join'd together; ay, and 'twere pity
     To sunder them that yoke so well together.
-  KING EDWARD. Setting your scorns and your mislike aside,
+  EDWARD. Setting your scorns and your mislike aside,
     Tell me some reason why the Lady Grey
     Should not become my wife and England's Queen.
     And you too, Somerset and Montague,
@@ -2213,9 +2213,9 @@ Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
   CLARENCE. Then this is mine opinion: that King Lewis
     Becomes your enemy for mocking him
     About the marriage of the Lady Bona.
-  GLOUCESTER. And Warwick, doing what you gave in charge,
+  RICHARD. And Warwick, doing what you gave in charge,
     Is now dishonoured by this new marriage.
-  KING EDWARD. What if both Lewis and Warwick be appeas'd
+  EDWARD. What if both Lewis and Warwick be appeas'd
     By such invention as I can devise?
   MONTAGUE. Yet to have join'd with France in such alliance
     Would more have strength'ned this our commonwealth
@@ -2230,9 +2230,9 @@ Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
     In them and in ourselves our safety lies.
   CLARENCE. For this one speech Lord Hastings well deserves
     To have the heir of the Lord Hungerford.
-  KING EDWARD. Ay, what of that? it was my will and grant;
+  EDWARD. Ay, what of that? it was my will and grant;
     And for this once my will shall stand for law.
-  GLOUCESTER. And yet methinks your Grace hath not done well
+  RICHARD. And yet methinks your Grace hath not done well
     To give the heir and daughter of Lord Scales
     Unto the brother of your loving bride.
     She better would have fitted me or Clarence;
@@ -2240,13 +2240,13 @@ Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
   CLARENCE. Or else you would not have bestow'd the heir
     Of the Lord Bonville on your new wife's son,
     And leave your brothers to go speed elsewhere.
-  KING EDWARD. Alas, poor Clarence! Is it for a wife
+  EDWARD. Alas, poor Clarence! Is it for a wife
     That thou art malcontent? I will provide thee.
   CLARENCE. In choosing for yourself you show'd your judgment,
     Which being shallow, you shall give me leave
     To play the broker in mine own behalf;
     And to that end I shortly mind to leave you.
-  KING EDWARD. Leave me or tarry, Edward will be King,
+  EDWARD. Leave me or tarry, Edward will be King,
     And not be tied unto his brother's will.
   QUEEN ELIZABETH. My lords, before it pleas'd his Majesty
     To raise my state to title of a queen,
@@ -2256,7 +2256,7 @@ Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
     But as this title honours me and mine,
     So your dislikes, to whom I would be pleasing,
     Doth cloud my joys with danger and with sorrow.
-  KING EDWARD. My love, forbear to fawn upon their frowns.
+  EDWARD. My love, forbear to fawn upon their frowns.
     What danger or what sorrow can befall thee,
     So long as Edward is thy constant friend
     And their true sovereign whom they must obey?
@@ -2264,39 +2264,39 @@ Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
     Unless they seek for hatred at my hands;
     Which if they do, yet will I keep thee safe,
     And they shall feel the vengeance of my wrath.
-  GLOUCESTER. [Aside] I hear, yet say not much, but think the more.
+  RICHARD. [Aside] I hear, yet say not much, but think the more.
 
                           Enter a POST
 
-  KING EDWARD. Now, messenger, what letters or what news
+  EDWARD. Now, messenger, what letters or what news
     From France?
   MESSENGER. My sovereign liege, no letters, and few words,
     But such as I, without your special pardon,
     Dare not relate.
-  KING EDWARD. Go to, we pardon thee; therefore, in brief,
+  EDWARD. Go to, we pardon thee; therefore, in brief,
     Tell me their words as near as thou canst guess them.
     What answer makes King Lewis unto our letters?
   MESSENGER. At my depart, these were his very words:
     'Go tell false Edward, the supposed king,
     That Lewis of France is sending over masquers
     To revel it with him and his new bride.'
-  KING EDWARD. IS Lewis so brave? Belike he thinks me Henry.
+  EDWARD. IS Lewis so brave? Belike he thinks me Henry.
     But what said Lady Bona to my marriage?
   MESSENGER. These were her words, utt'red with mild disdain:
     'Tell him, in hope he'll prove a widower shortly,
     I'll wear the willow-garland for his sake.'
-  KING EDWARD. I blame not her: she could say little less;
+  EDWARD. I blame not her: she could say little less;
     She had the wrong. But what said Henry's queen?
     For I have heard that she was there in place.
   MESSENGER. 'Tell him' quoth she 'my mourning weeds are done,
     And I am ready to put armour on.'
-  KING EDWARD. Belike she minds to play the Amazon.
+  EDWARD. Belike she minds to play the Amazon.
     But what said Warwick to these injuries?
   MESSENGER. He, more incens'd against your Majesty
     Than all the rest, discharg'd me with these words:
     'Tell him from me that he hath done me wrong;
     And therefore I'll uncrown him ere't be long.'
-  KING EDWARD. Ha! durst the traitor breathe out so proud words?
+  EDWARD. Ha! durst the traitor breathe out so proud words?
     Well, I will arm me, being thus forewarn'd.
     They shall have wars and pay for their presumption.
     But say, is Warwick friends with Margaret?
@@ -2309,10 +2309,10 @@ Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
     I may not prove inferior to yourself.
     You that love me and Warwick, follow me.
                                       Exit, and SOMERSET follows
-  GLOUCESTER. [Aside] Not I.
+  RICHARD. [Aside] Not I.
     My thoughts aim at a further matter; I
     Stay not for the love of Edward but the crown.
-  KING EDWARD. Clarence and Somerset both gone to Warwick!
+  EDWARD. Clarence and Somerset both gone to Warwick!
     Yet am I arm'd against the worst can happen;
     And haste is needful in this desp'rate case.
     Pembroke and Stafford, you in our behalf
@@ -2331,9 +2331,9 @@ Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE
     That I may never have you in suspect.
   MONTAGUE. So God help Montague as he proves true!
   HASTINGS. And Hastings as he favours Edward's cause!
-  KING EDWARD. Now, brother Richard, will you stand by us?
-  GLOUCESTER. Ay, in despite of all that shall withstand you.
-  KING EDWARD. Why, so! then am I sure of victory.
+  EDWARD. Now, brother Richard, will you stand by us?
+  RICHARD. Ay, in despite of all that shall withstand you.
+  EDWARD. Why, so! then am I sure of victory.
     Now therefore let us hence, and lose no hour
     Till we meet Warwick with his foreign pow'r.          Exeunt
 
@@ -2384,7 +2384,7 @@ Enter WARWICK and OXFORD, with French soldiers
 SCENE III.
 Edward's camp, near Warwick
 
-Enter three WATCHMEN, to guard the KING'S tent
+Enter FIRST WATCHMAN, SECOND WATCHMAN, THIRD WATCHMAN, to guard the KING'S tent
 
   FIRST WATCHMAN. Come on, my masters, each man take his stand;
     The King by this is set him down to sleep.
@@ -2422,13 +2422,13 @@ Enter three WATCHMEN, to guard the KING'S tent
       set upon the guard, who fly, crying 'Arm! Arm!' WARWICK
                    and the rest following them
 
-      The drum playing and trumpet sounding, re-enter WARWICK
-         and the rest, bringing the KING out in his gown,
-   sitting in a chair. GLOUCESTER and HASTINGS fly over the stage
+      The drum playing and trumpet sounding, Enter WARWICK
+         and the rest, bringing the EDWARD out in his gown,
+   sitting in a chair. RICHARD and HASTINGS fly over the stage
 
   SOMERSET. What are they that fly there?
   WARWICK. Richard and Hastings. Let them go; here is the Duke.
-  KING EDWARD. The Duke! Why, Warwick, when we parted,
+  EDWARD. The Duke! Why, Warwick, when we parted,
     Thou call'dst me King?
   WARWICK. Ay, but the case is alter'd.
     When you disgrac'd me in my embassade,
@@ -2440,7 +2440,7 @@ Enter three WATCHMEN, to guard the KING'S tent
     Nor how to use your brothers brotherly,
     Nor how to study for the people's welfare,
     Nor how to shroud yourself from enemies?
-  KING EDWARD. Yea, brother of Clarence, art thou here too?
+  EDWARD. Yea, brother of Clarence, art thou here too?
     Nay, then I see that Edward needs must down.
     Yet, Warwick, in despite of all mischance,
     Of thee thyself and all thy complices,
@@ -2458,7 +2458,7 @@ Enter three WATCHMEN, to guard the KING'S tent
     I'll follow you and tell what answer
     Lewis and the Lady Bona send to him.
     Now for a while farewell, good Duke of York.
-  KING EDWARD. What fates impose, that men must needs abide;
+  EDWARD. What fates impose, that men must needs abide;
     It boots not to resist both wind and tide.
                                     [They lead him out forcibly]
   OXFORD. What now remains, my lords, for us to do
@@ -2517,9 +2517,9 @@ Enter QUEEN ELIZABETH and RIVERS
 SCENE V.
 A park near Middleham Castle in Yorkshire
 
-Enter GLOUCESTER, LORD HASTINGS, SIR WILLIAM STANLEY, and others
+Enter RICHARD, HASTINGS, SIR WILLIAM STANLEY, and others
 
-  GLOUCESTER. Now, my Lord Hastings and Sir William Stanley,
+  RICHARD. Now, my Lord Hastings and Sir William Stanley,
     Leave off to wonder why I drew you hither
     Into this chiefest thicket of the park.
     Thus stands the case: you know our King, my brother,
@@ -2533,23 +2533,23 @@ Enter GLOUCESTER, LORD HASTINGS, SIR WILLIAM STANLEY, and others
     He shall here find his friends, with horse and men,
     To set him free from his captivity.
 
-             Enter KING EDWARD and a HUNTSMAN with him
+             Enter EDWARD and a HUNTSMAN with him
 
   HUNTSMAN. This way, my lord; for this way lies the game.
-  KING EDWARD. Nay, this way, man. See where the huntsmen stand.
+  EDWARD. Nay, this way, man. See where the huntsmen stand.
     Now, brother of Gloucester, Lord Hastings, and the rest,
     Stand you thus close to steal the Bishop's deer?
-  GLOUCESTER. Brother, the time and case requireth haste;
+  RICHARD. Brother, the time and case requireth haste;
     Your horse stands ready at the park corner.
-  KING EDWARD. But whither shall we then?
+  EDWARD. But whither shall we then?
   HASTINGS. To Lynn, my lord; and shipt from thence to Flanders.
-  GLOUCESTER. Well guess'd, believe me; for that was my meaning.
-  KING EDWARD. Stanley, I will requite thy forwardness.
-  GLOUCESTER. But wherefore stay we? 'Tis no time to talk.
-  KING EDWARD. Huntsman, what say'st thou? Wilt thou go along?
+  RICHARD. Well guess'd, believe me; for that was my meaning.
+  EDWARD. Stanley, I will requite thy forwardness.
+  RICHARD. But wherefore stay we? 'Tis no time to talk.
+  EDWARD. Huntsman, what say'st thou? Wilt thou go along?
   HUNTSMAN. Better do so than tarry and be hang'd.
-  GLOUCESTER. Come then, away; let's ha' no more ado.
-  KING EDWARD. Bishop, farewell. Shield thee from Warwick's frown,
+  RICHARD. Come then, away; let's ha' no more ado.
+  EDWARD. Bishop, farewell. Shield thee from Warwick's frown,
     And pray that I may repossess the crown.              Exeunt
 
 
@@ -2676,9 +2676,9 @@ EARL OF RICHMOND, OXFORD, MONTAGUE, LIEUTENANT OF THE TOWER, and attendants
 SCENE VII.
 Before York
 
-Flourish. Enter KING EDWARD, GLOUCESTER, HASTINGS, and soldiers
+Flourish. Enter EDWARD, RICHARD, HASTINGS, and soldiers
 
-  KING EDWARD. Now, brother Richard, Lord Hastings, and the rest,
+  EDWARD. Now, brother Richard, Lord Hastings, and the rest,
     Yet thus far fortune maketh us amends,
     And says that once more I shall interchange
     My waned state for Henry's regal crown.
@@ -2687,32 +2687,32 @@ Flourish. Enter KING EDWARD, GLOUCESTER, HASTINGS, and soldiers
     What then remains, we being thus arriv'd
     From Ravenspurgh haven before the gates of York,
     But that we enter, as into our dukedom?
-  GLOUCESTER. The gates made fast! Brother, I like not this;
+  RICHARD. The gates made fast! Brother, I like not this;
     For many men that stumble at the threshold
     Are well foretold that danger lurks within.
-  KING EDWARD. Tush, man, abodements must not now affright us.
+  EDWARD. Tush, man, abodements must not now affright us.
     By fair or foul means we must enter in,
     For hither will our friends repair to us.
   HASTINGS. My liege, I'll knock once more to summon them.
 
-         Enter, on the walls, the MAYOR OF YORK and
+         Enter, on the walls, the MAYOR and
                        his BRETHREN
 
   MAYOR. My lords, we were forewarned of your coming
     And shut the gates for safety of ourselves,
     For now we owe allegiance unto Henry.
-  KING EDWARD. But, Master Mayor, if Henry be your King,
+  EDWARD. But, Master Mayor, if Henry be your King,
     Yet Edward at the least is Duke of York.
   MAYOR. True, my good lord; I know you for no less.
-  KING EDWARD. Why, and I challenge nothing but my dukedom,
+  EDWARD. Why, and I challenge nothing but my dukedom,
     As being well content with that alone.
-  GLOUCESTER. [Aside] But when the fox hath once got in his nose,
+  RICHARD. [Aside] But when the fox hath once got in his nose,
     He'll soon find means to make the body follow.
   HASTINGS. Why, Master Mayor, why stand you in a doubt?
     Open the gates; we are King Henry's friends.
   MAYOR. Ay, say you so? The gates shall then be open'd.
                                                    [He descends]
-  GLOUCESTER. A wise stout captain, and soon persuaded!
+  RICHARD. A wise stout captain, and soon persuaded!
   HASTINGS. The good old man would fain that all were well,
     So 'twere not long of him; but being ent'red,
     I doubt not, I, but we shall soon persuade
@@ -2720,7 +2720,7 @@ Flourish. Enter KING EDWARD, GLOUCESTER, HASTINGS, and soldiers
 
              Enter, below, the MAYOR and two ALDERMEN
 
-  KING EDWARD. So, Master Mayor. These gates must not be shut
+  EDWARD. So, Master Mayor. These gates must not be shut
     But in the night or in the time of war.
     What! fear not, man, but yield me up the keys;
                                                 [Takes his keys]
@@ -2729,33 +2729,33 @@ Flourish. Enter KING EDWARD, GLOUCESTER, HASTINGS, and soldiers
 
            March. Enter MONTGOMERY with drum and soldiers
 
-  GLOUCESTER. Brother, this is Sir John Montgomery,
+  RICHARD. Brother, this is Sir John Montgomery,
     Our trusty friend, unless I be deceiv'd.
-  KING EDWARD. Welcome, Sir john! But why come you in arms?
+  EDWARD. Welcome, Sir john! But why come you in arms?
   MONTGOMERY. To help King Edward in his time of storm,
     As every loyal subject ought to do.
-  KING EDWARD. Thanks, good Montgomery; but we now forget
+  EDWARD. Thanks, good Montgomery; but we now forget
     Our title to the crown, and only claim
     Our dukedom till God please to send the rest.
   MONTGOMERY. Then fare you well, for I will hence again.
     I came to serve a king and not a duke.
     Drummer, strike up, and let us march away.
                                       [The drum begins to march]
-  KING EDWARD. Nay, stay, Sir John, a while, and we'll debate
+  EDWARD. Nay, stay, Sir John, a while, and we'll debate
     By what safe means the crown may be recover'd.
   MONTGOMERY. What talk you of debating? In few words:
     If you'll not here proclaim yourself our King,
     I'll leave you to your fortune and be gone
     To keep them back that come to succour you.
     Why shall we fight, if you pretend no title?
-  GLOUCESTER. Why, brother, wherefore stand you on nice points?
-  KING EDWARD. When we grow stronger, then we'll make our claim;
+  RICHARD. Why, brother, wherefore stand you on nice points?
+  EDWARD. When we grow stronger, then we'll make our claim;
     Till then 'tis wisdom to conceal our meaning.
   HASTINGS. Away with scrupulous wit! Now arms must rule.
-  GLOUCESTER. And fearless minds climb soonest unto crowns.
+  RICHARD. And fearless minds climb soonest unto crowns.
     Brother, we will proclaim you out of hand;
     The bruit thereof will bring you many friends.
-  KING EDWARD. Then be it as you will; for 'tis my right,
+  EDWARD. Then be it as you will; for 'tis my right,
     And Henry but usurps the diadem.
   MONTGOMERY. Ay, now my sovereign speaketh like himself;
     And now will I be Edward's champion.
@@ -2768,7 +2768,7 @@ Flourish. Enter KING EDWARD, GLOUCESTER, HASTINGS, and soldiers
     By this I challenge him to single fight.
                                           [Throws down gauntlet]
   ALL. Long live Edward the Fourth!
-  KING EDWARD. Thanks, brave Montgomery, and thanks unto you all;
+  EDWARD. Thanks, brave Montgomery, and thanks unto you all;
     If fortune serve me, I'll requite this kindness.
     Now for this night let's harbour here in York;
     And when the morning sun shall raise his car
@@ -2844,9 +2844,9 @@ Flourish. Enter KING HENRY, WARWICK, MONTAGUE, CLARENCE, OXFORD, and EXETER
                       [Shout within 'A Lancaster! A Lancaster!']
   EXETER. Hark, hark, my lord! What shouts are these?
 
-            Enter KING EDWARD, GLOUCESTER, and soldiers
+            Enter EDWARD, RICHARD, and soldiers
 
-  KING EDWARD. Seize on the shame-fac'd Henry, bear him hence;
+  EDWARD. Seize on the shame-fac'd Henry, bear him hence;
     And once again proclaim us King of England.
     You are the fount that makes small brooks to flow.
     Now stops thy spring; my sea shall suck them dry,
@@ -2857,7 +2857,7 @@ Flourish. Enter KING HENRY, WARWICK, MONTAGUE, CLARENCE, OXFORD, and EXETER
     Where peremptory Warwick now remains.
     The sun shines hot; and, if we use delay,
     Cold biting winter mars our hop'd-for hay.
-  GLOUCESTER. Away betimes, before his forces join,
+  RICHARD. Away betimes, before his forces join,
     And take the great-grown traitor unawares.
     Brave warriors, march amain towards Coventry.         Exeunt
 
@@ -2871,7 +2871,7 @@ END_ACT
 ACT V. SCENE I.
 Coventry
 
-Enter WARWICK, the MAYOR OF COVENTRY, two MESSENGERS,
+Enter WARWICK, the MAYOR OF COVENTRY, FIRST MESSENGER, SECOND MESSENGER,
 and others upon the walls
 
   WARWICK. Where is the post that came from valiant Oxford?
@@ -2881,7 +2881,7 @@ and others upon the walls
     Where is the post that came from Montague?
   SECOND MESSENGER. By this at Daintry, with a puissant troop.
 
-                   Enter SIR JOHN SOMERVILLE
+                   Enter SOMERVILLE
 
   WARWICK. Say, Somerville, what says my loving son?
     And by thy guess how nigh is Clarence now?
@@ -2894,15 +2894,15 @@ and others upon the walls
   WARWICK. Who should that be? Belike unlook'd for friends.
   SOMERVILLE. They are at hand, and you shall quickly know.
 
-        March. Flourish. Enter KING EDWARD, GLOUCESTER,
+        March. Flourish. Enter EDWARD, RICHARD,
                          and soldiers
 
-  KING EDWARD. Go, trumpet, to the walls, and sound a parle.
-  GLOUCESTER. See how the surly Warwick mans the wall.
+  EDWARD. Go, trumpet, to the walls, and sound a parle.
+  RICHARD. See how the surly Warwick mans the wall.
   WARWICK. O unbid spite! Is sportful Edward come?
     Where slept our scouts or how are they seduc'd
     That we could hear no news of his repair?
-  KING EDWARD. Now, Warwick, wilt thou ope the city gates,
+  EDWARD. Now, Warwick, wilt thou ope the city gates,
     Speak gentle words, and humbly bend thy knee,
     Call Edward King, and at his hands beg mercy?
     And he shall pardon thee these outrages.
@@ -2910,31 +2910,31 @@ and others upon the walls
     Confess who set thee up and pluck'd thee down,
     Call Warwick patron, and be penitent?
     And thou shalt still remain the Duke of York.
-  GLOUCESTER. I thought, at least, he would have said the King;
+  RICHARD. I thought, at least, he would have said the King;
     Or did he make the jest against his will?
   WARWICK. Is not a dukedom, sir, a goodly gift?
-  GLOUCESTER. Ay, by my faith, for a poor earl to give.
+  RICHARD. Ay, by my faith, for a poor earl to give.
     I'll do thee service for so good a gift.
   WARWICK. 'Twas I that gave the kingdom to thy brother.
-  KING EDWARD. Why then 'tis mine, if but by Warwick's gift.
+  EDWARD. Why then 'tis mine, if but by Warwick's gift.
   WARWICK. Thou art no Atlas for so great a weight;
     And, weakling, Warwick takes his gift again;
     And Henry is my King, Warwick his subject.
-  KING EDWARD. But Warwick's king is Edward's prisoner.
+  EDWARD. But Warwick's king is Edward's prisoner.
     And, gallant Warwick, do but answer this:
     What is the body when the head is off?
-  GLOUCESTER. Alas, that Warwick had no more forecast,
+  RICHARD. Alas, that Warwick had no more forecast,
     But, whiles he thought to steal the single ten,
     The king was slily finger'd from the deck!
     You left poor Henry at the Bishop's palace,
     And ten to one you'll meet him in the Tower.
-  KING EDWARD. 'Tis even so; yet you are Warwick still.
-  GLOUCESTER. Come, Warwick, take the time; kneel down, kneel down.
+  EDWARD. 'Tis even so; yet you are Warwick still.
+  RICHARD. Come, Warwick, take the time; kneel down, kneel down.
     Nay, when? Strike now, or else the iron cools.
   WARWICK. I had rather chop this hand off at a blow,
     And with the other fling it at thy face,
     Than bear so low a sail to strike to thee.
-  KING EDWARD. Sail how thou canst, have wind and tide thy friend,
+  EDWARD. Sail how thou canst, have wind and tide thy friend,
     This hand, fast wound about thy coal-black hair,
     Shall, whiles thy head is warm and new cut off,
     Write in the dust this sentence with thy blood:
@@ -2945,8 +2945,8 @@ and others upon the walls
   WARWICK. O cheerful colours! See where Oxford comes.
   OXFORD. Oxford, Oxford, for Lancaster!
                               [He and his forces enter the city]
-  GLOUCESTER. The gates are open, let us enter too.
-  KING EDWARD. So other foes may set upon our backs.
+  RICHARD. The gates are open, let us enter too.
+  EDWARD. So other foes may set upon our backs.
     Stand we in good array, for they no doubt
     Will issue out again and bid us battle;
     If not, the city being but of small defence,
@@ -2957,16 +2957,16 @@ and others upon the walls
 
   MONTAGUE. Montague, Montague, for Lancaster!
                               [He and his forces enter the city]
-  GLOUCESTER. Thou and thy brother both shall buy this treason
+  RICHARD. Thou and thy brother both shall buy this treason
     Even with the dearest blood your bodies bear.
-  KING EDWARD. The harder match'd, the greater victory.
+  EDWARD. The harder match'd, the greater victory.
     My mind presageth happy gain and conquest.
 
              Enter SOMERSET, with drum and colours
 
   SOMERSET. Somerset, Somerset, for Lancaster!
                               [He and his forces enter the city]
-  GLOUCESTER. Two of thy name, both Dukes of Somerset,
+  RICHARD. Two of thy name, both Dukes of Somerset,
     Have sold their lives unto the house of York;
     And thou shalt be the third, if this sword hold.
 
@@ -2977,7 +2977,7 @@ and others upon the walls
     With whom an upright zeal to right prevails
     More than the nature of a brother's love.
   CLARENCE. Clarence, Clarence, for Lancaster!
-  KING EDWARD. Et tu Brute- wilt thou stab Caesar too?
+  EDWARD. Et tu Brute- wilt thou stab Caesar too?
     A parley, sirrah, to George of Clarence.
                   [Sound a parley. RICHARD and CLARENCE whisper]
   WARWICK. Come, Clarence, come. Thou wilt if Warwick call.
@@ -3005,16 +3005,16 @@ and others upon the walls
     Pardon me, Edward, I will make amends;
     And, Richard, do not frown upon my faults,
     For I will henceforth be no more unconstant.
-  KING EDWARD. Now welcome more, and ten times more belov'd,
+  EDWARD. Now welcome more, and ten times more belov'd,
     Than if thou never hadst deserv'd our hate.
-  GLOUCESTER. Welcome, good Clarence; this is brother-like.
+  RICHARD. Welcome, good Clarence; this is brother-like.
   WARWICK. O passing traitor, perjur'd and unjust!
-  KING EDWARD. What, Warwick, wilt thou leave die town and fight?
+  EDWARD. What, Warwick, wilt thou leave die town and fight?
     Or shall we beat the stones about thine ears?
   WARWICK. Alas, I am not coop'd here for defence!
     I will away towards Barnet presently
     And bid thee battle, Edward, if thou dar'st.
-  KING EDWARD. Yes, Warwick, Edward dares and leads the way.
+  EDWARD. Yes, Warwick, Edward dares and leads the way.
     Lords, to the field; Saint George and victory!
                                                  Exeunt YORKISTS
                          [March. WARWICK and his company follow]
@@ -3025,9 +3025,9 @@ and others upon the walls
 SCENE II.
 A field of battle near Barnet
 
-Alarum and excursions. Enter KING EDWARD, bringing forth WARWICK, wounded
+Alarum and excursions. Enter EDWARD, bringing forth WARWICK, wounded
 
-  KING EDWARD. So, lie thou there. Die thou, and die our fear;
+  EDWARD. So, lie thou there. Die thou, and die our fear;
     For Warwick was a bug that fear'd us all.
     Now, Montague, sit fast; I seek for thee,
     That Warwick's bones may keep thine company.            Exit
@@ -3089,9 +3089,9 @@ Alarum and excursions. Enter KING EDWARD, bringing forth WARWICK, wounded
 SCENE III.
 Another part of the field
 
-Flourish. Enter KING in triumph; with GLOUCESTER, CLARENCE, and the rest
+Flourish. Enter EDWARD in triumph; with RICHARD, CLARENCE, and the rest
 
-  KING EDWARD. Thus far our fortune keeps an upward course,
+  EDWARD. Thus far our fortune keeps an upward course,
     And we are grac'd with wreaths of victory.
     But in the midst of this bright-shining day
     I spy a black, suspicious, threat'ning cloud
@@ -3104,11 +3104,11 @@ Flourish. Enter KING in triumph; with GLOUCESTER, CLARENCE, and the rest
     And blow it to the source from whence it came;
     Thy very beams will dry those vapours up,
     For every cloud engenders not a storm.
-  GLOUCESTER. The Queen is valued thirty thousand strong,
+  RICHARD. The Queen is valued thirty thousand strong,
     And Somerset, with Oxford, fled to her.
     If she have time to breathe, be well assur'd
     Her faction will be full as strong as ours.
-  KING EDWARD. are advertis'd by our loving friends
+  EDWARD. are advertis'd by our loving friends
     That they do hold their course toward Tewksbury;
     We, having now the best at Barnet field,
     Will thither straight, for willingness rids way;
@@ -3122,7 +3122,7 @@ Flourish. Enter KING in triumph; with GLOUCESTER, CLARENCE, and the rest
 SCENE IV.
 Plains wear Tewksbury
 
-Flourish. March. Enter QUEEN MARGARET, PRINCE EDWARD, SOMERSET, OXFORD,
+Flourish. March. Enter QUEEN MARGARET, PRINCE OF WALES, SOMERSET, OXFORD,
 and SOLDIERS
 
   QUEEN MARGARET. Great lords, wise men ne'er sit and wail their
@@ -3196,10 +3196,10 @@ and SOLDIERS
   QUEEN MARGARET. This cheers my heart, to see your forwardness.
   OXFORD. Here pitch our battle; hence we will not budge.
 
-      Flourish and march. Enter, at a distance, KING EDWARD,
-               GLOUCESTER, CLARENCE, and soldiers
+      Flourish and march. Enter, at a distance, EDWARD,
+               RICHARD, CLARENCE, and soldiers
 
-  KING EDWARD. Brave followers, yonder stands the thorny wood
+  EDWARD. Brave followers, yonder stands the thorny wood
     Which, by the heavens' assistance and your strength,
     Must by the roots be hewn up yet ere night.
     I need not add more fuel to your fire,
@@ -3223,10 +3223,10 @@ and SOLDIERS
 SCENE V.
 Another part of the field
 
-Flourish. Enter KING EDWARD, GLOUCESTER, CLARENCE, and forces,
+Flourish. Enter EDWARD, RICHARD, CLARENCE, and forces,
 With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
 
-  KING EDWARD. Now here a period of tumultuous broils.
+  EDWARD. Now here a period of tumultuous broils.
     Away with Oxford to Hames Castle straight;
     For Somerset, off with his guilty head.
     Go, bear them hence; I will not hear them speak.
@@ -3235,13 +3235,13 @@ With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
                              Exeunt OXFORD and SOMERSET, guarded
   QUEEN MARGARET. So part we sadly in this troublous world,
     To meet with joy in sweet Jerusalem.
-  KING EDWARD. Is proclamation made that who finds Edward
+  EDWARD. Is proclamation made that who finds Edward
     Shall have a high reward, and he his life?
-  GLOUCESTER. It is; and lo where youthful Edward comes.
+  RICHARD. It is; and lo where youthful Edward comes.
 
-                Enter soldiers, with PRINCE EDWARD
+                Enter soldiers, with PRINCE OF WALES
 
-  KING EDWARD. Bring forth the gallant; let us hear him speak.
+  EDWARD. Bring forth the gallant; let us hear him speak.
     What, can so young a man begin to prick?
     Edward, what satisfaction canst thou make
     For bearing arms, for stirring up my subjects,
@@ -3252,37 +3252,37 @@ With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
     Whilst I propose the self-same words to the
     Which, traitor, thou wouldst have me answer to.
   QUEEN MARGARET. Ah, that thy father had been so resolv'd!
-  GLOUCESTER. That you might still have worn the petticoat
+  RICHARD. That you might still have worn the petticoat
     And ne'er have stol'n the breech from Lancaster.
   PRINCE OF WALES. Let Aesop fable in a winter's night;
     His currish riddle sorts not with this place.
-  GLOUCESTER. By heaven, brat, I'll plague ye for that word.
+  RICHARD. By heaven, brat, I'll plague ye for that word.
   QUEEN MARGARET. Ay, thou wast born to be a plague to men.
-  GLOUCESTER. For God's sake, take away this captive scold.
+  RICHARD. For God's sake, take away this captive scold.
   PRINCE OF WALES. Nay, take away this scolding crookback rather.
-  KING EDWARD. Peace, wilful boy, or I will charm your tongue.
+  EDWARD. Peace, wilful boy, or I will charm your tongue.
   CLARENCE. Untutor'd lad, thou art too malapert.
   PRINCE OF WALES. I know my duty; you are all undutiful.
     Lascivious Edward, and thou perjur'd George,
     And thou misshapen Dick, I tell ye all
     I am your better, traitors as ye are;
     And thou usurp'st my father's right and mine.
-  KING EDWARD. Take that, the likeness of this railer here.
+  EDWARD. Take that, the likeness of this railer here.
                                                      [Stabs him]
-  GLOUCESTER. Sprawl'st thou? Take that, to end thy agony.
+  RICHARD. Sprawl'st thou? Take that, to end thy agony.
                                                      [Stabs him]
   CLARENCE. And there's for twitting me with perjury.
                                                      [Stabs him]
   QUEEN MARGARET. O, kill me too!
-  GLOUCESTER. Marry, and shall.             [Offers to kill her]
-  KING EDWARD. Hold, Richard, hold; for we have done to much.
-  GLOUCESTER. Why should she live to fill the world with words?
-  KING EDWARD. What, doth she swoon? Use means for her recovery.
-  GLOUCESTER. Clarence, excuse me to the King my brother.
+  RICHARD. Marry, and shall.             [Offers to kill her]
+  EDWARD. Hold, Richard, hold; for we have done to much.
+  RICHARD. Why should she live to fill the world with words?
+  EDWARD. What, doth she swoon? Use means for her recovery.
+  RICHARD. Clarence, excuse me to the King my brother.
     I'll hence to London on a serious matter;
     Ere ye come there, be sure to hear some news.
   CLARENCE. What? what?
-  GLOUCESTER. The Tower! the Tower!                         Exit
+  RICHARD. The Tower! the Tower!                         Exit
   QUEEN MARGARET. O Ned, sweet Ned, speak to thy mother, boy!
     Canst thou not speak? O traitors! murderers!
     They that stabb'd Caesar shed no blood at all,
@@ -3300,7 +3300,7 @@ With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
     But if you ever chance to have a child,
     Look in his youth to have him so cut off
     As, deathsmen, you have rid this sweet young prince!
-  KING EDWARD. Away with her; go, bear her hence perforce.
+  EDWARD. Away with her; go, bear her hence perforce.
   QUEEN MARGARET. Nay, never bear me hence; dispatch me here.
     Here sheathe thy sword; I'll pardon thee my death.
     What, wilt thou not? Then, Clarence, do it thou.
@@ -3313,13 +3313,13 @@ With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
     Hard-favour'd Richard? Richard, where art thou?
     Thou art not here. Murder is thy alms-deed;
     Petitioners for blood thou ne'er put'st back.
-  KING EDWARD. Away, I say; I charge ye bear her hence.
+  EDWARD. Away, I say; I charge ye bear her hence.
   QUEEN MARGARET. So come to you and yours as to this prince.
                                           Exit, led out forcibly
-  KING EDWARD. Where's Richard gone?
+  EDWARD. Where's Richard gone?
   CLARENCE. To London, all in post; and, as I guess,
     To make a bloody supper in the Tower.
-  KING EDWARD. He's sudden, if a thing comes in his head.
+  EDWARD. He's sudden, if a thing comes in his head.
     Now march we hence. Discharge the common sort
     With pay and thanks; and let's away to London
     And see our gentle queen how well she fares.
@@ -3331,27 +3331,27 @@ With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
 SCENE VI.
 London. The Tower
 
-Enter KING HENRY and GLOUCESTER with the LIEUTENANT, on the walls
+Enter KING HENRY and RICHARD with the LIEUTENANT, on the walls
 
-  GLOUCESTER. Good day, my lord. What, at your book so hard?
+  RICHARD. Good day, my lord. What, at your book so hard?
   KING HENRY. Ay, my good lord- my lord, I should say rather.
     'Tis sin to flatter; 'good' was little better.
     'Good Gloucester' and 'good devil' were alike,
     And both preposterous; therefore, not 'good lord.'
-  GLOUCESTER. Sirrah, leave us to ourselves; we must confer.
+  RICHARD. Sirrah, leave us to ourselves; we must confer.
                                                  Exit LIEUTENANT
   KING HENRY. So flies the reckless shepherd from the wolf;
     So first the harmless sheep doth yield his fleece,
     And next his throat unto the butcher's knife.
     What scene of death hath Roscius now to act?
-  GLOUCESTER. Suspicion always haunts the guilty mind:
+  RICHARD. Suspicion always haunts the guilty mind:
     The thief doth fear each bush an officer.
   KING HENRY. The bird that hath been limed in a bush
     With trembling wings misdoubteth every bush;
     And I, the hapless male to one sweet bird,
     Have now the fatal object in my eye
     Where my poor young was lim'd, was caught, and kill'd.
-  GLOUCESTER. Why, what a peevish fool was that of Crete
+  RICHARD. Why, what a peevish fool was that of Crete
     That taught his son the office of a fowl!
     And yet, for all his wings, the fool was drown'd.
   KING HENRY. I, Daedalus; my poor boy, Icarus;
@@ -3363,11 +3363,11 @@ Enter KING HENRY and GLOUCESTER with the LIEUTENANT, on the walls
     My breast can better brook thy dagger's point
     Than can my ears that tragic history.
     But wherefore dost thou come? Is't for my life?
-  GLOUCESTER. Think'st thou I am an executioner?
+  RICHARD. Think'st thou I am an executioner?
   KING HENRY. A persecutor I am sure thou art.
     If murdering innocents be executing,
     Why, then thou are an executioner.
-  GLOUCESTER. Thy son I kill'd for his presumption.
+  RICHARD. Thy son I kill'd for his presumption.
   KING HENRY. Hadst thou been kill'd when first thou didst presume,
     Thou hadst not liv'd to kill a son of mine.
     And thus I prophesy, that many a thousand
@@ -3390,12 +3390,12 @@ Enter KING HENRY and GLOUCESTER with the LIEUTENANT, on the walls
     To signify thou cam'st to bite the world;
     And if the rest be true which I have heard,
     Thou cam'st-
-  GLOUCESTER. I'll hear no more. Die, prophet, in thy speech.
+  RICHARD. I'll hear no more. Die, prophet, in thy speech.
                                                      [Stabs him]
     For this, amongst the rest, was I ordain'd.
   KING HENRY. Ay, and for much more slaughter after this.
     O, God forgive my sins and pardon thee!               [Dies]
-  GLOUCESTER. What, will the aspiring blood of Lancaster
+  RICHARD. What, will the aspiring blood of Lancaster
     Sink in the ground? I thought it would have mounted.
     See how my sword weeps for the poor King's death.
     O, may such purple tears be always shed
@@ -3437,10 +3437,10 @@ Enter KING HENRY and GLOUCESTER with the LIEUTENANT, on the walls
 SCENE VII.
 London. The palace
 
-Flourish. Enter KING EDWARD, QUEEN ELIZABETH, CLARENCE, GLOUCESTER,
+Flourish. Enter EDWARD, QUEEN ELIZABETH, CLARENCE, RICHARD,
 HASTINGS, NURSE, with the Young PRINCE, and attendants
 
-  KING EDWARD. Once more we sit in England's royal throne,
+  EDWARD. Once more we sit in England's royal throne,
     Repurchas'd with the blood of enemies.
     What valiant foemen, like to autumn's corn,
     Have we mow'd down in tops of all their pride!
@@ -3460,27 +3460,27 @@ HASTINGS, NURSE, with the Young PRINCE, and attendants
     Went all afoot in summer's scalding heat,
     That thou might'st repossess the crown in peace;
     And of our labours thou shalt reap the gain.
-  GLOUCESTER. [Aside] I'll blast his harvest if your head were laid;
+  RICHARD. [Aside] I'll blast his harvest if your head were laid;
     For yet I am not look'd on in the world.
     This shoulder was ordain'd so thick to heave;
     And heave it shall some weight or break my back.
     Work thou the way- and that shall execute.
-  KING EDWARD. Clarence and Gloucester, love my lovely queen;
+  EDWARD. Clarence and Gloucester, love my lovely queen;
     And kiss your princely nephew, brothers both.
   CLARENCE. The duty that I owe unto your Majesty
     I seal upon the lips of this sweet babe.
-  KING EDWARD. Thanks, noble Clarence; worthy brother, thanks.
-  GLOUCESTER. And that I love the tree from whence thou sprang'st,
+  EDWARD. Thanks, noble Clarence; worthy brother, thanks.
+  RICHARD. And that I love the tree from whence thou sprang'st,
     Witness the loving kiss I give the fruit.
     [Aside] To say the truth, so Judas kiss'd his master
     And cried 'All hail!' when as he meant all harm.
-  KING EDWARD. Now am I seated as my soul delights,
+  EDWARD. Now am I seated as my soul delights,
     Having my country's peace and brothers' loves.
   CLARENCE. What will your Grace have done with Margaret?
     Reignier, her father, to the King of France
     Hath pawn'd the Sicils and Jerusalem,
     And hither have they sent it for her ransom.
-  KING EDWARD. Away with her, and waft her hence to France.
+  EDWARD. Away with her, and waft her hence to France.
     And now what rests but that we spend the time
     With stately triumphs, mirthful comic shows,
     Such as befits the pleasure of the court?

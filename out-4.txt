@@ -475,7 +475,7 @@ they set them down on two low stools and sew
   VOLUMNIA. He'll beat Aufidius' head below his knee
     And tread upon his neck.
 
-         Re-enter GENTLEWOMAN, With VALERIA and an usher
+         Enter GENTLEWOMAN, With VALERIA and an usher
 
   VALERIA. My ladies both, good day to you.
   VOLUMNIA. Sweet madam!
@@ -590,7 +590,7 @@ with CAPTAINS and soldiers. To them a MESSENGER
     And he shall feel mine edge.
 
           Alarum. The Romans are beat back to their trenches.
-                      Re-enter MARCIUS, cursing
+                      Enter MARCIUS, cursing
 
   MARCIUS. All the contagion of the south light on you,
     You shames of Rome! you herd of- Boils and plagues
@@ -620,7 +620,7 @@ with CAPTAINS and soldiers. To them a MESSENGER
   FIRST SOLDIER. See, they have shut him in.
   ALL. To th' pot, I warrant him.             [Alarum continues]
 
-                      Re-enter TITUS LARTIUS
+                      Enter TITUS LARTIUS
 
   LARTIUS. What is become of Marcius?
   ALL. Slain, sir, doubtless.
@@ -639,7 +639,7 @@ with CAPTAINS and soldiers. To them a MESSENGER
     Thou mad'st thine enemies shake, as if the world
     Were feverous and did tremble.
 
-          Re-enter MARCIUS, bleeding, assaulted by the enemy
+          Enter MARCIUS, bleeding, assaulted by the enemy
 
   FIRST SOLDIER. Look, sir.
   LARTIUS. O, 'tis Marcius!
@@ -1492,7 +1492,7 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
   FIRST SENATOR. Call Coriolanus.
     OFFICER. He doth appear.
 
-                            Re-enter CORIOLANUS
+                            Enter CORIOLANUS
 
   MENENIUS. The Senate, Coriolanus, are well pleas'd
     To make thee consul.
@@ -1606,7 +1606,7 @@ Enter seven or eight citizens
     I'll leave you. Pray you speak to 'em, I pray you,
     In wholesome manner.                                    Exit
 
-                       Re-enter three of the citizens
+                       Enter three of the citizens
 
   CORIOLANUS. Bid them wash their faces
     And keep their teeth clean. So, here comes a brace.
@@ -1632,7 +1632,7 @@ Enter seven or eight citizens
   SECOND CITIZEN. An 'twere to give again- but 'tis no matter.
                                        Exeunt the three citizens
 
-                      Re-enter two other citizens
+                      Enter two other citizens
 
   CORIOLANUS. Pray you now, if it may stand with the tune of your
     voices that I may be consul, I have here the customary gown.
@@ -1672,7 +1672,7 @@ Enter seven or eight citizens
     To one that would do thus. I am half through:
     The one part suffered, the other will I do.
 
-                      Re-enter three citizens more
+                      Enter three citizens more
 
     Here come moe voices.
     Your voices. For your voices I have fought;
@@ -1689,7 +1689,7 @@ Enter seven or eight citizens
                                                  Exeunt citizens
   CORIOLANUS. Worthy voices!
 
-             Re-enter MENENIUS with BRUTUS and SICINIUS
+             Enter MENENIUS with BRUTUS and SICINIUS
 
   MENENIUS. You have stood your limitation, and the tribunes
     Endue you with the people's voice. Remains
@@ -1714,7 +1714,7 @@ Enter seven or eight citizens
   BRUTUS. With a proud heart he wore
     His humble weeds. Will you dismiss the people?
 
-                            Re-enter citizens
+                            Enter citizens
 
   SICINIUS. How now, my masters! Have you chose this man?
   FIRST CITIZEN. He has our voices, sir.
@@ -2189,7 +2189,7 @@ TITUS LARTIUS, and other SENATORS
   MENENIUS. I would they were in Tiber.
     What the vengeance, could he not speak 'em fair?
 
-            Re-enter BRUTUS and SICINIUS, the rabble again
+            Enter BRUTUS and SICINIUS, the rabble again
 
   SICINIUS. Where is this viper
     That would depopulate the city and
@@ -2538,7 +2538,7 @@ Enter SICINIUS and BRUTUS
   FIRST SENATOR. Amen, amen!
   MENENIUS. A noble wish.
 
-                  Re-enter the.AEDILE,with the plebeians
+                  Enter the.AEDILE,with the plebeians
 
   SICINIUS. Draw near, ye people.
   AEDILE. List to your tribunes. Audience! peace, I say!
@@ -2945,7 +2945,7 @@ Music plays. Enter A SERVINGMAN
   CORIOLANUS. A goodly house. The feast smells well, but I
     Appear not like a guest.
 
-                 Re-enter the first SERVINGMAN
+                 Enter the first SERVINGMAN
 
   FIRST SERVANT. What would you have, friend?
     Whence are you? Here's no place for you: pray go to the door.
@@ -2953,7 +2953,7 @@ Music plays. Enter A SERVINGMAN
   CORIOLANUS. I have deserv'd no better entertainment
     In being Coriolanus.
 
-                   Re-enter second SERVINGMAN
+                   Enter second SERVINGMAN
 
   SECOND SERVANT. Whence are you, sir? Has the porter his eyes in his
     head that he gives entrance to such companions? Pray get you out.
@@ -3128,7 +3128,7 @@ Music plays. Enter A SERVINGMAN
     for the defence of a town our general is excellent.
   FIRST SERVANT. Ay, and for an assault too.
 
-                       Re-enter the third SERVINGMAN
+                       Enter the third SERVINGMAN
 
   THIRD SERVANT. O slaves, I can tell you news- news, you rascals!
   BOTH. What, what, what? Let's partake.

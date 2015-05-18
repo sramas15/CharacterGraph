@@ -265,7 +265,7 @@ Enter JULIA and LUCETTA
     And ask remission for my folly past.
     What ho! Lucetta!
 
-                     Re-enter LUCETTA
+                     Enter LUCETTA
 
   LUCETTA. What would your ladyship?
   JULIA. Is't near dinner time?
@@ -336,7 +336,7 @@ Enter JULIA and LUCETTA
     Thus will I fold them one upon another;
     Now kiss, embrace, contend, do what you will.
 
-                        Re-enter LUCETTA
+                        Enter LUCETTA
 
   LUCETTA. Madam,
     Dinner is ready, and your father stays.
@@ -451,7 +451,7 @@ Enter ANTONIO and PANTHINO
     Which now shows all the beauty of the sun,
     And by an by a cloud takes all away!
 
-                       Re-enter PANTHINO
+                       Enter PANTHINO
 
   PANTHINO. Sir Proteus, your father calls for you;
     He is in haste; therefore, I pray you, go.
@@ -855,7 +855,7 @@ Enter SILVIA, VALENTINE, THURIO, and SPEED
   SILVIA. That you are welcome?
   PROTEUS. That you are worthless.
 
-                          Re-enter THURIO
+                          Enter THURIO
 
   THURIO. Madam, my lord your father would speak with you.
   SILVIA. I wait upon his pleasure. Come, Sir Thurio,

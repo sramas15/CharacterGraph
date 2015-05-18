@@ -328,7 +328,7 @@ among them a Soothsayer.
   CASSIUS. I am glad that my weak words
     Have struck but thus much show of fire from Brutus.
 
-            Re-enter Caesar and his Train.
+            Enter Caesar and his Train.
 
   BRUTUS. The games are done, and Caesar is returning.
   CASSIUS. As they pass by, pluck Casca by the sleeve,
@@ -706,7 +706,7 @@ Enter Brutus in his orchard.
     Which hatch'd would as his kind grow mischievous,
     And kill him in the shell.
 
-                        Re-enter Lucius.
+                        Enter Lucius.
 
   LUCIUS. The taper burneth in your closet, sir.
     Searching the window for a flint I found
@@ -736,7 +736,7 @@ Enter Brutus in his orchard.
     If the redress will follow, thou receivest
     Thy full petition at the hand of Brutus!
 
-                        Re-enter Lucius.
+                        Enter Lucius.
 
   LUCIUS. Sir, March is wasted fifteen days.
                                                 Knocking within.
@@ -752,7 +752,7 @@ Enter Brutus in his orchard.
     Like to a little kingdom, suffers then
     The nature of an insurrection.
 
-                         Re-enter Lucius.
+                         Enter Lucius.
 
   LUCIUS. Sir, 'tis your brother Cassius at the door,
     Who doth desire to see you.
@@ -1017,7 +1017,7 @@ CASSIUS. This, Casca; this, Cinna; and this, Metellus Cimber.
     All the charactery of my sad brows.
     Leave me with haste. [Exit Portia.] Lucius, who's that knocks?
 
-                  Re-enter Lucius with Ligarius.
+                  Enter Lucius with Ligarius.
 
   LUCIUS. Here is a sick man that would speak with you.
   BRUTUS. Caius Ligarius, that Metellus spake of.
@@ -1100,7 +1100,7 @@ Enter Caesar, in his nightgown.
     Seeing that death, a necessary end,
     Will come when it will come.
 
-                      Re-enter Servant.
+                      Enter Servant.
 
     What say the augurers?
   SERVANT. They would not have you to stir forth today.
@@ -1424,7 +1424,7 @@ Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
   BRUTUS. Do so, and let no man abide this deed
     But we the doers.
 
-                        Re-enter Trebonius.
+                        Enter Trebonius.
 
   CASSIUS. Where is Antony?
   TREBONIUS. Fled to his house amazed.
@@ -1486,7 +1486,7 @@ Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
     That fears him much, and my misgiving still
     Falls shrewdly to the purpose.
 
-                          Re-enter Antony.
+                          Enter Antony.
 
   BRUTUS. But here comes Antony. Welcome, Mark Antony.
   ANTONY. O mighty Caesar! Dost thou lie so low?
@@ -2315,7 +2315,7 @@ Enter Brutus and Cassius.
   BRUTUS. Even so.
   CASSIUS. O ye immortal gods!
 
-               Re-enter Lucius, with wine and taper.
+               Enter Lucius, with wine and taper.
 
   BRUTUS. Speak no more of her. Give me a bowl of wine.
     In this I bury all unkindness, Cassius.              Drinks.
@@ -2324,7 +2324,7 @@ Enter Brutus and Cassius.
   I cannot drink too much of Brutus' love.               Drinks.
   BRUTUS. Come in, Titinius!                        Exit Lucius.
 
-                 Re-enter Titinius, with Messala.
+                 Enter Titinius, with Messala.
 
     Welcome, good Messala.
     Now sit we close about this taper here,
@@ -2404,7 +2404,7 @@ Enter Brutus and Cassius.
     Early tomorrow will we rise and hence.
   BRUTUS. Lucius!
 
-                       Re-enter Lucius.
+                       Enter Lucius.
 
     My gown.                                        Exit Lucius.
     Farewell, good Messala;
@@ -2421,7 +2421,7 @@ Enter Brutus and Cassius.
   BRUTUS. Farewell, everyone.
                                           Exeunt all but Brutus.
 
-               Re-enter Lucius, with the gown.
+               Enter Lucius, with the gown.
 
     Give me the gown. Where is thy instrument?
   LUCIUS. Here in the tent.
@@ -2746,7 +2746,7 @@ Alarums. Enter Cassius and Titinius.
     Far from this country Pindarus shall run,
     Where never Roman shall take note of him.              Exit.
 
-                Re-enter Titinius with Messala.
+                Enter Titinius with Messala.
 
   MESSALA. It is but change, Titinius, for Octavius
     Is overthrown by noble Brutus' power,
@@ -2793,7 +2793,7 @@ Alarums. Enter Cassius and Titinius.
     Come, Cassius' sword, and find Titinius' heart.
                                                   Kills himself.
 
-       Alarum. Re-enter Messala, with Brutus, young Cato,
+       Alarum. Enter Messala, with Brutus, young Cato,
                          and others.
 
   BRUTUS. Where, where, Messala, doth his body lie?

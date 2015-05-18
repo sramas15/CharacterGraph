@@ -4,15 +4,17 @@ Ham
 For
 Both
 Laer
+A Norwegian Captain
 Gentlemen
 Other
 Hor
 Lord
 Mar
-Volt
+Player
 Capt
 Fran
 Sailor
+English Ambassadors
 Oph
 Fort
 Ghost
@@ -24,12 +26,13 @@ Gent
 Clown
 Mess
 Players
+A Priest
 Priest
 Ber
 Ambassador
 All
 Queen
-Player
+Volt
 Pol
 Guil
 Ros

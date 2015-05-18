@@ -1230,7 +1230,7 @@ Enter FRANCIS and another DRAWER
     friends with thee, Jack. Thou art going to the wars; and whether
     I shall ever see thee again or no, there is nobody cares.
 
-                            Re-enter FRANCIS
+                            Enter FRANCIS
 
   FRANCIS. Sir, Ancient Pistol's below and would speak with you.
   DOLL. Hang him, swaggering rascal! Let him not come hither; it is
@@ -1362,7 +1362,7 @@ Enter FRANCIS and another DRAWER
   HOSTESS. Are you not hurt i' th' groin? Methought 'a made a shrewd
     thrust at your belly.
 
-                        Re-enter BARDOLPH
+                        Enter BARDOLPH
 
   FALSTAFF. Have you turn'd him out a doors?
   BARDOLPH. Yea, sir. The rascal's drunk. You have hurt him, sir, i'
@@ -1521,7 +1521,7 @@ Enter FRANCIS and another DRAWER
     must hence, and leave it unpick'd.  [Knocking within]  More
     knocking at the door!
 
-                      Re-enter BARDOLPH
+                      Enter BARDOLPH
 
     How now! What's the matter?
   BARDOLPH. You must away to court, sir, presently;
@@ -1895,7 +1895,7 @@ and servants behind
   BARDOLPH. Well said; th'art a good fellow.
   FEEBLE. Faith, I'll bear no base mind.
 
-                    Re-enter FALSTAFF and the JUSTICES
+                    Enter FALSTAFF and the JUSTICES
 
   FALSTAFF. Come, sir, which men shall I have?
   SHALLOW. Four of which you please.
@@ -2223,7 +2223,7 @@ Enter the ARCHBISHOP OF YORK, MOWBRAY, HASTINGS, and others
   MOWBRAY. Be it so.
     Here is return'd my Lord of Westmoreland.
 
-                       Re-enter WESTMORELAND
+                       Enter WESTMORELAND
 
   WESTMORELAND. The Prince is here at hand. Pleaseth your lordship
     To meet his Grace just distance 'tween our armies?
@@ -2348,14 +2348,14 @@ WESTMORELAND, OFFICERS, and others
                                                    Exit HASTINGS
   PRINCE JOHN. I trust, lords, we shall lie to-night together.
 
-                      Re-enter WESTMORELAND
+                      Enter WESTMORELAND
 
     Now, cousin, wherefore stands our army still?
   WESTMORELAND. The leaders, having charge from you to stand,
     Will not go off until they hear you speak.
   PRINCE JOHN. They know their duties.
 
-                        Re-enter HASTINGS
+                        Enter HASTINGS
 
   HASTINGS. My lord, our army is dispers'd already.
     Like youthful steers unyok'd, they take their courses
@@ -2455,7 +2455,7 @@ Alarum; excursions. Enter FALSTAFF and COLVILLE, meeting
     kind fellow, gavest thyself away gratis; and I thank thee for
     thee.
 
-                       Re-enter WESTMORELAND
+                       Enter WESTMORELAND
 
   PRINCE JOHN. Now, have you left pursuit?
   WESTMORELAND. Retreat is made, and execution stay'd.
@@ -2732,7 +2732,7 @@ and others in attendance
     Will I to mine leave as 'tis left to me.                Exit
   KING. Warwick! Gloucester! Clarence!
 
-           Re-enter WARWICK, GLOUCESTER, CLARENCE
+           Enter WARWICK, GLOUCESTER, CLARENCE
 
   CLARENCE. Doth the King call?
   WARWICK. What would your Majesty? How fares your Grace?
@@ -2768,7 +2768,7 @@ and others in attendance
     Are murd'red for our pains. This bitter taste
     Yields his engrossments to the ending father.
 
-                         Re-enter WARWICK
+                         Enter WARWICK
 
     Now where is he that will not stay so long
     Till his friend sickness hath determin'd me?
@@ -2780,7 +2780,7 @@ and others in attendance
     With gentle eye-drops. He is coming hither.
   KING. But wherefore did he take away the crown?
 
-                        Re-enter PRINCE HENRY
+                        Enter PRINCE HENRY
 
     Lo where he comes. Come hither to me, Harry.
     Depart the chamber, leave us here alone.
@@ -3241,7 +3241,7 @@ Enter FALSTAFF, SHALLOW, SILENCE, BARDOLPH, the PAGE, and DAVY
     mettle.
   SILENCE. Who, I? I have been merry twice and once ere now.
 
-                          Re-enter DAVY
+                          Enter DAVY
 
   DAVY.  [To BARDOLPH]  There's a dish of leather-coats for you.
   SHALLOW. Davy!
@@ -3289,7 +3289,7 @@ Enter FALSTAFF, SHALLOW, SILENCE, BARDOLPH, the PAGE, and DAVY
   FALSTAFF. 'Tis so.
   SILENCE. Is't so? Why then, say an old man can do somewhat.
 
-                        Re-enter DAVY
+                        Enter DAVY
 
   DAVY. An't please your worship, there's one Pistol come from the
     court with news.
@@ -3493,7 +3493,7 @@ Enter GROOMS, strewing rushes
   FALSTAFF. Fear no colours; go with me to dinner. Come, Lieutenant
     Pistol; come, Bardolph. I shall be sent for soon at night.
 
-            Re-enter PRINCE JOHN, the LORD CHIEF JUSTICE,
+            Enter PRINCE JOHN, the LORD CHIEF JUSTICE,
                             with officers
 
   CHIEF JUSTICE. Go, carry Sir John Falstaff to the Fleet;

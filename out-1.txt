@@ -7,11 +7,11 @@ by William Shakespeare
 
 DRAMATIS PERSONAE
 
-  MARK ANTONY,         Triumvirs
-  OCTAVIUS CAESAR,         Triumvirs
-  M. AEMILIUS LEPIDUS,     Triumvirs
-  SEXTUS POMPEIUS,         Triumvirs
-  DOMITIUS ENOBARBUS, friend to Antony
+  (MARK) ANTONY,         Triumvirs
+  (OCTAVIUS) CAESAR,         Triumvirs
+  (M AEMILIUS) LEPIDUS,     Triumvirs
+  SEXTUS POMPEIUS - POMPEY,         Triumvirs
+  (DOMITIUS) ENOBARBUS, friend to Antony
   VENTIDIUS,             friend to Antony
   EROS,                  friend to Antony
   SCARUS,                friend to Antony
@@ -230,7 +230,7 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   CLEOPATRA. Seek him, and bring him hither. Where's Alexas?
   ALEXAS. Here, at your service. My lord approaches.
 
-          Enter ANTONY, with a MESSENGER and attendants
+          Enter ANTONY, with a MESSENGER and FIRST ATTENDANT, SECOND ATTENDANT
 
   CLEOPATRA. We will not look upon him. Go with us.
                        Exeunt CLEOPATRA, ENOBARBUS, and the rest
@@ -270,7 +270,7 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
     These strong Egyptian fetters I must break,
     Or lose myself in dotage.
 
-                 Enter another MESSENGER with a letter
+                 Enter SECOND MESSENGER with a letter
 
     What are you?
   SECOND MESSENGER. Fulvia thy wife is dead.
@@ -278,8 +278,8 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   SECOND MESSENGER. In Sicyon.
     Her length of sickness, with what else more serious
     Importeth thee to know, this bears.       [Gives the letter]
-  ANTONY. Forbear me.                             Exit MESSENGER
-    There's a great spirit gone! Thus did I desire it.
+  ANTONY. Forbear me.                             Exit SECOND MESSENGER
+  ANTONY. There's a great spirit gone! Thus did I desire it.
     What our contempts doth often hurl from us
     We wish it ours again; the present pleasure,
     By revolution low'ring, does become
@@ -289,7 +289,7 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
     Ten thousand harms, more than the ills I know,
     My idleness doth hatch. How now, Enobarbus!
 
-                    Re-enter ENOBARBUS
+                    Enter ENOBARBUS
 
   ENOBARBUS. What's your pleasure, sir?
   ANTONY. I must with haste from hence.
@@ -1503,7 +1503,7 @@ ACT_2|SC_7
                            SCENE VII.
              On board POMPEY'S galley, off Misenum
 
-     Music plays. Enter two or three SERVANTS with a banquet
+     Music plays. Enter FIRST SERVANT, SECOND SERVANT with a banquet
 
   FIRST SERVANT. Here they'll be, man. Some o' their plants are
     ill-rooted already; the least wind i' th' world will blow them
@@ -1524,7 +1524,7 @@ ACT_2|SC_7
 
            A sennet sounded. Enter CAESAR, ANTONY, LEPIDUS,
             POMPEY, AGRIPPA, MAECENAS, ENOBARBUS, MENAS,
-                         with other CAPTAINS
+                         with other CAPTAIN
 
   ANTONY. [To CAESAR] Thus do they, sir: they take the flow o' th'
       Nile
@@ -2566,7 +2566,7 @@ ACT_3|SC_13
     Bestow'd his lips on that unworthy place,
     As it rain'd kisses.
 
-                Re-enter ANTONY and ENOBARBUS
+                Enter ANTONY and ENOBARBUS
 
   ANTONY. Favours, by Jove that thunders!
     What art thou, fellow?
@@ -2627,7 +2627,7 @@ ACT_3|SC_13
     A halter'd neck which does the hangman thank
     For being yare about him.
 
-              Re-enter a SERVANT with THYREUS
+              Enter a SERVANT with THYREUS
 
     Is he whipt?
   SERVANT. Soundly, my lord.
@@ -2806,7 +2806,7 @@ ACT_4|SC_3
                           SCENE III.
              Alexandria. Before CLEOPATRA's palace
 
-                 Enter a company of soldiers
+                 Enter FIRST SOLDIER, SECOND SOLDIER, THIRD SOLDIER, FOURTH SOLDIER
 
   FIRST SOLDIER. Brother, good night. To-morrow is the day.
   SECOND SOLDIER. It will determine one way. Fare you well.
@@ -2893,7 +2893,7 @@ ACT_4|SC_4
     And at the port expect you.
                             [Shout. Flourish of trumpets within]
 
-                 Enter CAPTAINS and soldiers
+                 Enter CAPTAIN and soldiers
 
   CAPTAIN. The morn is fair. Good morrow, General.
   ALL. Good morrow, General.
@@ -3097,7 +3097,7 @@ ACT_4|SC_9
                          SCENE IX.
                       CAESAR'S camp
 
-      Enter a CENTURION and his company; ENOBARBUS follows
+      Enter a CENTURION and his company FIRST WATCH, SECOND WATCH; ENOBARBUS follows
 
   CENTURION. If we be not reliev'd within this hour,
     We must return to th' court of guard. The night
@@ -3190,7 +3190,7 @@ ACT_4|SC_12
     Of what he has and has not.
                             [Alarum afar off, as at a sea-fight]
 
-                      Re-enter ANTONY
+                      Enter ANTONY
 
   ANTONY. All is lost!
     This foul Egyptian hath betrayed me.
@@ -3332,7 +3332,7 @@ ACT_4|SC_14
     Dido and her Aeneas shall want troops,
     And all the haunt be ours.- Come, Eros, Eros!
 
-                       Re-enter EROS
+                       Enter EROS
 
   EROS. What would my lord?
   ANTONY. Since Cleopatra died,
@@ -3395,7 +3395,7 @@ ACT_4|SC_14
     I learn'd of thee. How? not dead? not dead?-
     The guard, ho! O, dispatch me!
 
-                  Enter DERCETAS and a guard
+                  Enter DERCETAS and FIRST GUARD, SECOND GUARD, THIRD GUARD
 
   FIRST GUARD. What's the noise?
   ANTONY. I have done my work ill, friends. O, make an end
@@ -3406,7 +3406,7 @@ ACT_4|SC_14
   ANTONY. Let him that loves me, strike me dead.
   FIRST GUARD. Not I.
   SECOND GUARD. Nor I.
-  THIRD GUARD. Nor any one.                         Exeunt guard
+  THIRD GUARD. Nor any one.                         Exeunt FIRST GUARD, SECOND GUARD, THIRD GUARD
   DERCETAS. Thy death and fortunes bid thy followers fly.
     This sword but shown to Caesar, with this tidings,
     Shall enter me with him.
@@ -3436,7 +3436,7 @@ ACT_4|SC_14
   DIOMEDES. What, ho! the Emperor's guard! The guard, what ho!
     Come, your lord calls!
 
-             Enter four or five of the guard of ANTONY
+             Enter FIRST GUARD, SECOND GUARD, THIRD GUARD, FOURTH GUARD
 
   ANTONY. Bear me, good friends, where Cleopatra bides;
     'Tis the last service that I shall command you.
@@ -3931,7 +3931,7 @@ ACT_5|SC_2
     Go put it to the haste.
   CHARMIAN. Madam, I will.
 
-                      Re-enter DOLABELLA
+                      Enter DOLABELLA
 
   DOLABELLA. Where's the Queen?
   CHARMIAN. Behold, sir.                                    Exit
@@ -3997,7 +3997,7 @@ ACT_5|SC_2
     I am marble-constant; now the fleeting moon
     No planet is of mine.
 
-          Re-enter GUARDSMAN and CLOWN, with a basket
+          Enter GUARDSMAN and CLOWN, with a basket
 
   GUARDSMAN. This is the man.
   CLEOPATRA. Avoid, and leave him.                Exit GUARDSMAN
@@ -4035,7 +4035,7 @@ ACT_5|SC_2
   CLEOPATRA. Well, get thee gone; farewell.
   CLOWN. Yes, forsooth. I wish you joy o' th' worm.         Exit
 
-             Re-enter IRAS, with a robe, crown, &c.
+             Enter IRAS, with a robe, crown, &c.
 
   CLEOPATRA. Give me my robe, put on my crown; I have
     Immortal longings in me. Now no more
@@ -4099,7 +4099,7 @@ ACT_5|SC_2
     Descended of so many royal kings.
     Ah, soldier!                                 [CHARMIAN dies]
 
-                      Re-enter DOLABELLA
+                      Enter DOLABELLA
 
   DOLABELLA. How goes it here?
   SECOND GUARD. All dead.
@@ -4109,7 +4109,7 @@ ACT_5|SC_2
     So sought'st to hinder.
                       [Within: 'A way there, a way for Caesar!']
 
-              Re-enter CAESAR and all his train
+              Enter CAESAR and all his train
 
   DOLABELLA. O sir, you are too sure an augurer:
     That you did fear is done.

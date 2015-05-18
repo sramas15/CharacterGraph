@@ -851,7 +851,7 @@ Enter Lady Macbeth.
     The multitudinous seas incarnadine,
     Making the green one red.
 
-                   Re-enter Lady Macbeth.
+                   Enter Lady Macbeth.
 
   LADY MACBETH. My hands are of your color, but I shame
     To wear a heart so white. [Knocking within.] I hear knocking
@@ -945,7 +945,7 @@ Enter a Porter. Knocking within.
   LENNOX. My young remembrance cannot parallel
     A fellow to it.
 
-                      Re-enter Macduff.
+                      Enter Macduff.
 
   MACDUFF. O horror, horror, horror! Tongue nor heart
     Cannot conceive nor name thee.
@@ -989,7 +989,7 @@ Enter a Porter. Knocking within.
     Dear Duff, I prithee, contradict thyself,
     And say it is not so.
 
-          Re-enter Macbeth and Lennox, with Ross.
+          Enter Macbeth and Lennox, with Ross.
 
   MACBETH. Had I but died an hour before this chance,
     I had lived a blessed time, for from this instant
@@ -1227,7 +1227,7 @@ Enter Banquo.
     Rather than so, come, Fate, into the list,
     And champion me to the utterance! Who's there?
 
-        Re-enter Attendant, with two Murtherers.
+        Enter Attendant, with two Murtherers.
 
     Now go to the door, and stay there till we call.
                                                  Exit Attendant.
@@ -1490,7 +1490,7 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
     And health on both!
   LENNOX. May't please your Highness sit.
 
-      The Ghost of Banquo enters and sits in Macbeth's place.
+      Enter the GHOST of Banquo enters and sits in Macbeth's place.
 
   MACBETH. Here had we now our country's honor roof'd,
     Were the graced person of our Banquo present,
@@ -1529,7 +1529,7 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
     Why, what care I? If thou canst nod, speak too.
     If charnel houses and our graves must send
     Those that we bury back, our monuments
-    Shall be the maws of kites.                      Exit Ghost.
+    Shall be the maws of kites.                      Exit GHOST.
   LADY MACBETH. What, quite unmann'd in folly?
   MACBETH. If I stand here, I saw him.
   LADY MACBETH. Fie, for shame!
@@ -1555,7 +1555,7 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
     And all to all.
   LORDS. Our duties and the pledge.
 
-                     Re-enter Ghost.
+                     Enter GHOST.
 
   MACBETH. Avaunt, and quit my sight! Let the earth hide thee!
     Thy bones are marrowless, thy blood is cold;
@@ -1572,7 +1572,7 @@ Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
     And dare me to the desert with thy sword.
     If trembling I inhabit then, protest me
     The baby of a girl. Hence, horrible shadow!
-    Unreal mockery, hence!                           Exit Ghost.
+    Unreal mockery, hence!                           Exit GHOST.
     Why, so, being gone,
     I am a man again. Pray you sit still.
   LADY MACBETH. You have displaced the mirth, broke the good meeting,
@@ -2627,7 +2627,7 @@ Enter Macbeth, Seyton, and Soldiers, with drum and colors.
     Direness, familiar to my slaughterous thoughts,
     Cannot once start me.
 
-                  Re-enter Seyton.
+                  Enter Seyton.
      Wherefore was that cry?
   SEYTON. The Queen, my lord, is dead.
   MACBETH. She should have died hereafter;
@@ -2835,7 +2835,7 @@ the other Thanes, and Soldiers.
     They say he parted well and paid his score,
     And so God be with him! Here comes newer comfort.
 
-             Re-enter Macduff, with Macbeth's head.
+             Enter Macduff, with Macbeth's head.
 
   MACDUFF. Hail, King, for so thou art. Behold where stands
     The usurper's cursed head. The time is free.
@@ -3694,7 +3694,7 @@ Enter PROVOST and a SERVANT
   ANGELO. Dispose of her
     To some more fitter place, and that with speed.
 
-                           Re-enter SERVANT
+                           Enter SERVANT
 
   SERVANT. Here is the sister of the man condemn'd
     Desires access to you.
@@ -4350,7 +4350,7 @@ Enter DUKE, disguised as before, CLAUDIO, and PROVOST
     'Tis best that thou diest quickly.
   CLAUDIO. O, hear me, Isabella.
 
-                            Re-enter DUKE
+                            Enter DUKE
 
   DUKE. Vouchsafe a word, young sister, but one word.
   ISABELLA. What is your will?
@@ -4374,7 +4374,7 @@ Enter DUKE, disguised as before, CLAUDIO, and PROVOST
   DUKE. Hold you there. Farewell. [Exit CLAUDIO] Provost, a word with
     you.
 
-                          Re-enter PROVOST
+                          Enter PROVOST
 
   PROVOST. What's your will, father?
   DUKE. That, now you are come, you will be gone. Leave me a while
@@ -4789,7 +4789,7 @@ Enter MARIANA; and BOY singing
     I have not yet made known to Mariana
     A word of this. What ho, within! come forth.
 
-                       Re-enter MARIANA
+                       Enter MARIANA
 
     I pray you be acquainted with this maid;
     She comes to do you good.
@@ -4809,7 +4809,7 @@ Enter MARIANA; and BOY singing
     Make thee the father of their idle dream,
     And rack thee in their fancies.
 
-                 Re-enter MARIANA and ISABELLA
+                 Enter MARIANA and ISABELLA
 
     Welcome, how agreed?
   ISABELLA. She'll take the enterprise upon her, father,
@@ -4877,7 +4877,7 @@ Enter PROVOST and POMPEY
     be too big for your thief, your thief thinks it little enough; so
     every true man's apparel fits your thief.
 
-                          Re-enter PROVOST
+                          Enter PROVOST
 
   PROVOST. Are you agreed?
   POMPEY. Sir, I will serve him; for I do find your hangman is a more
@@ -4934,7 +4934,7 @@ Enter PROVOST and POMPEY
     How now, what noise! That spirit's possess'd with haste
     That wounds th' unsisting postern with these strokes.
 
-                        Re-enter PROVOST
+                        Enter PROVOST
 
   PROVOST. There he must stay until the officer
     Arise to let him in; he is call'd up.
@@ -5169,7 +5169,7 @@ Enter POMPEY
     By cold gradation and well-balanc'd form.
     We shall proceed with Angelo.
 
-                         Re-enter PROVOST
+                         Enter PROVOST
 
   PROVOST. Here is the head; I'll carry it myself.
   DUKE. Convenient is it. Make a swift return;
@@ -5672,7 +5672,7 @@ PROVOST, OFFICERS, and CITIZENS
   LUCIO. Marry, sir, I think, if you handled her privately, she would
     sooner confess; perchance, publicly, she'll be asham'd.
 
-       Re-enter OFFICERS with ISABELLA; and PROVOST with the
+       Enter OFFICERS with ISABELLA; and PROVOST with the
                     DUKE in his friar's habit
 
   ESCALUS. I will go darkly to work with her.
@@ -5802,7 +5802,7 @@ PROVOST, OFFICERS, and CITIZENS
     So happy is your brother.
   ISABELLA. I do, my lord.
 
-       Re-enter ANGELO, MARIANA, FRIAR PETER, and PROVOST
+       Enter ANGELO, MARIANA, FRIAR PETER, and PROVOST
 
   DUKE. For this new-married man approaching here,
     Whose salt imagination yet hath wrong'd
@@ -5893,7 +5893,7 @@ PROVOST, OFFICERS, and CITIZENS
     That I crave death more willingly than mercy;
     'Tis my deserving, and I do entreat it.
 
-       Re-enter PROVOST, with BARNARDINE, CLAUDIO (muffled)
+       Enter PROVOST, with BARNARDINE, CLAUDIO (muffled)
                             and JULIET
 
   DUKE. Which is that Barnardine?

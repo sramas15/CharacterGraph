@@ -1781,7 +1781,7 @@ Enter HUBERT and EXECUTIONERS
     I would not have believ'd him-no tongue but Hubert's.
   HUBERT.  [Stamps]  Come forth.
 
-     Re-enter EXECUTIONERS, With cord, irons, etc.
+     Enter EXECUTIONERS, With cord, irons, etc.
 
     Do as I bid you do.
   ARTHUR. O, save me, Hubert, save me! My eyes are out
@@ -2063,7 +2063,7 @@ Enter KING JOHN, PEMBROKE, SALISBURY, and other LORDS
   MESSENGER. With all my heart, my liege.                        Exit
   KING JOHN. My mother dead!
 
-                   Re-enter HUBERT
+                   Enter HUBERT
 
   HUBERT. My lord, they say five moons were seen to-night;
     Four fixed, and the fifth did whirl about
@@ -2881,7 +2881,7 @@ Enter PRINCE HENRY, SALISBURY, and BIGOT
     To set a form upon that indigest
     Which he hath left so shapeless and so rude.
 
-       Re-enter BIGOT and attendants, who bring in
+       Enter BIGOT and attendants, who bring in
                 KING JOHN in a chair
 
   KING JOHN. Ay, marry, now my soul hath elbow-room;

@@ -95,14 +95,14 @@ Enter a SHIPMASTER and a BOATSWAIN
     little advantage. If he be not born to be hang'd, our
     case is miserable.                                    Exeunt
 
-                     Re-enter BOATSWAIN
+                     Enter BOATSWAIN
 
   BOATSWAIN. Down with the topmast. Yare, lower, lower!
     Bring her to try wi' th' maincourse.  [A cry within]  A
     plague upon this howling! They are louder than the
     weather or our office.
 
-           Re-enter SEBASTIAN, ANTONIO, and GONZALO
+           Enter SEBASTIAN, ANTONIO, and GONZALO
 
     Yet again! What do you here? Shall we give o'er, and
     drown? Have you a mind to sink?
@@ -534,7 +534,7 @@ Enter PROSPERO and MIRANDA
   PROSPERO. Come forth, I say; there's other business for thee.
     Come, thou tortoise! when?
 
-             Re-enter ARIEL like a water-nymph
+             Enter ARIEL like a water-nymph
 
     Fine apparition! My quaint Ariel,
     Hark in thine ear.
@@ -605,7 +605,7 @@ Enter PROSPERO and MIRANDA
     And make a vassal of him.
   PROSPERO. So, slave; hence!                       Exit CALIBAN
 
-         Re-enter ARIEL invisible, playing ad singing;
+         Enter ARIEL invisible, playing ad singing;
                      FERDINAND following
 
                           ARIEL'S SONG.
@@ -1124,7 +1124,7 @@ Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and OTHERS
     To fall it on Gonzalo.
   SEBASTIAN. O, but one word.                  [They talk apart]
 
-          Re-enter ARIEL, invisible, with music and song
+          Enter ARIEL, invisible, with music and song
 
   ARIEL. My master through his art foresees the danger
     That you, his friend, are in; and sends me forth-
@@ -2085,7 +2085,7 @@ Enter PROSPERO, FERDINAND, and MIRANDA
     So his mind cankers. I will plague them all,
     Even to roaring.
 
-       Re-enter ARIEL, loaden with glistering apparel, &c.
+       Enter ARIEL, loaden with glistering apparel, &c.
 
     Come, hang them on this line.
                           [PROSPERO and ARIEL remain, invisible]
@@ -2450,7 +2450,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     That doth not wish you joy.
   GONZALO. Be it so. Amen!
 
-           Re-enter ARIEL, with the MASTER and BOATSWAIN
+           Enter ARIEL, with the MASTER and BOATSWAIN
                      amazedly following
 
     O look, sir; look, sir! Here is more of us!
@@ -2500,7 +2500,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     There are yet missing of your company
     Some few odd lads that you remember not.
 
-         Re-enter ARIEL, driving in CALIBAN, STEPHANO, and
+         Enter ARIEL, driving in CALIBAN, STEPHANO, and
 
   TRINCULO, in their stolen apparel
   STEPHANO. Every man shift for all the rest, and let no man

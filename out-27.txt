@@ -135,7 +135,7 @@ SC_1
     Belike some noble gentleman that means,
     Travelling some journey, to repose him here.
 
-                         Re-enter a SERVINGMAN
+                         Enter a SERVINGMAN
 
     How now! who is it?
   SERVANT. An't please your honour, players
@@ -1112,7 +1112,7 @@ Enter KATHERINA and BIANCA
   PETRUCHIO. Ay, to the proof, as mountains are for winds,
     That shake not though they blow perpetually.
 
-             Re-enter HORTENSIO, with his head broke
+             Enter HORTENSIO, with his head broke
 
   BAPTISTA. How now, my friend! Why dost thou look so pale?
   HORTENSIO. For fear, I promise you, if I look pale.
@@ -1260,7 +1260,7 @@ Enter KATHERINA and BIANCA
     And bring you from a wild Kate to a Kate
     Conformable as other household Kates.
 
-               Re-enter BAPTISTA, GREMIO, and TRANIO
+               Enter BAPTISTA, GREMIO, and TRANIO
 
     Here comes your father. Never make denial;
     I must and will have Katherine to my wife.
@@ -1670,7 +1670,7 @@ LUCENTIO as CAMBIO, and ATTENDANTS
     The quaint musician, amorous Licio-
     All for my master's sake, Lucentio.
 
-                           Re-enter GREMIO
+                           Enter GREMIO
 
     Signior Gremio, came you from the church?
   GREMIO. As willingly as e'er I came from school.
@@ -1929,7 +1929,7 @@ Enter GRUMIO
 
     Sit down, Kate, and welcome. Soud, soud, soud, soud!
 
-                 Re-enter SERVANTS with supper
+                 Enter SERVANTS with supper
 
     Why, when, I say? Nay, good sweet Kate, be merry.
     Off with my boots, you rogues! you villains, when?
@@ -1980,12 +1980,12 @@ Enter GRUMIO
     And for this night we'll fast for company.
     Come, I will bring thee to thy bridal chamber.        Exeunt
 
-                     Re-enter SERVANTS severally
+                     Enter SERVANTS severally
 
   NATHANIEL. Peter, didst ever see the like?
   PETER. He kills her in her own humour.
 
-                            Re-enter CURTIS
+                            Enter CURTIS
 
   GRUMIO. Where is he?
   CURTIS. In her chamber. Making a sermon of continency to her,
@@ -1994,7 +1994,7 @@ Enter GRUMIO
     And sits as one new risen from a dream.
     Away, away! for he is coming hither.                  Exeunt
 
-                       Re-enter PETRUCHIO
+                       Enter PETRUCHIO
 
   PETRUCHIO. Thus have I politicly begun my reign,
     And 'tis my hope to end successfully.
@@ -2471,7 +2471,7 @@ Enter TRANIO as LUCENTIO, and the PEDANT dressed like VINCENTIO
     Come, sir; we will better it in Pisa.
   BAPTISTA. I follow you.                                 Exeunt
 
-            Re-enter LUCENTIO as CAMBIO, and BIONDELLO
+            Enter LUCENTIO as CAMBIO, and BIONDELLO
 
   BIONDELLO. Cambio.
   LUCENTIO. What say'st thou, Biondello?
@@ -2650,7 +2650,7 @@ Enter BIONDELLO, LUCENTIO, and BIANCA; GREMIO is out before
   PEDANT. Lay hands on the villain; I believe 'a means to cozen
     somebody in this city under my countenance.
 
-                       Re-enter BIONDELLO
+                       Enter BIONDELLO
 
   BIONDELLO. I have seen them in the church together. God send 'em
     good shipping! But who is here? Mine old master, Vicentio! Now we
@@ -2671,7 +2671,7 @@ Enter BIONDELLO, LUCENTIO, and BIANCA; GREMIO is out before
   PETRUCHIO. Prithee, Kate, let's stand aside and see the end of this
     controversy.                              [They stand aside]
 
-       Re-enter PEDANT below; BAPTISTA, TRANIO, and SERVANTS
+       Enter PEDANT below; BAPTISTA, TRANIO, and SERVANTS
 
   TRANIO. Sir, what are you that offer to beat my servant?
   VINCENTIO. What am I, sir? Nay, what are you, sir? O immortal gods!
@@ -2714,7 +2714,7 @@ Enter BIONDELLO, LUCENTIO, and BIANCA; GREMIO is out before
   VINCENTIO. Thus strangers may be hal'd and abus'd. O monstrous
     villain!
 
-          Re-enter BIONDELLO, with LUCENTIO and BIANCA
+          Enter BIONDELLO, with LUCENTIO and BIANCA
 
   BIONDELLO. O, we are spoil'd; and yonder he is! Deny him, forswear
     him, or else we are all undone.
@@ -2859,7 +2859,7 @@ BIONDELLO, and GRUMIO, bringing in a banquet
   BAPTISTA. Son, I'll be your half Bianca comes.
   LUCENTIO. I'll have no halves; I'll bear it all myself.
 
-                          Re-enter BIONDELLO
+                          Enter BIONDELLO
 
     How now! what news?
   BIONDELLO. Sir, my mistress sends you word
@@ -2876,7 +2876,7 @@ BIONDELLO, and GRUMIO, bringing in a banquet
   HORTENSIO. I am afraid, sir,
     Do what you can, yours will not be entreated.
 
-                            Re-enter BIONDELLO
+                            Enter BIONDELLO
 
     Now, where's my wife?
   BIONDELLO. She says you have some goodly jest in hand:
@@ -2890,7 +2890,7 @@ BIONDELLO, and GRUMIO, bringing in a banquet
   HORTENSIO. She will not.
   PETRUCHIO. The fouler fortune mine, and there an end.
 
-                             Re-enter KATHERINA
+                             Enter KATHERINA
 
   BAPTISTA. Now, by my holidame, here comes Katherina!
   KATHERINA. What is your sir, that you send for me?
@@ -2914,7 +2914,7 @@ BIONDELLO, and GRUMIO, bringing in a banquet
     And show more sign of her obedience,
     Her new-built virtue and obedience.
 
-                 Re-enter KATHERINA with BIANCA and WIDOW
+                 Enter KATHERINA with BIANCA and WIDOW
 
     See where she comes, and brings your froward wives
     As prisoners to her womanly persuasion.

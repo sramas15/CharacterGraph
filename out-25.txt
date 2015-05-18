@@ -1276,7 +1276,7 @@ Enter CLARENCE and KEEPER
     How fain, like Pilate, would I wash my hands
     Of this most grievous murder!
 
-                       Re-enter FIRST MURDERER
+                       Enter FIRST MURDERER
 
   FIRST MURDERER-How now, what mean'st thou that thou
     help'st me not?
@@ -2319,7 +2319,7 @@ with others and seat themselves at a table
     For I myself am not so well provided
     As else I would be, were the day prolong'd.
 
-                    Re-enter the BISHOP OF ELY
+                    Enter the BISHOP OF ELY
 
   BISHOP OF ELY. Where is my lord the Duke of Gloucester?
     I have sent for these strawberries.
@@ -2335,7 +2335,7 @@ with others and seat themselves at a table
   HASTINGS. Marry, that with no man here he is offended;
     For, were he, he had shown it in his looks.
 
-               Re-enter GLOUCESTER and BUCKINGHAM
+               Enter GLOUCESTER and BUCKINGHAM
 
   GLOUCESTER. I pray you all, tell me what they deserve
     That do conspire my death with devilish plots
@@ -2643,7 +2643,7 @@ Enter GLOUCESTER and BUCKINGHAM, at several doors
   MAYOR. Marry, God defend his Grace should say us nay!
   BUCKINGHAM. I fear he will. Here Catesby comes again.
 
-                          Re-enter CATESBY
+                          Enter CATESBY
 
     Now, Catesby, what says his Grace?
   CATESBY. My lord,
@@ -2799,7 +2799,7 @@ Enter GLOUCESTER and BUCKINGHAM, at several doors
     But penetrable to your kind entreaties,
     Albeit against my conscience and my soul.
 
-                  Re-enter BUCKINGHAM and the rest
+                  Enter BUCKINGHAM and the rest
 
     Cousin of Buckingham, and sage grave men,
     Since you will buckle fortune on my back,
@@ -3048,7 +3048,7 @@ RATCLIFF, LOVEL, a PAGE, and others
     So far in blood that sin will pluck on sin.
     Tear-falling pity dwells not in this eye.
 
-                     Re-enter PAGE, with TYRREL
+                     Enter PAGE, with TYRREL
 
     Is thy name Tyrrel?
   TYRREL. James Tyrrel, and your most obedient subject.
@@ -3070,7 +3070,7 @@ RATCLIFF, LOVEL, a PAGE, and others
     And I will love thee and prefer thee for it.
   TYRREL. I will dispatch it straight.                      Exit
 
-                    Re-enter BUCKINGHAM
+                    Enter BUCKINGHAM
 
     BUCKINGHAM. My lord, I have consider'd in my mind
     The late request that you did sound me in.
@@ -3840,7 +3840,7 @@ Enter old QUEEN MARGARET
     If not to fight with foreign enemies,
     Yet to beat down these rebels here at home.
 
-                          Re-enter CATESBY
+                          Enter CATESBY
 
   CATESBY. My liege, the Duke of Buckingham is taken-
     That is the best news. That the Earl of Richmond
@@ -4319,7 +4319,7 @@ the EARL of SURREYS and others
     Sound drums and trumpets boldly and cheerfully;
     God and Saint George! Richmond and victory!           Exeunt
 
-           Re-enter KING RICHARD, RATCLIFF, attendants,
+           Enter KING RICHARD, RATCLIFF, attendants,
                          and forces
 
   KING RICHARD. What said Northumberland as touching

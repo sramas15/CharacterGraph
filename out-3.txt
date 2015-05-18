@@ -1292,7 +1292,7 @@ DROMIO OF SYRACUSE. Time is a very bankrupt, and owes
   If 'a be in debt and theft, and a sergeant in the way,
   Hath he not reason to turn back an hour in a day?
 
-Re-enter LUCIANA with a purse
+Enter LUCIANA with a purse
 
 ADRIANA. Go, Dromio, there's the money; bear it straight,
   And bring thy master home immediately.
@@ -1965,7 +1965,7 @@ DUKE. I tell thee, Syracusian, twenty years
   During which time he ne'er saw Syracuse.
   I see thy age and dangers make thee dote.
 
-Re-enter the ABBESS, with ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE
+Enter the ABBESS, with ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE
 
 ABBESS. Most mighty Duke, behold a man much wrong'd.
 [All gather to see them]

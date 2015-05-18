@@ -9,43 +9,43 @@ by William Shakespeare
 DRAMATIS PERSONAE
 
   KING HENRY THE SIXTH
-  HUMPHREY, DUKE OF GLOUCESTER, his uncle
-  CARDINAL BEAUFORT, BISHOP OF WINCHESTER, great-uncle to the King
-  RICHARD PLANTAGENET, DUKE OF YORK
+  (HUMPHREY, DUKE OF) GLOUCESTER, his uncle
+  CARDINAL (BEAUFORT, BISHOP OF WINCHESTER,) great-uncle to the King
+  (RICHARD PLANTAGENET, DUKE OF) YORK
   EDWARD and RICHARD, his sons
-  DUKE OF SOMERSET
-  DUKE OF SUFFOLK
-  DUKE OF BUCKINGHAM
-  LORD CLIFFORD
+  (DUKE OF) SOMERSET
+  (DUKE OF) SUFFOLK
+  (DUKE OF) BUCKINGHAM
+  (LORD) CLIFFORD
   YOUNG CLIFFORD, his son
-  EARL OF SALISBURY
-  EARL OF WARWICK
-  LORD SCALES
-  LORD SAY
+  (EARL OF) SALISBURY
+  (EARL OF) WARWICK
+  (LORD) SCALES
+  (LORD) SAY
   SIR HUMPHREY STAFFORD
   WILLIAM STAFFORD, his brother
-  SIR JOHN STANLEY
+  (SIR JOHN) STANLEY
   VAUX
   MATTHEW GOFFE
   A LIEUTENANT
   SHIPMASTER
   MASTER'S MATE
-  WALTER WHITMORE
+  (WALTER) WHITMORE
   TWO GENTLEMEN, prisoners with Suffolk
-  JOHN HUME and JOHN SOUTHWELL, two priests
-  ROGER BOLINGBROKE, a conjurer
+  (JOHN) HUME and (JOHN) SOUTHWELL, two priests
+  (ROGER) BOLINGBROKE, a conjurer
   A SPIRIT raised by him
-  THOMAS HORNER, an armourer
+  (THOMAS) HORNER, an armourer
   PETER, his man
-  CLERK OF CHATHAM
-  MAYOR OF SAINT ALBANS
-  SAUNDER SIMPCOX, an impostor
-  ALEXANDER IDEN, a Kentish gentleman
-  JACK CADE, a rebel
-  GEORGE BEVIS
-  JOHN HOLLAND
-  DICK THE BUTCHER
-  SMITH THE WEAVER,
+  CLERK (OF CHATHAM)
+  MAYOR (OF SAINT ALBANS)
+  (SAUNDER) SIMPCOX, an impostor
+  (ALEXANDER) IDEN, a Kentish gentleman
+  (JACK) CADE, a rebel
+  GEORGE (BEVIS)
+  JOHN (HOLLAND)
+  DICK (THE BUTCHER)
+  SMITH (THE WEAVER),
   MICHAEL
   &c.
   followers of Cade
@@ -69,8 +69,7 @@ England
 ACT I. SCENE I.
 London. The palace
 
-Flourish of trumpets; then hautboys. Enter the KING, DUKE HUMPHREY
-OF GLOUCESTER, SALISBURY, WARWICK, and CARDINAL BEAUFORT, on the one side;
+Flourish of trumpets; then hautboys. Enter the KING HENRY, GLOUCESTER, SALISBURY, WARWICK, and CARDINAL, on the one side;
 the QUEEN, SUFFOLK, YORK, SOMERSET, and BUCKINGHAM, on the other
 
   SUFFOLK. As by your high imperial Majesty
@@ -145,7 +144,7 @@ the QUEEN, SUFFOLK, YORK, SOMERSET, and BUCKINGHAM, on the other
     In entertainment to my princely queen.
     Come, let us in, and with all speed provide
     To see her coronation be perform'd.
-                                 Exeunt KING, QUEEN, and SUFFOLK
+                                 Exeunt KING HENRY, QUEEN, and SUFFOLK
   GLOUCESTER. Brave peers of England, pillars of the state,
     To you Duke Humphrey must unload his grief
     Your grief, the common grief of all the land.
@@ -340,7 +339,7 @@ the QUEEN, SUFFOLK, YORK, SOMERSET, and BUCKINGHAM, on the other
 SCENE II.
 The DUKE OF GLOUCESTER'S house
 
-Enter DUKE and his wife ELEANOR
+Enter DUKE and his wife DUCHESS
 
   DUCHESS. Why droops my lord, like over-ripen'd corn
     Hanging the head at Ceres' plenteous load?
@@ -463,7 +462,7 @@ Enter DUKE and his wife ELEANOR
 SCENE III.
 London. The palace
 
-Enter three or four PETITIONERS, PETER, the Armourer's man, being one
+Enter FIRST PETITIONER, SECOND PETITIONER, PETER, the Armourer's man, being one
 
   FIRST PETITIONER. My masters, let's stand close; my Lord Protector
     will come this way by and by, and then we may deliver our
@@ -566,9 +565,9 @@ Enter three or four PETITIONERS, PETER, the Armourer's man, being one
     So one by one we'll weed them all at last,
     And you yourself shall steer the happy helm.
 
-          Sound a sennet. Enter the KING, DUKE HUMPHREY,
-     CARDINAL BEAUFORT, BUCKINGHAM, YORK, SOMERSET, SALISBURY,
-              WARWICK, and the DUCHESS OF GLOUCESTER
+          Sound a sennet. Enter the KING HENRY, DUKE HUMPHREY,
+     CARDINAL, BUCKINGHAM, YORK, SOMERSET, SALISBURY,
+              WARWICK, and the DUCHESS
 
   KING HENRY. For my part, noble lords, I care not which:
     Or Somerset or York, all's one to me.
@@ -624,7 +623,7 @@ Enter three or four PETITIONERS, PETER, the Armourer's man, being one
     She's tickled now; her fume needs no spurs,
     She'll gallop far enough to her destruction.            Exit
 
-                      Re-enter GLOUCESTER
+                      Enter GLOUCESTER
 
   GLOUCESTER. Now, lords, my choler being overblown
     With walking once about the quadrangle,
@@ -734,7 +733,9 @@ and BOLINGBROKE
 
      [Here they do the ceremonies belonging, and make the circle;
           BOLINGBROKE or SOUTHWELL reads: 'Conjuro te,' &c.
-     It thunders and lightens terribly; then the SPIRIT riseth]
+     It thunders and lightens terribly; then 
+
+     Enter the SPIRIT riseth]
 
   SPIRIT. Adsum.
   MARGERY JOURDAIN. Asmath,
@@ -756,8 +757,7 @@ and BOLINGBROKE
   BOLINGBROKE. Descend to darkness and the burning lake;
     False fiend, avoid!       Thunder and lightning. Exit SPIRIT
 
-               Enter the DUKE OF YORK and the DUKE OF
-                 BUCKINGHAM with guard, and break in
+               Enter the YORK and the BUCKINGHAM with guard, and break in
 
   YORK. Lay hands upon these traitors and their trash.
     Beldam, I think we watch'd you at an inch.
@@ -817,7 +817,7 @@ END_ACT
 ACT II. SCENE I.
 Saint Albans
 
-Enter the KING, QUEEN, GLOUCESTER, CARDINAL, and SUFFOLK,
+Enter the KING HENRY, QUEEN, GLOUCESTER, CARDINAL, and SUFFOLK,
 with Falconers halloing
 
   QUEEN. Believe me, lords, for flying at the brook,
@@ -900,8 +900,8 @@ with Falconers halloing
   KING HENRY. Now God be prais'd that to believing souls
     Gives light in darkness, comfort in despair!
 
-           Enter the MAYOR OF SAINT ALBANS and his brethren,
-               bearing Simpcox between two in a chair;
+           Enter the MAYOR and his brethren,
+               bearing SIMPCOX between two in a chair;
                  his WIFE and a multitude following
 
   CARDINAL. Here comes the townsmen on procession
@@ -1152,9 +1152,9 @@ Enter YORK, SALISBURY, and WARWICK
 SCENE III.
 London. A hall of justice
 
-Sound trumpets. Enter the KING and State: the QUEEN, GLOUCESTER, YORK,
+Sound trumpets. Enter the KING HENRY and State: the QUEEN, GLOUCESTER, YORK,
 SUFFOLK, and SALISBURY, with guard, to banish the DUCHESS. Enter, guarded,
-the DUCHESS OF GLOUCESTER, MARGERY JOURDAIN, HUME, SOUTHWELL, and BOLINGBROKE
+the DUCHESS, MARGERY JOURDAIN, HUME, SOUTHWELL, and BOLINGBROKE
 
   KING HENRY. Stand forth, Dame Eleanor Cobham, Gloucester's wife:
     In sight of God and us, your guilt is great;
@@ -1217,11 +1217,11 @@ the DUCHESS OF GLOUCESTER, MARGERY JOURDAIN, HUME, SOUTHWELL, and BOLINGBROKE
     The servant of his armourer, my lords.
 
         Enter at one door, HORNER, the Armourer, and his
-         NEIGHBOURS, drinking to him so much that he is
+         FIRST NEIGHBOUR, SECOND NEIGHBOUR, THIRD NEIGHBOR drinking to him so much that he is
         drunk; and he enters with a drum before him and
        his staff with a sand-bag fastened to it; and at the
         other door PETER, his man, with a drum and sandbag,
-                  and PRENTICES drinking to him
+                  and FIRST PRENTICE, SECOND PRENTICE drinking to him
 
   FIRST NEIGHBOUR. Here, neighbour Horner, I drink to you in a cup of
     sack; and fear not, neighbour, you shall do well enough.
@@ -1293,8 +1293,8 @@ Enter DUKE HUMPHREY and his men, in mourning cloaks
     But, soft! I think she comes, and I'll prepare
     My tear-stain'd eyes to see her miseries.
 
-          Enter the DUCHESS OF GLOUCESTER in a white sheet,
-            and a taper burning in her hand, with SIR JOHN
+          Enter the DUCHESS in a white sheet,
+            and a taper burning in her hand, with 
                STANLEY, the SHERIFF, and OFFICERS
 
   SERVING-MAN. So please your Grace, we'll take her from the sheriff.
@@ -1406,7 +1406,7 @@ END_ACT
 ACT III. SCENE I.
 The Abbey at Bury St. Edmunds
 
-Sound a sennet. Enter the KING, the QUEEN, CARDINAL, SUFFOLK, YORK,
+Sound a sennet. Enter the KING HENRY, the QUEEN, CARDINAL, SUFFOLK, YORK,
 BUCKINGHAM, SALISBURY, and WARWICK, to the Parliament
 
   KING HENRY. I muse my Lord of Gloucester is not come.
@@ -1809,7 +1809,7 @@ BUCKINGHAM, SALISBURY, and WARWICK, to the Parliament
 SCENE II.
 Bury St. Edmunds. A room of state
 
-Enter two or three MURDERERS running over the stage,
+Enter two or three FIRST MURDERER, SECOND MURDERER running over the stage,
 from the murder of DUKE HUMPHREY
 
   FIRST MURDERER. Run to my Lord of Suffolk; let him know
@@ -1830,7 +1830,7 @@ from the murder of DUKE HUMPHREY
   FIRST MURDERER. 'Tis, my good lord.
   SUFFOLK. Away! be gone.                       Exeunt MURDERERS
 
-             Sound trumpets. Enter the KING, the QUEEN,
+             Sound trumpets. Enter the KING HENRY, the QUEEN,
                 CARDINAL, SOMERSET, with attendants
 
   KING HENRY. Go call our uncle to our presence straight;
@@ -1846,7 +1846,7 @@ from the murder of DUKE HUMPHREY
     Pray God he may acquit him of suspicion!
   KING HENRY. I thank thee, Meg; these words content me much.
 
-                           Re-enter SUFFOLK
+                           Enter SUFFOLK
 
     How now! Why look'st thou pale? Why tremblest thou?
     Where is our uncle? What's the matter, Suffolk?
@@ -1859,7 +1859,7 @@ from the murder of DUKE HUMPHREY
   SOMERSET. Rear up his body; wring him by the nose.
   QUEEN. Run, go, help, help! O Henry, ope thine eyes!
   SUFFOLK. He doth revive again; madam, be patient.
-  KING. O heavenly God!
+  KING HENRY. O heavenly God!
   QUEEN. How fares my gracious lord?
   SUFFOLK. Comfort, my sovereign! Gracious Henry, comfort!
   KING HENRY. What, doth my Lord of Suffolk comfort me?
@@ -2072,15 +2072,15 @@ from the murder of DUKE HUMPHREY
                                                 [A noise within]
   QUEEN. What noise is this?
 
-       Re-enter SUFFOLK and WARWICK, with their weapons drawn
+       Enter SUFFOLK and WARWICK, with their weapons drawn
 
-  KING. Why, how now, lords, your wrathful weapons drawn
+  KING HENRY. Why, how now, lords, your wrathful weapons drawn
     Here in our presence! Dare you be so bold?
     Why, what tumultuous clamour have we here?
   SUFFOLK. The trait'rous Warwick, with the men of Bury,
     Set all upon me, mighty sovereign.
 
-                        Re-enter SALISBURY
+                        Enter SALISBURY
 
   SALISBURY. [To the Commons within] Sirs, stand apart, the King
       shall know your mind.
@@ -2268,7 +2268,7 @@ from the murder of DUKE HUMPHREY
 SCENE III.
 London. CARDINAL BEAUFORT'S bedchamber
 
-Enter the KING, SALISBURY, and WARWICK, to the CARDINAL in bed
+Enter the KING HENRY, SALISBURY, and WARWICK, to the CARDINAL in bed
 
   KING HENRY. How fares my lord? Speak, Beaufort, to thy sovereign.
   CARDINAL. If thou be'st Death I'll give thee England's treasure,
@@ -2315,8 +2315,8 @@ ACT IV. SCENE I.
 The coast of Kent
 
 Alarum.  Fight at sea.  Ordnance goes off.  Enter a LIEUTENANT,
-a SHIPMASTER and his MATE, and WALTER WHITMORE, with sailors;
-SUFFOLK and other GENTLEMEN, as prisoners
+a MASTER and his MATE, and WHITMORE, with sailors;
+SUFFOLK and other FIRST GENTLEMAN, SECOND GENTLEMAN as prisoners
 
   LIEUTENANT. The gaudy, blabbing, and remorseful day
     Is crept into the bosom of the sea;
@@ -2464,7 +2464,7 @@ SUFFOLK and other GENTLEMEN, as prisoners
     Therefore come you with us, and let him go.
                               Exeunt all but the FIRST GENTLEMAN
 
-                Re-enter WHITMORE with SUFFOLK'S body
+                Enter WHITMORE with SUFFOLK'S body
 
   WHITMORE. There let his head and lifeless body lie,
     Until the Queen his mistress bury it.                   Exit
@@ -2480,7 +2480,7 @@ SUFFOLK and other GENTLEMEN, as prisoners
 SCENE II.
 Blackheath
 
-Enter GEORGE BEVIS and JOHN HOLLAND
+Enter GEORGE and JOHN
 
   GEORGE. Come and get thee a sword, though made of a lath; they have
     been up these two days.
@@ -2508,7 +2508,7 @@ Enter GEORGE BEVIS and JOHN HOLLAND
   GEORGE. Argo, their thread of life is spun.
   JOHN. Come, come, let's fall in with them.
 
-                Drum. Enter CADE, DICK THE BUTCHER, SMITH
+                Drum. Enter CADE, DICK, SMITH
              THE WEAVER, and a SAWYER, with infinite numbers
 
   CADE. We John Cade, so term'd of our supposed father-
@@ -2558,7 +2558,7 @@ Enter GEORGE BEVIS and JOHN HOLLAND
     to a thing, and I was never mine own man since. How now! Who's
     there?
 
-              Enter some, bringing in the CLERK OF CHATHAM
+              Enter some, bringing in the CLERK
 
   SMITH. The clerk of Chatham. He can write and read and cast
     accompt.
@@ -2596,7 +2596,7 @@ Enter GEORGE BEVIS and JOHN HOLLAND
   CADE. To equal him, I will make myself a knight presently.
     [Kneels] Rise up, Sir John Mortimer. [Rises] Now have at him!
 
-                Enter SIR HUMPHREY STAFFORD and WILLIAM
+                Enter STAFFORD and WILLIAM STAFFORD
                   his brother, with drum and soldiers
 
   STAFFORD. Rebellious hinds, the filth and scum of Kent,
@@ -2698,8 +2698,8 @@ Enter CADE and the rest
 SCENE IV.
 London. The palace
 
-Enter the KING with a supplication, and the QUEEN with SUFFOLK'S head;
-the DUKE OF BUCKINGHAM, and the LORD SAY
+Enter the KING HENRY with a supplication, and the QUEEN with SUFFOLK'S head;
+the BUCKINGHAM, and the SAY
 
   QUEEN. Oft have I heard that grief softens the mind
     And makes it fearful and degenerate;
@@ -2753,7 +2753,7 @@ the DUKE OF BUCKINGHAM, and the LORD SAY
     And therefore in this city will I stay
     And live alone as secret as I may.
 
-                      Enter another MESSENGER
+                      Enter another SECOND MESSENGER
 
   SECOND MESSENGER. Jack Cade hath gotten London Bridge.
     The citizens fly and forsake their houses;
@@ -2763,7 +2763,7 @@ the DUKE OF BUCKINGHAM, and the LORD SAY
   BUCKINGHAM. Then linger not, my lord; away, take horse.
   KING HENRY. Come Margaret; God, our hope, will succour us.
   QUEEN. My hope is gone, now Suffolk is deceas'd.
-  KING HENRY. [To LORD SAY] Farewell, my lord, trust not the Kentish
+  KING HENRY. [To SAY] Farewell, my lord, trust not the Kentish
     rebels.
   BUCKINGHAM. Trust nobody, for fear you be betray'd.
   SAY. The trust I have is in mine innocence,
@@ -2775,8 +2775,8 @@ the DUKE OF BUCKINGHAM, and the LORD SAY
 SCENE V.
 London. The Tower
 
-Enter LORD SCALES Upon the Tower, walking. Then enter two or three CITIZENS,
-below
+Enter SCALES Upon the Tower, walking. Then enter two or three
+below FIRST CITIZEN,
 
   SCALES. How now! Is Jack Cade slain?
   FIRST CITIZEN. No, my lord, nor likely to be slain; for they have
@@ -2797,7 +2797,7 @@ below
 SCENE VI.
 London. Cannon street
 
-Enter JACK CADE and the rest, and strikes his staff on London Stone
+Enter CADE and the rest, and strikes his staff on London Stone
 
   CADE. Now is Mortimer lord of this city. And here, sitting upon
     London Stone, I charge and command that, of the city's cost, the
@@ -2822,7 +2822,7 @@ Enter JACK CADE and the rest, and strikes his staff on London Stone
 SCENE VII.
 London. Smithfield
 
-Alarums. MATTHEW GOFFE is slain, and all the rest.  Then enter JACK CADE,
+Alarums. MATTHEW GOFFE is slain, and all the rest.  Then enter CADE,
 with his company
 
   CADE. So, sirs. Now go some and pull down the Savoy; others to th'
@@ -2847,7 +2847,7 @@ with his company
     sold the towns in France; he that made us pay one and twenty
     fifteens, and one shining to the pound, the last subsidy.
 
-                Enter GEORGE BEVIS, with the LORD SAY
+                Enter GEORGE, with the SAY
 
   CADE. Well, he shall be beheaded for it ten times. Ah, thou say,
     thou serge, nay, thou buckram lord! Now art thou within point
@@ -2944,7 +2944,7 @@ with his company
   CADE. Marry, presently.
   ALL. O, brave!
 
-                      Re-enter one with the heads
+                      Enter one with the heads
 
   CADE. But is not this braver? Let them kiss one another, for they
     lov'd well when they were alive. Now part them again, lest they
@@ -3260,7 +3260,7 @@ Enter YORK, and his army of Irish, with drum and colours
   BUCKINGHAM. York, I commend this kind submission.
     We twain will go into his Highness' tent.
 
-                  Enter the KING, and attendants
+                  Enter the KING HENRY, and attendants
 
   KING HENRY. Buckingham, doth York intend no harm to us,
     That thus he marcheth with thee arm in arm?
@@ -3336,11 +3336,11 @@ Enter YORK, and his army of Irish, with drum and colours
     Shall be their father's bail; and bane to those
     That for my surety will refuse the boys!
 
-               Enter EDWARD and RICHARD PLANTAGENET
+               Enter EDWARD and RICHARD
 
     See where they come: I'll warrant they'll make it good.
 
-                     Enter CLIFFORD and his SON
+                     Enter CLIFFORD and his YOUNG CLIFFORD
 
   QUEEN. And here comes Clifford to deny their bail.
   CLIFFORD. Health and all happiness to my lord the King!
@@ -3369,7 +3369,7 @@ Enter YORK, and his army of Irish, with drum and colours
     They may astonish these fell-lurking curs.
     Bid Salisbury and Warwick come to me.
 
-               Enter the EARLS OF WARWICK and SALISBURY
+               Enter the WARWICK and SALISBURY
 
   CLIFFORD. Are these thy bears? We'll bait thy bears to death,
     And manacle the berard in their chains,
@@ -3466,7 +3466,7 @@ Alarums to the battle. Enter WARWICK
     And made a prey for carrion kites and crows
     Even of the bonny beast he lov'd so well.
 
-                      Enter OLD CLIFFORD
+                      Enter CLIFFORD
 
   WARWICK. Of one or both of us the time is come.
   YORK. Hold, Warwick, seek thee out some other chase,
@@ -3553,7 +3553,7 @@ Alarums to the battle. Enter WARWICK
     And where this breach now in our fortunes made
     May readily be stopp'd.
 
-                     Re-enter YOUNG CLIFFORD
+                     Enter YOUNG CLIFFORD
 
   YOUNG CLIFFORD. But that my heart's on future mischief set,
     I would speak blasphemy ere bid you fly;
