@@ -1305,7 +1305,7 @@ Enter SIR TOBY, SIR ANDREW, and FABIAN
     image of it leaves him he must run mad.
   MARIA. Nay, but say true; does it work upon him?
   SIR TOBY. Like aqua-vita! with a midwife.
-  AIARIA. If you will then see the fruits of the sport, mark his
+  MARIA. If you will then see the fruits of the sport, mark his
     first approach before my lady. He will come to her in yellow
     stockings, and 'tis a colour she abhors, and cross-garter'd, a
     fashion she detests; and he will smile upon her, which will now
@@ -1687,7 +1687,7 @@ Enter OLIVIA and MARIA
   MARIA. Why appear you with this ridiculous boldness before my lady?
   MALVOLIO. 'Be not afraid of greatness.' 'Twas well writ.
   OLIVIA. What mean'st thou by that, Malvolio?
-  AIALVOLIO. 'Some are born great,'-
+  MALVOLIO. 'Some are born great,'-
   OLIVIA. Ha?
   MALVOLIO. 'Some achieve greatness,'-
   OLIVIA. What say'st thou?

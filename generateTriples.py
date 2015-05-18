@@ -1,5 +1,3 @@
-# END_ACT
-# <after char name> (Aside)
 import re
 
 NUM_PLAYS = 34
@@ -16,78 +14,107 @@ def newCharacterSpeaking(line):
 	match = re.match(r'^  ([A-Z]+). ', line)
 	if match:
 		currSpeaker = match.group(0)
-		line = replace(lstrip(line), currSpeaker, "")[2:]
+		line = line.lstrip().replace(currSpeaker, "", 1)[2:]
 		return (currSpeaker, line)
 	return None
 
-# Checks if a line contains characters entering the scene, and if so 
-# returns the updated currCharList
-
-# Lines still to deal with:
-# Enter [Oswald the] Steward.
-
+# Checks if a line contains characters entering the scene, 
+# and if so returns the updated currCharList
 # Will get wrong:
 # Re-enter WHITMORE with SUFFOLK'S body
-
 def checkEntryLine(line, currCharList):
-	match = re.search(r'[Ee]nter ([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)[., ]', line)
-	if match:
-		char = match.group(0)
-		currCharList.add(char)
-		moreChars = re.search(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)[., ]', line)
-		if moreChars:
-			for group in moreChars.groups() where group != char:
-				currCharList.add(group)
-		return currCharList
+	ind = line.find('enter ')
+	if ind != -1:
+		match = re.search(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[ind+6:])
+		if match:
+			for group in match.groups():
+				group = group.upper()
+				# print 'Enter:', group
+				if group in charNames:
+					currCharList.add(group)
+				else:
+					words = group.split()
+					if len(words) > 1: # Deals with different forms of names
+						for word in words:
+							if word in charNames:
+								currCharList.add(word)
+					else:
+						for char in charNames: # Deals with abbreviated names
+							if char.find(group) != -1:
+								print group, char
+								currCharList.add(char)
+
+			return currCharList
 	return None
 
-# Checks if a line contains characters leaving the scene, and if so
-# returns updated currCharList
-
-# Lines still to deal with:
-# Exeunt Goneril, [Edmund, and Oswald].
-# Exit [one] with Gloucester.
-# Exit [Cornwall, led by Regan].
-# Exit running.
-# [Exit.]
-# Exit servant with PETER
-# Exit WALTER with SUFFOLK
-# Exeunt all but the FIRST GENTLEMAN
-
-# Will definitely miss
+# Checks if a line contains characters leaving the scene, 
+# and if so returns updated currCharList
+# Will miss or get wrong
 # [Edmund is borne off.]
-
+# Exeunt all but the FIRST GENTLEMAN
 def checkExit(line, currSpeaker, currCharList):
-	match = re.search(r'Exit\.', line)
+	# also catches "Exit running." and "[Exit.]"
+	match = re.search(r'\[?(?:(?:Exit\.)|(?:Exit (?:[a-z ]*)\.?))\]?', line)
 	if match:
-		currCharList.remove(currSpeaker)
-		return currCharList
-	moreChars = re.search(r'Exit ', line)
-	if moreChars:
-		for group in moreChars.groups():
-			currCharList.remove(group)
-		return currCharList
+		if currSpeaker.upper() in currCharList:
+			# print 'Exit:', currSpeaker
+			currCharList.remove(currSpeaker.upper())
+			return currCharList
+	ind = line.find('Exit ')
+	if ind == -1:
+		ind = line.find('Exeunt ')
+		if ind != -1:
+			ind += 7
+	else:
+		ind += 5
+	if ind != -1:
+		line = line[ind:]
+		moreChars = re.search(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line)
+		if moreChars:
+			for group in moreChars.groups():
+				# print 'Exit:', group
+				if group.upper() in currCharList:
+					currCharList.remove(group.upper())
+			return currCharList
 	return None
-
-	# if line has Exit with a character name following it, remove that character
-	# if line has exeunt, figure out who to remove
 
 # Checks if a line is speech continuation
 def checkSpeechContinuation(line):
-	# speech has 4 spaces before it. -> look for 4 spaces then alphanumeric character
+	match = re.search(r'    (?:[A-Za-z]*)', line)
+	if match:
+		return True
+	return False
 
-# Writes all possible triples for a given speech to file
+# Writes triple: currSpeaker \n len(currCharList) \n currCharList \n currSpeech
 def writeToFile(currSpeaker, currCharList, currSpeech, outFile):
-	for listener in currCharList where listener is not currSpeaker:
-		# write speaker to outFile
-		# write listener to outFile
-		# write currSpeech to outFile
-
-def resetAll(currSpeaker, currSpeech, currCharList)
+	with open(outFile, 'a') as f:
+		f.write(currSpeaker + '\n')
+		f.write(str(len(currCharList)) + '\n')
+		for char in currCharList:
+			f.write(char + '\n')
+		f.write(currSpeech) # BUT STRING HAS NEWLINES. FIND NUMLINES AND INSERT AS WELL?
+	f.close()
 
 for playNum in range(NUM_PLAYS):
-	playFile = 'out-' + playNum + '.txt'
-	outFile = 'triples-' + playNum + '.txt'
+	playFile = 'out-' + str(playNum) + '.txt'
+	charFile = 'char-' + str(playNum) + '.txt'
+	outFile = 'triples-' + str(playNum) + '.txt'
+
+	print '----------\n----------'
+	charNames = set()
+	with open(charFile, 'r') as f:
+		i = 0
+		for line in f:
+			line = line.upper()
+			if i == 0: # First line is the play's title
+				i = 1
+			else:
+				charNames.add(line.strip())
+	f.close()
+	for c in charNames:
+		print c
+	print '----------'
+
 	with open(playFile, 'r') as f:
 		currCharList = set()
 		currSpeaker = ""
@@ -97,9 +124,11 @@ for playNum in range(NUM_PLAYS):
 			if startsNewScene(line):
 				if needToWriteTriple:
 					writeToFile(currSpeaker, currCharList, currSpeech, outFile)
-				resetAll(currSpeaker, currSpeech, currCharList)
+					needToWriteTriple = False
+				currCharList.clear()
+				currSpeech = ""
 			else:
-				tup = newCharacterSpeaking(line, currSpeaker) 
+				tup = newCharacterSpeaking(line) 
 				if tup != None:
 					if needToWriteTriple:
 						writeToFile(currSpeaker, currCharList, currSpeech, outFile)
@@ -114,10 +143,13 @@ for playNum in range(NUM_PLAYS):
 					newCharList = checkEntryLine(line, currCharList)
 					if newCharList != None:
 						currCharList = newCharList
+						needToWriteTriple = True
+					else:
 						if checkSpeechContinuation(line):
 							if needToWriteTriple:
 								writeToFile(currSpeaker, currCharList, currSpeech, outFile)
+								needToWriteTriple = False
 							currSpeech += line
 						if checkExit(line, currSpeaker, currCharList):
 							needToWriteTriple = True
-
+	f.close()
