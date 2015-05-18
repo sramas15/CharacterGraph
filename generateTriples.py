@@ -11,10 +11,11 @@ def startsNewScene(line):
 # Checks if a new character starts speaking, and if so
 # returns (newSpeaker, line with speaker's name removed)
 def newCharacterSpeaking(line):
-	match = re.match(r'^  ([A-Z]+). ', line)
+	match = re.match(r'^  ([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)\.', line)
 	if match:
-		currSpeaker = match.group(0)
-		line = line.lstrip().replace(currSpeaker, "", 1)[2:]
+		currSpeaker = match.group(1)
+		line = line.lstrip()
+		line = line[len(currSpeaker)+2:]
 		return (currSpeaker, line)
 	return None
 
@@ -41,7 +42,7 @@ def checkEntryLine(line, currCharList):
 					else:
 						for char in charNames: # Deals with abbreviated names
 							if char.find(group) != -1:
-								print group, char
+								# print group, char
 								currCharList.add(char)
 
 			return currCharList
@@ -100,7 +101,7 @@ for playNum in range(NUM_PLAYS):
 	charFile = 'char-' + str(playNum) + '.txt'
 	outFile = 'triples-' + str(playNum) + '.txt'
 
-	print '----------\n----------'
+	# print '----------\n----------'
 	charNames = set()
 	with open(charFile, 'r') as f:
 		i = 0
@@ -111,9 +112,9 @@ for playNum in range(NUM_PLAYS):
 			else:
 				charNames.add(line.strip())
 	f.close()
-	for c in charNames:
-		print c
-	print '----------'
+	# for c in charNames:
+		# print c
+	# print '----------'
 
 	with open(playFile, 'r') as f:
 		currCharList = set()
