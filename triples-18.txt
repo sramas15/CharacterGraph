@@ -1,0 +1,4995 @@
+FIRST WITCH
+0
+When shall we three meet again?
+SECOND WITCH
+0
+When the hurlyburly's done,
+THIRD WITCH
+0
+That will be ere the set of sun.
+FIRST WITCH
+0
+Where the place?
+SECOND WITCH
+0
+Upon the heath.
+THIRD WITCH
+0
+There to meet with Macbeth.
+FIRST WITCH
+0
+I come, Graymalkin.
+ALL
+0
+Paddock calls. Anon!
+DUNCAN
+0
+What bloody man is that? He can report,
+MALCOLM
+0
+This is the sergeant
+SERGEANT
+0
+Doubtful it stood,
+DUNCAN
+0
+O valiant cousin! Worthy gentleman!
+SERGEANT
+0
+As whence the sun 'gins his reflection
+DUNCAN
+0
+Dismay'd not this
+SERGEANT
+0
+Yes,
+DUNCAN
+0
+So well thy words become thee as thy wounds;
+LENNOX
+0
+What a haste looks through his eyes! So should he look
+ROSS
+0
+God save the King!
+DUNCAN
+0
+Whence camest thou, worthy Thane?
+ROSS
+0
+From Fife, great King,
+DUNCAN
+0
+Great happiness!
+ROSS
+0
+That now
+DUNCAN
+0
+No more that Thane of Cawdor shall deceive
+ROSS
+0
+I'll see it done.
+DUNCAN
+0
+What he hath lost, noble Macbeth hath won.
+FIRST WITCH
+0
+Where hast thou been, sister?
+SECOND WITCH
+0
+Killing swine.
+THIRD WITCH
+0
+Sister, where thou?
+FIRST WITCH
+0
+A sailor's wife had chestnuts in her lap,
+SECOND WITCH
+0
+I'll give thee a wind.
+FIRST WITCH
+0
+Thou'rt kind.
+THIRD WITCH
+0
+And I another.
+FIRST WITCH
+0
+I myself have all the other,
+SECOND WITCH
+0
+Show me, show me.
+FIRST WITCH
+0
+Here I have a pilot's thumb,
+THIRD WITCH
+0
+A drum, a drum!
+ALL
+0
+The weird sisters, hand in hand,
+MACBETH
+0
+So foul and fair a day I have not seen.
+BANQUO
+0
+How far is't call'd to Forres? What are these
+MACBETH
+0
+Speak, if you can. What are you?
+FIRST WITCH
+0
+All hail, Macbeth, hail to thee, Thane of Glamis!
+SECOND WITCH
+0
+All hail, Macbeth, hail to thee, Thane of Cawdor!
+THIRD WITCH
+0
+All hail, Macbeth, that shalt be King hereafter!
+BANQUO
+0
+Good sir, why do you start, and seem to fear
+FIRST WITCH
+0
+Hail!
+SECOND WITCH
+0
+Hail!
+THIRD WITCH
+0
+Hail!
+FIRST WITCH
+0
+Lesser than Macbeth, and greater.
+SECOND WITCH
+0
+Not so happy, yet much happier.
+THIRD WITCH
+0
+Thou shalt get kings, though thou be none.
+FIRST WITCH
+0
+Banquo and Macbeth, all hail!
+MACBETH
+0
+Stay, you imperfect speakers, tell me more.
+BANQUO
+0
+The earth hath bubbles as the water has,
+MACBETH
+0
+Into the air, and what seem'd corporal melted
+BANQUO
+0
+Were such things here as we do speak about?
+MACBETH
+0
+Your children shall be kings.
+BANQUO
+0
+You shall be King.
+MACBETH
+0
+And Thane of Cawdor too. Went it not so?
+BANQUO
+0
+To the selfsame tune and words. Who's here?
+ROSS
+0
+The King hath happily received, Macbeth,
+ANGUS
+0
+We are sent
+ROSS
+0
+And for an earnest of a greater honor,
+BANQUO
+0
+What, can the devil speak true?
+MACBETH
+0
+The Thane of Cawdor lives. Why do you dress me
+ANGUS
+0
+Who was the Thane lives yet,
+MACBETH
+0
+[Aside.] Glamis, and Thane of Cawdor!
+BANQUO
+0
+[Aside to Macbeth.] That, trusted home,
+MACBETH
+0
+[Aside.] Two truths are told,
+BANQUO
+0
+Look, how our partner's rapt.
+MACBETH
+0
+[Aside.] If chance will have me King, why, chance may
+BANQUO
+0
+New honors come upon him,
+MACBETH
+0
+[Aside.] Come what come may,
+BANQUO
+0
+Worthy Macbeth, we stay upon your leisure.
+MACBETH
+0
+Give me your favor; my dull brain was wrought
+BANQUO
+0
+Very gladly.
+MACBETH
+0
+Till then, enough. Come, friends.             Exeunt.
+DUNCAN
+0
+Is execution done on Cawdor? Are not
+MALCOLM
+0
+My liege,
+DUNCAN
+0
+There's no art
+MACBETH
+0
+The service and the loyalty lowe,
+DUNCAN
+0
+Welcome hither.
+BANQUO
+0
+There if I grow,
+DUNCAN
+0
+My plenteous joys,
+MACBETH
+0
+The rest is labor, which is not used for you.
+DUNCAN
+0
+My worthy Cawdor!
+MACBETH
+0
+[Aside.] The Prince of Cumberland! That is a step
+DUNCAN
+0
+True, worthy Banquo! He is full so valiant,
+LADY MACBETH
+0
+"They met me in the day of success, and I have
+MESSENGER
+0
+The King comes here tonight.
+LADY MACBETH
+0
+Thou'rt mad to say it!
+MESSENGER
+0
+So please you, it is true; our Thane is coming.
+LADY MACBETH
+0
+Give him tending;
+MACBETH
+0
+My dearest love,
+LADY MACBETH
+0
+And when goes hence?
+MACBETH
+0
+Tomorrow, as he purposes.
+LADY MACBETH
+0
+O, never
+MACBETH
+0
+We will speak further.
+LADY MACBETH
+0
+Only look up clear;
+DUNCAN
+0
+This castle hath a pleasant seat; the air
+BANQUO
+0
+This guest of summer,
+DUNCAN
+0
+See, see, our honor'd hostess!
+LADY MACBETH
+0
+All our service
+DUNCAN
+0
+Where's the Thane of Cawdor?
+LADY MACBETH
+0
+Your servants ever
+DUNCAN
+0
+Give me your hand;
+DUNCAN
+1
+MACBETH
+MACBETH
+1
+MACBETH
+If it were done when 'tis done, then 'twere well
+LADY MACBETH
+1
+MACBETH
+He has almost supp'd. Why have you left the chamber?
+MACBETH
+1
+MACBETH
+Hath he ask'd for me?
+LADY MACBETH
+1
+MACBETH
+Know you not he has?
+MACBETH
+1
+MACBETH
+We will proceed no further in this business:
+LADY MACBETH
+1
+MACBETH
+Was the hope drunk
+MACBETH
+1
+MACBETH
+Prithee, peace!
+LADY MACBETH
+1
+MACBETH
+What beast wast then
+MACBETH
+1
+MACBETH
+If we should fail?
+LADY MACBETH
+1
+MACBETH
+We fail?
+MACBETH
+1
+MACBETH
+Bring forth men-children only,
+LADY MACBETH
+1
+MACBETH
+Who dares receive it other,
+MACBETH
+1
+MACBETH
+I am settled and bend up
+BANQUO
+0
+How goes the night, boy?
+FLEANCE
+0
+The moon is down; I have not heard the clock.
+BANQUO
+0
+And she goes down at twelve.
+FLEANCE
+0
+I take't 'tis later, sir.
+BANQUO
+0
+Hold, take my sword. There's husbandry in heaven,
+MACBETH
+0
+A friend.
+BANQUO
+0
+What, sir, not yet at rest? The King's abed.
+MACBETH
+0
+Being unprepared,
+BANQUO
+0
+All's well.
+MACBETH
+0
+I think not of them;
+BANQUO
+0
+At your kind'st leisure.
+MACBETH
+0
+If you shall cleave to my consent, when 'tis,
+BANQUO
+0
+So I lose none
+MACBETH
+0
+Good repose the while.
+BANQUO
+0
+Thanks, sir, the like to you.
+MACBETH
+0
+Go bid thy mistress, when my drink is ready,
+LADY MACBETH
+0
+That which hath made them drunk hath made me bold;
+MACBETH
+0
+[Within.] Who's there' what, ho!
+LADY MACBETH
+0
+Alack, I am afraid they have awaked
+MACBETH
+0
+I have done the deed. Didst thou not hear a noise?
+LADY MACBETH
+0
+I heard the owl scream and the crickets cry.
+MACBETH
+0
+When?
+LADY MACBETH
+0
+Now.
+MACBETH
+0
+As I descended?
+LADY MACBETH
+0
+Ay.
+MACBETH
+0
+Hark!
+LADY MACBETH
+0
+Donalbain.
+MACBETH
+0
+This is a sorry sight.           [Looks on his hands.
+LADY MACBETH
+0
+A foolish thought, to say a sorry sight.
+MACBETH
+0
+There's one did laugh in 's sleep, and one cried,
+LADY MACBETH
+0
+There are two lodged together.
+MACBETH
+0
+One cried, "God bless us!" and "Amen" the other,
+LADY MACBETH
+0
+Consider it not so deeply.
+MACBETH
+0
+But wherefore could not I pronounce "Amen"?
+LADY MACBETH
+0
+These deeds must not be thought
+MACBETH
+0
+I heard a voice cry, "Sleep no more!
+LADY MACBETH
+0
+What do you mean?
+MACBETH
+0
+Still it cried, "Sleep no more!" to all the house;
+LADY MACBETH
+0
+Who was it that thus cried? Why, worthy Thane,
+MACBETH
+0
+I'll go no more.
+LADY MACBETH
+0
+Infirm of purpose!
+MACBETH
+0
+Whence is that knocking?
+MACBETH
+1
+MACBETH
+Whence is that knocking?
+    How is't with me, when every noise appals me?
+    What hands are here? Ha, they pluck out mine eyes!
+    Will all great Neptune's ocean wash this blood
+    Clean from my hand? No, this my hand will rather
+    The multitudinous seas incarnadine,
+    Making the green one red.
+LADY MACBETH
+1
+MACBETH
+My hands are of your color, but I shame
+MACBETH
+1
+MACBETH
+To know my deed, 'twere best not know myself.
+PORTER
+0
+Here's a knocking indeed! If a man were porter of Hell
+MACDUFF
+0
+Was it so late, friend, ere you went to bed,
+PORTER
+0
+Faith, sir, we were carousing till the second cock; and
+MACDUFF
+0
+What three things does drink especially provoke?
+PORTER
+0
+Marry, sir, nose-painting, sleep, and urine. Lechery, sir,
+MACDUFF
+0
+I believe drink gave thee the lie last night.
+PORTER
+0
+That it did, sir, i' the very throat on me; but requited
+MACDUFF
+0
+Is thy master stirring?
+LENNOX
+0
+Good morrow, noble sir.
+MACBETH
+0
+morrow, both.
+MACDUFF
+0
+Is the King stirring, worthy Thane?
+MACBETH
+0
+Not yet.
+MACDUFF
+0
+He did command me to call timely on him;
+MACBETH
+0
+I'll bring you to him.
+MACDUFF
+0
+I know this is a joyful trouble to you,
+MACBETH
+0
+The labor we delight in physics pain.
+LENNOX
+0
+Goes the King hence today?
+MACBETH
+0
+He does; he did appoint so.
+LENNOX
+0
+The night has been unruly. Where we lay,
+MACBETH
+0
+'Twas a rough fight.
+LENNOX
+0
+My young remembrance cannot parallel
+LENNOX
+1
+MACDUFF
+My young remembrance cannot parallel
+    A fellow to it.
+MACDUFF
+1
+MACDUFF
+O horror, horror, horror! Tongue nor heart
+MACBETH
+1
+MACDUFF
+LENNOX. What's the matter?
+MACDUFF
+1
+MACDUFF
+Confusion now hath made his masterpiece.
+MACBETH
+1
+MACDUFF
+What is't you say? the life?
+LENNOX
+1
+MACDUFF
+Mean you his Majesty?
+MACDUFF
+1
+MACDUFF
+Approach the chamber, and destroy your sight
+MACDUFF
+1
+MACDUFF
+Approach the chamber, and destroy your sight
+    With a new Gorgon. Do not bid me speak;
+    See, and then speak yourselves.
+                                      Exeunt Macbeth and Lennox.
+LADY MACBETH
+1
+MACDUFF
+What's the business,
+MACDUFF
+1
+MACDUFF
+O gentle lady,
+LADY MACBETH
+1
+MACDUFF
+Woe, alas!
+BANQUO
+1
+MACDUFF
+Too cruel anywhere.
+BANQUO
+2
+MACDUFF
+MACBETH
+Too cruel anywhere.
+    Dear Duff, I prithee, contradict thyself,
+    And say it is not so.
+MACBETH
+2
+MACDUFF
+MACBETH
+Had I but died an hour before this chance,
+DONALBAIN
+2
+MACDUFF
+MACBETH
+What is amiss?
+MACBETH
+2
+MACDUFF
+MACBETH
+You are, and do not know't.
+MACDUFF
+2
+MACDUFF
+MACBETH
+Your royal father's murther'd.
+LENNOX
+2
+MACDUFF
+MACBETH
+Those of his chamber, as it seem'd, had done't.
+MACBETH
+2
+MACDUFF
+MACBETH
+O, yet I do repent me of my fury,
+MACDUFF
+2
+MACDUFF
+MACBETH
+Wherefore did you so?
+MACBETH
+2
+MACDUFF
+MACBETH
+Who can be wise, amazed, temperate and furious,
+LADY MACBETH
+2
+MACDUFF
+MACBETH
+Help me hence, ho!
+MACDUFF
+2
+MACDUFF
+MACBETH
+Look to the lady.
+MALCOLM
+2
+MACDUFF
+MACBETH
+[Aside to Donalbain.] Why do we hold our tongues,
+DONALBAIN
+2
+MACDUFF
+MACBETH
+[Aside to Malcolm.] What should be spoken here, where
+MALCOLM
+2
+MACDUFF
+MACBETH
+[Aside to Donalbain.] Nor our strong sorrow
+BANQUO
+2
+MACDUFF
+MACBETH
+Look to the lady.
+MACDUFF
+2
+MACDUFF
+MACBETH
+And so do I.
+ALL
+2
+MACDUFF
+MACBETH
+So all.
+MACBETH
+2
+MACDUFF
+MACBETH
+Let's briefly put on manly readiness
+ALL
+2
+MACDUFF
+MACBETH
+Well contented.
+ALL
+2
+MACDUFF
+MACBETH
+Well contented.
+                           Exeunt all but Malcolm and Donalbain.
+MALCOLM
+2
+MACDUFF
+MACBETH
+What will you do? Let's not consort with them.
+DONALBAIN
+2
+MACDUFF
+MACBETH
+To Ireland, I; our separated fortune
+MALCOLM
+2
+MACDUFF
+MACBETH
+This murtherous shaft that's shot
+OLD MAN
+0
+Threescore and ten I can remember well,
+ROSS
+0
+Ah, good father,
+OLD MAN
+0
+'Tis unnatural,
+ROSS
+0
+And Duncan's horses-a thing most strange and certain-
+OLD MAN
+0
+'Tis said they eat each other.
+ROSS
+0
+They did so, to the amazement of mine eyes
+MACDUFF
+0
+Why, see you not?
+ROSS
+0
+Is't known who did this more than bloody deed?
+MACDUFF
+0
+Those that Macbeth hath slain.
+ROSS
+0
+Alas, the day!
+MACDUFF
+0
+They were suborn'd:
+ROSS
+0
+'Gainst nature still!
+MACDUFF
+0
+He is already named, and gone to Scone
+ROSS
+0
+Where is Duncan's body?
+MACDUFF
+0
+Carried to Colmekill,
+ROSS
+0
+Will you to Scone?
+MACDUFF
+0
+No, cousin, I'll to Fife.
+ROSS
+0
+Well, I will thither.
+MACDUFF
+0
+Well, may you see things well done there.
+ROSS
+0
+Farewell, father.
+OLD MAN
+0
+God's benison go with you and with those
+BANQUO
+0
+Thou hast it now: King, Cawdor, Glamis, all,
+MACBETH
+0
+Here's our chief guest.
+LADY MACBETH
+0
+If he had been forgotten,
+MACBETH
+0
+Tonight we hold a solemn supper, sir,
+BANQUO
+0
+Let your Highness
+MACBETH
+0
+Ride you this afternoon?
+BANQUO
+0
+Ay, my good lord.
+MACBETH
+0
+We should have else desired your good advice,
+BANQUO
+0
+As far, my lord, as will fill up the time
+MACBETH
+0
+Fail not our feast.
+BANQUO
+0
+My lord, I will not.
+MACBETH
+0
+We hear our bloody cousins are bestow'd
+BANQUO
+0
+Ay, my good lord. Our time does call upon 's.
+MACBETH
+0
+I wish your horses swift and sure of foot,
+ATTENDANT
+0
+They are, my lord, without the palace gate.
+MACBETH
+0
+Bring them before us.                 Exit Attendant.
+MACBETH
+1
+ATTENDANT
+Bring them before us.                 Exit Attendant.
+    To be thus is nothing,
+    But to be safely thus. Our fears in Banquo.
+    Stick deep, and in his royalty of nature
+    Reigns that which would be fear'd. 'Tis much he dares,
+    And, to that dauntless temper of his mind,
+    He hath a wisdom that doth guide his valor
+    To act in safety. There is none but he
+    Whose being I do fear; and under him
+    My genius is rebuked, as it is said
+    Mark Antony's was by Caesar. He chid the sisters
+    When first they put the name of King upon me
+    And bade them speak to him; then prophet-like
+    They hail'd him father to a line of kings.
+    Upon my head they placed a fruitless crown
+    And put a barren sceptre in my gripe,
+    Thence to be wrench'd with an unlineal hand,
+    No son of mine succeeding. If't be so,
+    For Banquo's issue have I filed my mind,
+    For them the gracious Duncan have I murther'd,
+    Put rancors in the vessel of my peace
+    Only for them, and mine eternal jewel
+    Given to the common enemy of man,
+    To make them kings -the seed of Banquo kings!
+    Rather than so, come, Fate, into the list,
+    And champion me to the utterance! Who's there?
+FIRST MURTHERER
+0
+It was, so please your Highness.
+MACBETH
+0
+Well then, now
+FIRST MURTHERER
+0
+You made it known to us.
+MACBETH
+0
+I did so, and went further, which is now
+FIRST MURTHERER
+0
+We are men, my liege.
+MACBETH
+0
+Ay, in the catalogue ye go for men,
+SECOND MURTHERER
+0
+I am one, my liege,
+FIRST MURTHERER
+0
+And I another
+MACBETH
+0
+Both of you
+BOTH MURTHERERS
+0
+True, my lord.
+MACBETH
+0
+So is he mine, and in such bloody distance
+SECOND MURTHERER
+0
+We shall, my lord,
+FIRST MURTHERER
+0
+Though our lives-
+MACBETH
+0
+Your spirits shine through you. Within this hour at most
+BOTH MURTHERERS
+0
+We are resolved, my lord.
+MACBETH
+0
+I'll call upon you straight. Abide within.
+LADY MACBETH
+0
+Is Banquo gone from court?
+SERVANT
+0
+Ay, madam, but returns again tonight.
+LADY MACBETH
+0
+Say to the King I would attend his leisure
+SERVANT
+0
+Madam, I will.                                  Exit.
+LADY MACBETH
+0
+Nought's had, all's spent,
+MACBETH
+0
+We have scotch'd the snake, not kill'd it.
+LADY MACBETH
+0
+Come on,
+MACBETH
+0
+So shall I, love, and so, I pray, be you.
+LADY MACBETH
+0
+You must leave this.
+MACBETH
+0
+O, full of scorpions is my mind, dear wife!
+LADY MACBETH
+0
+But in them nature's copy's not eterne.
+MACBETH
+0
+There's comfort yet; they are assailable.
+LADY MACBETH
+0
+What's to be done?
+MACBETH
+0
+Be innocent of the knowledge, dearest chuck,
+FIRST MURTHERER
+0
+But who did bid thee join with us?
+THIRD MURTHERER
+0
+Macbeth.
+SECOND MURTHERER
+0
+He needs not our mistrust, since he delivers
+FIRST MURTHERER
+0
+Then stand with us.
+THIRD MURTHERER
+0
+Hark! I hear horses.
+BANQUO
+0
+[Within.] Give us a light there, ho!
+SECOND MURTHERER
+0
+Then 'tis he; the rest
+FIRST MURTHERER
+0
+His horses go about.
+THIRD MURTHERER
+0
+Almost a mile, but he does usually-
+SECOND MURTHERER
+0
+A light, a light!
+THIRD MURTHERER
+0
+'Tis he.
+FIRST MURTHERER
+0
+Stand to't.
+BANQUO
+0
+It will be rain tonight.
+FIRST MURTHERER
+0
+Let it come down.
+BANQUO
+0
+O, treachery! Fly, good Fleance, fly, fly, fly!
+THIRD MURTHERER
+0
+Who did strike out the light?
+FIRST MURTHERER
+0
+Wast not the way?
+THIRD MURTHERER
+0
+There's but one down; the son is fled.
+SECOND MURTHERER
+0
+We have lost
+FIRST MURTHERER
+0
+Well, let's away and say how much is done.
+MACBETH
+0
+You know your own degrees; sit down. At first
+LORDS
+0
+Thanks to your Majesty.
+MACBETH
+0
+Ourself will mingle with society
+LADY MACBETH
+0
+Pronounce it for me, sir, to all our friends,
+MACBETH
+0
+See, they encounter thee with their hearts' thanks.
+MURTHERER
+0
+'Tis Banquo's then.
+MACBETH
+0
+'Tis better thee without than he within.
+MURTHERER
+0
+My lord, his throat is cut; that I did for him.
+MACBETH
+0
+Thou art the best o' the cut-throats! Yet he's good
+MURTHERER
+0
+Most royal sir,
+MACBETH
+0
+[Aside.] Then comes my fit again. I had else been perfect,
+MURTHERER
+0
+Ay, my good lord. Safe in a ditch he bides,
+MACBETH
+0
+Thanks for that.
+LADY MACBETH
+0
+My royal lord,
+MACBETH
+0
+Sweet remembrancer!
+LENNOX
+0
+May't please your Highness sit.
+MACBETH
+0
+Here had we now our country's honor roof'd,
+ROSS
+0
+His absence, sir,
+MACBETH
+0
+The table's full.
+LENNOX
+0
+Here is a place reserved, sir.
+MACBETH
+0
+Where?
+LENNOX
+0
+Here, my good lord. What is't that moves your Highness?
+MACBETH
+0
+Which of you have done this?
+LORDS
+0
+What, my good lord?
+MACBETH
+0
+Thou canst not say I did it; never shake
+ROSS
+0
+Gentlemen, rise; his Highness is well.
+LADY MACBETH
+0
+Sit, worthy friends; my lord is often thus,
+MACBETH
+0
+Ay, and a bold one, that dare look on that
+LADY MACBETH
+0
+O proper stuff!
+MACBETH
+0
+Prithee, see there! Behold! Look! Lo! How say you?
+LADY MACBETH
+0
+What, quite unmann'd in folly?
+MACBETH
+0
+If I stand here, I saw him.
+LADY MACBETH
+0
+Fie, for shame!
+MACBETH
+0
+Blood hath been shed ere now, i' the olden time,
+LADY MACBETH
+0
+My worthy lord,
+MACBETH
+0
+I do forget.
+LORDS
+0
+Our duties and the pledge.
+MACBETH
+0
+Avaunt, and quit my sight! Let the earth hide thee!
+LADY MACBETH
+0
+Think of this, good peers,
+MACBETH
+0
+What man dare, I dare.
+LADY MACBETH
+0
+You have displaced the mirth, broke the good meeting,
+MACBETH
+0
+Can such things be,
+ROSS
+0
+What sights, my lord?
+LADY MACBETH
+0
+I pray you, speak not; he grows worse and worse;
+LENNOX
+0
+Good night, and better health
+LADY MACBETH
+0
+A kind good night to all!
+MACBETH
+0
+will have blood; they say blood will have blood.
+LADY MACBETH
+0
+Almost at odds with morning, which is which.
+MACBETH
+0
+How say'st thou, that Macduff denies his person
+LADY MACBETH
+0
+Did you send to him, sir?
+MACBETH
+0
+I hear it by the way, but I will send.
+LADY MACBETH
+0
+You lack the season of all natures, sleep.
+MACBETH
+0
+Come, we'll to sleep. My strange and self-abuse
+FIRST WITCH
+0
+Why, how now, Hecate? You look angerly.
+HECATE
+0
+Have I not reason, beldams as you are,
+FIRST WITCH
+0
+Come, let's make haste; she'll soon be back again.
+LENNOX
+0
+My former speeches have but hit your thoughts,
+LORD
+0
+The son of Duncan,
+LENNOX
+0
+Sent he to Macduff?
+LORD
+0
+He did, and with an absolute "Sir, not I,"
+LENNOX
+0
+And that well might
+LORD
+0
+I'll send my prayers with him.
+FIRST WITCH
+0
+Thrice the brinded cat hath mew'd.
+SECOND WITCH
+0
+Thrice and once the hedge-pig whined.
+THIRD WITCH
+0
+Harpier cries, "'Tis time, 'tis time."
+FIRST WITCH
+0
+Round about the cauldron go;
+ALL
+0
+Double, double, toil and trouble;
+SECOND WITCH
+0
+Fillet of a fenny snake,
+ALL
+0
+Double, double, toil and trouble;
+THIRD WITCH
+0
+Scale of dragon, tooth of wolf,
+ALL
+0
+Double, double, toil and trouble;
+SECOND WITCH
+0
+Cool it with a baboon's blood,
+HECATE
+0
+O, well done! I commend your pains,
+SECOND WITCH
+0
+By the pricking of my thumbs,
+MACBETH
+0
+How now, you secret, black, and midnight hags?
+ALL
+0
+A deed without a name.
+MACBETH
+0
+I conjure you, by that which you profess
+FIRST WITCH
+0
+Speak.
+SECOND WITCH
+0
+Demand.
+THIRD WITCH
+0
+We'll answer.
+FIRST WITCH
+0
+Say, if thou'dst rather hear it from our mouths,
+MACBETH
+0
+Call 'em, let me see 'em.
+FIRST WITCH
+0
+Pour in sow's blood that hath eaten
+ALL
+0
+Come, high or low;
+MACBETH
+0
+Tell me, thou unknown power-
+FIRST WITCH
+0
+He knows thy thought:
+FIRST APPARITION
+0
+Macbeth! Macbeth! Macbeth! Beware Macduff,
+MACBETH
+0
+Whate'er thou art, for thy good caution, thanks;
+FIRST WITCH
+0
+He will not be commanded. Here's another,
+SECOND APPARITION
+0
+Macbeth! Macbeth! Macbeth!
+MACBETH
+0
+Had I three ears, I'd hear thee.
+SECOND APPARITION
+0
+Be bloody, bold, and resolute: laugh to scorn
+MACBETH
+0
+Then live, Macduff. What need I fear of thee?
+ALL
+0
+Listen, but speak not to't.
+THIRD APPARITION
+0
+Be lion-mettled, proud, and take no care
+MACBETH
+0
+That will never be.
+ALL
+0
+Seek to know no more.
+MACBETH
+0
+I will be satisfied! Deny me this,
+FIRST WITCH
+0
+Show!
+SECOND WITCH
+0
+Show!
+THIRD
+0
+WITCH. Show!
+ALL
+0
+Show his eyes, and grieve his heart;
+MACBETH
+0
+Thou are too like the spirit of Banquo Down!
+FIRST WITCH
+0
+Ay, sir, all this is so. But why
+MACBETH
+0
+are they? Gone? Let this pernicious hour
+LENNOX
+0
+What's your Grace's will?
+MACBETH
+0
+Saw you the weird sisters?
+LENNOX
+0
+No, my lord.
+MACBETH
+0
+Came they not by you?
+LENNOX
+0
+No indeed, my lord.
+MACBETH
+0
+Infected be the 'air whereon they ride,
+LENNOX
+0
+'Tis two or three, my lord, that bring you word
+MACBETH
+0
+Fled to England?
+LENNOX
+0
+Ay, my good lord.
+MACBETH
+0
+[Aside.] Time, thou anticipatest my dread exploits.
+LADY MACDUFF
+0
+What had he done, to make him fly the land?
+ROSS
+0
+You must have patience, madam.
+LADY MACDUFF
+0
+He had none;
+ROSS
+0
+You know not
+LADY MACDUFF
+0
+Wisdom? To leave his wife, to leave his babes,
+ROSS
+0
+My dearest coz,
+LADY MACDUFF
+0
+Father'd he is, and yet he's fatherless.
+ROSS
+0
+I am so much a fool, should I stay longer,
+LADY MACDUFF
+0
+Sirrah, your father's dead.
+SON
+0
+As birds do, Mother.
+LADY MACDUFF
+0
+What, with worms and flies?
+SON
+0
+With what I get, I mean; and so do they.
+LADY MACDUFF
+0
+Poor bird! Thou'ldst never fear the net nor lime,
+SON
+0
+Why should I, Mother? Poor birds they are not set for.
+LADY MACDUFF
+0
+Yes, he is dead. How wilt thou do for father?
+SON
+0
+Nay, how will you do for a husband?
+LADY MACDUFF
+0
+Why, I can buy me twenty at any market.
+SON
+0
+Then you'll buy 'em to sell again.
+LADY MACDUFF
+0
+Thou speak'st with all thy wit, and yet, i' faith,
+SON
+0
+Was my father a traitor, Mother?
+LADY MACDUFF
+0
+Ay, that he was.
+SON
+0
+What is a traitor?
+LADY MACDUFF
+0
+Why one that swears and lies.
+SON
+0
+And be all traitors that do so?
+LADY MACDUFF
+0
+Everyone that does so is a traitor and must be
+SON
+0
+And must they all be hanged that swear and lie?
+LADY MACDUFF
+0
+Everyone.
+SON
+0
+Who must hang them?
+LADY MACDUFF
+0
+Why, the honest men.
+SON
+0
+Then the liars and swearers are fools, for there are liars and
+LADY MACDUFF
+0
+Now, God help thee, poor monkey! But how wilt thou do
+SON
+0
+If he were dead, you'ld weep for him; if you would not, it
+LADY MACDUFF
+0
+Poor prattler, how thou talk'st!
+MESSENGER
+0
+Bless you, fair dame! I am not to you known,
+LADY MACDUFF
+0
+Whither should I fly?
+FIRST MURTHERER
+0
+Where is your husband?
+LADY MACDUFF
+0
+I hope, in no place so unsanctified
+FIRST MURTHERER
+0
+He's a traitor.
+SON
+0
+Thou liest, thou shag-ear'd villain!
+FIRST MURTHERER
+0
+What, you egg!
+SON
+0
+He has kill'd me, Mother.
+MALCOLM
+0
+Let us seek out some desolate shade and there
+MACDUFF
+0
+Let us rather
+MALCOLM
+0
+What I believe, I'll wall;
+MACDUFF
+0
+I am not treacherous.
+MALCOLM
+0
+But Macbeth is.
+MACDUFF
+0
+I have lost my hopes.
+MALCOLM
+0
+Perchance even there where I did find my doubts.
+MACDUFF
+0
+Bleed, bleed, poor country!
+MALCOLM
+0
+Be not offended;
+MACDUFF
+0
+What should he be?
+MALCOLM
+0
+It is myself I mean, in whom I know
+MACDUFF
+0
+Not in the legions
+MALCOLM
+0
+I grant him bloody,
+MACDUFF
+0
+Boundless intemperance
+MALCOLM
+0
+With this there grows
+MACDUFF
+0
+This avarice
+MALCOLM
+0
+But I have none. The king-becoming graces,
+MACDUFF
+0
+O Scotland, Scotland!
+MALCOLM
+0
+If such a one be fit to govern, speak.
+MACDUFF
+0
+Fit to govern?
+MALCOLM
+0
+Macduff, this noble passion,
+MACDUFF
+0
+Such welcome and unwelcome things at once
+MALCOLM
+0
+Well, more anon. Comes the King forth, I pray you?
+DOCTOR
+0
+Ay, sir, there are a crew of wretched souls
+MALCOLM
+0
+I thank you, Doctor.                     Exit Doctor.
+MACDUFF
+0
+What's the disease he means?
+MALCOLM
+0
+'Tis call'd the evil:
+MACDUFF
+0
+See, who comes here?
+MALCOLM
+0
+My countryman, but yet I know him not.
+MACDUFF
+0
+My ever gentle cousin, welcome hither.
+MALCOLM
+0
+I know him now. Good God, betimes remove
+ROSS
+0
+Sir, amen.
+MACDUFF
+0
+Stands Scotland where it did?
+ROSS
+0
+Alas, poor country,
+MACDUFF
+0
+O, relation
+MALCOLM
+0
+What's the newest grief?
+ROSS
+0
+That of an hour's age doth hiss the speaker;
+MACDUFF
+0
+How does my wife?
+ROSS
+0
+Why, well.
+MACDUFF
+0
+And all my children?
+ROSS
+0
+Well too.
+MACDUFF
+0
+The tyrant has not batter'd at their peace?
+ROSS
+0
+No, they were well at peace when I did leave 'em.
+MACDUFF
+0
+Be not a niggard of your speech. How goest?
+ROSS
+0
+When I came hither to transport the tidings,
+MALCOLM
+0
+Be't their comfort
+ROSS
+0
+Would I could answer
+MACDUFF
+0
+What concern they?
+ROSS
+0
+No mind that's honest
+MACDUFF
+0
+If it be mine,
+ROSS
+0
+Let not your ears despise my tongue forever,
+MACDUFF
+0
+Humh! I guess at it.
+ROSS
+0
+Your castle is surprised; your wife and babes
+MALCOLM
+0
+Merciful heaven!
+MACDUFF
+0
+My children too?
+ROSS
+0
+Wife, children, servants, all
+MACDUFF
+0
+And I must be from thence!
+ROSS
+0
+I have said.
+MALCOLM
+0
+Be comforted.
+MACDUFF
+0
+He has no children. All my pretty ones?
+MALCOLM
+0
+Dispute it like a man.
+MACDUFF
+0
+I shall do so,
+MALCOLM
+0
+Be this the whetstone of your sword. Let grief
+MACDUFF
+0
+O, I could play the woman with mine eyes
+MALCOLM
+0
+This tune goes manly.
+DOCTOR
+0
+I have two nights watched with you, but can perceive no
+GENTLEWOMAN
+0
+Since his Majesty went into the field, have seen her
+DOCTOR
+0
+A great perturbation in nature, to receive at once the
+GENTLEWOMAN
+0
+That, sir, which I will not report after her.
+DOCTOR
+0
+You may to me, and 'tis most meet you should.
+GENTLEWOMAN
+0
+Neither to you nor anyone, having no witness to
+DOCTOR
+0
+How came she by that light?
+GENTLEWOMAN
+0
+Why, it stood by her. She has light by her
+DOCTOR
+0
+You see, her eyes are open.
+GENTLEWOMAN
+0
+Ay, but their sense is shut.
+DOCTOR
+0
+What is it she does now? Look how she rubs her hands.
+GENTLEWOMAN
+0
+It is an accustomed action with her, to seem thus
+LADY MACBETH
+0
+Yet here's a spot.
+DOCTOR
+0
+Hark, she speaks! I will set down what comes from her, to
+LADY MACBETH
+0
+Out, damned spot! Out, I say! One- two -why then 'tis
+DOCTOR
+0
+Do you mark that?
+LADY MACBETH
+0
+The Thane of Fife had a wife; where is she now? What,
+DOCTOR
+0
+Go to, go to; you have known what you should not.
+GENTLEWOMAN
+0
+She has spoke what she should not, I am sure of that.
+LADY MACBETH
+0
+Here's the smell of the blood still. All the perfumes
+DOCTOR
+0
+What a sigh is there! The heart is sorely charged.
+GENTLEWOMAN
+0
+I would not have such a heart in my bosom for the
+DOCTOR
+0
+Well, well, well-
+GENTLEWOMAN
+0
+Pray God it be, sir.
+DOCTOR
+0
+This disease is beyond my practice. Yet I have known those
+LADY MACBETH
+0
+Wash your hands, put on your nightgown, look not so
+DOCTOR
+0
+Even so?
+LADY MACBETH
+0
+To bed, to bed; there's knocking at the gate. Come,
+DOCTOR
+0
+Will she go now to bed?
+GENTLEWOMAN
+0
+Directly.
+DOCTOR
+0
+Foul whisperings are abroad. Unnatural deeds
+GENTLEWOMAN
+0
+Good night, good doctor.
+MENTEITH
+0
+The English power is near, led on by Malcolm,
+ANGUS
+0
+Near Birnam Wood
+CAITHNESS
+0
+Who knows if Donalbain be with his brother?
+LENNOX
+0
+For certain, sir, he is not; I have a file
+MENTEITH
+0
+What does the tyrant?
+CAITHNESS
+0
+Great Dunsinane he strongly fortifies.
+ANGUS
+0
+Now does he feel
+MENTEITH
+0
+Who then shall blame
+CAITHNESS
+0
+Well, march we on
+LENNOX
+0
+Or so much as it needs
+MACBETH
+0
+Bring me no more reports; let them fly all!
+SERVANT
+0
+There is ten thousand-
+MACBETH
+0
+Geese, villain?
+SERVANT
+0
+Soldiers, sir.
+MACBETH
+0
+Go prick thy face and over-red thy fear,
+SERVANT
+0
+The English force, so please you.
+MACBETH
+0
+Take thy face hence.                    Exit Servant.
+SEYTON
+0
+What's your gracious pleasure?
+MACBETH
+0
+What news more?
+SEYTON
+0
+All is confirm'd, my lord, which was reported.
+MACBETH
+0
+I'll fight, 'til from my bones my flesh be hack'd.
+SEYTON
+0
+'Tis not needed yet.
+MACBETH
+0
+I'll put it on.
+DOCTOR
+0
+Not so sick, my lord,
+MACBETH
+0
+Cure her of that.
+DOCTOR
+0
+Therein the patient
+MACBETH
+0
+Throw physic to the dogs, I'll none of it.
+DOCTOR
+0
+Ay, my good lord, your royal preparation
+MACBETH
+0
+Bring it after me.
+DOCTOR
+0
+[Aside.] Were I from Dunsinane away and clear,
+MALCOLM
+0
+Cousins, I hope the days are near at hand
+MENTEITH
+0
+We doubt it nothing.
+SIWARD
+0
+What wood is this before us?
+MENTEITH
+0
+The Wood of Birnam.
+MALCOLM
+0
+Let every soldier hew him down a bough,
+SOLDIERS
+0
+It shall be done.
+SIWARD
+0
+We learn no other but the confident tyrant
+MALCOLM
+0
+'Tis his main hope;
+MACDUFF
+0
+Let our just censures
+SIWARD
+0
+The time approaches
+MACBETH
+0
+Hang out our banners on the outward walls;
+SEYTON
+0
+It is the cry of women, my good lord.            Exit.
+MACBETH
+0
+I have almost forgot the taste of fears:
+MACBETH
+1
+SEYTON
+I have almost forgot the taste of fears:
+    The time has been, my senses would have cool'd
+    To hear a night-shriek, and my fell of hair
+    Would at a dismal treatise rouse and stir
+    As life were in't. I have supp'd full with horrors;
+    Direness, familiar to my slaughterous thoughts,
+    Cannot once start me.
+SEYTON
+1
+SEYTON
+The Queen, my lord, is dead.
+MACBETH
+1
+SEYTON
+She should have died hereafter;
+MESSENGER
+1
+SEYTON
+Gracious my lord,
+MACBETH
+1
+SEYTON
+Well, say, sir.
+MESSENGER
+1
+SEYTON
+As I did stand my watch upon the hill,
+MACBETH
+1
+SEYTON
+Liar and slave!
+MESSENGER
+1
+SEYTON
+Let me endure your wrath, if't be not so.
+MACBETH
+1
+SEYTON
+If thou speak'st false,
+MALCOLM
+0
+Now near enough; your leavy screens throw down,
+SIWARD
+0
+Fare you well.
+MACDUFF
+0
+Make all our trumpets speak, give them all breath,
+MACBETH
+0
+They have tied me to a stake; I cannot fly,
+YOUNG SIWARD
+0
+What is thy name?
+MACBETH
+0
+Thou'lt be afraid to hear it.
+YOUNG SIWARD
+0
+No, though thou call'st thyself a hotter name
+MACBETH
+0
+My name's Macbeth.
+YOUNG SIWARD
+0
+The devil himself could not pronounce a title
+MACBETH
+0
+No, nor more fearful.
+MACBETH
+0
+Thou wast born of woman.
+MACDUFF
+0
+That way the noise is. Tyrant, show thy face!
+SIWARD
+0
+This way, my lord; the castle's gently render'd.
+MALCOLM
+0
+We have met with foes
+SIWARD
+0
+Enter, sir, the castle.
+MACBETH
+0
+Why should I play the Roman fool and die
+MACDUFF
+0
+Turn, hell hound, turn!
+MACBETH
+0
+Of all men else I have avoided thee.
+MACDUFF
+0
+I have no words.
+MACBETH
+0
+Thou losest labor.
+MACDUFF
+0
+Despair thy charm,
+MACBETH
+0
+Accursed be that tongue that tells me so,
+MACDUFF
+0
+Then yield thee, coward,
+MACBETH
+0
+I will not yield,
+MALCOLM
+0
+I would the friends we miss were safe arrived.
+SIWARD
+0
+Some must go off, and yet, by these I see,
+MALCOLM
+0
+Macduff is missing, and your noble son.
+ROSS
+0
+Your son, my lord, has paid a soldier's debt.
+SIWARD
+0
+Then he is dead?
+ROSS
+0
+Ay, and brought off the field. Your cause of sorrow
+SIWARD
+0
+Had he his hurts before?
+ROSS
+0
+Ay, on the front.
+SIWARD
+0
+Why then, God's soldier be he!
+MALCOLM
+0
+He's worth more sorrow,
+SIWARD
+0
+He's worth no more:
+SIWARD
+1
+MACDUFF
+He's worth no more:
+    They say he parted well and paid his score,
+    And so God be with him! Here comes newer comfort.
+MACDUFF
+1
+MACDUFF
+Hail, King, for so thou art. Behold where stands
+ALL
+1
+MACDUFF
+Hail, King of Scotland!                         Flourish.
+MALCOLM
+1
+MACDUFF
+We shall not spend a large expense of time
+DUKE
+0
+Escalus!
+ESCALUS
+0
+My lord.
+DUKE
+0
+Of government the properties to unfold
+ESCALUS
+0
+If any in Vienna be of worth
+DUKE
+0
+Look where he comes.
+ANGELO
+0
+Always obedient to your Grace's will,
+DUKE
+0
+Angelo,
+ANGELO
+0
+Now, good my lord,
+DUKE
+0
+No more evasion!
+ANGELO
+0
+Yet give leave, my lord,
+DUKE
+0
+My haste may not admit it;
+ANGELO
+0
+The heavens give safety to your purposes!
+ESCALUS
+0
+Lead forth and bring you back in happiness!
+DUKE
+0
+I thank you. Fare you well.                         Exit
+ESCALUS
+0
+I shall desire you, sir, to give me leave
+ANGELO
+0
+'Tis so with me. Let us withdraw together,
+ESCALUS
+0
+I'll wait upon your honour.                    Exeunt
+LUCIO
+0
+If the Duke, with the other dukes, come not to composition
+FIRST GENTLEMAN
+0
+Heaven grant us its peace, but not the King of
+SECOND GENTLEMAN
+0
+Amen.
+LUCIO
+0
+Thou conclud'st like the sanctimonious pirate that went to
+SECOND GENTLEMAN
+0
+'Thou shalt not steal'?
+LUCIO
+0
+Ay, that he raz'd.
+FIRST GENTLEMAN
+0
+Why, 'twas a commandment to command the captain
+SECOND GENTLEMAN
+0
+I never heard any soldier dislike it.
+LUCIO
+0
+I believe thee; for I think thou never wast where grace was
+SECOND GENTLEMAN
+0
+No? A dozen times at least.
+FIRST GENTLEMAN
+0
+What, in metre?
+LUCIO
+0
+In any proportion or in any language.
+FIRST GENTLEMAN
+0
+I think, or in any religion.
+LUCIO
+0
+Ay, why not? Grace is grace, despite of all controversy; as,
+FIRST GENTLEMAN
+0
+Well, there went but a pair of shears between us.
+LUCIO
+0
+I grant; as there may between the lists and the velvet.
+FIRST GENTLEMAN
+0
+And thou the velvet; thou art good velvet; thou'rt
+LUCIO
+0
+I think thou dost; and, indeed, with most painful feeling of
+FIRST GENTLEMAN
+0
+I think I have done myself wrong, have I not?
+SECOND GENTLEMAN
+0
+Yes, that thou hast, whether thou art tainted or
+LUCIO
+0
+Behold, behold, where Madam Mitigation comes! I have
+SECOND GENTLEMAN
+0
+To what, I pray?
+FIRST GENTLEMAN
+0
+Judge.
+SECOND GENTLEMAN
+0
+To three thousand dolours a year.
+FIRST GENTLEMAN
+0
+Ay, and more.
+LUCIO
+0
+A French crown more.
+FIRST GENTLEMAN
+0
+Thou art always figuring diseases in me, but thou
+LUCIO
+0
+Nay, not, as one would say, healthy; but so sound as things
+FIRST GENTLEMAN
+0
+How now! which of your hips has the most profound
+MRS
+0
+OVERDONE. Well, well! there's one yonder arrested and carried
+FIRST GENTLEMAN
+0
+Who's that, I pray thee?
+MRS
+0
+OVERDONE. Marry, sir, that's Claudio, Signior Claudio.
+FIRST GENTLEMAN
+0
+Claudio to prison? 'Tis not so.
+MRS
+0
+OVERDONE. Nay, but I know 'tis so: I saw him arrested; saw him
+LUCIO
+0
+But, after all this fooling, I would not have it so. Art
+MRS
+0
+OVERDONE. I am too sure of it; and it is for getting Madam
+LUCIO
+0
+Believe me, this may be; he promis'd to meet me two hours
+SECOND GENTLEMAN
+0
+Besides, you know, it draws something near to the
+FIRST GENTLEMAN
+0
+But most of all agreeing with the proclamation.
+LUCIO
+0
+Away; let's go learn the truth of it.
+MRS
+0
+OVERDONE. Thus, what with the war, what with the sweat, what
+POMPEY
+0
+Yonder man is carried to prison.
+MRS
+0
+OVERDONE. Well, what has he done?
+POMPEY
+0
+A woman.
+MRS
+0
+OVERDONE. But what's his offence?
+POMPEY
+0
+Groping for trouts in a peculiar river.
+MRS
+0
+OVERDONE. What! is there a maid with child by him?
+POMPEY
+0
+No; but there's a woman with maid by him. You have not
+MRS
+0
+OVERDONE. What proclamation, man?
+POMPEY
+0
+All houses in the suburbs of Vienna must be pluck'd down.
+MRS
+0
+OVERDONE. And what shall become of those in the city?
+POMPEY
+0
+They shall stand for seed; they had gone down too, but that
+MRS
+0
+OVERDONE. But shall all our houses of resort in the suburbs be
+POMPEY
+0
+To the ground, mistress.
+MRS
+0
+OVERDONE. Why, here's a change indeed in the commonwealth!
+POMPEY
+0
+Come, fear not you: good counsellors lack no clients.
+MRS
+0
+OVERDONE. What's to do here, Thomas Tapster? Let's withdraw.
+POMPEY
+0
+Here comes Signior Claudio, led by the provost to prison;
+CLAUDIO
+0
+Fellow, why dost thou show me thus to th' world?
+PROVOST
+0
+I do it not in evil disposition,
+CLAUDIO
+0
+Thus can the demigod Authority
+LUCIO
+0
+Why, how now, Claudio, whence comes this restraint?
+CLAUDIO
+0
+From too much liberty, my Lucio, liberty;
+LUCIO
+0
+If I could speak so wisely under an arrest, I would send for
+CLAUDIO
+0
+What but to speak of would offend again.
+LUCIO
+0
+What, is't murder?
+CLAUDIO
+0
+No.
+LUCIO
+0
+Lechery?
+CLAUDIO
+0
+Call it so.
+PROVOST
+0
+Away, sir; you must go.
+CLAUDIO
+0
+One word, good friend. Lucio, a word with you.
+LUCIO
+0
+A hundred, if they'll do you any good. Is lechery so look'd
+CLAUDIO
+0
+Thus stands it with me: upon a true contract
+LUCIO
+0
+With child, perhaps?
+CLAUDIO
+0
+Unhappily, even so.
+LUCIO
+0
+I warrant it is; and thy head stands so tickle on thy
+CLAUDIO
+0
+I have done so, but he's not to be found.
+LUCIO
+0
+I pray she may; as well for the encouragement of the like,
+CLAUDIO
+0
+I thank you, good friend Lucio.
+LUCIO
+0
+Within two hours.
+CLAUDIO
+0
+Come, officer, away.                           Exeunt
+DUKE
+0
+No, holy father; throw away that thought;
+FRIAR
+0
+May your Grace speak of it?
+DUKE
+0
+My holy sir, none better knows than you
+FRIAR
+0
+Gladly, my lord.
+DUKE
+0
+We have strict statutes and most biting laws,
+FRIAR
+0
+It rested in your Grace
+DUKE
+0
+I do fear, too dreadful.
+ISABELLA
+0
+And have you nuns no farther privileges?
+FRANCISCA
+0
+Are not these large enough?
+ISABELLA
+0
+Yes, truly; I speak not as desiring more,
+LUCIO
+0
+[ Within] Ho! Peace be in this place!
+ISABELLA
+0
+Who's that which calls?
+FRANCISCA
+0
+It is a man's voice. Gentle Isabella,
+ISABELLA
+0
+Peace and prosperity! Who is't that calls?
+LUCIO
+0
+Hail, virgin, if you be, as those cheek-roses
+ISABELLA
+0
+Why her 'unhappy brother'? Let me ask
+LUCIO
+0
+Gentle and fair, your brother kindly greets you.
+ISABELLA
+0
+Woe me! For what?
+LUCIO
+0
+For that which, if myself might be his judge,
+ISABELLA
+0
+Sir, make me not your story.
+LUCIO
+0
+It is true.
+ISABELLA
+0
+You do blaspheme the good in mocking me.
+LUCIO
+0
+Do not believe it. Fewness and truth, 'tis thus:
+ISABELLA
+0
+Some one with child by him? My cousin Juliet?
+LUCIO
+0
+Is she your cousin?
+ISABELLA
+0
+Adoptedly, as school-maids change their names
+LUCIO
+0
+She it is.
+ISABELLA
+0
+O, let him marry her!
+LUCIO
+0
+This is the point.
+ISABELLA
+0
+Doth he so seek his life?
+LUCIO
+0
+Has censur'd him
+ISABELLA
+0
+Alas! what poor ability's in me
+LUCIO
+0
+Assay the pow'r you have.
+ISABELLA
+0
+My power, alas, I doubt!
+LUCIO
+0
+Our doubts are traitors,
+ISABELLA
+0
+I'll see what I can do.
+LUCIO
+0
+But speedily.
+ISABELLA
+0
+I will about it straight;
+LUCIO
+0
+I take my leave of you.
+ISABELLA
+0
+Good sir, adieu.                              Exeunt
+ANGELO
+0
+We must not make a scarecrow of the law,
+ESCALUS
+0
+Ay, but yet
+ANGELO
+0
+'Tis one thing to be tempted, Escalus,
+ESCALUS
+0
+Be it as your wisdom will.
+ANGELO
+0
+Where is the Provost?
+PROVOST
+0
+Here, if it like your honour.
+ANGELO
+0
+See that Claudio
+ESCALUS
+0
+[Aside] Well, heaven forgive him! and forgive us all!
+ELBOW
+0
+Come, bring them away; if these be good people in a
+ANGELO
+0
+How now, sir! What's your name, and what's the matter?
+ELBOW
+0
+If it please your honour, I am the poor Duke's constable,
+ANGELO
+0
+Benefactors! Well- what benefactors are they? Are they not
+ELBOW
+0
+If it please your honour, I know not well what they are; but
+ESCALUS
+0
+This comes off well; here's a wise officer.
+ANGELO
+0
+Go to; what quality are they of? Elbow is your name? Why
+POMPEY
+0
+He cannot, sir; he's out at elbow.
+ANGELO
+0
+What are you, sir?
+ELBOW
+0
+He, sir? A tapster, sir; parcel-bawd; one that serves a bad
+ESCALUS
+0
+How know you that?
+ELBOW
+0
+My Wife, sir, whom I detest before heaven and your honour-
+ESCALUS
+0
+How! thy wife!
+ELBOW
+0
+Ay, sir; whom I thank heaven, is an honest woman-
+ESCALUS
+0
+Dost thou detest her therefore?
+ELBOW
+0
+I say, sir, I will detest myself also, as well as she, that
+ESCALUS
+0
+How dost thou know that, constable?
+ELBOW
+0
+Marry, sir, by my wife; who, if she had been a woman
+ESCALUS
+0
+By the woman's means?
+ELBOW
+0
+Ay, sir, by Mistress Overdone's means; but as she spit in
+POMPEY
+0
+Sir, if it please your honour, this is not so.
+ELBOW
+0
+Prove it before these varlets here, thou honourable man,
+ESCALUS
+0
+Do you hear how he misplaces?
+POMPEY
+0
+Sir, she came in great with child; and longing, saving your
+ESCALUS
+0
+Go to, go to; no matter for the dish, sir.
+POMPEY
+0
+No, indeed, sir, not of a pin; you are therein in the
+FROTH
+0
+No, indeed.
+POMPEY
+0
+Very well; you being then, if you be rememb'red, cracking
+FROTH
+0
+Ay, so I did indeed.
+POMPEY
+0
+Why, very well; I telling you then, if you be rememb'red,
+FROTH
+0
+All this is true.
+POMPEY
+0
+Why, very well then-
+ESCALUS
+0
+Come, you are a tedious fool. To the purpose: what was
+POMPEY
+0
+Sir, your honour cannot come to that yet.
+ESCALUS
+0
+No, sir, nor I mean it not.
+POMPEY
+0
+Sir, but you shall come to it, by your honour's leave. And,
+FROTH
+0
+All-hallond eve.
+POMPEY
+0
+Why, very well; I hope here be truths. He, sir, sitting, as
+FROTH
+0
+I have so; because it is an open room, and good for winter.
+POMPEY
+0
+Why, very well then; I hope here be truths.
+ANGELO
+0
+This will last out a night in Russia,
+ESCALUS
+0
+I think no less. Good morrow to your lordship.
+POMPEY
+0
+Once?- sir. There was nothing done to her once.
+ELBOW
+0
+I beseech you, sir, ask him what this man did to my wife.
+POMPEY
+0
+I beseech your honour, ask me.
+ESCALUS
+0
+Well, sir, what did this gentleman to her?
+POMPEY
+0
+I beseech you, sir, look in this gentleman's face. Good
+ESCALUS
+0
+Ay, sir, very well.
+POMPEY
+0
+Nay, I beseech you, mark it well.
+ESCALUS
+0
+Well, I do so.
+POMPEY
+0
+Doth your honour see any harm in his face?
+ESCALUS
+0
+Why, no.
+POMPEY
+0
+I'll be suppos'd upon a book his face is the worst thing
+ESCALUS
+0
+He's in the right, constable; what say you to it?
+ELBOW
+0
+First, an it like you, the house is a respected house; next,
+POMPEY
+0
+By this hand, sir, his wife is a more respected person than
+ELBOW
+0
+Varlet, thou liest; thou liest, wicket varlet; the time is
+POMPEY
+0
+Sir, she was respected with him before he married with her.
+ESCALUS
+0
+Which is the wiser here, Justice or Iniquity? Is this
+ELBOW
+0
+O thou caitiff! O thou varlet! O thou wicked Hannibal! I
+ESCALUS
+0
+If he took you a box o' th' ear, you might have your
+ELBOW
+0
+Marry, I thank your good worship for it. What is't your
+ESCALUS
+0
+Truly, officer, because he hath some offences in him that
+ELBOW
+0
+Marry, I thank your worship for it. Thou seest, thou wicked
+ESCALUS
+0
+Where were you born, friend?
+FROTH
+0
+Here in Vienna, sir.
+ESCALUS
+0
+Are you of fourscore pounds a year?
+FROTH
+0
+Yes, an't please you, sir.
+ESCALUS
+0
+So. What trade are you of, sir?
+POMPEY
+0
+A tapster, a poor widow's tapster.
+ESCALUS
+0
+Your mistress' name?
+POMPEY
+0
+Mistress Overdone.
+ESCALUS
+0
+Hath she had any more than one husband?
+POMPEY
+0
+Nine, sir; Overdone by the last.
+ESCALUS
+0
+Nine! Come hither to me, Master Froth. Master Froth, I
+FROTH
+0
+I thank your worship. For mine own part, I never come into
+ESCALUS
+0
+Well, no more of it, Master Froth; farewell. [Exit FROTH]
+POMPEY
+0
+Pompey.
+ESCALUS
+0
+What else?
+POMPEY
+0
+Bum, sir.
+ESCALUS
+0
+Troth, and your bum is the greatest thing about you; so
+POMPEY
+0
+Truly, sir, I am a poor fellow that would live.
+ESCALUS
+0
+How would you live, Pompey- by being a bawd? What do you
+POMPEY
+0
+If the law would allow it, sir.
+ESCALUS
+0
+But the law will not allow it, Pompey; nor it shall not be
+POMPEY
+0
+Does your worship mean to geld and splay all the youth of
+ESCALUS
+0
+No, Pompey.
+POMPEY
+0
+Truly, sir, in my poor opinion, they will to't then. If
+ESCALUS
+0
+There is pretty orders beginning, I can tell you: but it
+POMPEY
+0
+If you head and hang all that offend that way but for ten
+ESCALUS
+0
+Thank you, good Pompey; and, in requital of your prophecy,
+POMPEY
+0
+I thank your worship for your good counsel; [Aside] but I
+ESCALUS
+0
+Come hither to me, Master Elbow; come hither, Master
+ELBOW
+0
+Seven year and a half, sir.
+ESCALUS
+0
+I thought, by the readiness in the office, you had
+ELBOW
+0
+And a half, sir.
+ESCALUS
+0
+Alas, it hath been great pains to you! They do you wrong
+ELBOW
+0
+Faith, sir, few of any wit in such matters; as they are
+ESCALUS
+0
+Look you, bring me in the names of some six or seven, the
+ELBOW
+0
+To your worship's house, sir?
+ESCALUS
+0
+To my house. Fare you well.              [Exit ELBOW]
+JUSTICE
+0
+Eleven, sir.
+ESCALUS
+0
+I pray you home to dinner with me.
+JUSTICE
+0
+I humbly thank you.
+ESCALUS
+0
+It grieves me for the death of Claudio;
+JUSTICE
+0
+Lord Angelo is severe.
+ESCALUS
+0
+It is but needful:
+SERVANT
+0
+He's hearing of a cause; he will come straight.
+PROVOST
+0
+Pray you do. [Exit SERVANT] I'll know
+ANGELO
+0
+Now, what's the matter, Provost?
+PROVOST
+0
+Is it your will Claudio shall die to-morrow?
+ANGELO
+0
+Did not I tell thee yea? Hadst thou not order?
+PROVOST
+0
+Lest I might be too rash;
+ANGELO
+0
+Go to; let that be mine.
+PROVOST
+0
+I crave your honour's pardon.
+ANGELO
+0
+Dispose of her
+ANGELO
+1
+SERVANT
+Dispose of her
+    To some more fitter place, and that with speed.
+SERVANT
+1
+SERVANT
+Here is the sister of the man condemn'd
+ANGELO
+1
+SERVANT
+Hath he a sister?
+PROVOST
+1
+SERVANT
+Ay, my good lord; a very virtuous maid,
+ANGELO
+0
+Well, let her be admitted.                Exit SERVANT
+PROVOST
+0
+[Going] Save your honour!
+ANGELO
+0
+Stay a little while. [To ISABELLA] Y'are welcome; what's
+ISABELLA
+0
+I am a woeful suitor to your honour,
+ANGELO
+0
+Well; what's your suit?
+ISABELLA
+0
+There is a vice that most I do abhor,
+ANGELO
+0
+Well; the matter?
+ISABELLA
+0
+I have a brother is condemn'd to die;
+PROVOST
+0
+[Aside] Heaven give thee moving graces.
+ANGELO
+0
+Condemn the fault and not the actor of it!
+ISABELLA
+0
+O just but severe law!
+LUCIO
+0
+[To ISABELLA] Give't not o'er so; to him again, entreat him,
+ISABELLA
+0
+Must he needs die?
+ANGELO
+0
+Maiden, no remedy.
+ISABELLA
+0
+Yes; I do think that you might pardon him.
+ANGELO
+0
+I will not do't.
+ISABELLA
+0
+But can you, if you would?
+ANGELO
+0
+Look, what I will not, that I cannot do.
+ISABELLA
+0
+But might you do't, and do the world no wrong,
+ANGELO
+0
+He's sentenc'd; 'tis too late.
+LUCIO
+0
+[To ISABELLA] You are too cold.
+ISABELLA
+0
+Too late? Why, no; I, that do speak a word,
+ANGELO
+0
+Pray you be gone.
+ISABELLA
+0
+I would to heaven I had your potency,
+LUCIO
+0
+[To ISABELLA] Ay, touch him; there's the vein.
+ANGELO
+0
+Your brother is a forfeit of the law,
+ISABELLA
+0
+Alas! Alas!
+ANGELO
+0
+Be you content, fair maid.
+ISABELLA
+0
+To-morrow! O, that's sudden! Spare him, spare him.
+LUCIO
+0
+[Aside] Ay, well said.
+ANGELO
+0
+The law hath not been dead, though it hath slept.
+ISABELLA
+0
+Yet show some pity.
+ANGELO
+0
+I show it most of all when I show justice;
+ISABELLA
+0
+So you must be the first that gives this sentence,
+LUCIO
+0
+[To ISABELLA] That's well said.
+ISABELLA
+0
+Could great men thunder
+LUCIO
+0
+[To ISABELLA] O, to him, to him, wench! He will relent;
+PROVOST
+0
+[Aside] Pray heaven she win him.
+ISABELLA
+0
+We cannot weigh our brother with ourself.
+LUCIO
+0
+[To ISABELLA] Thou'rt i' th' right, girl; more o' that.
+ISABELLA
+0
+That in the captain's but a choleric word
+LUCIO
+0
+[To ISABELLA] Art avis'd o' that? More on't.
+ANGELO
+0
+Why do you put these sayings upon me?
+ISABELLA
+0
+Because authority, though it err like others,
+ANGELO
+0
+[Aside] She speaks, and 'tis
+ISABELLA
+0
+Gentle my lord, turn back.
+ANGELO
+0
+I will bethink me. Come again to-morrow.
+ISABELLA
+0
+Hark how I'll bribe you; good my lord, turn back.
+ANGELO
+0
+How, bribe me?
+ISABELLA
+0
+Ay, with such gifts that heaven shall share with you.
+LUCIO
+0
+[To ISABELLA) You had marr'd all else.
+ISABELLA
+0
+Not with fond sicles of the tested gold,
+ANGELO
+0
+Well; come to me to-morrow.
+LUCIO
+0
+[To ISABELLA] Go to; 'tis well; away.
+ISABELLA
+0
+Heaven keep your honour safe!
+ANGELO
+0
+[Aside] Amen; for I
+ISABELLA
+0
+At what hour to-morrow
+ANGELO
+0
+At any time 'fore noon.
+ISABELLA
+0
+Save your honour!              Exeunt all but ANGELO
+ANGELO
+0
+From thee; even from thy virtue!
+DUKE
+0
+Hail to you, Provost! so I think you are.
+PROVOST
+0
+I am the Provost. What's your will, good friar?
+DUKE
+0
+Bound by my charity and my blest order,
+PROVOST
+0
+I would do more than that, if more were needful.
+DUKE
+0
+When must he die?
+PROVOST
+0
+As I do think, to-morrow.
+DUKE
+0
+Repent you, fair one, of the sin you carry?
+JULIET
+0
+I do; and bear the shame most patiently.
+DUKE
+0
+I'll teach you how you shall arraign your conscience,
+JULIET
+0
+I'll gladly learn.
+DUKE
+0
+Love you the man that wrong'd you?
+JULIET
+0
+Yes, as I love the woman that wrong'd him.
+DUKE
+0
+So then, it seems, your most offenceful act
+JULIET
+0
+Mutually.
+DUKE
+0
+Then was your sin of heavier kind than his.
+JULIET
+0
+I do confess it, and repent it, father.
+DUKE
+0
+'Tis meet so, daughter; but lest you do repent
+JULIET
+0
+I do repent me as it is an evil,
+DUKE
+0
+There rest.
+JULIET
+0
+Must die to-morrow! O, injurious law,
+PROVOST
+0
+'Tis pity of him.                              Exeunt
+ANGELO
+0
+When I would pray and think, I think and pray
+SERVANT
+0
+One Isabel, a sister, desires access to you.
+ANGELO
+0
+Teach her the way. [Exit SERVANT] O heavens!
+ISABELLA
+0
+I am come to know your pleasure.
+ANGELO
+0
+That you might know it would much better please me
+ISABELLA
+0
+Even so! Heaven keep your honour!
+ANGELO
+0
+Yet may he live awhile, and, it may be,
+ISABELLA
+0
+Under your sentence?
+ANGELO
+0
+Yea.
+ISABELLA
+0
+When? I beseech you; that in his reprieve,
+ANGELO
+0
+Ha! Fie, these filthy vices! It were as good
+ISABELLA
+0
+'Tis set down so in heaven, but not in earth.
+ANGELO
+0
+Say you so? Then I shall pose you quickly.
+ISABELLA
+0
+Sir, believe this:
+ANGELO
+0
+I talk not of your soul; our compell'd sins
+ISABELLA
+0
+How say you?
+ANGELO
+0
+Nay, I'll not warrant that; for I can speak
+ISABELLA
+0
+Please you to do't,
+ANGELO
+0
+Pleas'd you to do't at peril of your soul,
+ISABELLA
+0
+That I do beg his life, if it be sin,
+ANGELO
+0
+Nay, but hear me;
+ISABELLA
+0
+Let me be ignorant, and in nothing good
+ANGELO
+0
+Thus wisdom wishes to appear most bright
+ISABELLA
+0
+So.
+ANGELO
+0
+And his offence is so, as it appears,
+ISABELLA
+0
+True.
+ANGELO
+0
+Admit no other way to save his life,
+ISABELLA
+0
+As much for my poor brother as myself;
+ANGELO
+0
+Then must your brother die.
+ISABELLA
+0
+And 'twere the cheaper way:
+ANGELO
+0
+Were not you, then, as cruel as the sentence
+ISABELLA
+0
+Ignominy in ransom and free pardon
+ANGELO
+0
+You seem'd of late to make the law a tyrant;
+ISABELLA
+0
+O, pardon me, my lord! It oft falls out,
+ANGELO
+0
+We are all frail.
+ISABELLA
+0
+Else let my brother die,
+ANGELO
+0
+Nay, women are frail too.
+ISABELLA
+0
+Ay, as the glasses where they view themselves,
+ANGELO
+0
+I think it well;
+ISABELLA
+0
+I have no tongue but one; gentle, my lord,
+ANGELO
+0
+Plainly conceive, I love you.
+ISABELLA
+0
+My brother did love Juliet,
+ANGELO
+0
+He shall not, Isabel, if you give me love.
+ISABELLA
+0
+I know your virtue hath a license in't,
+ANGELO
+0
+Believe me, on mine honour,
+ISABELLA
+0
+Ha! little honour to be much believ'd,
+ANGELO
+0
+Who will believe thee, Isabel?
+ISABELLA
+0
+To whom should I complain? Did I tell this,
+DUKE
+0
+So, then you hope of pardon from Lord Angelo?
+CLAUDIO
+0
+The miserable have no other medicine
+DUKE
+0
+Be absolute for death; either death or life
+CLAUDIO
+0
+I humbly thank you.
+ISABELLA
+0
+[Within] What, ho! Peace here; grace and good company!
+PROVOST
+0
+Who's there? Come in; the wish deserves a welcome.
+DUKE
+0
+Dear sir, ere long I'll visit you again.
+CLAUDIO
+0
+Most holy sir, I thank you.
+ISABELLA
+0
+My business is a word or two with Claudio.
+PROVOST
+0
+And very welcome. Look, signior, here's your sister.
+DUKE
+0
+Provost, a word with you.
+PROVOST
+0
+As many as you please.
+DUKE
+0
+Bring me to hear them speak, where I may be conceal'd.
+CLAUDIO
+0
+Now, sister, what's the comfort?
+ISABELLA
+0
+Why,
+CLAUDIO
+0
+Is there no remedy?
+ISABELLA
+0
+None, but such remedy as, to save a head,
+CLAUDIO
+0
+But is there any?
+ISABELLA
+0
+Yes, brother, you may live:
+CLAUDIO
+0
+Perpetual durance?
+ISABELLA
+0
+Ay, just; perpetual durance, a restraint,
+CLAUDIO
+0
+But in what nature?
+ISABELLA
+0
+In such a one as, you consenting to't,
+CLAUDIO
+0
+Let me know the point.
+ISABELLA
+0
+O, I do fear thee, Claudio; and I quake,
+CLAUDIO
+0
+Why give you me this shame?
+ISABELLA
+0
+There spake my brother; there my father's grave
+CLAUDIO
+0
+The precise Angelo!
+ISABELLA
+0
+O, 'tis the cunning livery of hell
+CLAUDIO
+0
+O heavens! it cannot be.
+ISABELLA
+0
+Yes, he would give't thee, from this rank offence,
+CLAUDIO
+0
+Thou shalt not do't.
+ISABELLA
+0
+O, were it but my life!
+CLAUDIO
+0
+Thanks, dear Isabel.
+ISABELLA
+0
+Be ready, Claudio, for your death to-morrow.
+CLAUDIO
+0
+Yes. Has he affections in him
+ISABELLA
+0
+Which is the least?
+CLAUDIO
+0
+If it were damnable, he being so wise,
+ISABELLA
+0
+What says my brother?
+CLAUDIO
+0
+Death is a fearful thing.
+ISABELLA
+0
+And shamed life a hateful.
+CLAUDIO
+0
+Ay, but to die, and go we know not where;
+ISABELLA
+0
+Alas, alas!
+CLAUDIO
+0
+Sweet sister, let me live.
+ISABELLA
+0
+O you beast!
+CLAUDIO
+0
+Nay, hear me, Isabel.
+ISABELLA
+0
+O fie, fie, fie!
+CLAUDIO
+1
+DUKE
+O, hear me, Isabella.
+DUKE
+1
+DUKE
+Vouchsafe a word, young sister, but one word.
+ISABELLA
+1
+DUKE
+What is your will?
+DUKE
+1
+DUKE
+Might you dispense with your leisure, I would by and by have
+ISABELLA
+1
+DUKE
+I have no superfluous leisure; my stay must be stolen out
+DUKE
+1
+DUKE
+Son, I have overheard what hath pass'd between you and your
+CLAUDIO
+1
+DUKE
+Let me ask my sister pardon. I am so out of love with life
+DUKE
+0
+Hold you there. Farewell. [Exit CLAUDIO] Provost, a word with
+DUKE
+1
+PROVOST
+Hold you there. Farewell. [Exit CLAUDIO] Provost, a word with
+    you.
+PROVOST
+1
+PROVOST
+What's your will, father?
+DUKE
+1
+PROVOST
+That, now you are come, you will be gone. Leave me a while
+PROVOST
+0
+In good time.                            Exit PROVOST
+DUKE
+0
+The hand that hath made you fair hath made you good; the
+ISABELLA
+0
+I am now going to resolve him; I had rather my brother
+DUKE
+0
+That shall not be much amiss; yet, as the matter now stands,
+ISABELLA
+0
+Let me hear you speak farther; I have spirit to do
+DUKE
+0
+Virtue is bold, and goodness never fearful. Have you not
+ISABELLA
+0
+I have heard of the lady, and good words went with her
+DUKE
+0
+She should this Angelo have married; was affianced to her by
+ISABELLA
+0
+Can this be so? Did Angelo so leave her?
+DUKE
+0
+Left her in her tears, and dried not one of them with his
+ISABELLA
+0
+What a merit were it in death to take this poor maid from
+DUKE
+0
+It is a rupture that you may easily heal; and the cure of it
+ISABELLA
+0
+Show me how, good father.
+DUKE
+0
+This forenamed maid hath yet in her the continuance of her
+ISABELLA
+0
+The image of it gives me content already; and I trust it
+DUKE
+0
+It lies much in your holding up. Haste you speedily to
+ISABELLA
+0
+I thank you for this comfort. Fare you well, good father.
+ELBOW
+0
+Nay, if there be no remedy for it, but that you will needs
+DUKE
+0
+O heavens! what stuff is here?
+POMPEY
+0
+'Twas never merry world since, of two usuries, the merriest
+ELBOW
+0
+Come your way, sir. Bless you, good father friar.
+DUKE
+0
+And you, good brother father. What offence hath this man made
+ELBOW
+0
+Marry, sir, he hath offended the law; and, sir, we take him
+DUKE
+0
+Fie, sirrah, a bawd, a wicked bawd!
+POMPEY
+0
+Indeed, it does stink in some sort, sir; but yet, sir,
+DUKE
+0
+Nay, if the devil have given thee proofs for sin,
+ELBOW
+0
+He must before the deputy, sir; he has given him warning.
+DUKE
+0
+That we were all, as some would seem to be,
+ELBOW
+0
+His neck will come to your waist- a cord, sir.
+POMPEY
+0
+I spy comfort; I cry bail. Here's a gentleman, and a friend
+LUCIO
+0
+How now, noble Pompey! What, at the wheels of Caesar? Art
+DUKE
+0
+Still thus, and thus; still worse!
+LUCIO
+0
+How doth my dear morsel, thy mistress? Procures she still,
+POMPEY
+0
+Troth, sir, she hath eaten up all her beef, and she is
+LUCIO
+0
+Why, 'tis good; it is the right of it; it must be so; ever
+POMPEY
+0
+Yes, faith, sir.
+LUCIO
+0
+Why, 'tis not amiss, Pompey. Farewell; go, say I sent thee
+ELBOW
+0
+For being a bawd, for being a bawd.
+LUCIO
+0
+Well, then, imprison him. If imprisonment be the due of a
+POMPEY
+0
+I hope, sir, your good worship will be my bail.
+LUCIO
+0
+No, indeed, will I not, Pompey; it is not the wear. I will
+DUKE
+0
+And you.
+LUCIO
+0
+Does Bridget paint still, Pompey, ha?
+ELBOW
+0
+Come your ways, sir; come.
+POMPEY
+0
+You will not bail me then, sir?
+LUCIO
+0
+Then, Pompey, nor now. What news abroad, friar? what news?
+ELBOW
+0
+Come your ways, sir; come.
+LUCIO
+0
+Go to kennel, Pompey, go.
+DUKE
+0
+I know none. Can you tell me of any?
+LUCIO
+0
+Some say he is with the Emperor of Russia; other some, he is
+DUKE
+0
+I know not where; but wheresoever, I wish him well.
+LUCIO
+0
+It was a mad fantastical trick of him to steal from the
+DUKE
+0
+He does well in't.
+LUCIO
+0
+A little more lenity to lechery would do no harm in him;
+DUKE
+0
+It is too general a vice, and severity must cure it.
+LUCIO
+0
+Yes, in good sooth, the vice is of a great kindred; it is
+DUKE
+0
+How should he be made, then?
+LUCIO
+0
+Some report a sea-maid spawn'd him; some, that he was begot
+DUKE
+0
+You are pleasant, sir, and speak apace.
+LUCIO
+0
+Why, what a ruthless thing is this in him, for the rebellion
+DUKE
+0
+I never heard the absent Duke much detected for women; he was
+LUCIO
+0
+O, sir, you are deceiv'd.
+DUKE
+0
+'Tis not possible.
+LUCIO
+0
+Who- not the Duke? Yes, your beggar of fifty; and his use
+DUKE
+0
+You do him wrong, surely.
+LUCIO
+0
+Sir, I was an inward of his. A shy fellow was the Duke; and
+DUKE
+0
+What, I prithee, might be the cause?
+LUCIO
+0
+No, pardon; 'tis a secret must be lock'd within the teeth
+DUKE
+0
+Wise? Why, no question but he was.
+LUCIO
+0
+A very superficial, ignorant, unweighing fellow.
+DUKE
+0
+Either this is envy in you, folly, or mistaking; the very
+LUCIO
+0
+Sir, I know him, and I love him.
+DUKE
+0
+Love talks with better knowledge, and knowledge with dearer
+LUCIO
+0
+Come, sir, I know what I know.
+DUKE
+0
+I can hardly believe that, since you know not what you speak.
+LUCIO
+0
+Sir, my name is Lucio, well known to the Duke.
+DUKE
+0
+He shall know you better, sir, if I may live to report you.
+LUCIO
+0
+I fear you not.
+DUKE
+0
+O, you hope the Duke will return no more; or you imagine me
+LUCIO
+0
+I'll be hang'd first. Thou art deceiv'd in me, friar. But no
+DUKE
+0
+Why should he die, sir?
+LUCIO
+0
+Why? For filling a bottle with a tun-dish. I would the Duke
+DUKE
+0
+No might nor greatness in mortality
+ESCALUS
+0
+Go, away with her to prison.
+MRS
+0
+OVERDONE. Good my lord, be good to me; your honour is
+ESCALUS
+0
+Double and treble admonition, and still forfeit in the
+PROVOST
+0
+A bawd of eleven years' continuance, may it please your
+MRS
+0
+OVERDONE. My lord, this is one Lucio's information against me.
+ESCALUS
+0
+That fellow is a fellow of much license. Let him be call'd
+PROVOST
+0
+So please you, this friar hath been with him, and advis'd
+ESCALUS
+0
+Good even, good father.
+DUKE
+0
+Bliss and goodness on you!
+ESCALUS
+0
+Of whence are you?
+DUKE
+0
+Not of this country, though my chance is now
+ESCALUS
+0
+What news abroad i' th' world?
+DUKE
+0
+None, but that there is so great a fever on goodness that the
+ESCALUS
+0
+One that, above all other strifes, contended especially to
+DUKE
+0
+What pleasure was he given to?
+ESCALUS
+0
+Rather rejoicing to see another merry than merry at
+DUKE
+0
+He professes to have received no sinister measure from his
+ESCALUS
+0
+You have paid the heavens your function, and the prisoner
+DUKE
+0
+If his own life answer the straitness of his proceeding, it
+ESCALUS
+0
+I am going to visit the prisoner. Fare you well.
+DUKE
+0
+Peace be with you!            Exeunt ESCALUS and PROVOST
+MARIANA
+0
+Break off thy song, and haste thee quick away;
+DUKE
+0
+'Tis good; though music oft hath such a charm
+MARIANA
+0
+You have not been inquir'd after; I have sat here all day.
+DUKE
+0
+I do constantly believe you. The time is come even now. I
+MARIANA
+0
+I am always bound to you.                        Exit
+DUKE
+0
+Very well met, and well come.
+ISABELLA
+0
+He hath a garden circummur'd with brick,
+DUKE
+0
+But shall you on your knowledge find this way?
+ISABELLA
+0
+I have ta'en a due and wary note upon't;
+DUKE
+0
+Are there no other tokens
+ISABELLA
+0
+No, none, but only a repair i' th' dark;
+DUKE
+0
+'Tis well borne up.
+DUKE
+1
+MARIANA
+'Tis well borne up.
+    I have not yet made known to Mariana
+    A word of this. What ho, within! come forth.
+ISABELLA
+1
+MARIANA
+I do desire the like.
+DUKE
+1
+MARIANA
+Do you persuade yourself that I respect you?
+MARIANA
+1
+MARIANA
+Good friar, I know you do, and have found it.
+DUKE
+1
+MARIANA
+Take, then, this your companion by the hand,
+MARIANA
+1
+MARIANA
+Will't please you walk aside?
+DUKE
+0
+O place and greatness! Millions of false eyes
+DUKE
+1
+MARIANA
+O place and greatness! Millions of false eyes
+    Are stuck upon thee. Volumes of report
+    Run with these false, and most contrarious quest
+    Upon thy doings. Thousand escapes of wit
+    Make thee the father of their idle dream,
+    And rack thee in their fancies.
+ISABELLA
+1
+MARIANA
+She'll take the enterprise upon her, father,
+DUKE
+1
+MARIANA
+It is not my consent,
+ISABELLA
+1
+MARIANA
+Little have you to say,
+MARIANA
+1
+MARIANA
+Fear me not.
+DUKE
+1
+MARIANA
+Nor, gentle daughter, fear you not at all.
+PROVOST
+0
+Come hither, sirrah. Can you cut off a man's head?
+POMPEY
+0
+If the man be a bachelor, sir, I can; but if he be a
+PROVOST
+0
+Come, sir, leave me your snatches and yield me a direct
+POMPEY
+0
+Sir, I have been an unlawful bawd time out of mind; but yet
+PROVOST
+0
+What ho, Abhorson! Where's Abhorson there?
+ABHORSON
+0
+Do you call, sir?
+PROVOST
+0
+Sirrah, here's a fellow will help you to-morrow in your
+ABHORSON
+0
+A bawd, sir? Fie upon him! He will discredit our mystery.
+PROVOST
+0
+Go to, sir; you weigh equally; a feather will turn the
+POMPEY
+0
+Pray, sir, by your good favour- for surely, sir, a good
+ABHORSON
+0
+Ay, sir; a mystery.
+POMPEY
+0
+Painting, sir, I have heard say, is a mystery; and your
+ABHORSON
+0
+Sir, it is a mystery.
+POMPEY
+0
+Proof?
+ABHORSON
+0
+Every true man's apparel fits your thief: if it be too
+ABHORSON
+1
+PROVOST
+Every true man's apparel fits your thief: if it be too
+    little for your thief, your true man thinks it big enough; if it
+    be too big for your thief, your thief thinks it little enough; so
+    every true man's apparel fits your thief.
+PROVOST
+1
+PROVOST
+Are you agreed?
+POMPEY
+1
+PROVOST
+Sir, I will serve him; for I do find your hangman is a more
+PROVOST
+1
+PROVOST
+You, sirrah, provide your block and your axe to-morrow
+ABHORSON
+1
+PROVOST
+Come on, bawd; I will instruct thee in my trade; follow.
+POMPEY
+1
+PROVOST
+I do desire to learn, sir; and I hope, if you have occasion
+PROVOST
+1
+PROVOST
+Call hither Barnardine and Claudio.
+PROVOST
+1
+PROVOST
+Call hither Barnardine and Claudio.
+                                      Exeunt ABHORSON and POMPEY
+CLAUDIO
+1
+PROVOST
+As fast lock'd up in sleep as guiltless labour
+PROVOST
+1
+PROVOST
+Who can do good on him?
+DUKE
+0
+The best and wholesom'st spirits of the night
+PROVOST
+0
+None, since the curfew rung.
+DUKE
+0
+Not Isabel?
+PROVOST
+0
+No.
+DUKE
+0
+They will then, ere't be long.
+PROVOST
+0
+What comfort is for Claudio?
+DUKE
+0
+There's some in hope.
+PROVOST
+0
+It is a bitter deputy.
+DUKE
+0
+Not so, not so; his life is parallel'd
+DUKE
+1
+PROVOST
+Not so, not so; his life is parallel'd
+    Even with the stroke and line of his great justice;
+    He doth with holy abstinence subdue
+    That in himself which he spurs on his pow'r
+    To qualify in others. Were he meal'd with that
+    Which he corrects, then were he tyrannous;
+    But this being so, he's just. [Knocking within] Now are they
+      come.                                         Exit PROVOST
+    This is a gentle provost; seldom when
+    The steeled gaoler is the friend of men. [Knocking within]
+    How now, what noise! That spirit's possess'd with haste
+    That wounds th' unsisting postern with these strokes.
+PROVOST
+1
+PROVOST
+There he must stay until the officer
+DUKE
+1
+PROVOST
+Have you no countermand for Claudio yet
+PROVOST
+1
+PROVOST
+None, sir, none.
+DUKE
+1
+PROVOST
+As near the dawning, Provost, as it is,
+PROVOST
+1
+PROVOST
+Happily
+DUKE
+1
+PROVOST
+And here comes Claudio's pardon.
+MESSENGER
+1
+PROVOST
+My lord hath sent you this note; and by me this further
+PROVOST
+0
+I shall obey him.                      Exit MESSENGER
+DUKE
+0
+[Aside] This is his pardon, purchas'd by such sin
+PROVOST
+0
+I told you: Lord Angelo, belike thinking me remiss in mine
+DUKE
+0
+Pray you, let's hear.
+PROVOST
+0
+[Reads] 'Whatsoever you may hear to the contrary, let
+DUKE
+0
+What is that Barnardine who is to be executed in th'
+PROVOST
+0
+A Bohemian born; but here nurs'd up and bred.
+DUKE
+0
+How came it that the absent Duke had not either deliver'd him
+PROVOST
+0
+His friends still wrought reprieves for him; and, indeed,
+DUKE
+0
+It is now apparent?
+PROVOST
+0
+Most manifest, and not denied by himself.
+DUKE
+0
+Hath he borne himself penitently in prison? How seems he to
+PROVOST
+0
+A man that apprehends death no more dreadfully but as a
+DUKE
+0
+He wants advice.
+PROVOST
+0
+He will hear none. He hath evermore had the liberty of the
+DUKE
+0
+More of him anon. There is written in your brow, Provost,
+PROVOST
+0
+Pray, sir, in what?
+DUKE
+0
+In the delaying death.
+PROVOST
+0
+Alack! How may I do it, having the hour limited, and an
+DUKE
+0
+By the vow of mine order, I warrant you, if my instructions
+PROVOST
+0
+Angelo hath seen them both, and will discover the favour.
+DUKE
+0
+O, death's a great disguiser; and you may add to it. Shave
+PROVOST
+0
+Pardon me, good father; it is against my oath.
+DUKE
+0
+Were you sworn to the Duke, or to the deputy?
+PROVOST
+0
+To him and to his substitutes.
+DUKE
+0
+You will think you have made no offence if the Duke avouch
+PROVOST
+0
+But what likelihood is in that?
+DUKE
+0
+Not a resemblance, but a certainty. Yet since I see you
+PROVOST
+0
+I know them both.
+DUKE
+0
+The contents of this is the return of the Duke; you shall
+POMPEY
+0
+I am as well acquainted here as I was in our house of
+ABHORSON
+0
+Sirrah, bring Barnardine hither.
+POMPEY
+0
+Master Barnardine! You must rise and be hang'd, Master
+ABHORSON
+0
+What ho, Barnardine!
+BARNARDINE
+0
+[Within] A pox o' your throats! Who makes that noise
+POMPEY
+0
+Your friends, sir; the hangman. You must be so good, sir,
+BARNARDINE
+0
+[ Within ] Away, you rogue, away; I am sleepy.
+ABHORSON
+0
+Tell him he must awake, and that quickly too.
+POMPEY
+0
+Pray, Master Barnardine, awake till you are executed, and
+ABHORSON
+0
+Go in to him, and fetch him out.
+POMPEY
+0
+He is coming, sir, he is coming; I hear his straw rustle.
+ABHORSON
+0
+Is the axe upon the block, sirrah?
+POMPEY
+0
+Very ready, sir.
+BARNARDINE
+0
+How now, Abhorson, what's the news with you?
+ABHORSON
+0
+Truly, sir, I would desire you to clap into your prayers;
+BARNARDINE
+0
+You rogue, I have been drinking all night; I am not
+POMPEY
+0
+O, the better, sir! For he that drinks all night and is
+ABHORSON
+0
+Look you, sir, here comes your ghostly father.
+DUKE
+0
+Sir, induced by my charity, and hearing how hastily you are
+BARNARDINE
+0
+Friar, not I; I have been drinking hard all night, and
+DUKE
+0
+O, Sir, you must; and therefore I beseech you
+BARNARDINE
+0
+I swear I will not die to-day for any man's persuasion.
+DUKE
+0
+But hear you-
+BARNARDINE
+0
+Not a word; if you have anything to say to me, come to
+DUKE
+0
+Unfit to live or die. O gravel heart!
+PROVOST
+0
+Now, sir, how do you find the prisoner?
+DUKE
+0
+A creature unprepar'd, unmeet for death;
+PROVOST
+0
+Here in the prison, father,
+DUKE
+0
+O, 'tis an accident that heaven provides!
+PROVOST
+0
+This shall be done, good father, presently.
+DUKE
+0
+Let this be done:
+PROVOST
+0
+I am your free dependant.
+DUKE
+0
+Quick, dispatch, and send the head to Angelo.
+DUKE
+0
+Quick, dispatch, and send the head to Angelo.
+                                                    Exit PROVOST
+    Now will I write letters to Angelo-
+    The Provost, he shall bear them- whose contents
+    Shall witness to him I am near at home,
+    And that, by great injunctions, I am bound
+DUKE
+1
+PROVOST
+Quick, dispatch, and send the head to Angelo.
+                                                    Exit PROVOST
+    Now will I write letters to Angelo-
+    The Provost, he shall bear them- whose contents
+    Shall witness to him I am near at home,
+    And that, by great injunctions, I am bound
+    To meet me at the consecrated fount,
+    A league below the city; and from thence,
+    By cold gradation and well-balanc'd form.
+    We shall proceed with Angelo.
+PROVOST
+1
+PROVOST
+Here is the head; I'll carry it myself.
+DUKE
+1
+PROVOST
+Convenient is it. Make a swift return;
+PROVOST
+1
+PROVOST
+I'll make all speed.                             Exit
+ISABELLA
+1
+PROVOST
+[ Within ] Peace, ho, be here!
+DUKE
+1
+PROVOST
+The tongue of Isabel. She's come to know
+ISABELLA
+1
+PROVOST
+Ho, by your leave!
+DUKE
+1
+PROVOST
+Good morning to you, fair and gracious daughter.
+ISABELLA
+1
+PROVOST
+The better, given me by so holy a man.
+DUKE
+1
+PROVOST
+He hath releas'd him, Isabel, from the world.
+ISABELLA
+1
+PROVOST
+Nay, but it is not so.
+DUKE
+1
+PROVOST
+It is no other.
+ISABELLA
+1
+PROVOST
+O, I will to him and pluck out his eyes!
+DUKE
+1
+PROVOST
+You shall not be admitted to his sight.
+ISABELLA
+1
+PROVOST
+Unhappy Claudio! Wretched Isabel!
+DUKE
+1
+PROVOST
+This nor hurts him nor profits you a jot;
+ISABELLA
+1
+PROVOST
+I am directed by you.
+DUKE
+1
+PROVOST
+This letter, then, to Friar Peter give;
+LUCIO
+1
+PROVOST
+Good even. Friar, where's the Provost?
+DUKE
+1
+PROVOST
+Not within, sir.
+LUCIO
+1
+PROVOST
+O pretty Isabella, I am pale at mine heart to see thine eyes
+LUCIO
+1
+PROVOST
+O pretty Isabella, I am pale at mine heart to see thine eyes
+    so red. Thou must be patient. I am fain to dine and sup with
+    water and bran; I dare not for my head fill my belly; one
+    fruitful meal would set me to't. But they say the Duke will be
+    here to-morrow. By my troth, Isabel, I lov'd thy brother. If the
+    old fantastical Duke of dark corners had been at home, he had
+    lived.                                         Exit ISABELLA
+DUKE
+1
+PROVOST
+Sir, the Duke is marvellous little beholding to your reports;
+LUCIO
+1
+PROVOST
+Friar, thou knowest not the Duke so well as I do; he's a
+DUKE
+1
+PROVOST
+Well, you'll answer this one day. Fare ye well.
+LUCIO
+1
+PROVOST
+Nay, tarry; I'll go along with thee; I can tell thee pretty
+DUKE
+1
+PROVOST
+You have told me too many of him already, sir, if they be
+LUCIO
+1
+PROVOST
+I was once before him for getting a wench with child.
+DUKE
+1
+PROVOST
+Did you such a thing?
+LUCIO
+1
+PROVOST
+Yes, marry, did I; but I was fain to forswear it: they would
+DUKE
+1
+PROVOST
+Sir, your company is fairer than honest. Rest you well.
+LUCIO
+1
+PROVOST
+By my troth, I'll go with thee to the lane's end. If bawdy
+ESCALUS
+0
+Every letter he hath writ hath disvouch'd other.
+ANGELO
+0
+In most uneven and distracted manner. His actions show much
+ESCALUS
+0
+I guess not.
+ANGELO
+0
+And why should we proclaim it in an hour before his
+ESCALUS
+0
+He shows his reason for that: to have a dispatch of
+ANGELO
+0
+Well, I beseech you, let it be proclaim'd;
+ESCALUS
+0
+I shall, sir; fare you well.
+ANGELO
+0
+Good night.                               Exit ESCALUS
+DUKE
+0
+These letters at fit time deliver me.   [Giving letters]
+DUKE
+0
+I thank thee, Varrius; thou hast made good haste.
+ISABELLA
+0
+To speak so indirectly I am loath;
+MARIANA
+0
+Be rul'd by him.
+ISABELLA
+0
+Besides, he tells me that, if peradventure
+MARIANA
+0
+I would Friar Peter-
+ISABELLA
+0
+O, peace! the friar is come.
+PETER
+0
+Come, I have found you out a stand most fit,
+DUKE
+0
+My very worthy cousin, fairly met!
+DUKE
+0
+Many and hearty thankings to you both.
+ANGELO
+0
+You make my bonds still greater.
+DUKE
+0
+O, your desert speaks loud; and I should wrong it
+PETER
+0
+Now is your time; speak loud, and kneel before him.
+ISABELLA
+0
+Justice, O royal Duke! Vail your regard
+DUKE
+0
+Relate your wrongs. In what? By whom? Be brief.
+ISABELLA
+0
+O worthy Duke,
+ANGELO
+0
+My lord, her wits, I fear me, are not firm;
+ISABELLA
+0
+By course of justice!
+ANGELO
+0
+And she will speak most bitterly and strange.
+ISABELLA
+0
+Most strange, but yet most truly, will I speak.
+DUKE
+0
+Nay, it is ten times strange.
+ISABELLA
+0
+It is not truer he is Angelo
+DUKE
+0
+Away with her. Poor soul,
+ISABELLA
+0
+O Prince! I conjure thee, as thou believ'st
+DUKE
+0
+By mine honesty,
+ISABELLA
+0
+O gracious Duke,
+DUKE
+0
+Many that are not mad
+ISABELLA
+0
+I am the sister of one Claudio,
+LUCIO
+0
+That's I, an't like your Grace.
+ISABELLA
+0
+That's he, indeed.
+DUKE
+0
+You were not bid to speak.
+LUCIO
+0
+No, my good lord;
+DUKE
+0
+I wish you now, then;
+LUCIO
+0
+I warrant your honour.
+DUKE
+0
+The warrant's for yourself; take heed to't.
+ISABELLA
+0
+This gentleman told somewhat of my tale.
+LUCIO
+0
+Right.
+DUKE
+0
+It may be right; but you are i' the wrong
+ISABELLA
+0
+I went
+DUKE
+0
+That's somewhat madly spoken.
+ISABELLA
+0
+Pardon it;
+DUKE
+0
+Mended again. The matter- proceed.
+ISABELLA
+0
+In brief- to set the needless process by,
+DUKE
+0
+This is most likely!
+ISABELLA
+0
+O that it were as like as it is true!
+DUKE
+0
+By heaven, fond wretch, thou know'st not what thou speak'st,
+ISABELLA
+0
+And is this all?
+DUKE
+0
+I know you'd fain be gone. An officer!
+ISABELLA
+0
+One that I would were here, Friar Lodowick.
+DUKE
+0
+A ghostly father, belike. Who knows that Lodowick?
+LUCIO
+0
+My lord, I know him; 'tis a meddling friar.
+DUKE
+0
+Words against me? This's a good friar, belike!
+LUCIO
+0
+But yesternight, my lord, she and that friar,
+PETER
+0
+Blessed be your royal Grace!
+DUKE
+0
+We did believe no less.
+PETER
+0
+I know him for a man divine and holy;
+LUCIO
+0
+My lord, most villainously; believe it.
+PETER
+0
+Well, he in time may come to clear himself;
+DUKE
+0
+Good friar, let's hear it.         Exit ISABELLA guarded
+MARIANA
+0
+Pardon, my lord; I will not show my face
+DUKE
+0
+What, are you married?
+MARIANA
+0
+No, my lord.
+DUKE
+0
+Are you a maid?
+MARIANA
+0
+No, my lord.
+DUKE
+0
+A widow, then?
+MARIANA
+0
+Neither, my lord.
+DUKE
+0
+Why, you are nothing then; neither maid, widow, nor wife.
+LUCIO
+0
+My lord, she may be a punk; for many of them are neither
+DUKE
+0
+Silence that fellow. I would he had some cause
+LUCIO
+0
+Well, my lord.
+MARIANA
+0
+My lord, I do confess I ne'er was married,
+LUCIO
+0
+He was drunk, then, my lord; it can be no better.
+DUKE
+0
+For the benefit of silence, would thou wert so too!
+LUCIO
+0
+Well, my lord.
+DUKE
+0
+This is no witness for Lord Angelo.
+MARIANA
+0
+Now I come to't, my lord:
+ANGELO
+0
+Charges she moe than me?
+MARIANA
+0
+Not that I know.
+DUKE
+0
+No? You say your husband.
+MARIANA
+0
+Why, just, my lord, and that is Angelo,
+ANGELO
+0
+This is a strange abuse. Let's see thy face.
+MARIANA
+0
+My husband bids me; now I will unmask.
+DUKE
+0
+Know you this woman?
+LUCIO
+0
+Carnally, she says.
+DUKE
+0
+Sirrah, no more.
+LUCIO
+0
+Enough, my lord.
+ANGELO
+0
+My lord, I must confess I know this woman;
+MARIANA
+0
+Noble Prince,
+ANGELO
+0
+I did but smile till now.
+DUKE
+0
+Ay, with my heart;
+PETER
+0
+Would lie were here, my lord! For he indeed
+DUKE
+0
+Go, do it instantly.                        Exit PROVOST
+ESCALUS
+0
+My lord, we'll do it throughly.             Exit DUKE
+LUCIO
+0
+'Cucullus non facit monachum': honest in nothing but in his
+ESCALUS
+0
+We shall entreat you to abide here till he come and
+LUCIO
+0
+As any in Vienna, on my word.
+ESCALUS
+0
+Call that same Isabel here once again; I would speak with
+LUCIO
+0
+Not better than he, by her own report.
+ESCALUS
+0
+Say you?
+LUCIO
+0
+Marry, sir, I think, if you handled her privately, she would
+LUCIO
+0
+Marry, sir, I think, if you handled her privately, she would
+    sooner confess; perchance, publicly, she'll be asham'd.
+ESCALUS
+0
+I will go darkly to work with her.
+LUCIO
+0
+That's the way; for women are light at midnight.
+ESCALUS
+0
+Come on, mistress; here's a gentlewoman denies all that
+LUCIO
+0
+My lord, here comes the rascal I spoke of, here with the
+ESCALUS
+0
+In very good time. Speak not you to him till we call upon
+LUCIO
+0
+Mum.
+ESCALUS
+0
+Come, sir; did you set these women on to slander Lord
+DUKE
+0
+'Tis false.
+ESCALUS
+0
+How! Know you where you are?
+DUKE
+0
+Respect to your great place! and let the devil
+ESCALUS
+0
+The Duke's in us; and we will hear you speak;
+DUKE
+0
+Boldly, at least. But, O, poor souls,
+LUCIO
+0
+This is the rascal; this is he I spoke of.
+ESCALUS
+0
+Why, thou unreverend and unhallowed friar,
+DUKE
+0
+Be not so hot; the Duke
+ESCALUS
+0
+Slander to th' state! Away with him to prison!
+ANGELO
+0
+What can you vouch against him, Signior Lucio?
+LUCIO
+0
+'Tis he, my lord. Come hither, good-man bald-pate.
+DUKE
+0
+I remember you, sir, by the sound of your voice. I met you at
+LUCIO
+0
+O did you so? And do you remember what you said of the Duke?
+DUKE
+0
+Most notedly, sir.
+LUCIO
+0
+Do you so, sir? And was the Duke a fleshmonger, a fool, and
+DUKE
+0
+You must, sir, change persons with me ere you make that my
+LUCIO
+0
+O thou damnable fellow! Did not I pluck thee by the nose for
+DUKE
+0
+I protest I love the Duke as I love myself.
+ANGELO
+0
+Hark how the villain would close now, after his treasonable
+ESCALUS
+0
+Such a fellow is not to be talk'd withal. Away with him to
+DUKE
+0
+Stay, sir; stay awhile.
+ANGELO
+0
+What, resists he? Help him, Lucio.
+LUCIO
+0
+Come, sir; come, sir; come, sir; foh, sir! Why, you
+DUKE
+0
+Thou art the first knave that e'er mad'st a duke.
+LUCIO
+0
+This may prove worse than hanging.
+DUKE
+0
+[To ESCALUS] What you have spoke I pardon; sit you down.
+ANGELO
+0
+O my dread lord,
+DUKE
+0
+Come hither, Mariana.
+ANGELO
+0
+I was, my lord.
+DUKE
+0
+Go, take her hence and marry her instantly.
+ESCALUS
+0
+My lord, I am more amaz'd at his dishonour
+DUKE
+0
+Come hither, Isabel.
+ISABELLA
+0
+O, give me pardon,
+DUKE
+0
+You are pardon'd, Isabel.
+ISABELLA
+1
+ANGELO
+I do, my lord.
+DUKE
+1
+ANGELO
+For this new-married man approaching here,
+MARIANA
+1
+ANGELO
+O my most gracious lord,
+DUKE
+1
+ANGELO
+It is your husband mock'd you with a husband.
+MARIANA
+1
+ANGELO
+O my dear lord,
+DUKE
+1
+ANGELO
+Never crave him; we are definitive.
+MARIANA
+1
+ANGELO
+Gentle my liege-                           [Kneeling]
+DUKE
+1
+ANGELO
+You do but lose your labour.
+MARIANA
+1
+ANGELO
+O my good lord! Sweet Isabel, take my part;
+DUKE
+1
+ANGELO
+Against all sense you do importune her.
+MARIANA
+1
+ANGELO
+Isabel,
+DUKE
+1
+ANGELO
+He dies for Claudio's death.
+ISABELLA
+1
+ANGELO
+[Kneeling] Most bounteous sir,
+MARIANA
+1
+ANGELO
+Merely, my lord.
+DUKE
+1
+ANGELO
+Your suit's unprofitable; stand up, I say.
+PROVOST
+1
+ANGELO
+It was commanded so.
+DUKE
+1
+ANGELO
+Had you a special warrant for the deed?
+PROVOST
+1
+ANGELO
+No, my good lord; it was by private message.
+DUKE
+1
+ANGELO
+For which I do discharge you of your office;
+PROVOST
+1
+ANGELO
+Pardon me, noble lord;
+DUKE
+1
+ANGELO
+What's he?
+PROVOST
+1
+ANGELO
+His name is Barnardine.
+DUKE
+1
+ANGELO
+I would thou hadst done so by Claudio.
+DUKE
+1
+ANGELO
+I would thou hadst done so by Claudio.
+    Go fetch him hither; let me look upon him.      Exit PROVOST
+ESCALUS
+1
+ANGELO
+I am sorry one so learned and so wise
+ANGELO
+1
+ANGELO
+I am sorry that such sorrow I procure;
+ANGELO
+2
+ANGELO
+PROVOST
+I am sorry that such sorrow I procure;
+    And so deep sticks it in my penitent heart
+    That I crave death more willingly than mercy;
+    'Tis my deserving, and I do entreat it.
+DUKE
+2
+ANGELO
+PROVOST
+Which is that Barnardine?
+PROVOST
+2
+ANGELO
+PROVOST
+This, my lord.
+DUKE
+2
+ANGELO
+PROVOST
+There was a friar told me of this man.
+PROVOST
+2
+ANGELO
+PROVOST
+This is another prisoner that I sav'd,
+DUKE
+2
+ANGELO
+PROVOST
+[To ISABELLA] If he be like your brother, for his sake
+LUCIO
+2
+ANGELO
+PROVOST
+Faith, my lord, I spoke it but according to the trick.
+DUKE
+2
+ANGELO
+PROVOST
+Whipt first, sir, and hang'd after.
+LUCIO
+2
+ANGELO
+PROVOST
+I beseech your Highness, do not marry me to a whore. Your
+DUKE
+2
+ANGELO
+PROVOST
+Upon mine honour, thou shalt marry her.
+LUCIO
+2
+ANGELO
+PROVOST
+Marrying a punk, my lord, is pressing to death, whipping,
+DUKE
+2
+ANGELO
+PROVOST
+Slandering a prince deserves it.
+DUKE
+2
+ANGELO
+PROVOST
+Slandering a prince deserves it.
+                                      Exeunt OFFICERS with LUCIO

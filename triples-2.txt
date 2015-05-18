@@ -1,0 +1,2463 @@
+ORLANDO
+0
+As I remember, Adam, it was upon this fashion bequeathed
+ADAM
+0
+Yonder comes my master, your brother.
+ORLANDO
+0
+Go apart, Adam, and thou shalt hear how he will shake me
+OLIVER
+0
+Now, sir! what make you here?
+ORLANDO
+0
+Nothing; I am not taught to make any thing.
+OLIVER
+0
+What mar you then, sir?
+ORLANDO
+0
+Marry, sir, I am helping you to mar that which God made, a
+OLIVER
+0
+Marry, sir, be better employed, and be nought awhile.
+ORLANDO
+0
+Shall I keep your hogs, and eat husks with them? What
+OLIVER
+0
+Know you where you are, sir?
+ORLANDO
+0
+O, sir, very well; here in your orchard.
+OLIVER
+0
+Know you before whom, sir?
+ORLANDO
+0
+Ay, better than him I am before knows me. I know you are
+OLIVER
+0
+What, boy!                               [Strikes him]
+ORLANDO
+0
+Come, come, elder brother, you are too young in this.
+OLIVER
+0
+Wilt thou lay hands on me, villain?
+ORLANDO
+0
+I am no villain; I am the youngest son of Sir Rowland de
+ADAM
+0
+[Coming forward] Sweet masters, be patient; for your father's
+OLIVER
+0
+Let me go, I say.
+ORLANDO
+0
+I will not, till I please; you shall hear me. My father
+OLIVER
+0
+And what wilt thou do? Beg, when that is spent? Well, sir,
+ORLANDO
+0
+I no further offend you than becomes me for my good.
+OLIVER
+0
+Get you with him, you old dog.
+ADAM
+0
+Is 'old dog' my reward? Most true, I have lost my teeth in
+OLIVER
+0
+Is it even so? Begin you to grow upon me? I will physic
+DENNIS
+0
+Calls your worship?
+OLIVER
+0
+not Charles, the Duke's wrestler, here to speak with me?
+DENNIS
+0
+So please you, he is here at the door and importunes access
+OLIVER
+0
+Call him in. [Exit DENNIS] 'Twill be a good way; and
+CHARLES
+0
+Good morrow to your worship.
+OLIVER
+0
+Good Monsieur Charles! What's the new news at the new
+CHARLES
+0
+There's no news at the court, sir, but the old news; that
+OLIVER
+0
+Can you tell if Rosalind, the Duke's daughter, be banished
+CHARLES
+0
+O, no; for the Duke's daughter, her cousin, so loves her,
+OLIVER
+0
+Where will the old Duke live?
+CHARLES
+0
+They say he is already in the Forest of Arden, and a many
+OLIVER
+0
+What, you wrestle to-morrow before the new Duke?
+CHARLES
+0
+Marry, do I, sir; and I came to acquaint you with a
+OLIVER
+0
+Charles, I thank thee for thy love to me, which thou shalt
+CHARLES
+0
+I am heartily glad I came hither to you. If he come
+OLIVER
+0
+Farewell, good Charles. Now will I stir this gamester. I
+CELIA
+0
+I pray thee, Rosalind, sweet my coz, be merry.
+ROSALIND
+0
+Dear Celia, I show more mirth than I am mistress of; and
+CELIA
+0
+Herein I see thou lov'st me not with the full weight that I
+ROSALIND
+0
+Well, I will forget the condition of my estate, to
+CELIA
+0
+You know my father hath no child but I, nor none is like to
+ROSALIND
+0
+From henceforth I will, coz, and devise sports.
+CELIA
+0
+Marry, I prithee, do, to make sport withal; but love no man
+ROSALIND
+0
+What shall be our sport, then?
+CELIA
+0
+Let us sit and mock the good housewife Fortune from her
+ROSALIND
+0
+I would we could do so; for her benefits are mightily
+CELIA
+0
+'Tis true; for those that she makes fair she scarce makes
+ROSALIND
+0
+Nay; now thou goest from Fortune's office to Nature's:
+CELIA
+0
+No; when Nature hath made a fair creature, may she not by
+ROSALIND
+0
+Indeed, there is Fortune too hard for Nature, when
+CELIA
+0
+Peradventure this is not Fortune's work neither, but
+TOUCHSTONE
+0
+Mistress, you must come away to your father.
+CELIA
+0
+Were you made the messenger?
+TOUCHSTONE
+0
+No, by mine honour; but I was bid to come for you.
+ROSALIND
+0
+Where learned you that oath, fool?
+TOUCHSTONE
+0
+Of a certain knight that swore by his honour they were
+CELIA
+0
+How prove you that, in the great heap of your knowledge?
+ROSALIND
+0
+Ay, marry, now unmuzzle your wisdom.
+TOUCHSTONE
+0
+Stand you both forth now: stroke your chins, and swear
+CELIA
+0
+By our beards, if we had them, thou art.
+TOUCHSTONE
+0
+By my knavery, if I had it, then I were. But if you
+CELIA
+0
+Prithee, who is't that thou mean'st?
+TOUCHSTONE
+0
+One that old Frederick, your father, loves.
+CELIA
+0
+My father's love is enough to honour him. Enough, speak no
+TOUCHSTONE
+0
+The more pity that fools may not speak wisely what wise
+CELIA
+0
+By my troth, thou sayest true; for since the little wit that
+ROSALIND
+0
+With his mouth full of news.
+CELIA
+0
+Which he will put on us as pigeons feed their young.
+ROSALIND
+0
+Then shall we be news-cramm'd.
+CELIA
+0
+All the better; we shall be the more marketable. Bon jour,
+LE BEAU
+0
+Fair Princess, you have lost much good sport.
+CELIA
+0
+Sport! of what colour?
+LE BEAU
+0
+What colour, madam? How shall I answer you?
+ROSALIND
+0
+As wit and fortune will.
+TOUCHSTONE
+0
+Or as the Destinies decrees.
+CELIA
+0
+Well said; that was laid on with a trowel.
+TOUCHSTONE
+0
+Nay, if I keep not my rank-
+ROSALIND
+0
+Thou losest thy old smell.
+LE BEAU
+0
+You amaze me, ladies. I would have told you of good
+ROSALIND
+0
+Yet tell us the manner of the wrestling.
+LE BEAU
+0
+I will tell you the beginning, and, if it please your
+CELIA
+0
+Well, the beginning, that is dead and buried.
+LE BEAU
+0
+There comes an old man and his three sons-
+CELIA
+0
+I could match this beginning with an old tale.
+LE BEAU
+0
+Three proper young men, of excellent growth and presence.
+ROSALIND
+0
+With bills on their necks: 'Be it known unto all men by
+LE BEAU
+0
+The eldest of the three wrestled with Charles, the Duke's
+ROSALIND
+0
+Alas!
+TOUCHSTONE
+0
+But what is the sport, monsieur, that the ladies have
+LE BEAU
+0
+Why, this that I speak of.
+TOUCHSTONE
+0
+Thus men may grow wiser every day. It is the first time
+CELIA
+0
+Or I, I promise thee.
+ROSALIND
+0
+But is there any else longs to see this broken music in
+LE BEAU
+0
+You must, if you stay here; for here is the place
+CELIA
+0
+Yonder, sure, they are coming. Let us now stay and see it.
+FREDERICK
+0
+Come on; since the youth will not be entreated, his own
+ROSALIND
+0
+Is yonder the man?
+LE BEAU
+0
+Even he, madam.
+CELIA
+0
+Alas, he is too young; yet he looks successfully.
+FREDERICK
+0
+How now, daughter and cousin! Are you crept hither to
+ROSALIND
+0
+Ay, my liege; so please you give us leave.
+FREDERICK
+0
+You will take little delight in it, I can tell you,
+CELIA
+0
+Call him hither, good Monsieur Le Beau.
+FREDERICK
+0
+Do so; I'll not be by.
+LE BEAU
+0
+Monsieur the Challenger, the Princess calls for you.
+ORLANDO
+0
+I attend them with all respect and duty.
+ROSALIND
+0
+Young man, have you challeng'd Charles the wrestler?
+ORLANDO
+0
+No, fair Princess; he is the general challenger. I come
+CELIA
+0
+Young gentleman, your spirits are too bold for your years.
+ROSALIND
+0
+Do, young sir; your reputation shall not therefore be
+ORLANDO
+0
+I beseech you, punish me not with your hard thoughts,
+ROSALIND
+0
+The little strength that I have, I would it were with
+CELIA
+0
+And mine to eke out hers.
+ROSALIND
+0
+Fare you well. Pray heaven I be deceiv'd in you!
+CELIA
+0
+Your heart's desires be with you!
+CHARLES
+0
+Come, where is this young gallant that is so desirous to
+ORLANDO
+0
+Ready, sir; but his will hath in it a more modest working.
+FREDERICK
+0
+You shall try but one fall.
+CHARLES
+0
+No, I warrant your Grace, you shall not entreat him to a
+ORLANDO
+0
+You mean to mock me after; you should not have mock'd me
+ROSALIND
+0
+Now, Hercules be thy speed, young man!
+CELIA
+0
+I would I were invisible, to catch the strong fellow by the
+ROSALIND
+0
+O excellent young man!
+CELIA
+0
+If I had a thunderbolt in mine eye, I can tell who should
+FREDERICK
+0
+No more, no more.
+ORLANDO
+0
+Yes, I beseech your Grace; I am not yet well breath'd.
+FREDERICK
+0
+How dost thou, Charles?
+LE BEAU
+0
+He cannot speak, my lord.
+FREDERICK
+0
+Bear him away. What is thy name, young man?
+ORLANDO
+0
+Orlando, my liege; the youngest son of Sir Rowland de
+FREDERICK
+0
+I would thou hadst been son to some man else.
+CELIA
+0
+Were I my father, coz, would I do this?
+ORLANDO
+0
+I am more proud to be Sir Rowland's son,
+ROSALIND
+0
+My father lov'd Sir Rowland as his soul,
+CELIA
+0
+Gentle cousin,
+ROSALIND
+0
+Gentleman,        [Giving him a chain from her neck]
+CELIA
+0
+Ay. Fare you well, fair gentleman.
+ORLANDO
+0
+Can I not say 'I thank you'? My better parts
+ROSALIND
+0
+He calls us back. My pride fell with my fortunes;
+CELIA
+0
+Will you go, coz?
+ROSALIND
+0
+Have with you. Fare you well.
+ORLANDO
+0
+What passion hangs these weights upon my tongue?
+ORLANDO
+0
+What passion hangs these weights upon my tongue?
+    I cannot speak to her, yet she urg'd conference.
+    O poor Orlando, thou art overthrown!
+    Or Charles or something weaker masters thee.
+LE BEAU
+0
+Good sir, I do in friendship counsel you
+ORLANDO
+0
+I thank you, sir; and pray you tell me this:
+LE BEAU
+0
+Neither his daughter, if we judge by manners;
+ORLANDO
+0
+I rest much bounden to you; fare you well.
+CELIA
+0
+Why, cousin! why, Rosalind! Cupid have mercy!
+ROSALIND
+0
+Not one to throw at a dog.
+CELIA
+0
+No, thy words are too precious to be cast away upon curs;
+ROSALIND
+0
+Then there were two cousins laid up, when the one should
+CELIA
+0
+But is all this for your father?
+ROSALIND
+0
+No, some of it is for my child's father. O, how full of
+CELIA
+0
+They are but burs, cousin, thrown upon thee in holiday
+ROSALIND
+0
+I could shake them off my coat: these burs are in my
+CELIA
+0
+Hem them away.
+ROSALIND
+0
+I would try, if I could cry 'hem' and have him.
+CELIA
+0
+Come, come, wrestle with thy affections.
+ROSALIND
+0
+O, they take the part of a better wrestler than myself.
+CELIA
+0
+O, a good wish upon you! You will try in time, in despite of
+ROSALIND
+0
+The Duke my father lov'd his father dearly.
+CELIA
+0
+Doth it therefore ensue that you should love his son dearly?
+ROSALIND
+0
+No, faith, hate him not, for my sake.
+CELIA
+0
+Why should I not? Doth he not deserve well?
+ROSALIND
+0
+Let me love him for that; and do you love him because I
+CELIA
+0
+With his eyes full of anger.
+FREDERICK
+0
+Mistress, dispatch you with your safest haste,
+ROSALIND
+0
+Me, uncle?
+FREDERICK
+0
+You, cousin.
+ROSALIND
+0
+I do beseech your Grace,
+FREDERICK
+0
+Thus do all traitors;
+ROSALIND
+0
+Yet your mistrust cannot make me a traitor.
+FREDERICK
+0
+Thou art thy father's daughter; there's enough.
+ROSALIND
+0
+SO was I when your Highness took his dukedom;
+CELIA
+0
+Dear sovereign, hear me speak.
+FREDERICK
+0
+Ay, Celia; we stay'd her for your sake,
+CELIA
+0
+I did not then entreat to have her stay;
+FREDERICK
+0
+She is too subtle for thee; and her smoothness,
+CELIA
+0
+Pronounce that sentence, then, on me, my liege;
+FREDERICK
+0
+You are a fool. You, niece, provide yourself.
+CELIA
+0
+O my poor Rosalind! Whither wilt thou go?
+ROSALIND
+0
+I have more cause.
+CELIA
+0
+Thou hast not, cousin.
+ROSALIND
+0
+That he hath not.
+CELIA
+0
+No, hath not? Rosalind lacks, then, the love
+ROSALIND
+0
+Why, whither shall we go?
+CELIA
+0
+To seek my uncle in the Forest of Arden.
+ROSALIND
+0
+Alas, what danger will it be to us,
+CELIA
+0
+I'll put myself in poor and mean attire,
+ROSALIND
+0
+Were it not better,
+CELIA
+0
+What shall I call thee when thou art a man?
+ROSALIND
+0
+I'll have no worse a name than Jove's own page,
+CELIA
+0
+Something that hath a reference to my state:
+ROSALIND
+0
+But, cousin, what if we assay'd to steal
+CELIA
+0
+He'll go along o'er the wide world with me;
+DUKE SENIOR
+0
+Now, my co-mates and brothers in exile,
+AMIENS
+0
+Happy is your Grace,
+DUKE SENIOR
+0
+Come, shall we go and kill us venison?
+FIRST LORD
+0
+Indeed, my lord,
+DUKE SENIOR
+0
+But what said Jaques?
+FIRST LORD
+0
+O, yes, into a thousand similes.
+DUKE SENIOR
+0
+And did you leave him in this contemplation?
+SECOND LORD
+0
+We did, my lord, weeping and commenting
+DUKE SENIOR
+0
+Show me the place;
+FIRST LORD
+0
+I'll bring you to him straight.             Exeunt
+FREDERICK
+0
+Can it be possible that no man saw them?
+FIRST LORD
+0
+I cannot hear of any that did see her.
+SECOND LORD
+0
+My lord, the roynish clown, at whom so oft
+FREDERICK
+0
+Send to his brother; fetch that gallant hither.
+ORLANDO
+0
+Who's there?
+ADAM
+0
+What, my young master? O my gentle master!
+ORLANDO
+0
+Why, what's the matter?
+ADAM
+0
+O unhappy youth!
+ORLANDO
+0
+Why, whither, Adam, wouldst thou have me go?
+ADAM
+0
+No matter whither, so you come not here.
+ORLANDO
+0
+What, wouldst thou have me go and beg my food,
+ADAM
+0
+But do not so. I have five hundred crowns,
+ORLANDO
+0
+O good old man, how well in thee appears
+ADAM
+0
+Master, go on; and I will follow the
+ROSALIND
+0
+O Jupiter, how weary are my spirits!
+TOUCHSTONE
+0
+I Care not for my spirits, if my legs were not weary.
+ROSALIND
+0
+I could find in my heart to disgrace my man's apparel,
+CELIA
+0
+I pray you bear with me; I cannot go no further.
+TOUCHSTONE
+0
+For my part, I had rather bear with you than bear you;
+ROSALIND
+0
+Well,. this is the Forest of Arden.
+TOUCHSTONE
+0
+Ay, now am I in Arden; the more fool I; when I was at
+ROSALIND
+0
+Ay, be so, good Touchstone. Look you, who comes here, a
+CORIN
+0
+That is the way to make her scorn you still.
+SILVIUS
+0
+O Corin, that thou knew'st how I do love her!
+CORIN
+0
+I partly guess; for I have lov'd ere now.
+SILVIUS
+0
+No, Corin, being old, thou canst not guess,
+CORIN
+0
+Into a thousand that I have forgotten.
+SILVIUS
+0
+O, thou didst then never love so heartily!
+ROSALIND
+0
+Alas, poor shepherd! searching of thy wound,
+TOUCHSTONE
+0
+And I mine. I remember, when I was in love, I broke my
+ROSALIND
+0
+Thou speak'st wiser than thou art ware of.
+TOUCHSTONE
+0
+Nay, I shall ne'er be ware of mine own wit till I break
+ROSALIND
+0
+Jove, Jove! this shepherd's passion
+TOUCHSTONE
+0
+And mine; but it grows something stale with me.
+CELIA
+0
+I pray you, one of you question yond man
+TOUCHSTONE
+0
+Holla, you clown!
+ROSALIND
+0
+Peace, fool; he's not thy Ensman.
+CORIN
+0
+Who calls?
+TOUCHSTONE
+0
+Your betters, sir.
+CORIN
+0
+Else are they very wretched.
+ROSALIND
+0
+Peace, I say. Good even to you, friend.
+CORIN
+0
+And to you, gentle sir, and to you all.
+ROSALIND
+0
+I prithee, shepherd, if that love or gold
+CORIN
+0
+Fair sir, I pity her,
+ROSALIND
+0
+What is he that shall buy his flock and pasture?
+CORIN
+0
+That young swain that you saw here but erewhile,
+ROSALIND
+0
+I pray thee, if it stand with honesty,
+CELIA
+0
+And we will mend thy wages. I like this place,
+CORIN
+0
+Assuredly the thing is to be sold.
+AMIENS
+0
+   Under the greenwood tree
+JAQUES
+0
+More, more, I prithee, more.
+AMIENS
+0
+It will make you melancholy, Monsieur Jaques.
+JAQUES
+0
+I thank it. More, I prithee, more. I can suck melancholy
+AMIENS
+0
+My voice is ragged; I know I cannot please you.
+JAQUES
+0
+I do not desire you to please me; I do desire you to sing.
+AMIENS
+0
+What you will, Monsieur Jaques.
+JAQUES
+0
+Nay, I care not for their names; they owe me nothing. Will
+AMIENS
+0
+More at your request than to please myself.
+JAQUES
+0
+Well then, if ever I thank any man, I'll thank you; but
+AMIENS
+0
+Well, I'll end the song. Sirs, cover the while; the Duke
+JAQUES
+0
+And I have been all this day to avoid him. He is to
+JAQUES
+0
+I'll give you a verse to this note that I made yesterday in
+AMIENS
+0
+And I'll sing it.
+JAQUES
+0
+Thus it goes:
+AMIENS
+0
+What's that 'ducdame'?
+JAQUES
+0
+'Tis a Greek invocation, to call fools into a circle. I'll
+AMIENS
+0
+And I'll go seek the Duke; his banquet is prepar'd.
+ADAM
+0
+Dear master, I can go no further. O, I die for food! Here lie
+ORLANDO
+0
+Why, how now, Adam! No greater heart in thee? Live a
+DUKE SENIOR
+0
+I think he be transform'd into a beast;
+FIRST LORD
+0
+My lord, he is but even now gone hence;
+DUKE SENIOR
+0
+If he, compact of jars, grow musical,
+FIRST LORD
+0
+He saves my labour by his own approach.
+DUKE SENIOR
+0
+Why, how now, monsieur! what a life is this,
+JAQUES
+0
+A fool, a fool! I met a fool i' th' forest,
+DUKE SENIOR
+0
+What fool is this?
+JAQUES
+0
+O worthy fool! One that hath been a courtier,
+DUKE SENIOR
+0
+Thou shalt have one.
+JAQUES
+0
+It is my only suit,
+DUKE SENIOR
+0
+Fie on thee! I can tell what thou wouldst do.
+JAQUES
+0
+What, for a counter, would I do but good?
+DUKE SENIOR
+0
+Most Mischievous foul sin, in chiding sin;
+JAQUES
+0
+Why, who cries out on pride
+ORLANDO
+0
+Forbear, and eat no more.
+JAQUES
+0
+Why, I have eat none yet.
+ORLANDO
+0
+Nor shalt not, till necessity be serv'd.
+JAQUES
+0
+Of what kind should this cock come of?
+DUKE SENIOR
+0
+Art thou thus bolden'd, man, by thy distress?
+ORLANDO
+0
+You touch'd my vein at first: the thorny point
+JAQUES
+0
+An you will not be answer'd with reason, I must die.
+DUKE SENIOR
+0
+What would you have? Your gentleness shall force
+ORLANDO
+0
+I almost die for food, and let me have it.
+DUKE SENIOR
+0
+Sit down and feed, and welcome to our table.
+ORLANDO
+0
+Speak you so gently? Pardon me, I pray you;
+DUKE SENIOR
+0
+True is it that we have seen better days,
+ORLANDO
+0
+Then but forbear your food a little while,
+DUKE SENIOR
+0
+Go find him out.
+ORLANDO
+0
+I thank ye; and be blest for your good comfort!
+DUKE SENIOR
+0
+Thou seest we are not all alone unhappy:
+JAQUES
+0
+All the world's a stage,
+JAQUES
+1
+ORLANDO
+All the world's a stage,
+    And all the men and women merely players;
+    They have their exits and their entrances;
+    And one man in his time plays many parts,
+    His acts being seven ages. At first the infant,
+    Mewling and puking in the nurse's arms;
+    Then the whining school-boy, with his satchel
+    And shining morning face, creeping like snail
+    Unwillingly to school. And then the lover,
+    Sighing like furnace, with a woeful ballad
+    Made to his mistress' eyebrow. Then a soldier,
+    Full of strange oaths, and bearded like the pard,
+    Jealous in honour, sudden and quick in quarrel,
+    Seeking the bubble reputation
+    Even in the cannon's mouth. And then the justice,
+    In fair round belly with good capon lin'd,
+    With eyes severe and beard of formal cut,
+    Full of wise saws and modern instances;
+    And so he plays his part. The sixth age shifts
+    Into the lean and slipper'd pantaloon,
+    With spectacles on nose and pouch on side,
+    His youthful hose, well sav'd, a world too wide
+    For his shrunk shank; and his big manly voice,
+    Turning again toward childish treble, pipes
+    And whistles in his sound. Last scene of all,
+    That ends this strange eventful history,
+    Is second childishness and mere oblivion;
+    Sans teeth, sans eyes, sans taste, sans every thing.
+DUKE SENIOR
+1
+ORLANDO
+Welcome. Set down your venerable burden.
+ORLANDO
+1
+ORLANDO
+I thank you most for him.
+ADAM
+1
+ORLANDO
+So had you need;
+DUKE SENIOR
+1
+ORLANDO
+Welcome; fall to. I will not trouble you
+DUKE SENIOR
+1
+ORLANDO
+If that you were the good Sir Rowland's son,
+FREDERICK
+1
+ORLANDO
+Not see him since! Sir, sir, that cannot be.
+OLIVER
+1
+ORLANDO
+O that your Highness knew my heart in this!
+FREDERICK
+1
+ORLANDO
+More villain thou. Well, push him out of doors;
+ORLANDO
+0
+Hang there, my verse, in witness of my love;
+CORIN
+0
+And how like you this shepherd's life, Master Touchstone?
+TOUCHSTONE
+0
+Truly, shepherd, in respect of itself, it is a good
+CORIN
+0
+No more but that I know the more one sickens the worse at
+TOUCHSTONE
+0
+Such a one is a natural philosopher. Wast ever in
+CORIN
+0
+No, truly.
+TOUCHSTONE
+0
+Then thou art damn'd.
+CORIN
+0
+Nay, I hope.
+TOUCHSTONE
+0
+Truly, thou art damn'd, like an ill-roasted egg, all on
+CORIN
+0
+For not being at court? Your reason.
+TOUCHSTONE
+0
+Why, if thou never wast at court thou never saw'st good
+CORIN
+0
+Not a whit, Touchstone. Those that are good manners at the
+TOUCHSTONE
+0
+Instance, briefly; come, instance.
+CORIN
+0
+Why, we are still handling our ewes; and their fells, you
+TOUCHSTONE
+0
+Why, do not your courtier's hands sweat? And is not the
+CORIN
+0
+Besides, our hands are hard.
+TOUCHSTONE
+0
+Your lips will feel them the sooner. Shallow again. A
+CORIN
+0
+And they are often tarr'd over with the surgery of our
+TOUCHSTONE
+0
+Most shallow man! thou worm's meat in respect of a good
+CORIN
+0
+You have too courtly a wit for me; I'll rest.
+TOUCHSTONE
+0
+Wilt thou rest damn'd? God help thee, shallow man! God
+CORIN
+0
+Sir, I am a true labourer: I earn that I eat, get that I
+TOUCHSTONE
+0
+That is another simple sin in you: to bring the ewes
+CORIN
+0
+Here comes young Master Ganymede, my new mistress's brother.
+ROSALIND
+0
+  'From the east to western Inde,
+TOUCHSTONE
+0
+I'll rhyme you so eight years together, dinners, and
+ROSALIND
+0
+Out, fool!
+TOUCHSTONE
+0
+  For a taste:
+ROSALIND
+0
+Peace, you dull fool! I found them on a tree.
+TOUCHSTONE
+0
+Truly, the tree yields bad fruit.
+ROSALIND
+0
+I'll graff it with you, and then I shall graff it with a
+TOUCHSTONE
+0
+You have said; but whether wisely or no, let the forest
+ROSALIND
+0
+Peace!
+CELIA
+0
+  'Why should this a desert be?
+ROSALIND
+0
+O most gentle pulpiter! What tedious homily of love have
+CELIA
+0
+How now! Back, friends; shepherd, go off a little; go with
+TOUCHSTONE
+0
+Come, shepherd, let us make an honourable retreat;
+CELIA
+0
+Didst thou hear these verses?
+ROSALIND
+0
+O, yes, I heard them all, and more too; for some of them
+CELIA
+0
+That's no matter; the feet might bear the verses.
+ROSALIND
+0
+Ay, but the feet were lame, and could not bear themselves
+CELIA
+0
+But didst thou hear without wondering how thy name should be
+ROSALIND
+0
+I was seven of the nine days out of the wonder before you
+CELIA
+0
+Trow you who hath done this?
+ROSALIND
+0
+Is it a man?
+CELIA
+0
+And a chain, that you once wore, about his neck.
+ROSALIND
+0
+I prithee, who?
+CELIA
+0
+O Lord, Lord! it is a hard matter for friends to meet; but
+ROSALIND
+0
+Nay, but who is it?
+CELIA
+0
+Is it possible?
+ROSALIND
+0
+Nay, I prithee now, with most petitionary vehemence, tell
+CELIA
+0
+O wonderful, wonderful, most wonderful wonderful, and yet
+ROSALIND
+0
+Good my complexion! dost thou think, though I am
+CELIA
+0
+So you may put a man in your belly.
+ROSALIND
+0
+Is he of God's making? What manner of man?
+CELIA
+0
+Nay, he hath but a little beard.
+ROSALIND
+0
+Why, God will send more if the man will be thankful. Let
+CELIA
+0
+It is young Orlando, that tripp'd up the wrestler's heels
+ROSALIND
+0
+Nay, but the devil take mocking! Speak sad brow and true
+CELIA
+0
+I' faith, coz, 'tis he.
+ROSALIND
+0
+Orlando?
+CELIA
+0
+Orlando.
+ROSALIND
+0
+Alas the day! what shall I do with my doublet and hose?
+CELIA
+0
+You must borrow me Gargantua's mouth first; 'tis a word too
+ROSALIND
+0
+But doth he know that I am in this forest, and in man's
+CELIA
+0
+It is as easy to count atomies as to resolve the
+ROSALIND
+0
+It may well be call'd Jove's tree, when it drops forth
+CELIA
+0
+Give me audience, good madam.
+ROSALIND
+0
+Proceed.
+CELIA
+0
+There lay he, stretch'd along like a wounded knight.
+ROSALIND
+0
+Though it be pity to see such a sight, it well becomes
+CELIA
+0
+Cry 'Holla' to thy tongue, I prithee; it curvets
+ROSALIND
+0
+O, ominous! he comes to kill my heart.
+CELIA
+0
+I would sing my song without a burden; thou bring'st me out
+ROSALIND
+0
+Do you not know I am a woman? When I think, I must speak.
+CELIA
+0
+You bring me out. Soft! comes he not here?
+ROSALIND
+0
+'Tis he; slink by, and note him.
+JAQUES
+0
+I thank you for your company; but, good faith, I had as
+ORLANDO
+0
+And so had I; but yet, for fashion sake, I thank you too
+JAQUES
+0
+God buy you; let's meet as little as we can.
+ORLANDO
+0
+I do desire we may be better strangers.
+JAQUES
+0
+I pray you mar no more trees with writing love songs in
+ORLANDO
+0
+I pray you mar no more of my verses with reading them
+JAQUES
+0
+Rosalind is your love's name?
+ORLANDO
+0
+Yes, just.
+JAQUES
+0
+I do not like her name.
+ORLANDO
+0
+There was no thought of pleasing you when she was
+JAQUES
+0
+What stature is she of?
+ORLANDO
+0
+Just as high as my heart.
+JAQUES
+0
+You are full of pretty answers. Have you not been
+ORLANDO
+0
+Not so; but I answer you right painted cloth, from whence
+JAQUES
+0
+You have a nimble wit; I think 'twas made of Atalanta's
+ORLANDO
+0
+I will chide no breather in the world but myself, against
+JAQUES
+0
+The worst fault you have is to be in love.
+ORLANDO
+0
+'Tis a fault I will not change for your best virtue. I am
+JAQUES
+0
+By my troth, I was seeking for a fool when I found you.
+ORLANDO
+0
+He is drown'd in the brook; look but in, and you shall see
+JAQUES
+0
+There I shall see mine own figure.
+ORLANDO
+0
+Which I take to be either a fool or a cipher.
+JAQUES
+0
+I'll tarry no longer with you; farewell, good Signior Love.
+ORLANDO
+0
+I am glad of your departure; adieu, good Monsieur
+ROSALIND
+0
+[Aside to CELIA] I will speak to him like a saucy lackey,
+ORLANDO
+0
+Very well; what would you?
+ROSALIND
+0
+I pray you, what is't o'clock?
+ORLANDO
+0
+You should ask me what time o' day; there's no clock in
+ROSALIND
+0
+Then there is no true lover in the forest, else sighing
+ORLANDO
+0
+And why not the swift foot of Time? Had not that been as
+ROSALIND
+0
+By no means, sir. Time travels in divers paces with
+ORLANDO
+0
+I prithee, who doth he trot withal?
+ROSALIND
+0
+Marry, he trots hard with a young maid between the
+ORLANDO
+0
+Who ambles Time withal?
+ROSALIND
+0
+With a priest that lacks Latin and a rich man that hath
+ORLANDO
+0
+Who doth he gallop withal?
+ROSALIND
+0
+With a thief to the gallows; for though he go as softly
+ORLANDO
+0
+Who stays it still withal?
+ROSALIND
+0
+With lawyers in the vacation; for they sleep between term
+ORLANDO
+0
+Where dwell you, pretty youth?
+ROSALIND
+0
+With this shepherdess, my sister; here in the skirts of
+ORLANDO
+0
+Are you native of this place?
+ROSALIND
+0
+As the coney that you see dwell where she is kindled.
+ORLANDO
+0
+Your accent is something finer than you could purchase in
+ROSALIND
+0
+I have been told so of many; but indeed an old religious
+ORLANDO
+0
+Can you remember any of the principal evils that he laid
+ROSALIND
+0
+There were none principal; they were all like one another
+ORLANDO
+0
+I prithee recount some of them.
+ROSALIND
+0
+No; I will not cast away my physic but on those that are
+ORLANDO
+0
+I am he that is so love-shak'd; I pray you tell me your
+ROSALIND
+0
+There is none of my uncle's marks upon you; he taught me
+ORLANDO
+0
+What were his marks?
+ROSALIND
+0
+A lean cheek, which you have not; a blue eye and sunken,
+ORLANDO
+0
+Fair youth, I would I could make thee believe I love.
+ROSALIND
+0
+Me believe it! You may as soon make her that you love
+ORLANDO
+0
+I swear to thee, youth, by the white hand of Rosalind, I
+ROSALIND
+0
+But are you so much in love as your rhymes speak?
+ORLANDO
+0
+Neither rhyme nor reason can express how much.
+ROSALIND
+0
+Love is merely a madness; and, I tell you, deserves as
+ORLANDO
+0
+Did you ever cure any so?
+ROSALIND
+0
+Yes, one; and in this manner. He was to imagine me his
+ORLANDO
+0
+I would not be cured, youth.
+ROSALIND
+0
+I would cure you, if you would but call me Rosalind, and
+ORLANDO
+0
+Now, by the faith of my love, I will. Tell me where it is.
+ROSALIND
+0
+Go with me to it, and I'll show it you; and, by the way,
+ORLANDO
+0
+With all my heart, good youth.
+ROSALIND
+0
+Nay, you must call me Rosalind. Come, sister, will you
+TOUCHSTONE
+0
+Come apace, good Audrey; I will fetch up your goats,
+AUDREY
+0
+Your features! Lord warrant us! What features?
+TOUCHSTONE
+0
+I am here with thee and thy goats, as the most
+JAQUES
+0
+[Aside] O knowledge ill-inhabited, worse than Jove in a
+TOUCHSTONE
+0
+When a man's verses cannot be understood, nor a man's
+AUDREY
+0
+I do not know what 'poetical' is. Is it honest in deed and
+TOUCHSTONE
+0
+No, truly; for the truest poetry is the most feigning,
+AUDREY
+0
+Do you wish, then, that the gods had made me poetical?
+TOUCHSTONE
+0
+I do, truly, for thou swear'st to me thou art honest;
+AUDREY
+0
+Would you not have me honest?
+TOUCHSTONE
+0
+No, truly, unless thou wert hard-favour'd; for honesty
+JAQUES
+0
+[Aside] A material fool!
+AUDREY
+0
+Well, I am not fair; and therefore I pray the gods make me
+TOUCHSTONE
+0
+Truly, and to cast away honesty upon a foul slut were
+AUDREY
+0
+I am not a slut, though I thank the gods I am foul.
+TOUCHSTONE
+0
+Well, praised be the gods for thy foulness;
+JAQUES
+0
+[Aside] I would fain see this meeting.
+AUDREY
+0
+Well, the gods give us joy!
+TOUCHSTONE
+0
+Amen. A man may, if he were of a fearful heart, stagger
+MARTEXT
+0
+Is there none here to give the woman?
+TOUCHSTONE
+0
+I will not take her on gift of any man.
+MARTEXT
+0
+Truly, she must be given, or the marriage is not lawful.
+JAQUES
+0
+[Discovering himself] Proceed, proceed; I'll give her.
+TOUCHSTONE
+0
+Good even, good Master What-ye-call't; how do you, sir?
+JAQUES
+0
+Will you be married, motley?
+TOUCHSTONE
+0
+As the ox hath his bow, sir, the horse his curb, and
+JAQUES
+0
+And will you, being a man of your breeding, be married
+TOUCHSTONE
+0
+[Aside] I am not in the mind but I were better to be
+JAQUES
+0
+Go thou with me, and let me counsel thee.
+TOUCHSTONE
+0
+Come, sweet Audrey;
+MARTEXT
+0
+'Tis no matter; ne'er a fantastical knave of them all
+ROSALIND
+0
+Never talk to me; I will weep.
+CELIA
+0
+Do, I prithee; but yet have the grace to consider that tears
+ROSALIND
+0
+But have I not cause to weep?
+CELIA
+0
+As good cause as one would desire; therefore weep.
+ROSALIND
+0
+His very hair is of the dissembling colour.
+CELIA
+0
+Something browner than Judas's.
+ROSALIND
+0
+I' faith, his hair is of a good colour.
+CELIA
+0
+An excellent colour: your chestnut was ever the only colour.
+ROSALIND
+0
+And his kissing is as full of sanctity as the touch of
+CELIA
+0
+He hath bought a pair of cast lips of Diana. A nun of
+ROSALIND
+0
+But why did he swear he would come this morning, and
+CELIA
+0
+Nay, certainly, there is no truth in him.
+ROSALIND
+0
+Do you think so?
+CELIA
+0
+Yes; I think he is not a pick-purse nor a horse-stealer; but
+ROSALIND
+0
+Not true in love?
+CELIA
+0
+Yes, when he is in; but I think he is not in.
+ROSALIND
+0
+You have heard him swear downright he was.
+CELIA
+0
+'Was' is not 'is'; besides, the oath of a lover is no
+ROSALIND
+0
+I met the Duke yesterday, and had much question with him.
+CELIA
+0
+O, that's a brave man! He writes brave verses, speaks brave
+CORIN
+0
+Mistress and master, you have oft enquired
+CELIA
+0
+Well, and what of him?
+CORIN
+0
+If you will see a pageant truly play'd
+ROSALIND
+0
+O, come, let us remove!
+SILVIUS
+0
+Sweet Phebe, do not scorn me; do not, Phebe.
+PHEBE
+0
+I would not be thy executioner;
+SILVIUS
+0
+O dear Phebe,
+PHEBE
+0
+But till that time
+ROSALIND
+0
+[Advancing] And why, I pray you? Who might be your
+PHEBE
+0
+Sweet youth, I pray you chide a year together;
+ROSALIND
+0
+He's fall'n in love with your foulness, and she'll fall
+PHEBE
+0
+For no ill will I bear you.
+ROSALIND
+0
+I pray you do not fall in love with me,
+PHEBE
+0
+Dead shepherd, now I find thy saw of might:
+SILVIUS
+0
+Sweet Phebe.
+PHEBE
+0
+Ha! what say'st thou, Silvius?
+SILVIUS
+0
+Sweet Phebe, pity me.
+PHEBE
+0
+Why, I arn sorry for thee, gentle Silvius.
+SILVIUS
+0
+Wherever sorrow is, relief would be.
+PHEBE
+0
+Thou hast my love; is not that neighbourly?
+SILVIUS
+0
+I would have you.
+PHEBE
+0
+Why, that were covetousness.
+SILVIUS
+0
+So holy and so perfect is my love,
+PHEBE
+0
+Know'st thou the youth that spoke to me erewhile?
+SILVIUS
+0
+Not very well; but I have met him oft;
+PHEBE
+0
+Think not I love him, though I ask for him;
+SILVIUS
+0
+Phebe, with all my heart.
+PHEBE
+0
+I'll write it straight;
+JAQUES
+0
+I prithee, pretty youth, let me be better acquainted with
+ROSALIND
+0
+They say you are a melancholy fellow.
+JAQUES
+0
+I am so; I do love it better than laughing.
+ROSALIND
+0
+Those that are in extremity of either are abominable
+JAQUES
+0
+Why, 'tis good to be sad and say nothing.
+ROSALIND
+0
+Why then, 'tis good to be a post.
+JAQUES
+0
+I have neither the scholar's melancholy, which is
+ROSALIND
+0
+A traveller! By my faith, you have great reason to be
+JAQUES
+0
+Yes, I have gain'd my experience.
+ROSALIND
+0
+And your experience makes you sad. I had rather have a
+ORLANDO
+0
+Good day, and happiness, dear Rosalind!
+JAQUES
+0
+Nay, then, God buy you, an you talk in blank verse.
+ROSALIND
+0
+Farewell, Monsieur Traveller; look you lisp and wear
+ORLANDO
+0
+My fair Rosalind, I come within an hour of my promise.
+ROSALIND
+0
+Break an hour's promise in love! He that will divide a
+ORLANDO
+0
+Pardon me, dear Rosalind.
+ROSALIND
+0
+Nay, an you be so tardy, come no more in my sight. I had
+ORLANDO
+0
+Of a snail!
+ROSALIND
+0
+Ay, of a snail; for though he comes slowly, he carries
+ORLANDO
+0
+What's that?
+ROSALIND
+0
+Why, horns; which such as you are fain to be beholding to
+ORLANDO
+0
+Virtue is no horn-maker; and my Rosalind is virtuous.
+ROSALIND
+0
+And I am your Rosalind.
+CELIA
+0
+It pleases him to call you so; but he hath a Rosalind of a
+ROSALIND
+0
+Come, woo me, woo me; for now I am in a holiday humour,
+ORLANDO
+0
+I would kiss before I spoke.
+ROSALIND
+0
+Nay, you were better speak first; and when you were
+ORLANDO
+0
+How if the kiss be denied?
+ROSALIND
+0
+Then she puts you to entreaty, and there begins new
+ORLANDO
+0
+Who could be out, being before his beloved mistress?
+ROSALIND
+0
+Marry, that should you, if I were your mistress; or I
+ORLANDO
+0
+What, of my suit?
+ROSALIND
+0
+Not out of your apparel, and yet out of your suit.
+ORLANDO
+0
+I take some joy to say you are, because I would be talking
+ROSALIND
+0
+Well, in her person, I say I will not have you.
+ORLANDO
+0
+Then, in mine own person, I die.
+ROSALIND
+0
+No, faith, die by attorney. The poor world is almost six
+ORLANDO
+0
+I would not have my right Rosalind of this mind; for, I
+ROSALIND
+0
+By this hand, it will not kill a fly. But come, now I
+ORLANDO
+0
+Then love me, Rosalind.
+ROSALIND
+0
+Yes, faith, will I, Fridays and Saturdays, and all.
+ORLANDO
+0
+And wilt thou have me?
+ROSALIND
+0
+Ay, and twenty such.
+ORLANDO
+0
+What sayest thou?
+ROSALIND
+0
+Are you not good?
+ORLANDO
+0
+I hope so.
+ROSALIND
+0
+Why then, can one desire too much of a good thing? Come,
+ORLANDO
+0
+Pray thee, marry us.
+CELIA
+0
+I cannot say the words.
+ROSALIND
+0
+You must begin 'Will you, Orlando'-
+CELIA
+0
+Go to. Will you, Orlando, have to wife this Rosalind?
+ORLANDO
+0
+I will.
+ROSALIND
+0
+Ay, but when?
+ORLANDO
+0
+Why, now; as fast as she can marry us.
+ROSALIND
+0
+Then you must say 'I take thee, Rosalind, for wife.'
+ORLANDO
+0
+I take thee, Rosalind, for wife.
+ROSALIND
+0
+I might ask you for your commission; but- I do take thee,
+ORLANDO
+0
+So do all thoughts; they are wing'd.
+ROSALIND
+0
+Now tell me how long you would have her, after you have
+ORLANDO
+0
+For ever and a day.
+ROSALIND
+0
+Say 'a day' without the 'ever.' No, no, Orlando; men are
+ORLANDO
+0
+But will my Rosalind do so?
+ROSALIND
+0
+By my life, she will do as I do.
+ORLANDO
+0
+O, but she is wise.
+ROSALIND
+0
+Or else she could not have the wit to do this. The wiser,
+ORLANDO
+0
+A man that had a wife with such a wit, he might say 'Wit,
+ORLANDO
+0
+And what wit could wit have to excuse that?
+ROSALIND
+0
+Marry, to say she came to seek you there. You shall never
+ORLANDO
+0
+For these two hours, Rosalind, I will leave thee.
+ROSALIND
+0
+Alas, dear love, I cannot lack thee two hours!
+ORLANDO
+0
+I must attend the Duke at dinner; by two o'clock I will be
+ROSALIND
+0
+Ay, go your ways, go your ways. I knew what you would
+ORLANDO
+0
+Ay, sweet Rosalind.
+ROSALIND
+0
+By my troth, and in good earnest, and so God mend me, and
+ORLANDO
+0
+With no less religion than if thou wert indeed my
+ROSALIND
+0
+Well, Time is the old justice that examines all such
+CELIA
+0
+You have simply misus'd our sex in your love-prate. We must
+ROSALIND
+0
+O coz, coz, coz, my pretty little coz, that thou didst
+CELIA
+0
+Or rather, bottomless; that as fast as you pour affection
+ROSALIND
+0
+No; that same wicked bastard of Venus, that was begot of
+CELIA
+0
+And I'll sleep.                                  Exeunt
+JAQUES
+0
+Which is he that killed the deer?
+LORD
+0
+Sir, it was I.
+JAQUES
+0
+Let's present him to the Duke, like a Roman conqueror; and
+LORD
+0
+Yes, sir.
+JAQUES
+0
+Sing it; 'tis no matter how it be in tune, so it make noise
+ROSALIND
+0
+How say you now? Is it not past two o'clock?
+CELIA
+0
+I warrant you, with pure love and troubled brain, he hath
+SILVIUS
+0
+My errand is to you, fair youth;
+ROSALIND
+0
+Patience herself would startle at this letter,
+SILVIUS
+0
+No, I protest, I know not the contents;
+ROSALIND
+0
+Come, come, you are a fool,
+SILVIUS
+0
+Sure, it is hers.
+ROSALIND
+0
+Why, 'tis a boisterous and a cruel style;
+SILVIUS
+0
+So please you, for I never heard it yet;
+ROSALIND
+0
+She Phebes me: mark how the tyrant writes.
+SILVIUS
+0
+Call you this railing?
+ROSALIND
+0
+'Why, thy godhead laid apart,
+SILVIUS
+0
+Call you this chiding?
+CELIA
+0
+Alas, poor shepherd!
+ROSALIND
+0
+Do you pity him? No, he deserves no pity. Wilt thou love
+OLIVER
+0
+Good morrow, fair ones; pray you, if you know,
+CELIA
+0
+West of this place, down in the neighbour bottom.
+OLIVER
+0
+If that an eye may profit by a tongue,
+CELIA
+0
+It is no boast, being ask'd, to say we are.
+OLIVER
+0
+Orlando doth commend him to you both;
+ROSALIND
+0
+I am. What must we understand by this?
+OLIVER
+0
+Some of my shame; if you will know of me
+CELIA
+0
+I pray you, tell it.
+OLIVER
+0
+When last the young Orlando parted from you,
+CELIA
+0
+O, I have heard him speak of that same brother;
+OLIVER
+0
+And well he might so do,
+ROSALIND
+0
+But, to Orlando: did he leave him there,
+OLIVER
+0
+Twice did he turn his back, and purpos'd so;
+CELIA
+0
+Are you his brother?
+ROSALIND
+0
+Was't you he rescu'd?
+CELIA
+0
+Was't you that did so oft contrive to kill him?
+OLIVER
+0
+'Twas I; but 'tis not I. I do not shame
+ROSALIND
+0
+But for the bloody napkin?
+OLIVER
+0
+By and by.
+CELIA
+0
+Why, how now, Ganymede! sweet Ganymede!
+OLIVER
+0
+Many will swoon when they do look on blood.
+CELIA
+0
+There is more in it. Cousin Ganymede!
+OLIVER
+0
+Look, he recovers.
+ROSALIND
+0
+I would I were at home.
+CELIA
+0
+We'll lead you thither.
+OLIVER
+0
+Be of good cheer, youth. You a man!
+ROSALIND
+0
+I do so, I confess it. Ah, sirrah, a body would think
+OLIVER
+0
+This was not counterfeit; there is too great testimony in
+ROSALIND
+0
+Counterfeit, I assure you.
+OLIVER
+0
+Well then, take a good heart and counterfeit to be a man.
+ROSALIND
+0
+So I do; but, i' faith, I should have been a woman by
+CELIA
+0
+Come, you look paler and paler; pray you draw homewards.
+OLIVER
+0
+That will I, for I must bear answer back
+ROSALIND
+0
+I shall devise something; but, I pray you, commend my
+TOUCHSTONE
+0
+We shall find a time, Audrey; patience, gentle Audrey.
+AUDREY
+0
+Faith, the priest was good enough, for all the old
+TOUCHSTONE
+0
+A most wicked Sir Oliver, Audrey, a most vile Martext.
+AUDREY
+0
+Ay, I know who 'tis; he hath no interest in me in the
+TOUCHSTONE
+0
+It is meat and drink to me to see a clown. By my troth,
+WILLIAM
+0
+Good ev'n, Audrey.
+AUDREY
+0
+God ye good ev'n, William.
+WILLIAM
+0
+And good ev'n to you, sir.
+TOUCHSTONE
+0
+Good ev'n, gentle friend. Cover thy head, cover thy
+WILLIAM
+0
+Five and twenty, sir.
+TOUCHSTONE
+0
+A ripe age. Is thy name William?
+WILLIAM
+0
+William, sir.
+TOUCHSTONE
+0
+A fair name. Wast born i' th' forest here?
+WILLIAM
+0
+Ay, sir, I thank God.
+TOUCHSTONE
+0
+'Thank God.' A good answer.
+WILLIAM
+0
+Faith, sir, so so.
+TOUCHSTONE
+0
+'So so' is good, very good, very excellent good; and
+WILLIAM
+0
+Ay, sir, I have a pretty wit.
+TOUCHSTONE
+0
+Why, thou say'st well. I do now remember a saying: 'The
+WILLIAM
+0
+I do, sir.
+TOUCHSTONE
+0
+Give me your hand. Art thou learned?
+WILLIAM
+0
+No, sir.
+TOUCHSTONE
+0
+Then learn this of me: to have is to have; for it is a
+WILLIAM
+0
+Which he, sir?
+TOUCHSTONE
+0
+He, sir, that must marry this woman. Therefore, you
+AUDREY
+0
+Do, good William.
+WILLIAM
+0
+God rest you merry, sir.                         Exit
+CORIN
+0
+Our master and mistress seeks you; come away, away.
+TOUCHSTONE
+0
+Trip, Audrey, trip, Audrey. I attend, I attend.
+ORLANDO
+0
+Is't possible that on so little acquaintance you should
+OLIVER
+0
+Neither call the giddiness of it in question, the poverty
+ORLANDO
+0
+You have my consent. Let your wedding be to-morrow.
+ROSALIND
+0
+God save you, brother.
+OLIVER
+0
+And you, fair sister.                             Exit
+ROSALIND
+0
+O, my dear Orlando, how it grieves me to see thee wear
+ORLANDO
+0
+It is my arm.
+ROSALIND
+0
+I thought thy heart had been wounded with the claws of a
+ORLANDO
+0
+Wounded it is, but with the eyes of a lady.
+ROSALIND
+0
+Did your brother tell you how I counterfeited to swoon
+ORLANDO
+0
+Ay, and greater wonders than that.
+ROSALIND
+0
+O, I know where you are. Nay, 'tis true. There was never
+ORLANDO
+0
+They shall be married to-morrow; and I will bid the Duke
+ROSALIND
+0
+Why, then, to-morrow I cannot serve your turn for
+ORLANDO
+0
+I can live no longer by thinking.
+ROSALIND
+0
+I will weary you, then, no longer with idle talking. Know
+ORLANDO
+0
+Speak'st thou in sober meanings?
+ROSALIND
+0
+By my life, I do; which I tender dearly, though I say I
+PHEBE
+0
+Youth, you have done me much ungentleness
+ROSALIND
+0
+I care not if I have. It is my study
+PHEBE
+0
+Good shepherd, tell this youth what 'tis to love.
+SILVIUS
+0
+It is to be all made of sighs and tears;
+PHEBE
+0
+And I for Ganymede.
+ORLANDO
+0
+And I for Rosalind.
+ROSALIND
+0
+And I for no woman.
+SILVIUS
+0
+It is to be all made of faith and service;
+PHEBE
+0
+And I for Ganymede.
+ORLANDO
+0
+And I for Rosalind.
+ROSALIND
+0
+And I for no woman.
+SILVIUS
+0
+It is to be all made of fantasy,
+PHEBE
+0
+And so am I for Ganymede.
+ORLANDO
+0
+And so am I for Rosalind.
+ROSALIND
+0
+And so am I for no woman.
+PHEBE
+0
+If this be so, why blame you me to love you?
+SILVIUS
+0
+If this be so, why blame you me to love you?
+ORLANDO
+0
+If this be so, why blame you me to love you?
+ROSALIND
+0
+Why do you speak too, 'Why blame you me to love you?'
+ORLANDO
+0
+To her that is not here, nor doth not hear.
+ROSALIND
+0
+Pray you, no more of this; 'tis like the howling of Irish
+SILVIUS
+0
+I'll not fail, if I live.
+PHEBE
+0
+Nor I.
+ORLANDO
+0
+Nor I.                                         Exeunt
+TOUCHSTONE
+0
+To-morrow is the joyful day, Audre'y; to-morrow will we
+AUDREY
+0
+I do desire it with all my heart; and I hope it is no
+FIRST PAGE
+0
+Well met, honest gentleman.
+TOUCHSTONE
+0
+By my troth, well met. Come sit, sit, and a song.
+SECOND PAGE
+0
+We are for you; sit i' th' middle.
+FIRST PAGE
+0
+Shall we clap into't roundly, without hawking, or
+SECOND PAGE
+0
+I'faith, i'faith; and both in a tune, like two gipsies
+TOUCHSTONE
+0
+Truly, young gentlemen, though there was no great
+FIRST PAGE
+0
+YOU are deceiv'd, sir; we kept time, we lost not our
+TOUCHSTONE
+0
+By my troth, yes; I count it but time lost to hear such
+DUKE SENIOR
+0
+Dost thou believe, Orlando, that the boy
+ORLANDO
+0
+I sometimes do believe and sometimes do not:
+ROSALIND
+0
+Patience once more, whiles our compact is urg'd:
+DUKE SENIOR
+0
+That would I, had I kingdoms to give with her.
+ROSALIND
+0
+And you say you will have her when I bring her?
+ORLANDO
+0
+That would I, were I of all kingdoms king.
+ROSALIND
+0
+You say you'll marry me, if I be willing?
+PHEBE
+0
+That will I, should I die the hour after.
+ROSALIND
+0
+But if you do refuse to marry me,
+PHEBE
+0
+So is the bargain.
+ROSALIND
+0
+You say that you'll have Phebe, if she will?
+SILVIUS
+0
+Though to have her and death were both one thing.
+ROSALIND
+0
+I have promis'd to make all this matter even.
+DUKE SENIOR
+0
+I do remember in this shepherd boy
+ORLANDO
+0
+My lord, the first time that I ever saw him
+JAQUES
+0
+There is, sure, another flood toward, and these couples are
+TOUCHSTONE
+0
+Salutation and greeting to you all!
+JAQUES
+0
+Good my lord, bid him welcome. This is the motley-minded
+TOUCHSTONE
+0
+If any man doubt that, let him put me to my purgation.
+JAQUES
+0
+And how was that ta'en up?
+TOUCHSTONE
+0
+Faith, we met, and found the quarrel was upon the
+JAQUES
+0
+How seventh cause? Good my lord, like this fellow.
+DUKE SENIOR
+0
+I like him very well.
+TOUCHSTONE
+0
+God 'ild you, sir; I desire you of the like. I press in
+DUKE SENIOR
+0
+By my faith, he is very swift and sententious.
+TOUCHSTONE
+0
+According to the fool's bolt, sir, and such dulcet
+JAQUES
+0
+But, for the seventh cause: how did you find the quarrel on
+TOUCHSTONE
+0
+Upon a lie seven times removed- bear your body more
+JAQUES
+0
+And how oft did you say his beard was not well cut?
+TOUCHSTONE
+0
+I durst go no further than the Lie Circumstantial, nor
+JAQUES
+0
+Can you nominate in order now the degrees of the lie?
+TOUCHSTONE
+0
+O, sir, we quarrel in print by the book, as you have
+JAQUES
+0
+Is not this a rare fellow, my lord?
+DUKE SENIOR
+0
+He uses his folly like a stalking-horse, and under the
+ROSALIND
+0
+[To DUKE] To you I give myself, for I am yours.
+DUKE SENIOR
+0
+If there be truth in sight, you are my daughter.
+ORLANDO
+0
+If there be truth in sight, you are my Rosalind.
+PHEBE
+0
+If sight and shape be true,
+ROSALIND
+0
+I'll have no father, if you be not he;
+HYMEN
+0
+   Peace, ho! I bar confusion;
+DUKE SENIOR
+0
+O my dear niece, welcome thou art to me!
+PHEBE
+0
+I will not eat my word, now thou art mine;
+DUKE SENIOR
+0
+Welcome, young man.
+JAQUES
+0
+Sir, by your patience. If I heard you rightly,
+JAQUES DE BOYS
+0
+He hath.
+JAQUES
+0
+To him will I. Out of these convertites
+DUKE SENIOR
+0
+Stay, Jaques, stay.
+JAQUES
+0
+To see no pastime I. What you would have
+DUKE SENIOR
+0
+Proceed, proceed. We will begin these rites,
+ROSALIND
+0
+It is not the fashion to see the lady the epilogue; but

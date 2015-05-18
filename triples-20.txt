@@ -1,0 +1,5259 @@
+SHALLOW
+0
+Sir Hugh, persuade me not; I will make a Star
+SLENDER
+0
+In the county of Gloucester, Justice of Peace, and
+SHALLOW
+0
+Ay, cousin Slender, and Custalorum.
+SLENDER
+0
+Ay, and Ratolorum too; and a gentleman born,
+SHALLOW
+0
+Ay, that I do; and have done any time these three
+SLENDER
+0
+All his successors, gone before him, hath done't;
+SHALLOW
+0
+It is an old coat.
+EVANS
+0
+The dozen white louses do become an old coat well;
+SHALLOW
+0
+The luce is the fresh fish; the salt fish is an old
+SLENDER
+0
+I may quarter, coz.
+SHALLOW
+0
+You may, by marrying.
+EVANS
+0
+It is marring indeed, if he quarter it.
+SHALLOW
+0
+Not a whit.
+EVANS
+0
+Yes, py'r lady! If he has a quarter of your coat, there
+SHALLOW
+0
+The Council shall hear it; it is a riot.
+EVANS
+0
+It is not meet the Council hear a riot; there is no
+SHALLOW
+0
+Ha! o' my life, if I were young again, the sword
+EVANS
+0
+It is petter that friends is the sword and end it;
+SLENDER
+0
+Mistress Anne Page? She has brown hair, and
+EVANS
+0
+It is that fery person for all the orld, as just as you
+SHALLOW
+0
+Did her grandsire leave her seven hundred pound?
+EVANS
+0
+Ay, and her father is make her a petter penny.
+SHALLOW
+0
+I know the young gentlewoman; she has good
+EVANS
+0
+Seven hundred pounds, and possibilities, is goot gifts.
+SHALLOW
+0
+Well, let us see honest Master Page. Is Falstaff
+EVANS
+0
+Shall I tell you a lie? I do despise a liar as I do
+PAGE
+0
+ [Within]  Who's there?
+EVANS
+0
+Here is Got's plessing, and your friend, and Justice
+PAGE
+0
+I am glad to see your worships well. I thank you for
+SHALLOW
+0
+Master Page, I am glad to see you; much good do
+PAGE
+0
+Sir, I thank you.
+SHALLOW
+0
+Sir, I thank you; by yea and no, I do.
+PAGE
+0
+I am glad to see you, good Master Slender.
+SLENDER
+0
+How does your fallow greyhound, sir? I heard say
+PAGE
+0
+It could not be judg'd, sir.
+SLENDER
+0
+You'll not confess, you'll not confess.
+SHALLOW
+0
+That he will not. 'Tis your fault; 'tis your fault;
+PAGE
+0
+A cur, sir.
+SHALLOW
+0
+Sir, he's a good dog, and a fair dog. Can there be
+PAGE
+0
+Sir, he is within; and I would I could do a good office
+EVANS
+0
+It is spoke as a Christians ought to speak.
+SHALLOW
+0
+He hath wrong'd me, Master Page.
+PAGE
+0
+Sir, he doth in some sort confess it.
+SHALLOW
+0
+If it be confessed, it is not redressed; is not that
+PAGE
+0
+Here comes Sir John.
+FALSTAFF
+0
+Now, Master Shallow, you'll complain of me to
+SHALLOW
+0
+Knight, you have beaten my men, kill'd my deer,
+FALSTAFF
+0
+But not kiss'd your keeper's daughter.
+SHALLOW
+0
+Tut, a pin! this shall be answer'd.
+FALSTAFF
+0
+I will answer it straight: I have done all this.
+SHALLOW
+0
+The Council shall know this.
+FALSTAFF
+0
+'Twere better for you if it were known in counsel:
+EVANS
+0
+Pauca verba, Sir John; goot worts.
+FALSTAFF
+0
+Good worts! good cabbage! Slender, I broke your
+SLENDER
+0
+Marry, sir, I have matter in my head against you;
+BARDOLPH
+0
+You Banbury cheese!
+SLENDER
+0
+Ay, it is no matter.
+PISTOL
+0
+How now, Mephostophilus!
+SLENDER
+0
+Ay, it is no matter.
+NYM
+0
+Slice, I say! pauca, pauca; slice! That's my humour.
+SLENDER
+0
+Where's Simple, my man? Can you tell, cousin?
+EVANS
+0
+Peace, I pray you. Now let us understand. There is
+PAGE
+0
+We three to hear it and end it between them.
+EVANS
+0
+Fery goot. I will make a prief of it in my note-book;
+FALSTAFF
+0
+Pistol!
+PISTOL
+0
+He hears with ears.
+EVANS
+0
+The tevil and his tam! What phrase is this, 'He hears
+FALSTAFF
+0
+Pistol, did you pick Master Slender's purse?
+SLENDER
+0
+Ay, by these gloves, did he-or I would I might
+FALSTAFF
+0
+Is this true, Pistol?
+EVANS
+0
+No, it is false, if it is a pick-purse.
+PISTOL
+0
+Ha, thou mountain-foreigner! Sir John and master
+SLENDER
+0
+By these gloves, then, 'twas he.
+NYM
+0
+Be avis'd, sir, and pass good humours; I will say
+SLENDER
+0
+By this hat, then, he in the red face had it; for
+FALSTAFF
+0
+What say you, Scarlet and John?
+BARDOLPH
+0
+Why, sir, for my part, I say the gentleman had
+EVANS
+0
+It is his five senses; fie, what the ignorance is!
+BARDOLPH
+0
+And being fap, sir, was, as they say, cashier'd;
+SLENDER
+0
+Ay, you spake in Latin then too; but 'tis no matter;
+EVANS
+0
+So Got udge me, that is a virtuous mind.
+FALSTAFF
+0
+You hear all these matters deni'd, gentlemen; you
+PAGE
+0
+Nay, daughter, carry the wine in; we'll drink within.
+SLENDER
+0
+O heaven! this is Mistress Anne Page.
+PAGE
+0
+How now, Mistress Ford!
+FALSTAFF
+0
+Mistress Ford, by my troth, you are very well
+PAGE
+0
+Wife, bid these gentlemen welcome. Come, we have a
+SLENDER
+0
+I had rather than forty shillings I had my Book of
+SIMPLE
+0
+Book of Riddles! Why, did you not lend it to Alice
+SHALLOW
+0
+Come, coz; come, coz; we stay for you. A word
+SLENDER
+0
+Ay, sir, you shall find me reasonable; if it be so, I
+SHALLOW
+0
+Nay, but understand me.
+SLENDER
+0
+So I do, sir.
+EVANS
+0
+Give ear to his motions: Master Slender, I will
+SLENDER
+0
+Nay, I will do as my cousin Shallow says; I pray
+EVANS
+0
+But that is not the question. The question is
+SHALLOW
+0
+Ay, there's the point, sir.
+EVANS
+0
+Marry is it; the very point of it; to Mistress Anne
+SLENDER
+0
+Why, if it be so, I will marry her upon any
+EVANS
+0
+But can you affection the oman? Let us command to
+SHALLOW
+0
+Cousin Abraham Slender, can you love her?
+SLENDER
+0
+I hope, sir, I will do as it shall become one that
+EVANS
+0
+Nay, Got's lords and his ladies! you must speak possitable,
+SHALLOW
+0
+That you must. Will you, upon good dowry,
+SLENDER
+0
+I will do a greater thing than that upon your request,
+SHALLOW
+0
+Nay, conceive me, conceive me, sweet coz; what
+SLENDER
+0
+I will marry her, sir, at your request; but if there
+EVANS
+0
+It is a fery discretion answer, save the fall is in the
+SHALLOW
+0
+Ay, I think my cousin meant well.
+SLENDER
+2
+ANNE
+PAGE
+Ay, or else I would I might be hang'd, la!
+SHALLOW
+2
+ANNE
+PAGE
+Here comes fair Mistress Anne. Would I were
+ANNE
+2
+ANNE
+PAGE
+The dinner is on the table; my father desires your
+SHALLOW
+2
+ANNE
+PAGE
+I will wait on him, fair Mistress Anne!
+EVANS
+2
+ANNE
+PAGE
+Od's plessed will! I will not be absence at the grace.
+EVANS
+2
+ANNE
+PAGE
+Od's plessed will! I will not be absence at the grace.
+                                        Exeunt SHALLOW and EVANS
+ANNE
+2
+ANNE
+PAGE
+Will't please your worship to come in, sir?
+SLENDER
+2
+ANNE
+PAGE
+No, I thank you, forsooth, heartily; I am very
+ANNE
+2
+ANNE
+PAGE
+The dinner attends you, sir.
+SLENDER
+2
+ANNE
+PAGE
+I am not a-hungry, I thank you, forsooth. Go,
+Shallow
+2
+ANNE
+PAGE
+ [Exit SIMPLE]  A justice of peace sometime may
+ANNE
+2
+ANNE
+PAGE
+I may not go in without your worship; they will not
+SLENDER
+2
+ANNE
+PAGE
+I' faith, I'll eat nothing; I thank you as much as
+ANNE
+2
+ANNE
+PAGE
+I pray you, sir, walk in.
+SLENDER
+2
+ANNE
+PAGE
+I had rather walk here, I thank you. I bruis'd my
+ANNE
+2
+ANNE
+PAGE
+I think there are, sir; I heard them talk'd of.
+SLENDER
+2
+ANNE
+PAGE
+I love the sport well; but I shall as soon quarrel at
+ANNE
+2
+ANNE
+PAGE
+Ay, indeed, sir.
+SLENDER
+2
+ANNE
+PAGE
+That's meat and drink to me now. I have seen
+SLENDER
+2
+ANNE
+PAGE
+That's meat and drink to me now. I have seen
+    Sackerson loose twenty times, and have taken him by the
+    chain; but I warrant you, the women have so cried and
+    shriek'd at it that it pass'd; but women, indeed, cannot
+    abide 'em; they are very ill-favour'd rough things.
+PAGE
+2
+ANNE
+PAGE
+Come, gentle Master Slender, come; we stay for you.
+SLENDER
+2
+ANNE
+PAGE
+I'll eat nothing, I thank you, sir.
+PAGE
+2
+ANNE
+PAGE
+By cock and pie, you shall not choose, sir! Come,
+SLENDER
+2
+ANNE
+PAGE
+Nay, pray you lead the way.
+PAGE
+2
+ANNE
+PAGE
+Come on, sir.
+SLENDER
+2
+ANNE
+PAGE
+Mistress Anne, yourself shall go first.
+ANNE
+2
+ANNE
+PAGE
+Not I, sir; pray you keep on.
+SLENDER
+2
+ANNE
+PAGE
+Truly, I will not go first; truly, la! I will not do
+ANNE
+2
+ANNE
+PAGE
+I pray you, sir.
+SLENDER
+2
+ANNE
+PAGE
+I'll rather be unmannerly than troublesome. You
+EVANS
+2
+ANNE
+PAGE
+Go your ways, and ask of Doctor Caius' house which
+SIMPLE
+2
+ANNE
+PAGE
+Well, sir.
+EVANS
+2
+ANNE
+PAGE
+Nay, it is petter yet. Give her this letter; for it is a
+FALSTAFF
+2
+ANNE
+PAGE
+Mine host of the Garter!
+HOST
+2
+ANNE
+PAGE
+What says my bully rook? Speak scholarly and
+FALSTAFF
+2
+ANNE
+PAGE
+Truly, mine host, I must turn away some of my
+HOST
+2
+ANNE
+PAGE
+Discard, bully Hercules; cashier; let them wag; trot,
+FALSTAFF
+2
+ANNE
+PAGE
+I sit at ten pounds a week.
+HOST
+2
+ANNE
+PAGE
+Thou'rt an emperor-Caesar, Keiser, and Pheazar. I
+FALSTAFF
+2
+ANNE
+PAGE
+Do so, good mine host.
+HOST
+2
+ANNE
+PAGE
+I have spoke; let him follow.  [To BARDOLPH]  Let me
+HOST
+2
+ANNE
+PAGE
+I have spoke; let him follow.  [To BARDOLPH]  Let me
+    see thee froth and lime. I am at a word; follow.   Exit HOST
+FALSTAFF
+2
+ANNE
+PAGE
+Bardolph, follow him. A tapster is a good trade;
+BARDOLPH
+2
+ANNE
+PAGE
+It is a life that I have desir'd; I will thrive.
+PISTOL
+2
+ANNE
+PAGE
+O base Hungarian wight! Wilt thou the spigot
+PISTOL
+2
+ANNE
+PAGE
+O base Hungarian wight! Wilt thou the spigot
+    wield?                                         Exit BARDOLPH
+NYM
+2
+ANNE
+PAGE
+He was gotten in drink. Is not the humour conceited?
+FALSTAFF
+2
+ANNE
+PAGE
+I am glad I am so acquit of this tinder-box: his
+NYM
+2
+ANNE
+PAGE
+The good humour is to steal at a minute's rest.
+PISTOL
+2
+ANNE
+PAGE
+'Convey' the wise it call. 'Steal' foh! A fico for the
+FALSTAFF
+2
+ANNE
+PAGE
+Well, sirs, I am almost out at heels.
+PISTOL
+2
+ANNE
+PAGE
+Why, then, let kibes ensue.
+FALSTAFF
+2
+ANNE
+PAGE
+There is no remedy; I must cony-catch; I must
+PISTOL
+2
+ANNE
+PAGE
+Young ravens must have food.
+FALSTAFF
+2
+ANNE
+PAGE
+Which of you know Ford of this town?
+PISTOL
+2
+ANNE
+PAGE
+I ken the wight; he is of substance good.
+FALSTAFF
+2
+ANNE
+PAGE
+My honest lads, I will tell you what I am about.
+PISTOL
+2
+ANNE
+PAGE
+Two yards, and more.
+FALSTAFF
+2
+ANNE
+PAGE
+No quips now, Pistol. Indeed, I am in the waist
+NYM
+2
+ANNE
+PAGE
+The anchor is deep; will that humour pass?
+FALSTAFF
+2
+ANNE
+PAGE
+Now, the report goes she has all the rule of her
+PISTOL
+2
+ANNE
+PAGE
+As many devils entertain; and 'To her, boy,' say I.
+NYM
+2
+ANNE
+PAGE
+The humour rises; it is good; humour me the angels.
+FALSTAFF
+2
+ANNE
+PAGE
+I have writ me here a letter to her; and here
+PISTOL
+2
+ANNE
+PAGE
+Then did the sun on dunghill shine.
+NYM
+2
+ANNE
+PAGE
+I thank thee for that humour.
+FALSTAFF
+2
+ANNE
+PAGE
+O, she did so course o'er my exteriors with such
+PISTOL
+2
+ANNE
+PAGE
+Shall I Sir Pandarus of Troy become,
+NYM
+2
+ANNE
+PAGE
+I will run no base humour. Here, take the
+FALSTAFF
+2
+ANNE
+PAGE
+ [To ROBIN]  Hold, sirrah; bear you these letters
+FALSTAFF
+2
+ANNE
+PAGE
+ [To ROBIN]  Hold, sirrah; bear you these letters
+    tightly;
+    Sail like my pinnace to these golden shores.
+    Rogues, hence, avaunt! vanish like hailstones, go;
+    Trudge, plod away i' th' hoof; seek shelter, pack!
+    Falstaff will learn the humour of the age;
+    French thrift, you rogues; myself, and skirted page.
+                                       Exeunt FALSTAFF and ROBIN
+PISTOL
+2
+ANNE
+PAGE
+Let vultures gripe thy guts! for gourd and fullam
+NYM
+2
+ANNE
+PAGE
+I have operations in my head which be humours of
+PISTOL
+2
+ANNE
+PAGE
+Wilt thou revenge?
+NYM
+2
+ANNE
+PAGE
+By welkin and her star!
+PISTOL
+2
+ANNE
+PAGE
+With wit or steel?
+NYM
+2
+ANNE
+PAGE
+With both the humours, I.
+PISTOL
+2
+ANNE
+PAGE
+And I to Ford shall eke unfold
+NYM
+2
+ANNE
+PAGE
+My humour shall not cool; I will incense Page to deal
+PISTOL
+2
+ANNE
+PAGE
+Thou art the Mars of malcontents; I second thee;
+QUICKLY
+2
+ANNE
+PAGE
+What, John Rugby! I pray thee go to the casement
+RUGBY
+2
+ANNE
+PAGE
+I'll go watch.
+QUICKLY
+2
+ANNE
+PAGE
+Go; and we'll have a posset for't soon at night, in
+QUICKLY
+2
+ANNE
+PAGE
+Go; and we'll have a posset for't soon at night, in
+    faith, at the latter end of a sea-coal fire.  [Exit RUGBY]  An
+SIMPLE
+2
+ANNE
+PAGE
+Ay, for fault of a better.
+QUICKLY
+2
+ANNE
+PAGE
+And Master Slender's your master?
+SIMPLE
+2
+ANNE
+PAGE
+Ay, forsooth.
+QUICKLY
+2
+ANNE
+PAGE
+Does he not wear a great round beard, like a
+SIMPLE
+2
+ANNE
+PAGE
+No, forsooth; he hath but a little whey face, with a
+QUICKLY
+2
+ANNE
+PAGE
+A softly-sprighted man, is he not?
+SIMPLE
+2
+ANNE
+PAGE
+Ay, forsooth; but he is as tall a man of his hands as
+QUICKLY
+2
+ANNE
+PAGE
+How say you? O, I should remember him. Does
+SIMPLE
+2
+ANNE
+PAGE
+Yes, indeed, does he.
+QUICKLY
+2
+ANNE
+PAGE
+Well, heaven send Anne Page no worse fortune!
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Well, heaven send Anne Page no worse fortune!
+    Tell Master Parson Evans I will do what I can for your
+    master. Anne is a good girl, and I wish-
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+Out, alas! here comes my master.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+We shall all be shent. Run in here, good young
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Vat is you sing? I do not like des toys. Pray you, go
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Ay, forsooth, I'll fetch it you.  [Aside]  I am glad
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Fe, fe, fe fe! ma foi, il fait fort chaud. Je m'en vais a
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Is it this, sir?
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Oui; mette le au mon pocket: depeche, quickly. Vere
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+What, John Rugby? John!
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+Here, sir.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+You are John Rugby, and you are Jack Rugby.
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+'Tis ready, sir, here in the porch.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Ay me, he'll find the young man there, and be
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+O diable, diable! vat is in my closet? Villainy! larron!
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Good master, be content.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Wherefore shall I be content-a?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+The young man is an honest man.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+What shall de honest man do in my closet? Dere is
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+I beseech you, be not so phlegmatic; hear the
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Vell?
+SIMPLE
+3
+ANNE
+RUGBY
+PAGE
+Ay, forsooth, to desire her to-
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Peace, I pray you.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Peace-a your tongue. Speak-a your tale.
+SIMPLE
+3
+ANNE
+RUGBY
+PAGE
+To desire this honest gentlewoman, your maid, to
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+This is all, indeed, la! but I'll ne'er put my finger
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Sir Hugh send-a you? Rugby, baillez me some paper.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+ [Aside to SIMPLE]  I am glad he is so quiet; if he
+SIMPLE
+3
+ANNE
+RUGBY
+PAGE
+ [Aside to QUICKLY]  'Tis a great charge to come
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+ [Aside to SIMPLE]  Are you avis'd o' that? You
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+You jack'nape; give-a this letter to Sir Hugh; by gar,
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+You jack'nape; give-a this letter to Sir Hugh; by gar,
+    it is a shallenge; I will cut his troat in de park; and I will
+    teach a scurvy jack-a-nape priest to meddle or make. You
+    may be gone; it is not good you tarry here. By gar, I will
+    cut all his two stones; by gar, he shall not have a stone
+    to throw at his dog.                             Exit SIMPLE
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Alas, he speaks but for his friend.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+It is no matter-a ver dat. Do not you tell-a me dat I
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Sir, the maid loves you, and all shall be well. We
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Rugby, come to the court with me. By gar, if I have
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Rugby, come to the court with me. By gar, if I have
+    not Anne Page, I shall turn your head out of my door.
+    Follow my heels, Rugby.               Exeunt CAIUS and RUGBY
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+You shall have-An fool's-head of your own. No,
+FENTON
+3
+ANNE
+RUGBY
+PAGE
+ [Within]  Who's within there? ho!
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Who's there, I trow? Come near the house, I pray
+FENTON
+3
+ANNE
+RUGBY
+PAGE
+How now, good woman, how dost thou?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+The better that it pleases your good worship to
+FENTON
+3
+ANNE
+RUGBY
+PAGE
+What news? How does pretty Mistress Anne?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+In truth, sir, and she is pretty, and honest, and
+FENTON
+3
+ANNE
+RUGBY
+PAGE
+Shall I do any good, think'st thou? Shall I not lose
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Troth, sir, all is in His hands above; but
+FENTON
+3
+ANNE
+RUGBY
+PAGE
+Yes, marry, have I; what of that?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Well, thereby hangs a tale; good faith, it is such
+FENTON
+3
+ANNE
+RUGBY
+PAGE
+Well, I shall see her to-day. Hold, there's money
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Will I? I' faith, that we will; and I will tell your
+FENTON
+3
+ANNE
+RUGBY
+PAGE
+Well, farewell; I am in great haste now.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Farewell to your worship.  [Exit FENTON]  Truly,
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. What! have I scap'd love-letters in the holiday-time
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. Mistress Page! trust me, I was going to your
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. And, trust me, I was coming to you. You look
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. Nay, I'll ne'er believe that; I have to show to
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Faith, but you do, in my mind.
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. Well, I do, then; yet, I say, I could show you to
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. What's the matter, woman?
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. O woman, if it were not for one trifling respect,
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Hang the trifle, woman; take the honour. What
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. If I would but go to hell for an eternal moment
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. What? Thou liest. Sir Alice Ford! These knights
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. We burn daylight. Here, read, read; perceive
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Letter for letter, but that the name of Page and
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. Why, this is the very same; the very hand, the
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Nay, I know not; it makes me almost ready to
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. 'Boarding' call you it? I'll be sure to keep him
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. So will I; if he come under my hatches, I'll never
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. Nay, I will consent to act any villainy against
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Why, look where he comes; and my good man
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. You are the happier woman.
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Let's consult together against this greasy knight.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Well, I hope it be not so.
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+Hope is a curtal dog in some affairs.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Why, sir, my wife is not young.
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+He woos both high and low, both rich and poor,
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Love my wife!
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+With liver burning hot. Prevent, or go thou,
+FORD
+3
+ANNE
+RUGBY
+PAGE
+What name, sir?
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+The horn, I say. Farewell.
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+The horn, I say. Farewell.
+    Take heed, have open eye, for thieves do foot by night;
+    Take heed, ere summer comes, or cuckoo birds do sing.
+    Away, Sir Corporal Nym.
+    Believe it, Page; he speaks sense.               Exit PISTOL
+FORD
+3
+ANNE
+RUGBY
+PAGE
+ [Aside]  I will be patient; I will find out this.
+NYM
+3
+ANNE
+RUGBY
+PAGE
+ [To PAGE]  And this is true; I like not the humour of
+NYM
+3
+ANNE
+RUGBY
+PAGE
+ [To PAGE]  And this is true; I like not the humour of
+    lying. He hath wronged me in some humours; I should
+    have borne the humour'd letter to her; but I have a sword,
+    and it shall bite upon my necessity. He loves your wife;
+    there's the short and the long.
+    My name is Corporal Nym; I speak, and I avouch;
+    'Tis true. My name is Nym, and Falstaff loves your wife.
+    Adieu! I love not the humour of bread and cheese; and
+    there's the humour of it. Adieu.                    Exit Nym
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+'The humour of it,' quoth 'a! Here's a fellow frights
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I will seek out Falstaff.
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+I never heard such a drawling, affecting rogue.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+If I do find it-well.
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+I will not believe such a Cataian though the priest o'
+FORD
+3
+ANNE
+RUGBY
+PAGE
+'Twas a good sensible fellow. Well.
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+How now, Meg!
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Whither go you, George? Hark you.
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. How now, sweet Frank, why art thou melancholy?
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I melancholy! I am not melancholy. Get you home;
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD. Faith, thou hast some crotchets in thy head now.
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Have with you. You'll come to dinner, George?
+MRS
+3
+ANNE
+RUGBY
+PAGE
+FORD.  [Aside to MRS. PAGE]  Trust me, I thought on
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. You are come to see my daughter Anne?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Ay, forsooth; and, I pray, how does good Mistress Anne?
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Go in with us and see; we have an hour's talk
+MRS
+3
+ANNE
+RUGBY
+PAGE
+PAGE. Go in with us and see; we have an hour's talk
+    with you.           Exeunt MISTRESS PAGE, MISTRESS FORD, and
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+How now, Master Ford!
+FORD
+3
+ANNE
+RUGBY
+PAGE
+You heard what this knave told me, did you not?
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Yes; and you heard what the other told me?
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Do you think there is truth in them?
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Hang 'em, slaves! I do not think the knight would offer it;
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Were they his men?
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Marry, were they.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I like it never the better for that. Does he lie at the
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Ay, marry, does he. If he should intend this voyage
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I do not misdoubt my wife; but I would be loath to
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Look where my ranting host of the Garter comes.
+HOST
+3
+ANNE
+RUGBY
+PAGE
+How now, bully rook! Thou'rt a gentleman.  [To
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+I follow, mine host, I follow. Good even and
+HOST
+3
+ANNE
+RUGBY
+PAGE
+Tell him, Cavaleiro Justice; tell him, bully rook.
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+Sir, there is a fray to be fought between Sir Hugh
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Good mine host o' th' Garter, a word with you.
+HOST
+3
+ANNE
+RUGBY
+PAGE
+What say'st thou, my bully rook?         [They go aside]
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+ [To PAGE] Will you go with us to behold it? My
+HOST
+3
+ANNE
+RUGBY
+PAGE
+Hast thou no suit against my knight, my guest-cavaleiro.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+None, I protest; but I'll give you a pottle of burnt
+HOST
+3
+ANNE
+RUGBY
+PAGE
+My hand, bully; thou shalt have egress and regress-
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+Have with you, mine host.
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+I have heard the Frenchman hath good skill in his
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+Tut, sir, I could have told you more. In these
+HOST
+3
+ANNE
+RUGBY
+PAGE
+Here, boys, here, here! Shall we wag?
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Have with you. I had rather hear them scold than
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Have with you. I had rather hear them scold than
+    fight.                                   Exeunt all but FORD
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Though Page be a secure fool, and stands so firmly on
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+I will not lend thee a penny.
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+I will retort the sum in equipage.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Not a penny.
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+Why, then the world's mine oyster. Which I with
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Not a penny. I have been content, sir, you should
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+Didst not thou share? Hadst thou not fifteen pence?
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Reason, you rogue, reason. Think'st thou I'll
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+I do relent; what would thou more of man?
+ROBIN
+3
+ANNE
+RUGBY
+PAGE
+Sir, here's a woman would speak with you.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Let her approach.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Give your worship good morrow.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Good morrow, good wife.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Not so, an't please your worship.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Good maid, then.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+I'll be sworn;
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+I do believe the swearer. What with me?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Shall I vouchsafe your worship a word or two?
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Two thousand, fair woman; and I'll vouchsafe
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+There is one Mistress Ford, sir-I pray, come a little
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Well, on: Mistress Ford, you say-
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Your worship says very true. I pray your worship
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+I warrant thee nobody hears-mine own people,
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Are they so? God bless them, and make them his
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Well; Mistress Ford, what of her?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Why, sir, she's a good creature. Lord, Lord, your
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Mistress Ford; come, Mistress Ford-
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Marry, this is the short and the long of it: you
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+But what says she to me? Be brief, my good she-
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Marry, she hath receiv'd your letter; for the
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Ten and eleven?
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Ay, forsooth; and then you may come and see
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Ten and eleven. Woman, commend me to her; I
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Why, you say well. But I have another messenger
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Not I, I assure thee; setting the attraction of my
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Blessing on your heart for 't!
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+But, I pray thee, tell me this: has Ford's wife and
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+That were a jest indeed! They have not so little
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Why, I will.
+QUICKLY
+3
+ANNE
+RUGBY
+PAGE
+Nay, but do so then; and, look you, he may come
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Fare thee well; commend me to them both.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Fare thee well; commend me to them both.
+    There's my purse; I am yet thy debtor. Boy, go along with
+    this woman.  [Exeunt QUICKLY and ROBIN]  This news
+PISTOL
+3
+ANNE
+RUGBY
+PAGE
+ [Aside]  This punk is one of Cupid's carriers;
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Say'st thou so, old Jack; go thy ways; I'll make
+BARDOLPH
+3
+ANNE
+RUGBY
+PAGE
+Sir John, there's one Master Brook below would
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Brook is his name?
+BARDOLPH
+3
+ANNE
+RUGBY
+PAGE
+Ay, sir.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Call him in.  [Exit BARDOLPH]  Such Brooks are
+FALSTAFF
+4
+BARDOLPH
+ANNE
+RUGBY
+PAGE
+Call him in.  [Exit BARDOLPH]  Such Brooks are
+    welcome to me, that o'erflows such liquor. Ah, ha! Mistress
+    Ford and Mistress Page, have I encompass'd you? Go to;
+    via!
+FORD
+4
+BARDOLPH
+ANNE
+RUGBY
+PAGE
+Bless you, sir!
+FALSTAFF
+4
+BARDOLPH
+ANNE
+RUGBY
+PAGE
+And you, sir! Would you speak with me?
+FORD
+4
+BARDOLPH
+ANNE
+RUGBY
+PAGE
+I make bold to press with so little preparation upon
+FALSTAFF
+4
+BARDOLPH
+ANNE
+RUGBY
+PAGE
+You're welcome. What's your will? Give us leave,
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+You're welcome. What's your will? Give us leave,
+    drawer.                                        Exit BARDOLPH
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Sir, I am a gentleman that have spent much; my name
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Good Master Brook, I desire more acquaintance
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Good Sir John, I sue for yours-not to charge you; for I
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Money is a good soldier, sir, and will on.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Troth, and I have a bag of money here troubles me; if
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Sir, I know not how I may deserve to be your
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I will tell you, sir, if you will give me the hearing.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Speak, good Master Brook; I shall be glad to be
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Sir, I hear you are a scholar-I will be brief with you
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Very well, sir; proceed.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+There is a gentlewoman in this town, her husband's
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Well, sir.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I have long lov'd her, and, I protest to you, bestowed
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Have you receiv'd no promise of satisfaction at
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Never.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Have you importun'd her to such a purpose?
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Never.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Like a fair house built on another man's ground; so
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+To what purpose have you unfolded this to me?
+FORD
+3
+ANNE
+RUGBY
+PAGE
+When I have told you that, I have told you all. Some
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+O, sir!
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Believe it, for you know it. There is money; spend it,
+FORD
+3
+ANNE
+RUGBY
+PAGE
+O, understand my drift. She dwells so securely on the
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Master Brook, I will first make bold with your
+FORD
+3
+ANNE
+RUGBY
+PAGE
+O good sir!
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+I say you shall.
+FORD
+3
+ANNE
+RUGBY
+PAGE
+Want no money, Sir John; you shall want none.
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Want no Mistress Ford, Master Brook; you shall
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I am blest in your acquaintance. Do you know Ford,
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Hang him, poor cuckoldly knave! I know him
+FORD
+3
+ANNE
+RUGBY
+PAGE
+I would you knew Ford, sir, that you might avoid him
+FALSTAFF
+3
+ANNE
+RUGBY
+PAGE
+Hang him, mechanical salt-butter rogue! I will
+FORD
+3
+ANNE
+RUGBY
+PAGE
+What a damn'd Epicurean rascal is this! My heart is
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Jack Rugby!
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+Sir?
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Vat is de clock, Jack?
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+'Tis past the hour, sir, that Sir Hugh promis'd to
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+By gar, he has save his soul dat he is no come; he has
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+He is wise, sir; he knew your worship would kill
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+By gar, de herring is no dead so as I vill kill him. Take
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+Alas, sir, I cannot fence!
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Villainy, take your rapier.
+RUGBY
+3
+ANNE
+RUGBY
+PAGE
+Forbear; here's company.
+HOST
+3
+ANNE
+RUGBY
+PAGE
+Bless thee, bully doctor!
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+Save you, Master Doctor Caius!
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Now, good Master Doctor!
+SLENDER
+3
+ANNE
+RUGBY
+PAGE
+Give you good morrow, sir.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Vat be all you, one, two, tree, four, come for?
+HOST
+3
+ANNE
+RUGBY
+PAGE
+To see thee fight, to see thee foin, to see thee traverse;
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+By gar, he is de coward Jack priest of de world; he is
+HOST
+3
+ANNE
+RUGBY
+PAGE
+Thou art a Castalion-King-Urinal. Hector of Greece,
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+I pray you, bear witness that me have stay six or
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+He is the wiser man, Master Doctor: he is a curer
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+Master Shallow, you have yourself been a great fighter,
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+Bodykins, Master Page, though I now be old, and
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+'Tis true, Master Shallow.
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+It will be found so, Master Page. Master Doctor
+HOST
+3
+ANNE
+RUGBY
+PAGE
+Pardon, Guest Justice. A word, Mounseur Mockwater.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Mock-vater! Vat is dat?
+HOST
+3
+ANNE
+RUGBY
+PAGE
+Mockwater, in our English tongue, is valour, bully.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+By gar, then I have as much mockvater as de Englishman.
+HOST
+3
+ANNE
+RUGBY
+PAGE
+He will clapper-claw thee tightly, bully.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Clapper-de-claw! Vat is dat?
+HOST
+3
+ANNE
+RUGBY
+PAGE
+That is, he will make thee amends.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+By gar, me do look he shall clapper-de-claw me; for,
+HOST
+3
+ANNE
+RUGBY
+PAGE
+And I will provoke him to't, or let him wag.
+CAIUS
+3
+ANNE
+RUGBY
+PAGE
+Me tank you for dat.
+HOST
+3
+ANNE
+RUGBY
+PAGE
+And, moreover, bully-but first:  [Aside to the others]
+PAGE
+3
+ANNE
+RUGBY
+PAGE
+ [Aside]  Sir Hugh is there, is he?
+HOST
+3
+ANNE
+RUGBY
+PAGE
+ [Aside]  He is there. See what humour he is in; and
+SHALLOW
+3
+ANNE
+RUGBY
+PAGE
+ [Aside]  We will do it.
+SHALLOW
+2
+ANNE
+RUGBY
+ [Aside]  We will do it.
+                               Exeunt PAGE, SHALLOW, and SLENDER
+CAIUS
+2
+ANNE
+RUGBY
+By gar, me vill kill de priest; for he speak for a jack-
+HOST
+2
+ANNE
+RUGBY
+Let him die. Sheathe thy impatience; throw cold water
+CAIUS
+2
+ANNE
+RUGBY
+By gar, me dank you vor dat; by gar, I love you; and
+HOST
+2
+ANNE
+RUGBY
+For the which I will be thy adversary toward Anne
+CAIUS
+2
+ANNE
+RUGBY
+By gar, 'tis good; vell said.
+HOST
+2
+ANNE
+RUGBY
+Let us wag, then.
+CAIUS
+2
+ANNE
+RUGBY
+Come at my heels, Jack Rugby.                    Exeunt
+EVANS
+2
+ANNE
+RUGBY
+I pray you now, good Master Slender's serving-man,
+SIMPLE
+2
+ANNE
+RUGBY
+Marry, sir, the pittie-ward, the park-ward; every
+EVANS
+2
+ANNE
+RUGBY
+I most fehemently desire you you will also look that
+SIMPLE
+2
+ANNE
+RUGBY
+I will, Sir.                                      Exit
+EVANS
+2
+ANNE
+RUGBY
+Pless my soul, how full of chollors I am, and trempling
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+Pless my soul, how full of chollors I am, and trempling
+    of mind! I shall be glad if he have deceived me. How
+    melancholies I am! I will knog his urinals about his knave's
+    costard when I have goot opportunities for the ork. Pless
+    my soul!                                             [Sings]
+    To shallow rivers, to whose falls
+    Melodious birds sings madrigals;
+    There will we make our peds of roses,
+    And a thousand fragrant posies.
+    To shallow-
+    Mercy on me! I have a great dispositions to cry.     [Sings]
+    Melodious birds sing madrigals-
+    Whenas I sat in Pabylon-
+    And a thousand vagram posies.
+    To shallow, etc.
+SIMPLE
+3
+SIMPLE
+ANNE
+RUGBY
+Yonder he is, coming this way, Sir Hugh.
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+He's welcome.                                   [Sings]
+SIMPLE
+3
+SIMPLE
+ANNE
+RUGBY
+No weapons, sir. There comes my master, Master
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+Pray you give me my gown; or else keep it in your
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+How now, Master Parson! Good morrow, good
+SLENDER
+3
+SIMPLE
+ANNE
+RUGBY
+ [Aside]  Ah, sweet Anne Page!
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+Save you, good Sir Hugh!
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+Pless you from his mercy sake, all of you!
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+What, the sword and the word! Do you study
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+And youthful still, in your doublet and hose, this raw
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+There is reasons and causes for it.
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+We are come to you to do a good office, Master
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+Fery well; what is it?
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+Yonder is a most reverend gentleman, who, belike having
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+I have lived fourscore years and upward; I never
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+What is he?
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+I think you know him: Master Doctor Caius, the
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+Got's will and his passion of my heart! I had as lief
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+Why?
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+He has no more knowledge in Hibocrates and
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+I warrant you, he's the man should fight with him.
+SLENDER
+3
+SIMPLE
+ANNE
+RUGBY
+ [Aside]  O sweet Anne Page!
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+It appears so, by his weapons. Keep them asunder;
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+Nay, good Master Parson, keep in your weapon.
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+So do you, good Master Doctor.
+HOST
+3
+SIMPLE
+ANNE
+RUGBY
+Disarm them, and let them question; let them keep
+CAIUS
+3
+SIMPLE
+ANNE
+RUGBY
+I pray you, let-a me speak a word with your ear.
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+ [Aside to CAIUS]  Pray you use your patience; in
+CAIUS
+3
+SIMPLE
+ANNE
+RUGBY
+By gar, you are de coward, de Jack dog, John ape.
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+ [Aside to CAIUS]  Pray you, let us not be
+CAIUS
+3
+SIMPLE
+ANNE
+RUGBY
+Diable! Jack Rugby-mine Host de Jarteer-have I
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+As I am a Christians soul, now, look you, this is the
+HOST
+3
+SIMPLE
+ANNE
+RUGBY
+Peace, I say, Gallia and Gaul, French and Welsh,
+CAIUS
+3
+SIMPLE
+ANNE
+RUGBY
+Ay, dat is very good! excellent!
+HOST
+3
+SIMPLE
+ANNE
+RUGBY
+Peace, I say. Hear mine host of the Garter. Am I
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+Trust me, a mad host. Follow, gentlemen, follow.
+SLENDER
+3
+SIMPLE
+ANNE
+RUGBY
+ [Aside]  O sweet Anne Page!
+SLENDER
+3
+SIMPLE
+ANNE
+RUGBY
+ [Aside]  O sweet Anne Page!
+                                  Exeunt all but CAIUS and EVANS
+CAIUS
+3
+SIMPLE
+ANNE
+RUGBY
+Ha, do I perceive dat? Have you make-a de sot of us,
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+This is well; he has made us his vlouting-stog. I
+CAIUS
+3
+SIMPLE
+ANNE
+RUGBY
+By gar, with all my heart. He promise to bring me
+EVANS
+3
+SIMPLE
+ANNE
+RUGBY
+Well, I will smite his noddles. Pray you follow.
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. Nay, keep your way, little gallant; you were
+ROBIN
+3
+SIMPLE
+ANNE
+RUGBY
+I had rather, forsooth, go before you like a man than
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. O, you are a flattering boy; now I see you'll be a
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+Well met, Mistress Page. Whither go you?
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. Truly, sir, to see your wife. Is she at home?
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+Ay; and as idle as she may hang together, for want of
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. Be sure of that-two other husbands.
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+Where had you this pretty weathercock?
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. I cannot tell what the dickens his name is my
+ROBIN
+3
+SIMPLE
+ANNE
+RUGBY
+Sir John Falstaff.
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+Sir John Falstaff!
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. He, he; I can never hit on's name. There is such
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+Indeed she is.
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. By your leave, sir. I am sick till I see her.
+MRS
+3
+SIMPLE
+ANNE
+RUGBY
+PAGE. By your leave, sir. I am sick till I see her.
+                                      Exeunt MRS. PAGE and ROBIN
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+Has Page any brains? Hath he any eyes? Hath he any
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+Trust me, a good knot; I have good cheer at home,
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+I must excuse myself, Master Ford.
+SLENDER
+3
+SIMPLE
+ANNE
+RUGBY
+And so must I, sir; we have appointed to dine with
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+We have linger'd about a match between Anne
+SLENDER
+3
+SIMPLE
+ANNE
+RUGBY
+I hope I have your good will, father Page.
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+You have, Master Slender; I stand wholly for you. But
+CAIUS
+3
+SIMPLE
+ANNE
+RUGBY
+Ay, be-gar; and de maid is love-a me; my nursh-a
+HOST
+3
+SIMPLE
+ANNE
+RUGBY
+What say you to young Master Fenton? He capers,
+PAGE
+3
+SIMPLE
+ANNE
+RUGBY
+Not by my consent, I promise you. The gentleman is
+FORD
+3
+SIMPLE
+ANNE
+RUGBY
+I beseech you, heartily, some of you go home with me
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+Well, fare you well; we shall have the freer
+SHALLOW
+3
+SIMPLE
+ANNE
+RUGBY
+Well, fare you well; we shall have the freer
+    wooing at Master Page's.          Exeunt SHALLOW and SLENDER
+CAIUS
+2
+SIMPLE
+ANNE
+Go home, John Rugby; I come anon.            Exit RUGBY
+HOST
+2
+SIMPLE
+ANNE
+Farewell, my hearts; I will to my honest knight
+HOST
+2
+SIMPLE
+ANNE
+Farewell, my hearts; I will to my honest knight
+    Falstaff, and drink canary with him.               Exit HOST
+FORD
+2
+SIMPLE
+ANNE
+ [Aside]  I think I shall drink in pipe-wine first with
+ALL
+2
+SIMPLE
+ANNE
+Have with you to see this monster.                 Exeunt
+MRS
+2
+SIMPLE
+ANNE
+FORD. What, John! what, Robert!
+MRS
+2
+SIMPLE
+ANNE
+PAGE. Quickly, quickly! Is the buck-basket-
+MRS
+2
+SIMPLE
+ANNE
+FORD. I warrant. What, Robin, I say!
+MRS
+2
+SIMPLE
+ANNE
+PAGE. Come, come, come.
+MRS
+2
+SIMPLE
+ANNE
+FORD. Here, set it down.
+MRS
+2
+SIMPLE
+ANNE
+PAGE. Give your men the charge; we must be brief.
+MRS
+2
+SIMPLE
+ANNE
+FORD. Marry, as I told you before, John and Robert, be
+Mrs
+2
+SIMPLE
+ANNE
+PAGE. You will do it?
+MRS
+2
+SIMPLE
+ANNE
+FORD. I ha' told them over and over; they lack no
+MRS
+2
+SIMPLE
+ANNE
+FORD. I ha' told them over and over; they lack no
+    direction. Be gone, and come when you are call'd.
+                                               Exeunt SERVANTS
+MRS
+2
+SIMPLE
+ANNE
+PAGE. Here comes little Robin.
+MRS
+2
+SIMPLE
+ANNE
+FORD. How now, my eyas-musket, what news with
+ROBIN
+2
+SIMPLE
+ANNE
+My Master Sir John is come in at your back-door,
+MRS
+2
+SIMPLE
+ANNE
+PAGE. You little Jack-a-Lent, have you been true to us?
+ROBIN
+2
+SIMPLE
+ANNE
+Ay, I'll be sworn. My master knows not of your
+MRS
+2
+SIMPLE
+ANNE
+PAGE. Thou 'rt a good boy; this secrecy of thine shall
+MRS
+2
+SIMPLE
+ANNE
+FORD. Do so. Go tell thy master I am alone.  [Exit
+MRS
+2
+SIMPLE
+ANNE
+PAGE. I warrant thee; if I do not act it, hiss me.
+MRS
+2
+SIMPLE
+ANNE
+PAGE. I warrant thee; if I do not act it, hiss me.
+                                                Exit MRS. PAGE
+MRS
+2
+SIMPLE
+ANNE
+FORD. Go to, then; we'll use this unwholesome
+FALSTAFF
+2
+SIMPLE
+ANNE
+Have I caught thee, my heavenly jewel?
+MRS
+2
+SIMPLE
+ANNE
+FORD. O sweet Sir John!
+FALSTAFF
+2
+SIMPLE
+ANNE
+Mistress Ford, I cannot cog, I cannot prate,
+MRS
+2
+SIMPLE
+ANNE
+FORD. I your lady, Sir John? Alas, I should be a pitiful
+FALSTAFF
+2
+SIMPLE
+ANNE
+Let the court of France show me such another. I
+MRS
+2
+SIMPLE
+ANNE
+FORD. A plain kerchief, Sir John; my brows become
+FALSTAFF
+2
+SIMPLE
+ANNE
+By the Lord, thou art a tyrant to say so; thou
+MRS
+2
+SIMPLE
+ANNE
+FORD. Believe me, there's no such thing in me.
+FALSTAFF
+2
+SIMPLE
+ANNE
+What made me love thee? Let that persuade thee
+MRS
+2
+SIMPLE
+ANNE
+FORD. Do not betray me, sir; I fear you love Mistress
+FALSTAFF
+2
+SIMPLE
+ANNE
+Thou mightst as well say I love to walk by the
+MRS
+2
+SIMPLE
+ANNE
+FORD. Well, heaven knows how I love you; and you
+FALSTAFF
+2
+SIMPLE
+ANNE
+Keep in that mind; I'll deserve it.
+MRS
+2
+SIMPLE
+ANNE
+FORD. Nay, I must tell you, so you do; or else I could
+ROBIN
+2
+SIMPLE
+ANNE
+ [Within]  Mistress Ford, Mistress Ford! here's
+FALSTAFF
+2
+SIMPLE
+ANNE
+She shall not see me; I will ensconce me behind
+MRS
+2
+SIMPLE
+ANNE
+FORD. Pray you, do so; she's a very tattling woman.
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. Pray you, do so; she's a very tattling woman.
+                                      [FALSTAFF hides himself]
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. O Mistress Ford, what have you done? You're
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. What's the matter, good Mistress Page?
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. O well-a-day, Mistress Ford, having an honest
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. What cause of suspicion?
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. What cause of suspicion? Out upon you, how
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. Why, alas, what's the matter?
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. Your husband's coming hither, woman, with all
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. 'Tis not so, I hope.
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. Pray heaven it be not so that you have such a
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. What shall I do? There is a gentleman, my dear
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. For shame, never stand 'you had rather' and 'you
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. He's too big to go in there. What shall I do?
+FALSTAFF
+3
+SIMPLE
+ANNE
+PAGE
+ [Coming forward]  Let me see 't, let me see 't. O,
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. What, Sir John Falstaff!      [Aside to FALSTAFF]
+FALSTAFF
+3
+SIMPLE
+ANNE
+PAGE
+ [Aside to MRS. PAGE]  I love thee and none but
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. Help to cover your master, boy. Call your men,
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. What, John! Robert! John!                Exit ROBIN
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. What, John! Robert! John!                Exit ROBIN
+FORD
+3
+SIMPLE
+ANNE
+PAGE
+Pray you come near. If I suspect without cause, why
+SERVANT
+3
+SIMPLE
+ANNE
+PAGE
+To the laundress, forsooth.
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. Why, what have you to do whither they bear it?
+FORD
+3
+SIMPLE
+ANNE
+PAGE
+Buck? I would I could wash myself of the buck!
+FORD
+3
+SIMPLE
+ANNE
+PAGE
+Buck? I would I could wash myself of the buck!
+    Buck, buck, buck! ay, buck! I warrant you, buck; and of
+    the season too, it shall appear.  [Exeunt SERVANTS with
+PAGE
+3
+SIMPLE
+ANNE
+PAGE
+Good Master Ford, be contented; you wrong yourself
+FORD
+3
+SIMPLE
+ANNE
+PAGE
+True, Master Page. Up, gentlemen, you shall see sport
+EVANS
+3
+SIMPLE
+ANNE
+PAGE
+This is fery fantastical humours and jealousies.
+CAIUS
+3
+SIMPLE
+ANNE
+PAGE
+By gar, 'tis no the fashion of France; it is not jealous
+PAGE
+3
+SIMPLE
+ANNE
+PAGE
+Nay, follow him, gentlemen; see the issue of his
+PAGE
+3
+SIMPLE
+ANNE
+PAGE
+Nay, follow him, gentlemen; see the issue of his
+    search.                        Exeunt EVANS, PAGE, and CAIUS
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. Is there not a double excellency in this?
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. I know not which pleases me better, that my
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. What a taking was he in when your husband
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. I am half afraid he will have need of washing; so
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. Hang him, dishonest rascal! I would all of the
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. I think my husband hath some special suspicion
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. I Will lay a plot to try that, and we will yet have
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+FORD. Shall we send that foolish carrion, Mistress
+MRS
+3
+SIMPLE
+ANNE
+PAGE
+PAGE. We will do it; let him be sent for to-morrow
+MRS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+PAGE. We will do it; let him be sent for to-morrow
+    eight o'clock, to have amends.
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+I cannot find him; may be the knave bragg'd of that
+MRS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+PAGE.  [Aside to MRS. FORD]  Heard you that?
+MRS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+FORD. You use me well, Master Ford, do you?
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Ay, I do so.
+MRS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+FORD. Heaven make you better than your thoughts!
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Amen.
+MRS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+PAGE. You do yourself mighty wrong, Master Ford.
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Ay, ay; I must bear it.
+EVANS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+If there be any pody in the house, and in the
+CAIUS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Be gar, nor I too; there is no bodies.
+PAGE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Fie, fie, Master Ford, are you not asham'd? What
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+'Tis my fault, Master Page; I suffer for it.
+EVANS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+You suffer for a pad conscience. Your wife is as
+CAIUS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+By gar, I see 'tis an honest woman.
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Well, I promis'd you a dinner. Come, come, walk in
+PAGE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Let's go in, gentlemen; but, trust me, we'll mock him.
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Any thing.
+EVANS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+If there is one, I shall make two in the company.
+CAIUS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+If there be one or two, I shall make-a the turd.
+FORD
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Pray you go, Master Page.
+EVANS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+I pray you now, remembrance to-morrow on the
+CAIUS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Dat is good; by gar, with all my heart.
+EVANS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+A lousy knave, to have his gibes and his mockeries!
+FENTON
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+I see I cannot get thy father's love;
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Alas, how then?
+FENTON
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Why, thou must be thyself.
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+ May be he tells you true.
+FENTON
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+No, heaven so speed me in my time to come!
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Gentle Master Fenton,
+SHALLOW
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Break their talk, Mistress Quickly; my kinsman
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+I'll make a shaft or a bolt on 't; 'slid, 'tis but
+SHALLOW
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Be not dismay'd.
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+No, she shall not dismay me. I care not for that,
+QUICKLY
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Hark ye, Master Slender would speak a word
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+I come to him.  [Aside]  This is my father's choice.
+QUICKLY
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+And how does good Master Fenton? Pray you, a
+SHALLOW
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+She's coming; to her, coz. O boy, thou hadst a
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+I had a father, Mistress Anne; my uncle can tell
+SHALLOW
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Mistress Anne, my cousin loves you.
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Ay, that I do; as well as I love any woman in
+SHALLOW
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+He will maintain you like a gentlewoman.
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Ay, that I will come cut and longtail, under the
+SHALLOW
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+He will make you a hundred and fifty pounds
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Good Master Shallow, let him woo for himself.
+SHALLOW
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Marry, I thank you for it; I thank you for that
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Now, Master Slender-
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Now, good Mistress Anne-
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+What is your will?
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+My Will! 'Od's heartlings, that's a pretty jest
+ANNE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+I mean, Master Slender, what would you with me?
+SLENDER
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Truly, for mine own part I would little or nothing
+PAGE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Now, Master Slender! Love him, daughter Anne-
+FENTON
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Nay, Master Page, be not impatient.
+MRS
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+PAGE. Good Master Fenton, come not to my child.
+PAGE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+She is no match for you.
+FENTON
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+Sir, will you hear me?
+PAGE
+4
+SIMPLE
+ANNE
+PAGE
+FORD
+No, good Master Fenton.
+PAGE
+3
+SIMPLE
+ANNE
+FORD
+No, good Master Fenton.
+    Come, Master Shallow; come, son Slender; in.
+    Knowing my mind, you wrong me, Master Fenton.
+                               Exeunt PAGE, SHALLOW, and SLENDER
+QUICKLY
+3
+SIMPLE
+ANNE
+FORD
+Speak to Mistress Page.
+FENTON
+3
+SIMPLE
+ANNE
+FORD
+Good Mistress Page, for that I love your daughter
+ANNE
+3
+SIMPLE
+ANNE
+FORD
+Good mother, do not marry me to yond fool.
+MRS
+3
+SIMPLE
+ANNE
+FORD
+PAGE. I mean it not; I seek you a better husband.
+QUICKLY
+3
+SIMPLE
+ANNE
+FORD
+That's my master, Master Doctor.
+ANNE
+3
+SIMPLE
+ANNE
+FORD
+Alas, I had rather be set quick i' th' earth.
+MRS
+3
+SIMPLE
+ANNE
+FORD
+PAGE. Come, trouble not yourself. Good Master
+FENTON
+3
+SIMPLE
+ANNE
+FORD
+Farewell, gentle mistress; farewell, Nan.
+FENTON
+3
+SIMPLE
+ANNE
+FORD
+Farewell, gentle mistress; farewell, Nan.
+                                       Exeunt MRS. PAGE and ANNE
+QUICKLY
+3
+SIMPLE
+ANNE
+FORD
+This is my doing now: 'Nay,' said I 'will you cast
+FENTON
+3
+SIMPLE
+ANNE
+FORD
+I thank thee; and I pray thee, once to-night
+QUICKLY
+3
+SIMPLE
+ANNE
+FORD
+Now Heaven send thee good fortune!  [Exit
+FALSTAFF
+3
+SIMPLE
+ANNE
+FORD
+Bardolph, I say!
+BARDOLPH
+3
+SIMPLE
+ANNE
+FORD
+Here, sir.
+FALSTAFF
+3
+SIMPLE
+ANNE
+FORD
+Go fetch me a quart of sack; put a toast in 't.
+FALSTAFF
+3
+SIMPLE
+ANNE
+FORD
+Go fetch me a quart of sack; put a toast in 't.
+                                                   Exit BARDOLPH
+FALSTAFF
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+Go fetch me a quart of sack; put a toast in 't.
+                                                   Exit BARDOLPH
+    Have I liv'd to be carried in a basket, like a barrow of
+    butcher's offal, and to be thrown in the Thames? Well, if
+    I be serv'd such another trick, I'll have my brains ta'en out
+    and butter'd, and give them to a dog for a new-year's gift.
+    The rogues slighted me into the river with as little remorse
+    as they would have drown'd a blind bitch's puppies, fifteen
+    i' th' litter; and you may know by my size that I have
+    a kind of alacrity in sinking; if the bottom were as deep as
+    hell I should down. I had been drown'd but that the shore
+    was shelvy and shallow-a death that I abhor; for the water
+    swells a man; and what a thing should I have been when
+    had been swell'd! I should have been a mountain of
+    mummy.
+BARDOLPH
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+Here's Mistress Quickly, sir, to speak with you
+FALSTAFF
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+Come, let me pour in some sack to the Thames
+BARDOLPH
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+Come in, woman.
+QUICKLY
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+By your leave; I cry you mercy. Give your
+FALSTAFF
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+Take away these chalices. Go, brew me a pottle
+BARDOLPH
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+With eggs, sir?
+FALSTAFF
+4
+SIMPLE
+FORD
+BARDOLPH
+ANNE
+Simple of itself; I'll no pullet-sperm in my
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Simple of itself; I'll no pullet-sperm in my
+    brewage.  [Exit BARDOLPH]  How now!
+QUICKLY
+3
+SIMPLE
+FORD
+ANNE
+Marry, sir, I come to your worship from Mistress
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Mistress Ford! I have had ford enough; I was
+QUICKLY
+3
+SIMPLE
+FORD
+ANNE
+Alas the day, good heart, that was not her fault!
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+So did I mine, to build upon a foolish woman's
+QUICKLY
+3
+SIMPLE
+FORD
+ANNE
+Well, she laments, sir, for it, that it would yearn
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Well, I Will visit her. Tell her so; and bid her
+QUICKLY
+3
+SIMPLE
+FORD
+ANNE
+I will tell her.
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Do so. Between nine and ten, say'st thou?
+QUICKLY
+3
+SIMPLE
+FORD
+ANNE
+Eight and nine, sir.
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Well, be gone; I will not miss her.
+QUICKLY
+3
+SIMPLE
+FORD
+ANNE
+Peace be with you, sir.                          Exit
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+I marvel I hear not of Master Brook; he sent me
+FORD
+3
+SIMPLE
+FORD
+ANNE
+Bless you, sir!
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Now, Master Brook, you come to know what
+FORD
+3
+SIMPLE
+FORD
+ANNE
+That, indeed, Sir John, is my business.
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Master Brook, I will not lie to you; I was at her
+FORD
+3
+SIMPLE
+FORD
+ANNE
+And sped you, sir?
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Very ill-favouredly, Master Brook.
+FORD
+3
+SIMPLE
+FORD
+ANNE
+How so, sir; did she change her determination?
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+No. Master Brook; but the peaking cornuto her
+FORD
+3
+SIMPLE
+FORD
+ANNE
+What, while you were there?
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+While I was there.
+FORD
+3
+SIMPLE
+FORD
+ANNE
+And did he search for you, and could not find you?
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+You shall hear. As good luck would have it, comes
+FORD
+3
+SIMPLE
+FORD
+ANNE
+A buck-basket!
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+By the Lord, a buck-basket! Ramm'd me in with
+FORD
+3
+SIMPLE
+FORD
+ANNE
+And how long lay you there?
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Nay, you shall hear, Master Brook, what I have
+FORD
+3
+SIMPLE
+FORD
+ANNE
+In good sadness, sir, I am sorry that for my sake you
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Master Brook, I will be thrown into Etna, as I
+FORD
+3
+SIMPLE
+FORD
+ANNE
+'Tis past eight already, sir.
+FALSTAFF
+3
+SIMPLE
+FORD
+ANNE
+Is it? I Will then address me to my appointment.
+FORD
+3
+SIMPLE
+FORD
+ANNE
+Hum! ha! Is this a vision? Is this a dream? Do I sleep?
+MRS
+0
+PAGE. Is he at Master Ford's already, think'st thou?
+QUICKLY
+0
+Sure he is by this; or will be presently; but truly
+MRS
+0
+PAGE. I'll be with her by and by; I'll but bring my
+EVANS
+0
+No; Master Slender is let the boys leave to play.
+QUICKLY
+0
+Blessing of his heart!
+MRS
+0
+PAGE. Sir Hugh, my husband says my son profits
+EVANS
+0
+Come hither, William; hold up your head; come.
+MRS
+0
+PAGE. Come on, sirrah; hold up your head; answer your
+EVANS
+0
+William, how many numbers is in nouns?
+WILLIAM
+0
+Two.
+QUICKLY
+0
+Truly, I thought there had been one number
+EVANS
+0
+Peace your tattlings. What is 'fair,' William?
+WILLIAM
+0
+Pulcher.
+QUICKLY
+0
+Polecats! There are fairer things than polecats,
+EVANS
+0
+You are a very simplicity oman; I pray you, peace.
+WILLIAM
+0
+A stone.
+EVANS
+0
+And what is 'a stone,' William?
+WILLIAM
+0
+A pebble.
+EVANS
+0
+No, it is 'lapis'; I pray you remember in your prain.
+WILLIAM
+0
+Lapis.
+EVANS
+0
+That is a good William. What is he, William, that
+WILLIAM
+0
+Articles are borrowed of the pronoun, and be
+EVANS
+0
+Nominativo, hig, hag, hog; pray you, mark: genitivo,
+WILLIAM
+0
+Accusativo, hinc.
+EVANS
+0
+I pray you, have your remembrance, child.
+QUICKLY
+0
+'Hang-hog' is Latin for bacon, I warrant you.
+EVANS
+0
+Leave your prabbles, oman. What is the focative
+WILLIAM
+0
+O-vocativo, O.
+EVANS
+0
+Remember, William: focative is caret.
+QUICKLY
+0
+And that's a good root.
+EVANS
+0
+Oman, forbear.
+MRS
+0
+PAGE. Peace.
+EVANS
+0
+What is your genitive case plural, William?
+WILLIAM
+0
+Genitive case?
+EVANS
+0
+Ay.
+WILLIAM
+0
+Genitive: horum, harum, horum.
+QUICKLY
+0
+Vengeance of Jenny's case; fie on her! Never
+EVANS
+0
+For shame, oman.
+QUICKLY
+0
+YOU do ill to teach the child such words. He
+EVANS
+0
+Oman, art thou lunatics? Hast thou no understandings
+MRS
+0
+PAGE. Prithee hold thy peace.
+EVANS
+0
+Show me now, William, some declensions of your
+WILLIAM
+0
+Forsooth, I have forgot.
+EVANS
+0
+It is qui, quae, quod; if you forget your qui's, your
+MRS
+0
+PAGE. He is a better scholar than I thought he was.
+EVANS
+0
+He is a good sprag memory. Farewell, Mistress Page.
+MRS
+0
+PAGE. Adieu, good Sir Hugh.                 Exit SIR HUGH
+FALSTAFF
+0
+Mistress Ford, your sorrow hath eaten up my
+MRS
+0
+FORD. He's a-birding, sweet Sir John.
+MRS
+0
+PAGE.  [Within]  What hoa, gossip Ford, what hoa!
+MRS
+0
+FORD. Step into th' chamber, Sir John.      Exit FALSTAFF
+MRS
+0
+PAGE. How now, sweetheart, who's at home besides
+MRS
+0
+FORD. Why, none but mine own people.
+MRS
+0
+PAGE. Indeed?
+MRS
+0
+FORD. No, certainly.  [Aside to her]  Speak louder.
+MRS
+0
+PAGE. Truly, I am so glad you have nobody here.
+MRS
+0
+FORD. Why?
+MRS
+0
+PAGE. Why, woman, your husband is in his old lunes
+MRS
+0
+FORD. Why, does he talk of him?
+MRS
+0
+PAGE. Of none but him; and swears he was carried out,
+MRS
+0
+FORD. How near is he, Mistress Page?
+MRS
+0
+PAGE. Hard by, at street end; he will be here anon.
+MRS
+0
+FORD. I am undone: the knight is here.
+MRS
+0
+PAGE. Why, then, you are utterly sham'd, and he's but
+MRS
+0
+FORD. Which way should he go? How should I bestow
+MRS
+1
+FALSTAFF
+FORD. Which way should he go? How should I bestow
+    him? Shall I put him into the basket again?
+FALSTAFF
+1
+FALSTAFF
+No, I'll come no more i' th' basket. May I not go
+MRS
+1
+FALSTAFF
+PAGE. Alas, three of Master Ford's brothers watch the
+FALSTAFF
+1
+FALSTAFF
+What shall I do? I'll creep up into the chimney.
+MRS
+1
+FALSTAFF
+FORD. There they always use to discharge their
+MRS
+1
+FALSTAFF
+PAGE. Creep into the kiln-hole.
+FALSTAFF
+1
+FALSTAFF
+Where is it?
+MRS
+1
+FALSTAFF
+FORD. He will seek there, on my word. Neither press,
+FALSTAFF
+1
+FALSTAFF
+I'll go out then.
+MRS
+1
+FALSTAFF
+PAGE. If you go out in your own semblance, you die,
+MRS
+1
+FALSTAFF
+FORD. How might we disguise him?
+MRS
+1
+FALSTAFF
+PAGE. Alas the day, I know not! There is no woman's
+FALSTAFF
+1
+FALSTAFF
+Good hearts, devise something; any extremity
+MRS
+1
+FALSTAFF
+FORD. My Maid's aunt, the fat woman of Brainford, has
+MRS
+1
+FALSTAFF
+PAGE. On my word, it will serve him; she's as big as he
+MRS
+1
+FALSTAFF
+FORD. Go, go, sweet Sir John. Mistress Page and I will
+MRS
+1
+FALSTAFF
+PAGE. Quick, quick; we'll come dress you straight. Put
+MRS
+0
+FORD. I would my husband would meet him in this
+MRS
+0
+PAGE. Heaven guide him to thy husband's cudgel; and
+MRS
+0
+FORD. But is my husband coming?
+MRS
+0
+PAGE. Ay, in good sadness is he; and talks of the basket
+MRS
+0
+FORD. We'll try that; for I'll appoint my men to carry
+MRS
+0
+PAGE. Nay, but he'll be here presently; let's go dress
+MRS
+0
+FORD. I'll first direct my men what they shall do with
+MRS
+0
+PAGE. Hang him, dishonest varlet! we cannot misuse
+MRS
+1
+FORD
+PAGE. Hang him, dishonest varlet! we cannot misuse
+    him enough.
+    We'll leave a proof, by that which we will do,
+    Wives may be merry and yet honest too.
+    We do not act that often jest and laugh;
+    'Tis old but true: Still swine eats all the draff.      Exit
+MRS
+1
+FORD
+FORD. Go, sirs, take the basket again on your shoulders;
+FIRST SERVANT
+1
+FORD
+Come, come, take it up.
+SECOND SERVANT
+1
+FORD
+Pray heaven it be not full of knight again.
+FIRST SERVANT
+1
+FORD
+I hope not; I had lief as bear so much lead.
+FORD
+1
+FORD
+Ay, but if it prove true, Master Page, have you any
+PAGE
+1
+FORD
+Why, this passes, Master Ford; you are not to go loose
+EVANS
+1
+FORD
+Why, this is lunatics. This is mad as a mad dog.
+SHALLOW
+1
+FORD
+Indeed, Master Ford, this is not well, indeed.
+FORD
+1
+FORD
+So say I too, sir.
+MRS
+1
+FORD
+FORD. Heaven be my witness, you do, if you suspect
+FORD
+1
+FORD
+Well said, brazen-face; hold it out. Come forth, sirrah.
+PAGE
+1
+FORD
+This passes!
+MRS
+1
+FORD
+FORD. Are you not asham'd? Let the clothes alone.
+FORD
+1
+FORD
+I shall find you anon.
+EVANS
+1
+FORD
+'Tis unreasonable. Will you take up your wife's
+FORD
+1
+FORD
+Empty the basket, I say.
+MRS
+1
+FORD
+FORD. Why, man, why?
+FORD
+1
+FORD
+Master Page, as I am a man, there was one convey'd
+MRS
+1
+FORD
+FORD. If you find a man there, he shall die a flea's
+PAGE
+1
+FORD
+Here's no man.
+SHALLOW
+1
+FORD
+By my fidelity, this is not well, Master Ford; this
+EVANS
+1
+FORD
+Master Ford, you must pray, and not follow the
+FORD
+1
+FORD
+Well, he's not here I seek for.
+PAGE
+1
+FORD
+No, nor nowhere else but in your brain.
+FORD
+1
+FORD
+Help to search my house this one time. If I find not
+MRS
+1
+FORD
+FORD. What, hoa, Mistress Page! Come you and the old
+FORD
+1
+FORD
+Old woman? what old woman's that?
+MRS
+1
+FORD
+FORD. Why, it is my maid's aunt of Brainford.
+FORD
+1
+FORD
+A witch, a quean, an old cozening quean! Have I not
+MRS
+1
+FORD
+FORD. Nay, good sweet husband! Good gentlemen, let
+MRS
+2
+FALSTAFF
+FORD
+FORD. Nay, good sweet husband! Good gentlemen, let
+    him not strike the old woman.
+MRS
+2
+FALSTAFF
+FORD
+PAGE. Come, Mother Prat; come. give me your hand.
+FORD
+2
+FALSTAFF
+FORD
+I'll prat her.  [Beating him]  Out of my door, you
+FORD
+1
+FALSTAFF
+I'll prat her.  [Beating him]  Out of my door, you
+    witch, you hag, you. baggage, you polecat, you ronyon!
+    Out, out! I'll conjure you, I'll fortune-tell you.
+                                                   Exit FALSTAFF
+MRS
+1
+FALSTAFF
+PAGE. Are you not asham'd? I think you have kill'd the
+MRS
+1
+FALSTAFF
+FORD. Nay, he will do it. 'Tis a goodly credit for you.
+FORD
+1
+FALSTAFF
+Hang her, witch!
+EVANS
+1
+FALSTAFF
+By yea and no, I think the oman is a witch indeed; I
+FORD
+1
+FALSTAFF
+Will you follow, gentlemen? I beseech you follow;
+PAGE
+1
+FALSTAFF
+Let's obey his humour a little further. Come,
+PAGE
+1
+FALSTAFF
+Let's obey his humour a little further. Come,
+    gentlemen.            Exeunt all but MRS. FORD and MRS. PAGE
+MRS
+1
+FALSTAFF
+PAGE. Trust me, he beat him most pitifully.
+MRS
+1
+FALSTAFF
+FORD. Nay, by th' mass, that he did not; he beat him
+MRS
+1
+FALSTAFF
+PAGE. I'll have the cudgel hallow'd and hung o'er the
+MRS
+1
+FALSTAFF
+FORD. What think you? May we, with the warrant of
+MRS
+1
+FALSTAFF
+PAGE. The spirit of wantonness is sure scar'd out of
+MRS
+1
+FALSTAFF
+FORD. Shall we tell our husbands how we have serv'd
+MRS
+1
+FALSTAFF
+PAGE. Yes, by all means; if it be but to scrape the
+MRS
+1
+FALSTAFF
+FORD. I'll warrant they'll have him publicly sham'd;
+MRS
+1
+FALSTAFF
+PAGE. Come, to the forge with it then; shape it. I
+BARDOLPH
+1
+FALSTAFF
+Sir, the Germans desire to have three of your
+HOST
+1
+FALSTAFF
+What duke should that be comes so secretly? I hear
+BARDOLPH
+1
+FALSTAFF
+Ay, sir; I'll call them to you.
+HOST
+1
+FALSTAFF
+They shall have my horses, but I'll make them pay;
+EVANS
+1
+FALSTAFF
+'Tis one of the best discretions of a oman as ever
+PAGE
+1
+FALSTAFF
+And did he send you both these letters at an instant?
+MRS
+1
+FALSTAFF
+PAGE. Within a quarter of an hour.
+FORD
+1
+FALSTAFF
+Pardon me, wife. Henceforth, do what thou wilt;
+PAGE
+1
+FALSTAFF
+'Tis well, 'tis well; no more.
+FORD
+1
+FALSTAFF
+There is no better way than that they spoke of.
+PAGE
+1
+FALSTAFF
+How? To send him word they'll meet him in the Park
+EVANS
+1
+FALSTAFF
+You say he has been thrown in the rivers; and has
+PAGE
+1
+FALSTAFF
+So think I too.
+MRS
+1
+FALSTAFF
+FORD. Devise but how you'll use him when he comes,
+MRS
+1
+FALSTAFF
+PAGE. There is an old tale goes that Heme the Hunter,
+PAGE
+1
+FALSTAFF
+Why yet there want not many that do fear
+MRS
+1
+FALSTAFF
+FORD. Marry, this is our device-
+PAGE
+1
+FALSTAFF
+Well, let it not be doubted but he'll come,
+MRS
+1
+FALSTAFF
+PAGE. That likewise have we thought upon, and
+MRS
+1
+FALSTAFF
+FORD. And till he tell the truth,
+MRS
+1
+FALSTAFF
+PAGE. The truth being known,
+FORD
+1
+FALSTAFF
+The children must
+EVANS
+1
+FALSTAFF
+I will teach the children their behaviours; and I will
+FORD
+1
+FALSTAFF
+That will be excellent. I'll go buy them vizards.
+MRS
+1
+FALSTAFF
+PAGE. My Nan shall be the Queen of all the Fairies,
+PAGE
+1
+FALSTAFF
+That silk will I go buy.  [Aside]  And in that time
+FORD
+1
+FALSTAFF
+Nay, I'll to him again, in name of Brook;
+MRS
+1
+FALSTAFF
+PAGE. Fear not you that. Go get us properties
+EVANS
+1
+FALSTAFF
+Let us about it. It is admirable pleasures, and fery
+EVANS
+1
+FALSTAFF
+Let us about it. It is admirable pleasures, and fery
+    honest knaveries.               Exeunt PAGE, FORD, and EVANS
+MRS
+1
+FALSTAFF
+PAGE. Go, Mistress Ford.
+MRS
+1
+FALSTAFF
+PAGE. Go, Mistress Ford.
+    Send Quickly to Sir John to know his mind.
+                                                  Exit MRS. FORD
+HOST
+1
+FALSTAFF
+What wouldst thou have, boor? What, thick-skin?
+SIMPLE
+1
+FALSTAFF
+Marry, sir, I come to speak with Sir John Falstaff
+HOST
+1
+FALSTAFF
+There's his chamber, his house, his castle, his
+SIMPLE
+1
+FALSTAFF
+There's an old woman, a fat woman, gone up into
+HOST
+1
+FALSTAFF
+Ha! a fat woman? The knight may be robb'd. I'll call.
+FALSTAFF
+1
+FALSTAFF
+ [Above]  How now, mine host?
+HOST
+1
+FALSTAFF
+Here's a Bohemian-Tartar tarries the coming down of
+FALSTAFF
+1
+FALSTAFF
+There was, mine host, an old fat woman even
+SIMPLE
+1
+FALSTAFF
+Pray you, sir, was't not the wise woman of
+FALSTAFF
+1
+FALSTAFF
+Ay, marry was it, mussel-shell. What would you
+SIMPLE
+1
+FALSTAFF
+My master, sir, my Master Slender, sent to her,
+FALSTAFF
+1
+FALSTAFF
+I spake with the old woman about it.
+SIMPLE
+1
+FALSTAFF
+And what says she, I pray, sir?
+SIMPLE
+1
+FALSTAFF
+I would I could have spoken with the woman
+FALSTAFF
+1
+FALSTAFF
+What are they? Let us know.
+HOST
+1
+FALSTAFF
+Ay, come; quick.
+SIMPLE
+1
+FALSTAFF
+I may not conceal them, sir.
+FALSTAFF
+1
+FALSTAFF
+Conceal them, or thou diest.
+FALSTAFF
+1
+FALSTAFF
+'Tis, 'tis his fortune.
+SIMPLE
+1
+FALSTAFF
+What sir?
+FALSTAFF
+1
+FALSTAFF
+To have her, or no. Go; say the woman told me
+SIMPLE
+1
+FALSTAFF
+May I be bold to say so, sir?
+FALSTAFF
+1
+FALSTAFF
+Ay, sir, like who more bold?
+SIMPLE
+1
+FALSTAFF
+ I thank your worship; I shall make my master glad
+SIMPLE
+1
+FALSTAFF
+ I thank your worship; I shall make my master glad
+    with these tidings.                              Exit SIMPLE
+HOST
+1
+FALSTAFF
+Thou art clerkly, thou art clerkly, Sir John. Was
+FALSTAFF
+1
+FALSTAFF
+Ay, that there was, mine host; one that hath
+BARDOLPH
+1
+FALSTAFF
+Out, alas, sir, cozenage, mere cozenage!
+HOST
+1
+FALSTAFF
+Where be my horses? Speak well of them, varletto.
+BARDOLPH
+1
+FALSTAFF
+Run away with the cozeners; for so soon as I
+HOST
+1
+FALSTAFF
+They are gone but to meet the Duke, villain; do not
+EVANS
+1
+FALSTAFF
+Where is mine host?
+HOST
+1
+FALSTAFF
+What is the matter, sir?
+EVANS
+1
+FALSTAFF
+Have a care of your entertainments. There is a friend
+CAIUS
+1
+FALSTAFF
+Vere is mine host de Jarteer?
+HOST
+1
+FALSTAFF
+Here, Master Doctor, in perplexity and doubtful
+CAIUS
+1
+FALSTAFF
+I cannot tell vat is dat; but it is tell-a me dat you
+HOST
+1
+FALSTAFF
+Hue and cry, villain, go! Assist me, knight; I am
+HOST
+1
+FALSTAFF
+Hue and cry, villain, go! Assist me, knight; I am
+    undone. Fly, run, hue and cry, villain; I am undone.
+                                        Exeunt HOST and BARDOLPH
+FALSTAFF
+1
+FALSTAFF
+I would all the world might be cozen'd, for I have
+QUICKLY
+1
+FALSTAFF
+From the two parties, forsooth.
+FALSTAFF
+1
+FALSTAFF
+The devil take one party and his dam the other!
+QUICKLY
+1
+FALSTAFF
+And have not they suffer'd? Yes, I warrant;
+FALSTAFF
+1
+FALSTAFF
+What tell'st thou me of black and blue? I was
+QUICKLY
+1
+FALSTAFF
+Sir, let me speak with you in your chamber; you
+FALSTAFF
+1
+FALSTAFF
+Come up into my chamber.                      Exeunt
+HOST
+1
+FALSTAFF
+Master Fenton, talk not to me; my mind is heavy; I
+FENTON
+1
+FALSTAFF
+Yet hear me speak. Assist me in my purpose,
+HOST
+1
+FALSTAFF
+I will hear you, Master Fenton; and I will, at the least,
+FENTON
+1
+FALSTAFF
+From time to time I have acquainted you
+HOST
+1
+FALSTAFF
+Which means she to deceive, father or mother?
+FENTON
+1
+FALSTAFF
+Both, my good host, to go along with me.
+HOST
+1
+FALSTAFF
+Well, husband your device; I'll to the vicar.
+FENTON
+1
+FALSTAFF
+So shall I evermore be bound to thee;
+FALSTAFF
+1
+FALSTAFF
+Prithee, no more prattling; go. I'll, hold. This is
+QUICKLY
+1
+FALSTAFF
+I'll provide you a chain, and I'll do what I can to
+FALSTAFF
+1
+FALSTAFF
+Away, I say; time wears; hold up your head, and
+FORD
+0
+Went you not to her yesterday, sir, as you told me
+FALSTAFF
+0
+I went to her, Master Brook, as you see, like a
+PAGE
+0
+Come, come; we'll couch i' th' Castle ditch till we
+SLENDER
+0
+Ay, forsooth; I have spoke with her, and we have
+SHALLOW
+0
+That's good too; but what needs either your mum
+PAGE
+0
+The night is dark; light and spirits will become it well.
+MRS
+0
+PAGE. Master Doctor, my daughter is in green; when
+CAIUS
+0
+I know vat I have to do; adieu.
+MRS
+0
+PAGE. Fare you well, sir.  [Exit CAIUS]  My husband
+MRS
+0
+FORD. Where is Nan now, and her troop of fairies, and
+MRS
+0
+PAGE. They are all couch'd in a pit hard by Heme's
+MRS
+0
+FORD. That cannot choose but amaze him.
+MRS
+0
+PAGE. If he be not amaz'd, he will be mock'd; if he be
+MRS
+0
+FORD. We'll betray him finely.
+MRS
+0
+PAGE. Against such lewdsters and their lechery,
+MRS
+0
+FORD. The hour draws on. To the oak, to the oak!
+EVANS
+0
+Trib, trib, fairies; come; and remember your parts.
+FALSTAFF
+0
+The Windsor bell hath struck twelve; the minute
+MRS
+0
+FORD. Sir John! Art thou there, my deer, my male deer.
+FALSTAFF
+0
+My doe with the black scut! Let the sky rain
+MRS
+0
+FORD. Mistress Page is come with me, sweetheart.
+FALSTAFF
+0
+Divide me like a brib'd buck, each a haunch; I
+MRS
+0
+PAGE. Alas, what noise?
+MRS
+0
+FORD. Heaven forgive our sins!
+FALSTAFF
+0
+What should this be?
+MRS
+0
+FORD. } Away, away.
+MRS
+0
+PAGE. } Away, away.                        [They run off]
+FALSTAFF
+0
+I think the devil will not have me damn'd, lest the
+FAIRY QUEEN
+0
+Fairies, black, grey, green, and white,
+PUCK
+0
+Elves, list your names; silence, you airy toys.
+FALSTAFF
+0
+They are fairies; he that speaks to them shall die.
+EVANS
+0
+Where's Pede? Go you, and where you find a maid
+FAIRY QUEEN
+0
+About, about;
+EVANS
+0
+Pray you, lock hand in hand; yourselves in order set;
+FALSTAFF
+0
+Heavens defend me from that Welsh fairy, lest he
+PUCK
+0
+Vile worm, thou wast o'erlook'd even in thy birth.
+FAIRY QUEEN
+0
+With trial-fire touch me his finger-end;
+PUCK
+0
+A trial, come.
+EVANS
+0
+Come, will this wood take fire?
+FALSTAFF
+0
+Oh, oh, oh!
+FAIRY QUEEN
+0
+Corrupt, corrupt, and tainted in desire!
+THE SONG
+0
+PAGE
+0
+Nay, do not fly; I think we have watch'd you now.
+MRS
+0
+PAGE. I pray you, come, hold up the jest no higher.
+FORD
+0
+Now, sir, who's a cuckold now? Master Brook,
+MRS
+0
+FORD. Sir John, we have had ill luck; we could never
+FALSTAFF
+0
+I do begin to perceive that I am made an ass.
+FORD
+0
+Ay, and an ox too; both the proofs are extant.
+FALSTAFF
+0
+And these are not fairies? I was three or four
+EVANS
+0
+Sir John Falstaff, serve Got, and leave your desires,
+FORD
+0
+Well said, fairy Hugh.
+EVANS
+0
+And leave you your jealousies too, I pray you.
+FORD
+0
+I will never mistrust my wife again, till thou art able
+FALSTAFF
+0
+Have I laid my brain in the sun, and dried it, that
+EVANS
+0
+Seese is not good to give putter; your belly is all
+FALSTAFF
+0
+'Seese' and 'putter'! Have I liv'd to stand at the
+MRS
+0
+PAGE. Why, Sir John, do you think, though we would
+FORD
+0
+What, a hodge-pudding? a bag of flax?
+MRS
+0
+PAGE. A puff'd man?
+PAGE
+0
+Old, cold, wither'd, and of intolerable entrails?
+FORD
+0
+And one that is as slanderous as Satan?
+PAGE
+0
+And as poor as Job?
+FORD
+0
+And as wicked as his wife?
+EVANS
+0
+And given to fornications, and to taverns, and sack,
+FALSTAFF
+0
+Well, I am your theme; you have the start of me;
+FORD
+0
+Marry, sir, we'll bring you to Windsor, to one Master
+PAGE
+0
+Yet be cheerful, knight; thou shalt eat a posset
+MRS
+0
+PAGE.  [Aside]  Doctors doubt that; if Anne Page be
+SLENDER
+0
+Whoa, ho, ho, father Page!
+PAGE
+0
+Son, how now! how now, son! Have you dispatch'd'?
+SLENDER
+0
+Dispatch'd! I'll make the best in Gloucestershire
+PAGE
+0
+Of what, son?
+SLENDER
+0
+I came yonder at Eton to marry Mistress Anne
+PAGE
+0
+Upon my life, then, you took the wrong.
+SLENDER
+0
+What need you tell me that? I think so, when I
+PAGE
+0
+Why, this is your own folly. Did not I tell you how
+SLENDER
+0
+I went to her in white and cried 'mum' and she
+MRS
+0
+PAGE. Good George, be not angry. I knew of your
+CAIUS
+0
+Vere is Mistress Page? By gar, I am cozened; I ha'
+MRS
+0
+PAGE. Why, did you take her in green?
+CAIUS
+0
+Ay, be gar, and 'tis a boy; be gar, I'll raise all
+FORD
+0
+This is strange. Who hath got the right Anne?
+PAGE
+0
+My heart misgives me; here comes Master Fenton.
+ANNE
+0
+Pardon, good father. Good my mother, pardon.
+PAGE
+0
+Now, Mistress, how chance you went not with Master
+MRS
+0
+PAGE. Why went you not with Master Doctor, maid?
+FENTON
+0
+You do amaze her. Hear the truth of it.
+FORD
+0
+Stand not amaz'd; here is no remedy.
+FALSTAFF
+0
+I am glad, though you have ta'en a special stand
+PAGE
+0
+Well, what remedy? Fenton, heaven give thee joy!
+FALSTAFF
+0
+When night-dogs run, all sorts of deer are chas'd.
+MRS
+0
+PAGE. Well, I will muse no further. Master Fenton,
+FORD
+0
+Let it be so. Sir John,

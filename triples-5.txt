@@ -1,0 +1,3180 @@
+FIRST GENTLEMAN
+0
+You do not meet a man but frowns; our bloods
+SECOND GENTLEMAN
+0
+But what's the matter?
+FIRST GENTLEMAN
+0
+His daughter, and the heir of's kingdom, whom
+SECOND GENTLEMAN
+0
+None but the King?
+FIRST GENTLEMAN
+0
+He that hath lost her too. So is the Queen,
+SECOND GENTLEMAN
+0
+And why so?
+FIRST GENTLEMAN
+0
+He that hath miss'd the Princess is a thing
+SECOND GENTLEMAN
+0
+You speak him far.
+FIRST GENTLEMAN
+0
+I do extend him, sir, within himself;
+SECOND GENTLEMAN
+0
+What's his name and birth?
+FIRST GENTLEMAN
+0
+I cannot delve him to the root; his father
+SECOND GENTLEMAN
+0
+I honour him
+FIRST GENTLEMAN
+0
+His only child.
+SECOND GENTLEMAN
+0
+How long is this ago?
+FIRST GENTLEMAN
+0
+Some twenty years.
+SECOND GENTLEMAN
+0
+That a king's children should be so convey'd,
+FIRST GENTLEMAN
+0
+Howsoe'er 'tis strange,
+SECOND GENTLEMAN
+0
+I do well believe you.
+FIRST GENTLEMAN
+0
+We must forbear; here comes the gentleman,
+QUEEN
+0
+No, be assur'd you shall not find me, daughter,
+POSTHUMUS
+0
+Please your Highness,
+QUEEN
+0
+You know the peril.
+IMOGEN
+0
+O dissembling courtesy! How fine this tyrant
+POSTHUMUS
+0
+My queen! my mistress!
+POSTHUMUS
+1
+QUEEN
+My queen! my mistress!
+    O lady, weep no more, lest I give cause
+    To be suspected of more tenderness
+    Than doth become a man. I will remain
+    The loyal'st husband that did e'er plight troth;
+    My residence in Rome at one Philario's,
+    Who to my father was a friend, to me
+    Known but by letter; thither write, my queen,
+    And with mine eyes I'll drink the words you send,
+    Though ink be made of gall.
+QUEEN
+1
+QUEEN
+Be brief, I pray you.
+POSTHUMUS
+1
+QUEEN
+Should we be taking leave
+IMOGEN
+1
+QUEEN
+Nay, stay a little.
+POSTHUMUS
+1
+QUEEN
+How, how? Another?
+IMOGEN
+1
+QUEEN
+O the gods!
+POSTHUMUS
+1
+QUEEN
+Alack, the King!
+CYMBELINE
+1
+QUEEN
+Thou basest thing, avoid; hence from my sight
+POSTHUMUS
+1
+QUEEN
+The gods protect you,
+IMOGEN
+1
+QUEEN
+There cannot be a pinch in death
+CYMBELINE
+1
+QUEEN
+O disloyal thing,
+IMOGEN
+1
+QUEEN
+I beseech you, sir,
+CYMBELINE
+1
+QUEEN
+Past grace? obedience?
+IMOGEN
+1
+QUEEN
+Past hope, and in despair; that way past grace.
+CYMBELINE
+1
+QUEEN
+That mightst have had the sole son of my queen!
+IMOGEN
+1
+QUEEN
+O blessed that I might not! I chose an eagle,
+CYMBELINE
+1
+QUEEN
+Thou took'st a beggar, wouldst have made my throne
+IMOGEN
+1
+QUEEN
+No; I rather added
+CYMBELINE
+1
+QUEEN
+O thou vile one!
+IMOGEN
+1
+QUEEN
+Sir,
+CYMBELINE
+1
+QUEEN
+What, art thou mad?
+IMOGEN
+1
+QUEEN
+Almost, sir. Heaven restore me! Would I were
+IMOGEN
+1
+QUEEN
+Almost, sir. Heaven restore me! Would I were
+    A neat-herd's daughter, and my Leonatus
+    Our neighbour shepherd's son!
+CYMBELINE
+1
+QUEEN
+Thou foolish thing!
+QUEEN
+1
+QUEEN
+Beseech your patience.- Peace,
+CYMBELINE
+1
+QUEEN
+Nay, let her languish
+QUEEN
+1
+QUEEN
+Fie! you must give way.
+PISANIO
+1
+QUEEN
+My lord your son drew on my master.
+QUEEN
+1
+QUEEN
+Ha!
+PISANIO
+1
+QUEEN
+There might have been,
+QUEEN
+1
+QUEEN
+I am very glad on't.
+IMOGEN
+1
+QUEEN
+Your son's my father's friend; he takes his part
+PISANIO
+1
+QUEEN
+On his command. He would not suffer me
+QUEEN
+1
+QUEEN
+This hath been
+PISANIO
+1
+QUEEN
+I humbly thank your Highness.
+QUEEN
+1
+QUEEN
+Pray walk awhile.
+IMOGEN
+1
+QUEEN
+About some half-hour hence,
+FIRST LORD
+0
+Sir, I would advise you to shift a shirt; the violence
+CLOTEN
+0
+If my shirt were bloody, then to shift it. Have I hurt him?
+SECOND LORD
+0
+[Aside] No, faith; not so much as his patience.
+FIRST LORD
+0
+Hurt him! His body's a passable carcass if he be not
+SECOND LORD
+0
+[Aside] His steel was in debt; it went o' th' back
+CLOTEN
+0
+The villain would not stand me.
+SECOND LORD
+0
+[Aside] No; but he fled forward still, toward your
+FIRST LORD
+0
+Stand you? You have land enough of your own; but he
+SECOND LORD
+0
+[Aside] As many inches as you have oceans.
+CLOTEN
+0
+I would they had not come between us.
+SECOND LORD
+0
+[Aside] So would I, till you had measur'd how long a
+CLOTEN
+0
+And that she should love this fellow, and refuse me!
+SECOND LORD
+0
+[Aside] If it be a sin to make a true election, she is
+FIRST LORD
+0
+Sir, as I told you always, her beauty and her brain go
+SECOND LORD
+0
+[Aside] She shines not upon fools, lest the reflection
+CLOTEN
+0
+Come, I'll to my chamber. Would there had been some hurt
+SECOND LORD
+0
+[Aside] I wish not so; unless it had been the fall of
+CLOTEN
+0
+You'll go with us?
+FIRST LORD
+0
+I'll attend your lordship.
+CLOTEN
+0
+Nay, come, let's go together.
+SECOND LORD
+0
+Well, my lord.                             Exeunt
+IMOGEN
+0
+I would thou grew'st unto the shores o' th' haven,
+PISANIO
+0
+It was: his queen, his queen!
+IMOGEN
+0
+Then wav'd his handkerchief?
+PISANIO
+0
+And kiss'd it, madam.
+IMOGEN
+0
+Senseless linen, happier therein than I!
+PISANIO
+0
+No, madam; for so long
+IMOGEN
+0
+Thou shouldst have made him
+PISANIO
+0
+Madam, so I did.
+IMOGEN
+0
+I would have broke mine eyestrings, crack'd them but
+PISANIO
+0
+Be assur'd, madam,
+IMOGEN
+0
+I did not take my leave of him, but had
+LADY
+0
+The Queen, madam,
+IMOGEN
+0
+Those things I bid you do, get them dispatch'd.
+PISANIO
+0
+Madam, I shall.                                Exeunt
+IACHIMO
+0
+Believe it, sir, I have seen him in Britain. He was then
+PHILARIO
+0
+You speak of him when he was less furnish'd than now he
+FRENCHMAN
+0
+I have seen him in France; we had very many there could
+IACHIMO
+0
+This matter of marrying his king's daughter, wherein he
+FRENCHMAN
+0
+And then his banishment.
+IACHIMO
+0
+Ay, and the approbation of those that weep this lamentable
+PHILARIO
+0
+His father and I were soldiers together, to whom I have
+FRENCHMAN
+0
+Sir, we have known together in Orleans.
+POSTHUMUS
+0
+Since when I have been debtor to you for courtesies,
+FRENCHMAN
+0
+Sir, you o'errate my poor kindness. I was glad I did
+POSTHUMUS
+0
+By your pardon, sir. I was then a young traveller;
+FRENCHMAN
+0
+Faith, yes, to be put to the arbitrement of swords, and
+IACHIMO
+0
+Can we, with manners, ask what was the difference?
+FRENCHMAN
+0
+Safely, I think. 'Twas a contention in public, which
+IACHIMO
+0
+That lady is not now living, or this gentleman's opinion,
+POSTHUMUS
+0
+She holds her virtue still, and I my mind.
+IACHIMO
+0
+You must not so far prefer her fore ours of Italy.
+POSTHUMUS
+0
+Being so far provok'd as I was in France, I would abate
+IACHIMO
+0
+As fair and as good- a kind of hand-in-hand comparison-
+POSTHUMUS
+0
+I prais'd her as I rated her. So do I my stone.
+IACHIMO
+0
+What do you esteem it at?
+POSTHUMUS
+0
+More than the world enjoys.
+IACHIMO
+0
+Either your unparagon'd mistress is dead, or she's
+POSTHUMUS
+0
+You are mistaken: the one may be sold or given, if there
+IACHIMO
+0
+Which the gods have given you?
+POSTHUMUS
+0
+Which by their graces I will keep.
+IACHIMO
+0
+You may wear her in title yours; but you know strange fowl
+POSTHUMUS
+0
+Your Italy contains none so accomplish'd a courtier to
+PHILARIO
+0
+Let us leave here, gentlemen.
+POSTHUMUS
+0
+Sir, with all my heart. This worthy signior, I thank
+IACHIMO
+0
+With five times so much conversation I should get ground
+POSTHUMUS
+0
+No, no.
+IACHIMO
+0
+I dare thereupon pawn the moiety of my estate to your
+POSTHUMUS
+0
+You are a great deal abus'd in too bold a persuasion,
+IACHIMO
+0
+What's that?
+POSTHUMUS
+0
+A repulse; though your attempt, as you call it, deserve
+PHILARIO
+0
+Gentlemen, enough of this. It came in too suddenly; let
+IACHIMO
+0
+Would I had put my estate and my neighbour's on th'
+POSTHUMUS
+0
+What lady would you choose to assail?
+IACHIMO
+0
+Yours, whom in constancy you think stands so safe. I will
+POSTHUMUS
+0
+I will wage against your gold, gold to it. My ring I
+IACHIMO
+0
+You are a friend, and therein the wiser. If you buy
+POSTHUMUS
+0
+This is but a custom in your tongue; you bear a graver
+IACHIMO
+0
+I am the master of my speeches, and would undergo what's
+POSTHUMUS
+0
+Will you? I Shall but lend my diamond till your return.
+PHILARIO
+0
+I will have it no lay.
+IACHIMO
+0
+By the gods, it is one. If I bring you no sufficient
+POSTHUMUS
+0
+I embrace these conditions; let us have articles betwixt
+IACHIMO
+0
+Your hand- a covenant! We will have these things set down
+POSTHUMUS
+0
+Agreed.                Exeunt POSTHUMUS and IACHIMO
+FRENCHMAN
+0
+Will this hold, think you?
+PHILARIO
+0
+Signior Iachimo will not from it. Pray let us follow 'em.
+QUEEN
+0
+Whiles yet the dew's on ground, gather those flowers;
+LADY
+0
+I, madam.
+QUEEN
+0
+Dispatch.                                 Exeunt LADIES
+CORNELIUS
+0
+Pleaseth your Highness, ay. Here they are, madam.
+QUEEN
+0
+I wonder, Doctor,
+CORNELIUS
+0
+Your Highness
+QUEEN
+0
+O, content thee.
+CORNELIUS
+0
+[Aside] I do suspect you, madam;
+QUEEN
+0
+[To PISANIO] Hark thee, a word.
+CORNELIUS
+0
+[Aside] I do not like her. She doth think she has
+QUEEN
+0
+No further service, Doctor,
+CORNELIUS
+0
+I humbly take my leave.                        Exit
+QUEEN
+0
+Weeps she still, say'st thou? Dost thou think in time
+QUEEN
+1
+PISANIO
+Weeps she still, say'st thou? Dost thou think in time
+    She will not quench, and let instructions enter
+    Where folly now possesses? Do thou work.
+    When thou shalt bring me word she loves my son,
+    I'll tell thee on the instant thou art then
+    As great as is thy master; greater, for
+    His fortunes all lie speechless, and his name
+    Is at last gasp. Return he cannot, nor
+    Continue where he is. To shift his being
+    Is to exchange one misery with another,
+    And every day that comes comes comes to
+    A day's work in him. What shalt thou expect
+    To be depender on a thing that leans,
+    Who cannot be new built, nor has no friends
+    So much as but to prop him?
+                  [The QUEEN drops the box. PISANIO takes it up]
+    Thou tak'st up
+    Thou know'st not what; but take it for thy labour.
+    It is a thing I made, which hath the King
+    Five times redeem'd from death. I do not know
+    What is more cordial. Nay, I prithee take it;
+    It is an earnest of a further good
+    That I mean to thee. Tell thy mistress how
+    The case stands with her; do't as from thyself.
+    Think what a chance thou changest on; but think
+    Thou hast thy mistress still; to boot, my son,
+    Who shall take notice of thee. I'll move the King
+    To any shape of thy preferment, such
+    As thou'lt desire; and then myself, I chiefly,
+    That set thee on to this desert, am bound
+    To load thy merit richly. Call my women.
+    Think on my words.                              Exit PISANIO
+    A sly and constant knave,
+    Not to be shak'd; the agent for his master,
+    And the remembrancer of her to hold
+    The hand-fast to her lord. I have given him that
+    Which, if he take, shall quite unpeople her
+    Of leigers for her sweet; and which she after,
+    Except she bend her humour, shall be assur'd
+    To taste of too.
+QUEEN
+1
+PISANIO
+Weeps she still, say'st thou? Dost thou think in time
+    She will not quench, and let instructions enter
+    Where folly now possesses? Do thou work.
+    When thou shalt bring me word she loves my son,
+    I'll tell thee on the instant thou art then
+    As great as is thy master; greater, for
+    His fortunes all lie speechless, and his name
+    Is at last gasp. Return he cannot, nor
+    Continue where he is. To shift his being
+    Is to exchange one misery with another,
+    And every day that comes comes comes to
+    A day's work in him. What shalt thou expect
+    To be depender on a thing that leans,
+    Who cannot be new built, nor has no friends
+    So much as but to prop him?
+                  [The QUEEN drops the box. PISANIO takes it up]
+    Thou tak'st up
+    Thou know'st not what; but take it for thy labour.
+    It is a thing I made, which hath the King
+    Five times redeem'd from death. I do not know
+    What is more cordial. Nay, I prithee take it;
+    It is an earnest of a further good
+    That I mean to thee. Tell thy mistress how
+    The case stands with her; do't as from thyself.
+    Think what a chance thou changest on; but think
+    Thou hast thy mistress still; to boot, my son,
+    Who shall take notice of thee. I'll move the King
+    To any shape of thy preferment, such
+    As thou'lt desire; and then myself, I chiefly,
+    That set thee on to this desert, am bound
+    To load thy merit richly. Call my women.
+    Think on my words.                              Exit PISANIO
+    A sly and constant knave,
+    Not to be shak'd; the agent for his master,
+    And the remembrancer of her to hold
+    The hand-fast to her lord. I have given him that
+    Which, if he take, shall quite unpeople her
+    Of leigers for her sweet; and which she after,
+    Except she bend her humour, shall be assur'd
+    To taste of too.
+    So, so. Well done, well done.
+    The violets, cowslips, and the primroses,
+    Bear to my closet. Fare thee well, Pisanio;
+    Think on my words.                   Exeunt QUEEN and LADIES
+PISANIO
+1
+PISANIO
+And shall do.
+IMOGEN
+0
+A father cruel and a step-dame false;
+PISANIO
+0
+Madam, a noble gentleman of Rome
+IACHIMO
+0
+Change you, madam?
+IMOGEN
+0
+Thanks, good sir.
+IACHIMO
+0
+[Aside] All of her that is out of door most rich!
+IMOGEN
+0
+[Reads] 'He is one of the noblest note, to whose
+IACHIMO
+0
+Thanks, fairest lady.
+IMOGEN
+0
+What makes your admiration?
+IACHIMO
+0
+It cannot be i' th' eye, for apes and monkeys,
+IMOGEN
+0
+What is the matter, trow?
+IACHIMO
+0
+The cloyed will-
+IMOGEN
+0
+What, dear sir,
+IACHIMO
+0
+Thanks, madam; well.- Beseech you, sir,
+PISANIO
+0
+I was going, sir,
+IMOGEN
+0
+Continues well my lord? His health beseech you?
+IACHIMO
+0
+Well, madam.
+IMOGEN
+0
+Is he dispos'd to mirth? I hope he is.
+IACHIMO
+0
+Exceeding pleasant; none a stranger there
+IMOGEN
+0
+When he was here
+IACHIMO
+0
+I never saw him sad.
+IMOGEN
+0
+Will my lord say so?
+IACHIMO
+0
+Ay, madam, with his eyes in flood with laughter.
+IMOGEN
+0
+Not he, I hope.
+IACHIMO
+0
+Not he; but yet heaven's bounty towards him might
+IMOGEN
+0
+What do you pity, sir?
+IACHIMO
+0
+Two creatures heartily.
+IMOGEN
+0
+Am I one, sir?
+IACHIMO
+0
+Lamentable! What,
+IMOGEN
+0
+I pray you, sir,
+IACHIMO
+0
+That others do,
+IMOGEN
+0
+You do seem to know
+IACHIMO
+0
+Had I this cheek
+IMOGEN
+0
+My lord, I fear,
+IACHIMO
+0
+And himself. Not I
+IMOGEN
+0
+Let me hear no more.
+IACHIMO
+0
+O dearest soul, your cause doth strike my heart
+IMOGEN
+0
+Reveng'd?
+IACHIMO
+0
+Should he make me
+IMOGEN
+0
+What ho, Pisanio!
+IACHIMO
+0
+Let me my service tender on your lips.
+IMOGEN
+0
+Away! I do condemn mine ears that have
+IACHIMO
+0
+O happy Leonatus! I may say
+IMOGEN
+0
+You make amends.
+IACHIMO
+0
+He sits 'mongst men like a descended god:
+IMOGEN
+0
+All's well, sir; take my pow'r i' th' court for yours.
+IACHIMO
+0
+My humble thanks. I had almost forgot
+IMOGEN
+0
+Pray what is't?
+IACHIMO
+0
+Some dozen Romans of us, and your lord-
+IMOGEN
+0
+Willingly;
+IACHIMO
+0
+They are in a trunk,
+IMOGEN
+0
+O, no, no.
+IACHIMO
+0
+Yes, I beseech; or I shall short my word
+IMOGEN
+0
+I thank you for your pains.
+IACHIMO
+0
+O, I must, madam.
+IMOGEN
+0
+I will write.
+CLOTEN
+0
+Was there ever man had such luck! When I kiss'd the jack,
+FIRST LORD
+0
+What got he by that? You have broke his pate with your
+SECOND LORD
+0
+[Aside] If his wit had been like him that broke it, it
+CLOTEN
+0
+When a gentleman is dispos'd to swear, it is not for any
+SECOND LORD
+0
+No, my lord; [Aside] nor crop the ears of them.
+CLOTEN
+0
+Whoreson dog! I give him satisfaction? Would he had been
+SECOND LORD
+0
+[Aside] To have smell'd like a fool.
+CLOTEN
+0
+I am not vex'd more at anything in th' earth. A pox on't! I
+SECOND LORD
+0
+[Aside] You are cock and capon too; and you crow,
+CLOTEN
+0
+Sayest thou?
+SECOND LORD
+0
+It is not fit your lordship should undertake every
+CLOTEN
+0
+No, I know that; but it is fit I should commit offence to
+SECOND LORD
+0
+Ay, it is fit for your lordship only.
+CLOTEN
+0
+Why, so I say.
+FIRST LORD
+0
+Did you hear of a stranger that's come to court
+CLOTEN
+0
+A stranger, and I not known on't?
+SECOND LORD
+0
+[Aside] He's a strange fellow himself, and knows it
+FIRST LORD
+0
+There's an Italian come, and, 'tis thought, one of
+CLOTEN
+0
+Leonatus? A banish'd rascal; and he's another, whatsoever
+FIRST LORD
+0
+One of your lordship's pages.
+CLOTEN
+0
+Is it fit I went to look upon him? Is there no derogation
+SECOND LORD
+0
+You cannot derogate, my lord.
+CLOTEN
+0
+Not easily, I think.
+SECOND LORD
+0
+[Aside] You are a fool granted; therefore your issues,
+CLOTEN
+0
+Come, I'll go see this Italian. What I have lost to-day at
+SECOND LORD
+0
+I'll attend your lordship.
+IMOGEN
+0
+Who's there? My woman? Helen?
+LADY
+0
+Please you, madam.
+IMOGEN
+0
+What hour is it?
+LADY
+0
+Almost midnight, madam.
+IMOGEN
+0
+I have read three hours then. Mine eyes are weak;
+IACHIMO
+0
+The crickets sing, and man's o'er-labour'd sense
+FIRST LORD
+0
+Your lordship is the most patient man in loss, the most
+CLOTEN
+0
+It would make any man cold to lose.
+FIRST LORD
+0
+But not every man patient after the noble temper of
+CLOTEN
+0
+Winning will put any man into courage. If I could get this
+FIRST LORD
+0
+Day, my lord.
+CLOTEN
+0
+I would this music would come. I am advised to give her
+SECOND LORD
+0
+Here comes the King.
+CLOTEN
+0
+I am glad I was up so late, for that's the reason I was up
+CYMBELINE
+0
+Attend you here the door of our stern daughter?
+CLOTEN
+0
+I have assail'd her with musics, but she vouchsafes no
+CYMBELINE
+0
+The exile of her minion is too new;
+QUEEN
+0
+You are most bound to th' King,
+CLOTEN
+0
+Senseless? Not so.
+MESSENGER
+0
+So like you, sir, ambassadors from Rome;
+CYMBELINE
+0
+A worthy fellow,
+CLOTEN
+0
+If she be up, I'll speak with her; if not,
+LADY
+0
+Who's there that knocks?
+CLOTEN
+0
+A gentleman.
+LADY
+0
+No more?
+CLOTEN
+0
+Yes, and a gentlewoman's son.
+LADY
+0
+That's more
+CLOTEN
+0
+Your lady's person; is she ready?
+LADY
+0
+Ay,
+CLOTEN
+0
+There is gold for you; sell me your good report.
+LADY
+0
+How? My good name? or to report of you
+CLOTEN
+0
+Good morrow, fairest sister. Your sweet hand.
+IMOGEN
+0
+Good morrow, sir. You lay out too much pains
+CLOTEN
+0
+Still I swear I love you.
+IMOGEN
+0
+If you but said so, 'twere as deep with me.
+CLOTEN
+0
+This is no answer.
+IMOGEN
+0
+But that you shall not say I yield, being silent,
+CLOTEN
+0
+To leave you in your madness 'twere my sin;
+IMOGEN
+0
+Fools are not mad folks.
+CLOTEN
+0
+Do you call me fool?
+IMOGEN
+0
+As I am mad, I do;
+CLOTEN
+0
+You sin against
+IMOGEN
+0
+Profane fellow!
+CLOTEN
+0
+The south fog rot him!
+IMOGEN
+0
+He never can meet more mischance than come
+CLOTEN
+0
+'His garments'! Now the devil-
+IMOGEN
+0
+To Dorothy my woman hie thee presently.
+CLOTEN
+0
+'His garment'!
+IMOGEN
+0
+I am sprited with a fool;
+PISANIO
+0
+'Twill not be lost.
+IMOGEN
+0
+I hope so. Go and search.                 Exit PISANIO
+CLOTEN
+0
+You have abus'd me.
+IMOGEN
+0
+Ay, I said so, sir.
+CLOTEN
+0
+I will inform your father.
+IMOGEN
+0
+Your mother too.
+CLOTEN
+0
+I'll be reveng'd.
+POSTHUMUS
+0
+Fear it not, sir; I would I were so sure
+PHILARIO
+0
+What means do you make to him?
+POSTHUMUS
+0
+Not any; but abide the change of time,
+PHILARIO
+0
+Your very goodness and your company
+POSTHUMUS
+0
+I do believe
+PHILARIO
+0
+See! Iachimo!
+POSTHUMUS
+0
+The swiftest harts have posted you by land,
+PHILARIO
+0
+Welcome, sir.
+POSTHUMUS
+0
+I hope the briefness of your answer made
+IACHIMO
+0
+Your lady
+POSTHUMUS
+0
+And therewithal the best; or let her beauty
+IACHIMO
+0
+Here are letters for you.
+POSTHUMUS
+0
+Their tenour good, I trust.
+IACHIMO
+0
+'Tis very like.
+PHILARIO
+0
+Was Caius Lucius in the Britain court
+IACHIMO
+0
+He was expected then,
+POSTHUMUS
+0
+All is well yet.
+IACHIMO
+0
+If I have lost it,
+POSTHUMUS
+0
+The stone's too hard to come by.
+IACHIMO
+0
+Not a whit,
+POSTHUMUS
+0
+Make not, sir,
+IACHIMO
+0
+Good sir, we must,
+POSTHUMUS
+0
+If you can make't apparent
+IACHIMO
+0
+Sir, my circumstances,
+POSTHUMUS
+0
+Proceed.
+IACHIMO
+0
+First, her bedchamber,
+POSTHUMUS
+0
+This is true;
+IACHIMO
+0
+More particulars
+POSTHUMUS
+0
+So they must,
+IACHIMO
+0
+The chimney
+POSTHUMUS
+0
+This is a thing
+IACHIMO
+0
+The roof o' th' chamber
+POSTHUMUS
+0
+This is her honour!
+IACHIMO
+0
+Then, if you can,                [Shows the bracelet]
+POSTHUMUS
+0
+Jove!
+IACHIMO
+0
+Sir- I thank her- that.
+POSTHUMUS
+0
+May be she pluck'd it of
+IACHIMO
+0
+She writes so to you, doth she?
+POSTHUMUS
+0
+O, no, no, no! 'tis true. Here, take this too;
+PHILARIO
+0
+Have patience, sir,
+POSTHUMUS
+0
+Very true;
+IACHIMO
+0
+By Jupiter, I had it from her arm!
+POSTHUMUS
+0
+Hark you, he swears; by Jupiter he swears.
+PHILARIO
+0
+Sir, be patient;
+POSTHUMUS
+0
+Never talk on't;
+IACHIMO
+0
+If you seek
+POSTHUMUS
+0
+Ay, and it doth confirm
+IACHIMO
+0
+Will you hear more?
+POSTHUMUS
+0
+Spare your arithmetic; never count the turns.
+IACHIMO
+0
+I'll be sworn-
+POSTHUMUS
+0
+No swearing.
+IACHIMO
+0
+I'll deny nothing.
+POSTHUMUS
+0
+O that I had her here to tear her limb-meal!
+PHILARIO
+0
+Quite besides
+IACHIMO
+0
+With all my heart.                             Exeunt
+POSTHUMUS
+0
+Is there no way for men to be, but women
+CYMBELINE
+0
+Now say, what would Augustus Caesar with us?
+LUCIUS
+0
+When Julius Caesar- whose remembrance yet
+QUEEN
+0
+And, to kill the marvel,
+CLOTEN
+0
+There be many Caesars
+QUEEN
+0
+That opportunity,
+CLOTEN
+0
+Come, there's no more tribute to be paid. Our kingdom is
+CYMBELINE
+0
+Son, let your mother end.
+CLOTEN
+0
+We have yet many among us can gripe as hard as Cassibelan.
+CYMBELINE
+0
+You must know,
+CLOTEN
+0
+We do.
+CYMBELINE
+0
+Say then to Caesar,
+LUCIUS
+0
+I am sorry, Cymbeline,
+CYMBELINE
+0
+Thou art welcome, Caius.
+LUCIUS
+0
+Let proof speak.
+CLOTEN
+0
+His majesty bids you welcome. Make pastime with us a day or
+LUCIUS
+0
+So, sir.
+CYMBELINE
+0
+I know your master's pleasure, and he mine;
+PISANIO
+0
+How? of adultery? Wherefore write you not
+IMOGEN
+0
+How now, Pisanio!
+PISANIO
+0
+Madam, here is a letter from my lord.
+IMOGEN
+0
+Who? thy lord? That is my lord- Leonatus?
+PISANIO
+0
+One score 'twixt sun and sun,
+IMOGEN
+0
+Why, one that rode to's execution, man,
+PISANIO
+0
+Madam, you're best consider.
+IMOGEN
+0
+I see before me, man. Nor here, nor here,
+BELARIUS
+0
+A goodly day not to keep house with such
+GUIDERIUS
+0
+Hail, heaven!
+ARVIRAGUS
+0
+Hail, heaven!
+BELARIUS
+0
+Now for our mountain sport. Up to yond hill,
+GUIDERIUS
+0
+Out of your proof you speak. We, poor unfledg'd,
+ARVIRAGUS
+0
+What should we speak of
+BELARIUS
+0
+How you speak!
+GUIDERIUS
+0
+Uncertain favour!
+BELARIUS
+0
+My fault being nothing- as I have told you oft-
+IMOGEN
+0
+Thou told'st me, when we came from horse, the place
+PISANIO
+0
+Please you read,
+IMOGEN
+0
+[Reads] 'Thy mistress, Pisanio, hath play'd the strumpet in
+PISANIO
+0
+What shall I need to draw my sword? The paper
+IMOGEN
+0
+False to his bed? What is it to be false?
+PISANIO
+0
+Alas, good lady!
+IMOGEN
+0
+I false! Thy conscience witness! Iachimo,
+PISANIO
+0
+Good madam, hear me.
+IMOGEN
+0
+True honest men being heard, like false Aeneas,
+PISANIO
+0
+Hence, vile instrument!
+IMOGEN
+0
+Why, I must die;
+PISANIO
+0
+O gracious lady,
+IMOGEN
+0
+Do't, and to bed then.
+PISANIO
+0
+I'll wake mine eyeballs first.
+IMOGEN
+0
+Wherefore then
+PISANIO
+0
+But to win time
+IMOGEN
+0
+Talk thy tongue weary- speak.
+PISANIO
+0
+Then, madam,
+IMOGEN
+0
+Most like-
+PISANIO
+0
+Not so, neither;
+IMOGEN
+0
+Some Roman courtezan!
+PISANIO
+0
+No, on my life!
+IMOGEN
+0
+Why, good fellow,
+PISANIO
+0
+If you'll back to th' court-
+IMOGEN
+0
+No court, no father, nor no more ado
+PISANIO
+0
+If not at court,
+IMOGEN
+0
+Where then?
+PISANIO
+0
+I am most glad
+IMOGEN
+0
+O! for such means,
+PISANIO
+0
+Well then, here's the point:
+IMOGEN
+0
+Nay, be brief;
+PISANIO
+0
+First, make yourself but like one.
+IMOGEN
+0
+Thou art all the comfort
+PISANIO
+0
+Well, madam, we must take a short farewell,
+IMOGEN
+0
+Amen. I thank thee.                   Exeunt severally
+CYMBELINE
+0
+Thus far; and so farewell.
+LUCIUS
+0
+Thanks, royal sir.
+CYMBELINE
+0
+Our subjects, sir,
+LUCIUS
+0
+So, sir. I desire of you
+CYMBELINE
+0
+My lords, you are appointed for that office;
+LUCIUS
+0
+Your hand, my lord.
+CLOTEN
+0
+Receive it friendly; but from this time forth
+LUCIUS
+0
+Sir, the event
+CYMBELINE
+0
+Leave not the worthy Lucius, good my lords,
+QUEEN
+0
+He goes hence frowning; but it honours us
+CLOTEN
+0
+'Tis all the better;
+CYMBELINE
+0
+Lucius hath wrote already to the Emperor
+QUEEN
+0
+'Tis not sleepy business,
+CYMBELINE
+0
+Our expectation that it would be thus
+QUEEN
+0
+Royal sir,
+QUEEN
+1
+MESSENGER
+Royal sir,
+    Since the exile of Posthumus, most retir'd
+    Hath her life been; the cure whereof, my lord,
+    'Tis time must do. Beseech your Majesty,
+    Forbear sharp speeches to her; she's a lady
+    So tender of rebukes that words are strokes,
+    And strokes death to her.
+CYMBELINE
+1
+MESSENGER
+Where is she, sir? How
+MESSENGER
+1
+MESSENGER
+Please you, sir,
+QUEEN
+1
+MESSENGER
+My lord, when last I went to visit her,
+CYMBELINE
+1
+MESSENGER
+Her doors lock'd?
+QUEEN
+1
+MESSENGER
+Son, I say, follow the King.
+CLOTEN
+1
+MESSENGER
+That man of hers, Pisanio, her old servant,
+QUEEN
+1
+MESSENGER
+Go, look after.                             Exit CLOTEN
+QUEEN
+2
+CLOTEN
+MESSENGER
+Go, look after.                             Exit CLOTEN
+    Pisanio, thou that stand'st so for Posthumus!
+    He hath a drug of mine. I pray his absence
+    Proceed by swallowing that; for he believes
+    It is a thing most precious. But for her,
+    Where is she gone? Haply despair hath seiz'd her;
+    Or, wing'd with fervour of her love, she's flown
+    To her desir'd Posthumus. Gone she is
+    To death or to dishonour, and my end
+    Can make good use of either. She being down,
+    I have the placing of the British crown.
+CLOTEN
+2
+CLOTEN
+MESSENGER
+'Tis certain she is fled.
+QUEEN
+2
+CLOTEN
+MESSENGER
+All the better. May
+CLOTEN
+2
+CLOTEN
+MESSENGER
+I love and hate her; for she's fair and royal,
+PISANIO
+2
+CLOTEN
+MESSENGER
+O good my lord!
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Where is thy lady? or, by Jupiter-
+PISANIO
+2
+CLOTEN
+MESSENGER
+Alas, my lord,
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Where is she, sir? Come nearer.
+PISANIO
+2
+CLOTEN
+MESSENGER
+O my all-worthy lord!
+CLOTEN
+2
+CLOTEN
+MESSENGER
+All-worthy villain!
+PISANIO
+2
+CLOTEN
+MESSENGER
+Then, sir,
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Let's see't. I will pursue her
+PISANIO
+2
+CLOTEN
+MESSENGER
+[Aside] Or this or perish.
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Humh!
+PISANIO
+2
+CLOTEN
+MESSENGER
+[Aside] I'll write to my lord she's dead. O Imogen,
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Sirrah, is this letter true?
+PISANIO
+2
+CLOTEN
+MESSENGER
+Sir, as I think.
+CLOTEN
+2
+CLOTEN
+MESSENGER
+It is Posthumus' hand; I know't. Sirrah, if thou wouldst
+PISANIO
+2
+CLOTEN
+MESSENGER
+Well, my good lord.
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Wilt thou serve me? For since patiently and constantly thou
+PISANIO
+2
+CLOTEN
+MESSENGER
+Sir, I will.
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Give me thy hand; here's my purse. Hast any of thy late
+PISANIO
+2
+CLOTEN
+MESSENGER
+I have, my lord, at my lodging, the same suit he wore when
+CLOTEN
+2
+CLOTEN
+MESSENGER
+The first service thou dost me, fetch that suit hither. Let
+PISANIO
+2
+CLOTEN
+MESSENGER
+I shall, my lord.                                Exit
+CLOTEN
+2
+CLOTEN
+MESSENGER
+Meet thee at Milford Haven! I forgot to ask him one thing;
+CLOTEN
+3
+PISANIO
+CLOTEN
+MESSENGER
+Meet thee at Milford Haven! I forgot to ask him one thing;
+    I'll remember't anon. Even there, thou villain Posthumus, will I
+    kill thee. I would these garments were come. She said upon a
+    time- the bitterness of it I now belch from my heart- that she
+    held the very garment of Posthumus in more respect than my noble
+    and natural person, together with the adornment of my qualities.
+    With that suit upon my back will I ravish her; first kill him,
+    and in her eyes. There shall she see my valour, which will then
+    be a torment to her contempt. He on the ground, my speech of
+    insultment ended on his dead body, and when my lust hath dined-
+    which, as I say, to vex her I will execute in the clothes that
+    she so prais'd- to the court I'll knock her back, foot her home
+    again. She hath despis'd me rejoicingly, and I'll be merry in my
+    revenge.
+PISANIO
+3
+PISANIO
+CLOTEN
+MESSENGER
+Ay, my noble lord.
+CLOTEN
+3
+PISANIO
+CLOTEN
+MESSENGER
+How long is't since she went to Milford Haven?
+PISANIO
+3
+PISANIO
+CLOTEN
+MESSENGER
+She can scarce be there yet.
+CLOTEN
+3
+PISANIO
+CLOTEN
+MESSENGER
+Bring this apparel to my chamber; that is the second thing
+PISANIO
+3
+PISANIO
+CLOTEN
+MESSENGER
+Thou bid'st me to my loss; for true to thee
+IMOGEN
+0
+I see a man's life is a tedious one.
+BELARIUS
+0
+You, Polydore, have prov'd best woodman and
+GUIDERIUS
+0
+I am thoroughly weary.
+ARVIRAGUS
+0
+I am weak with toil, yet strong in appetite.
+GUIDERIUS
+0
+There is cold meat i' th' cave; we'll browse on that
+BELARIUS
+0
+[Looking into the cave] Stay, come not in.
+GUIDERIUS
+0
+What's the matter, sir?
+BELARIUS
+0
+ By Jupiter, an angel! or, if not,
+BELARIUS
+1
+IMOGEN
+ By Jupiter, an angel! or, if not,
+    An earthly paragon! Behold divineness
+    No elder than a boy!
+IMOGEN
+1
+IMOGEN
+Good masters, harm me not.
+GUIDERIUS
+1
+IMOGEN
+Money, youth?
+ARVIRAGUS
+1
+IMOGEN
+All gold and silver rather turn to dirt,
+IMOGEN
+1
+IMOGEN
+I see you're angry.
+BELARIUS
+1
+IMOGEN
+Whither bound?
+IMOGEN
+1
+IMOGEN
+To Milford Haven.
+BELARIUS
+1
+IMOGEN
+What's your name?
+IMOGEN
+1
+IMOGEN
+Fidele, sir. I have a kinsman who
+BELARIUS
+1
+IMOGEN
+Prithee, fair youth,
+GUIDERIUS
+1
+IMOGEN
+Were you a woman, youth,
+ARVIRAGUS
+1
+IMOGEN
+I'll make't my comfort
+IMOGEN
+1
+IMOGEN
+'Mongst friends,
+BELARIUS
+1
+IMOGEN
+He wrings at some distress.
+GUIDERIUS
+1
+IMOGEN
+Would I could free't!
+ARVIRAGUS
+1
+IMOGEN
+Or I, whate'er it be,
+BELARIUS
+1
+IMOGEN
+[Whispering] Hark, boys.
+IMOGEN
+1
+IMOGEN
+[Aside] Great men,
+BELARIUS
+1
+IMOGEN
+It shall be so.
+GUIDERIUS
+1
+IMOGEN
+Pray draw near.
+ARVIRAGUS
+1
+IMOGEN
+The night to th' owl and morn to th' lark less welcome.
+IMOGEN
+1
+IMOGEN
+Thanks, sir.
+ARVIRAGUS
+1
+IMOGEN
+I pray draw near.                            Exeunt
+FIRST SENATOR
+0
+This is the tenour of the Emperor's writ:
+TRIBUNE
+0
+Is Lucius general of the forces?
+SECOND SENATOR
+0
+Ay.
+TRIBUNE
+0
+Remaining now in Gallia?
+FIRST SENATOR
+0
+With those legions
+TRIBUNE
+0
+We will discharge our duty.                    Exeunt
+CLOTEN
+0
+I am near to th' place where they should meet, if Pisanio
+BELARIUS
+0
+[To IMOGEN] You are not well. Remain here in the cave;
+ARVIRAGUS
+0
+[To IMOGEN] Brother, stay here.
+IMOGEN
+0
+So man and man should be;
+GUIDERIUS
+0
+Go you to hunting; I'll abide with him.
+IMOGEN
+0
+So sick I am not, yet I am not well;
+GUIDERIUS
+0
+I love thee; I have spoke it.
+BELARIUS
+0
+What? how? how?
+ARVIRAGUS
+0
+If it be sin to say so, sir, I yoke me
+BELARIUS
+0
+[Aside] O noble strain!
+ARVIRAGUS
+0
+Brother, farewell.
+IMOGEN
+0
+I wish ye sport.
+ARVIRAGUS
+0
+Your health. [To BELARIUS] So please you, sir.
+IMOGEN
+0
+[Aside] These are kind creatures. Gods, what lies I have
+GUIDERIUS
+0
+I could not stir him.
+ARVIRAGUS
+0
+Thus did he answer me; yet said hereafter
+BELARIUS
+0
+To th' field, to th' field!
+ARVIRAGUS
+0
+We'll not be long away.
+BELARIUS
+0
+Pray be not sick,
+IMOGEN
+0
+Well, or ill,
+BELARIUS
+0
+And shalt be ever.         Exit IMOGEN into the cave
+ARVIRAGUS
+0
+How angel-like he sings!
+GUIDERIUS
+0
+But his neat cookery! He cut our roots in characters,
+ARVIRAGUS
+0
+Nobly he yokes
+GUIDERIUS
+0
+I do note
+ARVIRAGUS
+0
+Grow patience!
+BELARIUS
+0
+It is great morning. Come, away! Who's there?
+CLOTEN
+0
+I cannot find those runagates; that villain
+BELARIUS
+0
+Those runagates?
+GUIDERIUS
+0
+He is but one; you and my brother search
+CLOTEN
+0
+Soft! What are you
+GUIDERIUS
+0
+A thing
+CLOTEN
+0
+Thou art a robber,
+GUIDERIUS
+0
+To who? To thee? What art thou? Have not I
+CLOTEN
+0
+Thou villain base,
+GUIDERIUS
+0
+No, nor thy tailor, rascal,
+CLOTEN
+0
+Thou precious varlet,
+GUIDERIUS
+0
+Hence, then, and thank
+CLOTEN
+0
+Thou injurious thief,
+GUIDERIUS
+0
+What's thy name?
+CLOTEN
+0
+Cloten, thou villain.
+GUIDERIUS
+0
+Cloten, thou double villain, be thy name,
+CLOTEN
+0
+To thy further fear,
+GUIDERIUS
+0
+I'm sorry for't; not seeming
+CLOTEN
+0
+Art not afeard?
+GUIDERIUS
+0
+Those that I reverence, those I fear- the wise:
+CLOTEN
+0
+Die the death.
+CLOTEN
+1
+BELARIUS
+Die the death.
+    When I have slain thee with my proper hand,
+    I'll follow those that even now fled hence,
+    And on the gates of Lud's Town set your heads.
+    Yield, rustic mountaineer.                  Exeunt, fighting
+BELARIUS
+1
+BELARIUS
+No company's abroad.
+ARVIRAGUS
+1
+BELARIUS
+None in the world; you did mistake him, sure.
+BELARIUS
+1
+BELARIUS
+I cannot tell; long is it since I saw him,
+ARVIRAGUS
+1
+BELARIUS
+In this place we left them.
+BELARIUS
+1
+BELARIUS
+Being scarce made up,
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+Being scarce made up,
+    I mean to man, he had not apprehension
+    Or roaring terrors; for defect of judgment
+    Is oft the cease of fear.
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+This Cloten was a fool, an empty purse;
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+What hast thou done?
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+I am perfect what: cut off one Cloten's head,
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+We are all undone.
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Why, worthy father, what have we to lose
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+No single soul
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+Let ordinance
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+I had no mind
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+With his own sword,
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+I fear'twill be reveng'd.
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+Would I had done't,
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+Well, 'tis done.
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+Poor sick Fidele!
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+O thou goddess,
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+O thou goddess,
+    Thou divine Nature, thou thyself thou blazon'st
+    In these two princely boys! They are as gentle
+    As zephyrs blowing below the violet,
+    Not wagging his sweet head; and yet as rough,
+    Their royal blood enchaf'd, as the rud'st wind
+    That by the top doth take the mountain pine
+    And make him stoop to th' vale. 'Tis wonder
+    That an invisible instinct should frame them
+    To royalty unlearn'd, honour untaught,
+    Civility not seen from other, valour
+    That wildly grows in them, but yields a crop
+    As if it had been sow'd. Yet still it's strange
+    What Cloten's being here to us portends,
+    Or what his death will bring us.
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Where's my brother?
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+My ingenious instrument!
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Is he at home?
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+He went hence even now.
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+What does he mean? Since death of my dear'st mother
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+What does he mean? Since death of my dear'st mother
+    It did not speak before. All solemn things
+    Should answer solemn accidents. The matter?
+    Triumphs for nothing and lamenting toys
+    Is jollity for apes and grief for boys.
+    Is Cadwal mad?
+BELARIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Look, here he comes,
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+The bird is dead
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+O sweetest, fairest lily!
+BELARIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+O melancholy!
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Stark, as you see;
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Where?
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+O' th' floor;
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Why, he but sleeps.
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+With fairest flowers,
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Prithee have done,
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Say, where shall's lay him?
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+By good Euriphile, our mother.
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Be't so;
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Cadwal,
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+We'll speak it, then.
+BELARIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Great griefs, I see, med'cine the less, for Cloten
+GUIDERIUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+Pray you fetch him hither.
+ARVIRAGUS
+3
+BELARIUS
+GUIDERIUS
+ARVIRAGUS
+If you'll go fetch him,
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+If you'll go fetch him,
+    We'll say our song the whilst. Brother, begin.
+                                                   Exit BELARIUS
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Nay, Cadwal, we must lay his head to th' East;
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+'Tis true.
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Come on, then, and remove him.
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+So. Begin.
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Fear no more the heat o' th' sun
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+Fear no more the frown o' th' great;
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Fear no more the lightning flash,
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+  Nor th' all-dreaded thunder-stone;
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Fear not slander, censure rash;
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+  Thou hast finish'd joy and moan.
+BOTH
+2
+BELARIUS
+GUIDERIUS
+     All lovers young, all lovers must
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+No exorciser harm thee!
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+Nor no witchcraft charm thee!
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+Ghost unlaid forbear thee!
+ARVIRAGUS
+2
+BELARIUS
+GUIDERIUS
+Nothing ill come near thee!
+BOTH
+2
+BELARIUS
+GUIDERIUS
+     Quiet consummation have,
+BOTH
+2
+BELARIUS
+GUIDERIUS
+     Quiet consummation have,
+             And renowned be thy grave!
+GUIDERIUS
+2
+BELARIUS
+GUIDERIUS
+We have done our obsequies. Come, lay him down.
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+Here's a few flowers; but 'bout midnight, more.
+BELARIUS
+2
+BELARIUS
+GUIDERIUS
+Here's a few flowers; but 'bout midnight, more.
+    The herbs that have on them cold dew o' th' night
+    Are strewings fit'st for graves. Upon their faces.
+    You were as flow'rs, now wither'd. Even so
+    These herblets shall which we upon you strew.
+    Come on, away. Apart upon our knees.
+    The ground that gave them first has them again.
+    Their pleasures here are past, so is their pain.
+                                           Exeunt all but IMOGEN
+IMOGEN
+2
+BELARIUS
+GUIDERIUS
+[Awaking] Yes, sir, to Milford Haven. Which is the way?
+CAPTAIN
+2
+BELARIUS
+GUIDERIUS
+To them the legions garrison'd in Gallia,
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+But what from Rome?
+CAPTAIN
+2
+BELARIUS
+GUIDERIUS
+The Senate hath stirr'd up the confiners
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+When expect you them?
+CAPTAIN
+2
+BELARIUS
+GUIDERIUS
+With the next benefit o' th' wind.
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+This forwardness
+SOOTHSAYER
+2
+BELARIUS
+GUIDERIUS
+Last night the very gods show'd me a vision-
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+Dream often so,
+CAPTAIN
+2
+BELARIUS
+GUIDERIUS
+He's alive, my lord.
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+He'll then instruct us of this body. Young one,
+IMOGEN
+2
+BELARIUS
+GUIDERIUS
+I am nothing; or if not,
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+'Lack, good youth!
+IMOGEN
+2
+BELARIUS
+GUIDERIUS
+Richard du Champ. [Aside] If I do lie, and do
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+Thy name?
+IMOGEN
+2
+BELARIUS
+GUIDERIUS
+Fidele, sir.
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+Thou dost approve thyself the very same;
+IMOGEN
+2
+BELARIUS
+GUIDERIUS
+I'll follow, sir. But first, an't please the gods,
+LUCIUS
+2
+BELARIUS
+GUIDERIUS
+Ay, good youth;
+CYMBELINE
+0
+Again! and bring me word how 'tis with her.
+PISANIO
+0
+Sir, my life is yours;
+LORD
+0
+Good my liege,
+CYMBELINE
+0
+The time is troublesome.
+LORD
+0
+So please your Majesty,
+CYMBELINE
+0
+Now for the counsel of my son and queen!
+LORD
+0
+Good my liege,
+CYMBELINE
+0
+I thank you. Let's withdraw,
+PISANIO
+0
+I heard no letter from my master since
+GUIDERIUS
+0
+The noise is round about us.
+BELARIUS
+0
+Let us from it.
+ARVIRAGUS
+0
+What pleasure, sir, find we in life, to lock it
+GUIDERIUS
+0
+Nay, what hope
+BELARIUS
+0
+Sons,
+GUIDERIUS
+0
+This is, sir, a doubt
+ARVIRAGUS
+0
+It is not likely
+BELARIUS
+0
+O, I am known
+GUIDERIUS
+0
+Than be so,
+ARVIRAGUS
+0
+By this sun that shines,
+GUIDERIUS
+0
+By heavens, I'll go!
+ARVIRAGUS
+0
+So say I. Amen.
+BELARIUS
+0
+No reason I, since of your lives you set
+POSTHUMUS
+0
+Yea, bloody cloth, I'll keep thee; for I wish'd
+IACHIMO
+0
+The heaviness and guilt within my bosom
+IACHIMO
+1
+BELARIUS
+The heaviness and guilt within my bosom
+    Takes off my manhood. I have belied a lady,
+    The Princess of this country, and the air on't
+    Revengingly enfeebles me; or could this carl,
+    A very drudge of nature's, have subdu'd me
+    In my profession? Knighthoods and honours borne
+    As I wear mine are titles but of scorn.
+    If that thy gentry, Britain, go before
+    This lout as he exceeds our lords, the odds
+    Is that we scarce are men, and you are gods.            Exit
+    The battle continues; the BRITONS fly; CYMBELINE is taken.
+BELARIUS
+1
+BELARIUS
+Stand, stand! We have th' advantage of the ground;
+BELARIUS
+3
+BELARIUS
+LUCIUS
+POSTHUMUS
+Stand, stand! We have th' advantage of the ground;
+    The lane is guarded; nothing routs us but
+    The villainy of our fears.
+LUCIUS
+3
+BELARIUS
+LUCIUS
+POSTHUMUS
+Away, boy, from the troops, and save thyself;
+IACHIMO
+3
+BELARIUS
+LUCIUS
+POSTHUMUS
+'Tis their fresh supplies.
+LUCIUS
+3
+BELARIUS
+LUCIUS
+POSTHUMUS
+It is a day turn'd strangely. Or betimes
+LORD
+0
+Cam'st thou from where they made the stand?
+POSTHUMUS
+0
+I did:
+LORD
+0
+I did.
+POSTHUMUS
+0
+No blame be to you, sir, for all was lost,
+LORD
+0
+Where was this lane?
+POSTHUMUS
+0
+Close by the battle, ditch'd, and wall'd with turf,
+LORD
+0
+This was strange chance:
+POSTHUMUS
+0
+Nay, do not wonder at it; you are made
+LORD
+0
+Nay, be not angry, sir.
+POSTHUMUS
+0
+'Lack, to what end?
+LORD
+0
+Farewell; you're angry.                             Exit
+POSTHUMUS
+0
+Still going? This is a lord! O noble misery,
+FIRST CAPTAIN
+0
+Great Jupiter be prais'd! Lucius is taken.
+SECOND CAPTAIN
+0
+There was a fourth man, in a silly habit,
+FIRST CAPTAIN
+0
+So 'tis reported;
+POSTHUMUS
+0
+A Roman,
+SECOND CAPTAIN
+0
+Lay hands on him; a dog!
+FIRST GAOLER
+0
+You shall not now be stol'n, you have locks upon you;
+SECOND GAOLER
+0
+Ay, or a stomach.                Exeunt GAOLERS
+POSTHUMUS
+0
+Most welcome, bondage! for thou art a way,
+SICILIUS
+0
+No more, thou thunder-master, show
+MOTHER
+0
+  Lucina lent not me her aid,
+SICILIUS
+0
+Great Nature like his ancestry
+FIRST BROTHER
+0
+When once he was mature for man,
+MOTHER
+0
+  With marriage wherefore was he mock'd,
+SICILIUS
+0
+Why did you suffer Iachimo,
+SECOND BROTHER
+0
+For this from stiller seats we came,
+FIRST BROTHER
+0
+Like hardiment Posthumus hath
+SICILIUS
+0
+Thy crystal window ope; look out;
+MOTHER
+0
+  Since, Jupiter, our son is good,
+SICILIUS
+0
+Peep through thy marble mansion. Help!
+BROTHERS
+0
+Help, Jupiter! or we appeal,
+JUPITER
+0
+No more, you petty spirits of region low,
+SICILIUS
+0
+He came in thunder; his celestial breath
+ALL
+0
+Thanks, Jupiter!
+SICILIUS
+0
+The marble pavement closes, he is enter'd
+POSTHUMUS
+0
+[Waking] Sleep, thou has been a grandsire and begot
+POSTHUMUS
+1
+GAOLER
+[Waking] Sleep, thou has been a grandsire and begot
+    A father to me; and thou hast created
+    A mother and two brothers. But, O scorn,
+    Gone! They went hence so soon as they were born.
+    And so I am awake. Poor wretches, that depend
+    On greatness' favour, dream as I have done;
+    Wake and find nothing. But, alas, I swerve;
+    Many dream not to find, neither deserve,
+    And yet are steep'd in favours; so am I,
+    That have this golden chance, and know not why.
+    What fairies haunt this ground? A book? O rare one!
+    Be not, as is our fangled world, a garment
+    Nobler than that it covers. Let thy effects
+    So follow to be most unlike our courtiers,
+    As good as promise.
+    [Reads] 'When as a lion's whelp shall, to himself unknown,
+    without seeking find, and be embrac'd by a piece of tender air;
+    and when from a stately cedar shall be lopp'd branches which,
+    being dead many years, shall after revive, be jointed to the old
+    stock, and freshly grow; then shall Posthumus end his miseries,
+    Britain be fortunate and flourish in peace and plenty.'
+    'Tis still a dream, or else such stuff as madmen
+    Tongue, and brain not; either both or nothing,
+    Or senseless speaking, or a speaking such
+    As sense cannot untie. Be what it is,
+    The action of my life is like it, which
+    I'll keep, if but for sympathy.
+GAOLER
+1
+GAOLER
+Come, sir, are you ready for death?
+POSTHUMUS
+1
+GAOLER
+Over-roasted rather; ready long ago.
+GAOLER
+1
+GAOLER
+Hanging is the word, sir; if you be ready for that, you are
+POSTHUMUS
+1
+GAOLER
+So, if I prove a good repast to the spectators, the dish
+GAOLER
+1
+GAOLER
+A heavy reckoning for you, sir. But the comfort is, you
+POSTHUMUS
+1
+GAOLER
+I am merrier to die than thou art to live.
+GAOLER
+1
+GAOLER
+Indeed, sir, he that sleeps feels not the toothache. But a
+POSTHUMUS
+1
+GAOLER
+Yes indeed do I, fellow.
+GAOLER
+1
+GAOLER
+Your death has eyes in's head, then; I have not seen him so
+POSTHUMUS
+1
+GAOLER
+I tell thee, fellow, there are none want eyes to direct
+GAOLER
+1
+GAOLER
+What an infinite mock is this, that a man should have the
+MESSENGER
+1
+GAOLER
+Knock off his manacles; bring your prisoner to the King.
+POSTHUMUS
+1
+GAOLER
+Thou bring'st good news: I am call'd to be made free.
+GAOLER
+1
+GAOLER
+I'll be hang'd then.
+POSTHUMUS
+1
+GAOLER
+Thou shalt be then freer than a gaoler; no bolts for the
+POSTHUMUS
+1
+GAOLER
+Thou shalt be then freer than a gaoler; no bolts for the
+    dead.                         Exeunt POSTHUMUS and MESSENGER
+GAOLER
+1
+GAOLER
+Unless a man would marry a gallows and beget young gibbets,
+CYMBELINE
+0
+Stand by my side, you whom the gods have made
+BELARIUS
+0
+I never saw
+CYMBELINE
+0
+No tidings of him?
+PISANIO
+0
+He hath been search'd among the dead and living,
+CYMBELINE
+0
+To my grief, I am
+BELARIUS
+0
+Sir,
+CYMBELINE
+0
+Bow your knees.
+CORNELIUS
+0
+Hail, great King!
+CYMBELINE
+0
+Who worse than a physician
+CORNELIUS
+0
+With horror, madly dying, like her life;
+CYMBELINE
+0
+Prithee say.
+CORNELIUS
+0
+First, she confess'd she never lov'd you; only
+CYMBELINE
+0
+She alone knew this;
+CORNELIUS
+0
+Your daughter, whom she bore in hand to love
+CYMBELINE
+0
+O most delicate fiend!
+CORNELIUS
+0
+More, sir, and worse. She did confess she had
+CYMBELINE
+0
+Heard you all this, her women?
+LADY
+0
+We did, so please your Highness.
+CYMBELINE
+0
+Mine eyes
+LUCIUS
+0
+Consider, sir, the chance of war. The day
+CYMBELINE
+0
+I have surely seen him;
+IMOGEN
+0
+I humbly thank your Highness.
+LUCIUS
+0
+I do not bid thee beg my life, good lad,
+IMOGEN
+0
+No, no! Alack,
+LUCIUS
+0
+The boy disdains me,
+CYMBELINE
+0
+What wouldst thou, boy?
+IMOGEN
+0
+He is a Roman, no more kin to me
+CYMBELINE
+0
+Wherefore ey'st him so?
+IMOGEN
+0
+I'll tell you, sir, in private, if you please
+CYMBELINE
+0
+Ay, with all my heart,
+IMOGEN
+0
+Fidele, sir.
+CYMBELINE
+0
+Thou'rt my good youth, my page;
+BELARIUS
+0
+Is not this boy reviv'd from death?
+ARVIRAGUS
+0
+One sand another
+GUIDERIUS
+0
+The same dead thing alive.
+BELARIUS
+0
+Peace, peace! see further. He eyes us not; forbear.
+GUIDERIUS
+0
+But we saw him dead.
+BELARIUS
+0
+Be silent; let's see further.
+PISANIO
+0
+[Aside] It is my mistress.
+CYMBELINE
+0
+Come, stand thou by our side;
+IMOGEN
+0
+My boon is that this gentleman may render
+POSTHUMUS
+0
+[Aside] What's that to him?
+CYMBELINE
+0
+That diamond upon your finger, say
+IACHIMO
+0
+Thou'lt torture me to leave unspoken that
+CYMBELINE
+0
+How? me?
+IACHIMO
+0
+I am glad to be constrain'd to utter that
+CYMBELINE
+0
+All that belongs to this.
+IACHIMO
+0
+That paragon, thy daughter,
+CYMBELINE
+0
+My daughter? What of her? Renew thy strength;
+IACHIMO
+0
+Upon a time- unhappy was the clock
+CYMBELINE
+0
+I stand on fire.
+IACHIMO
+0
+All too soon I shall,
+CYMBELINE
+0
+Nay, nay, to th' purpose.
+IACHIMO
+0
+Your daughter's chastity- there it begins.
+POSTHUMUS
+0
+[Coming forward] Ay, so thou dost,
+IMOGEN
+0
+Peace, my lord. Hear, hear!
+POSTHUMUS
+0
+Shall's have a play of this? Thou scornful page,
+PISANIO
+0
+O gentlemen, help!
+CYMBELINE
+0
+Does the world go round?
+POSTHUMUS
+0
+How comes these staggers on me?
+PISANIO
+0
+Wake, my mistress!
+CYMBELINE
+0
+If this be so, the gods do mean to strike me
+PISANIO
+0
+How fares my mistress?
+IMOGEN
+0
+O, get thee from my sight;
+CYMBELINE
+0
+The tune of Imogen!
+PISANIO
+0
+Lady,
+CYMBELINE
+0
+New matter still?
+IMOGEN
+0
+It poison'd me.
+CORNELIUS
+0
+O gods!
+CYMBELINE
+0
+What's this, Cornelius?
+CORNELIUS
+0
+The Queen, sir, very oft importun'd me
+IMOGEN
+0
+Most like I did, for I was dead.
+BELARIUS
+0
+My boys,
+GUIDERIUS
+0
+This is sure Fidele.
+IMOGEN
+0
+Why did you throw your wedded lady from you?
+POSTHUMUS
+0
+Hang there like fruit, my soul,
+CYMBELINE
+0
+How now, my flesh? my child?
+IMOGEN
+0
+[Kneeling] Your blessing, sir.
+BELARIUS
+0
+[To GUIDERIUS and ARVIRAGUS] Though you did love this
+CYMBELINE
+0
+My tears that fall
+IMOGEN
+0
+I am sorry for't, my lord.
+CYMBELINE
+0
+O, she was naught, and long of her it was
+PISANIO
+0
+My lord,
+GUIDERIUS
+0
+Let me end the story:
+CYMBELINE
+0
+Marry, the gods forfend!
+GUIDERIUS
+0
+I have spoke it, and I did it.
+CYMBELINE
+0
+He was a prince.
+GUIDERIUS
+0
+A most incivil one. The wrongs he did me
+CYMBELINE
+0
+I am sorry for thee.
+IMOGEN
+0
+That headless man
+CYMBELINE
+0
+Bind the offender,
+BELARIUS
+0
+Stay, sir King.
+CYMBELINE
+0
+Why, old soldier,
+ARVIRAGUS
+0
+In that he spake too far.
+CYMBELINE
+0
+And thou shalt die for't.
+BELARIUS
+0
+We will die all three;
+ARVIRAGUS
+0
+Your danger's ours.
+GUIDERIUS
+0
+And our good his.
+BELARIUS
+0
+Have at it then by leave!
+CYMBELINE
+0
+What of him? He is
+BELARIUS
+0
+He it is that hath
+CYMBELINE
+0
+Take him hence,
+BELARIUS
+0
+Not too hot.
+CYMBELINE
+0
+Nursing of my sons?
+BELARIUS
+0
+I am too blunt and saucy: here's my knee.
+CYMBELINE
+0
+How? my issue?
+BELARIUS
+0
+So sure as you your father's. I, old Morgan,
+CYMBELINE
+0
+Thou weep'st and speak'st.
+BELARIUS
+0
+Be pleas'd awhile.
+CYMBELINE
+0
+Guiderius had
+BELARIUS
+0
+This is he,
+CYMBELINE
+0
+O, what am I?
+IMOGEN
+0
+No, my lord;
+CYMBELINE
+0
+Did you e'er meet?
+ARVIRAGUS
+0
+Ay, my good lord.
+GUIDERIUS
+0
+And at first meeting lov'd,
+CORNELIUS
+0
+By the Queen's dram she swallow'd.
+CYMBELINE
+0
+O rare instinct!
+IMOGEN
+0
+You are my father too, and did relieve me
+CYMBELINE
+0
+All o'erjoy'd
+IMOGEN
+0
+My good master,
+LUCIUS
+0
+Happy be you!
+CYMBELINE
+0
+The forlorn soldier, that so nobly fought,
+POSTHUMUS
+0
+I am, sir,
+IACHIMO
+0
+[Kneeling] I am down again;
+POSTHUMUS
+0
+Kneel not to me.
+CYMBELINE
+0
+Nobly doom'd!
+ARVIRAGUS
+0
+You holp us, sir,
+POSTHUMUS
+0
+Your servant, Princes. Good my lord of Rome,
+LUCIUS
+0
+Philarmonus!
+SOOTHSAYER
+0
+Here, my good lord.
+LUCIUS
+0
+Read, and declare the meaning.
+SOOTHSAYER
+0
+[Reads] 'When as a lion's whelp shall, to himself
+CYMBELINE
+0
+This hath some seeming.
+SOOTHSAYER
+0
+The lofty cedar, royal Cymbeline,
+CYMBELINE
+0
+Well,
+SOOTHSAYER
+0
+The fingers of the pow'rs above do tune
+CYMBELINE
+0
+Laud we the gods;

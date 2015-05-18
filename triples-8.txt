@@ -1,0 +1,3123 @@
+RUMOUR
+0
+Open your ears; for which of you will stop
+LORD BARDOLPH
+0
+Who keeps the gate here, ho?
+PORTER
+0
+What shall I say you are?
+LORD BARDOLPH
+0
+Tell thou the Earl
+PORTER
+0
+His lordship is walk'd forth into the orchard.
+LORD BARDOLPH
+0
+Here comes the Earl.                Exit PORTER
+NORTHUMBERLAND
+0
+What news, Lord Bardolph? Every minute now
+LORD BARDOLPH
+0
+Noble Earl,
+NORTHUMBERLAND
+0
+Good, an God will!
+LORD BARDOLPH
+0
+As good as heart can wish.
+NORTHUMBERLAND
+0
+How is this deriv'd?
+LORD BARDOLPH
+0
+I spake with one, my lord, that came from thence;
+NORTHUMBERLAND
+0
+Here comes my servant Travers, whom I sent
+LORD BARDOLPH
+0
+My lord, I over-rode him on the way;
+NORTHUMBERLAND
+0
+Now, Travers, what good tidings comes with you?
+TRAVERS
+0
+My lord, Sir John Umfrevile turn'd me back
+NORTHUMBERLAND
+0
+Ha! Again:
+LORD BARDOLPH
+0
+My lord, I'll tell you what:
+NORTHUMBERLAND
+0
+Why should that gentleman that rode by Travers
+LORD BARDOLPH
+0
+Who- he?
+NORTHUMBERLAND
+0
+Yea, this man's brow, like to a title-leaf,
+MORTON
+0
+I ran from Shrewsbury, my noble lord;
+NORTHUMBERLAND
+0
+How doth my son and brother?
+MORTON
+0
+Douglas is living, and your brother, yet;
+NORTHUMBERLAND
+0
+Why, he is dead.
+MORTON
+0
+You are too great to be by me gainsaid;
+NORTHUMBERLAND
+0
+Yet, for all this, say not that Percy's dead.
+LORD BARDOLPH
+0
+I cannot think, my lord, your son is dead.
+MORTON
+0
+I am sorry I should force you to believe
+NORTHUMBERLAND
+0
+For this I shall have time enough to mourn.
+LORD BARDOLPH
+0
+This strained passion doth you wrong, my lord.
+MORTON
+0
+Sweet Earl, divorce not wisdom from your honour.
+LORD BARDOLPH
+0
+We all that are engaged to this loss
+MORTON
+0
+'Tis more than time. And, my most noble lord,
+NORTHUMBERLAND
+0
+I knew of this before; but, to speak truth,
+FALSTAFF
+0
+Sirrah, you giant, what says the doctor to my water?
+PAGE
+0
+He said, sir, the water itself was a good healthy water; but
+FALSTAFF
+0
+Men of all sorts take a pride to gird at me. The brain of
+PAGE
+0
+He said, sir, you should procure him better assurance than
+FALSTAFF
+0
+Let him be damn'd, like the Glutton; pray God his tongue
+PAGE
+0
+He's gone into Smithfield to buy your worship horse.
+FALSTAFF
+0
+I bought him in Paul's, and he'll buy me a horse in
+PAGE
+0
+Sir, here comes the nobleman that committed the
+FALSTAFF
+0
+Wait close; I will not see him.
+CHIEF JUSTICE
+0
+What's he that goes there?
+SERVANT
+0
+Falstaff, an't please your lordship.
+CHIEF JUSTICE
+0
+He that was in question for the robb'ry?
+SERVANT
+0
+He, my lord; but he hath since done good service at
+CHIEF JUSTICE
+0
+What, to York? Call him back again.
+SERVANT
+0
+Sir John Falstaff!
+FALSTAFF
+0
+Boy, tell him I am deaf.
+PAGE
+0
+You must speak louder; my master is deaf.
+CHIEF JUSTICE
+0
+I am sure he is, to the hearing of anything good.
+SERVANT
+0
+Sir John!
+FALSTAFF
+0
+What! a young knave, and begging! Is there not wars? Is
+SERVANT
+0
+You mistake me, sir.
+FALSTAFF
+0
+Why, sir, did I say you were an honest man? Setting my
+SERVANT
+0
+I pray you, sir, then set your knighthood and your
+FALSTAFF
+0
+I give thee leave to tell me so! I lay aside that which
+SERVANT
+0
+Sir, my lord would speak with you.
+CHIEF JUSTICE
+0
+Sir John Falstaff, a word with you.
+FALSTAFF
+0
+My good lord! God give your lordship good time of day. I
+CHIEF JUSTICE
+0
+Sir John, I sent for you before your expedition to
+FALSTAFF
+0
+An't please your lordship, I hear his Majesty is return'd
+CHIEF JUSTICE
+0
+I talk not of his Majesty. You would not come when I
+FALSTAFF
+0
+And I hear, moreover, his Highness is fall'n into this
+CHIEF JUSTICE
+0
+Well God mend him! I pray you let me speak with you.
+FALSTAFF
+0
+This apoplexy, as I take it, is a kind of lethargy, an't
+CHIEF JUSTICE
+0
+What tell you me of it? Be it as it is.
+FALSTAFF
+0
+It hath it original from much grief, from study, and
+CHIEF JUSTICE
+0
+I think you are fall'n into the disease, for you
+FALSTAFF
+0
+Very well, my lord, very well. Rather an't please you, it
+CHIEF JUSTICE
+0
+To punish you by the heels would amend the attention
+FALSTAFF
+0
+I am as poor as Job, my lord, but not so patient. Your
+CHIEF JUSTICE
+0
+I sent for you, when there were matters against you
+FALSTAFF
+0
+As I was then advis'd by my learned counsel in the laws
+CHIEF JUSTICE
+0
+Well, the truth is, Sir John, you live in great
+FALSTAFF
+0
+He that buckles himself in my belt cannot live in less.
+CHIEF JUSTICE
+0
+Your means are very slender, and your waste is
+FALSTAFF
+0
+I would it were otherwise; I would my means were greater
+CHIEF JUSTICE
+0
+You have misled the youthful Prince.
+FALSTAFF
+0
+The young Prince hath misled me. I am the fellow with the
+CHIEF JUSTICE
+0
+Well, I am loath to gall a new-heal'd wound. Your
+FALSTAFF
+0
+My lord-
+CHIEF JUSTICE
+0
+But since all is well, keep it so: wake not a
+FALSTAFF
+0
+To wake a wolf is as bad as smell a fox.
+CHIEF JUSTICE
+0
+What! you are as a candle, the better part burnt
+FALSTAFF
+0
+A wassail candle, my lord- all tallow; if I did say of
+CHIEF JUSTICE
+0
+There is not a white hair in your face but should
+FALSTAFF
+0
+His effect of gravy, gravy,
+CHIEF JUSTICE
+0
+You follow the young Prince up and down, like his
+FALSTAFF
+0
+Not so, my lord. Your ill angel is light; but  hope he
+CHIEF JUSTICE
+0
+Do you set down your name in the scroll of youth,
+FALSTAFF
+0
+My lord, I was born about three of the clock in the
+CHIEF JUSTICE
+0
+Well, God send the Prince a better companion!
+FALSTAFF
+0
+God send the companion a better prince! I cannot rid my
+CHIEF JUSTICE
+0
+Well, the King hath sever'd you. I hear you are
+FALSTAFF
+0
+Yea; I thank your pretty sweet wit for it. But look you
+CHIEF JUSTICE
+0
+Well, be honest, be honest; and God bless your
+FALSTAFF
+0
+Will your lordship lend me a thousand pound to furnish me
+CHIEF JUSTICE
+0
+Not a penny, not a penny; you are too impatient to
+FALSTAFF
+0
+If I do, fillip me with a three-man beetle. A man can no
+PAGE
+0
+Sir?
+FALSTAFF
+0
+What money is in my purse?
+PAGE
+0
+Seven groats and two pence.
+FALSTAFF
+0
+I can get no remedy against this consumption of the
+ARCHBISHOP
+0
+Thus have you heard our cause and known our means;
+MOWBRAY
+0
+I well allow the occasion of our amis;
+HASTINGS
+0
+Our present musters grow upon the file
+LORD BARDOLPH
+0
+The question then, Lord Hastings, standeth thus:
+HASTINGS
+0
+With him, we may.
+LORD BARDOLPH
+0
+Yea, marry, there's the point;
+ARCHBISHOP
+0
+'Tis very true, Lord Bardolph; for indeed
+LORD BARDOLPH
+0
+It was, my lord; who lin'd himself with hope,
+HASTINGS
+0
+But, by your leave, it never yet did hurt
+LORD BARDOLPH
+0
+Yes, if this present quality of war-
+HASTINGS
+0
+Grant that our hopes- yet likely of fair birth-
+LORD BARDOLPH
+0
+What, is the King but five and twenty thousand?
+HASTINGS
+0
+To us no more; nay, not so much, Lord Bardolph;
+ARCHBISHOP
+0
+That he should draw his several strengths together
+HASTINGS
+0
+If he should do so,
+LORD BARDOLPH
+0
+Who is it like should lead his forces hither?
+HASTINGS
+0
+The Duke of Lancaster and Westmoreland;
+ARCHBISHOP
+0
+Let us on,
+MOWBRAY
+0
+Shall we go draw our numbers, and set on?
+HASTINGS
+0
+We are time's subjects, and time bids be gone.
+HOSTESS
+0
+Master Fang, have you ent'red the action?
+FANG
+0
+It is ent'red.
+HOSTESS
+0
+Where's your yeoman? Is't a lusty yeoman? Will 'a stand
+FANG
+0
+Sirrah, where's Snare?
+HOSTESS
+0
+O Lord, ay! good Master Snare.
+SNARE
+0
+Here, here.
+FANG
+0
+Snare, we must arrest Sir John Falstaff.
+HOSTESS
+0
+Yea, good Master Snare; I have ent'red him and all.
+SNARE
+0
+It may chance cost some of our lives, for he will stab.
+HOSTESS
+0
+Alas the day! take heed of him; he stabb'd me in mine own
+FANG
+0
+If I can close with him, I care not for his thrust.
+HOSTESS
+0
+No, nor I neither; I'll be at your elbow.
+FANG
+0
+An I but fist him once; an 'a come but within my vice!
+HOSTESS
+0
+I am undone by his going; I warrant you, he's an
+FALSTAFF
+0
+How now! whose mare's dead? What's the matter?
+FANG
+0
+Sir John, I arrest you at the suit of Mistress Quickly.
+FALSTAFF
+0
+Away, varlets! Draw, Bardolph. Cut me off the villian's
+HOSTESS
+0
+Throw me in the channel! I'll throw thee in the channel.
+FALSTAFF
+0
+Keep them off, Bardolph.
+FANG
+0
+A rescue! a rescue!
+HOSTESS
+0
+Good people, bring a rescue or two. Thou wot, wot thou!
+PAGE
+0
+Away, you scullion! you rampallian! you fustilarian!
+CHIEF JUSTICE
+0
+What is the matter? Keep the peace here, ho!
+HOSTESS
+0
+Good my lord, be good to me. I beseech you, stand to me.
+CHIEF JUSTICE
+0
+How now, Sir John! what, are you brawling here?
+HOSTESS
+0
+O My most worshipful lord, an't please your Grace, I am a
+CHIEF JUSTICE
+0
+For what sum?
+HOSTESS
+0
+It is more than for some, my lord; it is for all- all I
+FALSTAFF
+0
+I think I am as like to ride the mare, if I have any
+CHIEF JUSTICE
+0
+How comes this, Sir John? Fie! What man of good
+FALSTAFF
+0
+What is the gross sum that I owe thee?
+HOSTESS
+0
+Marry, if thou wert an honest man, thyself and the money
+FALSTAFF
+0
+My lord, this is a poor mad soul, and she says up and
+CHIEF JUSTICE
+0
+Sir John, Sir John, I am well acquainted with your
+HOSTESS
+0
+Yea, in truth, my lord.
+CHIEF JUSTICE
+0
+Pray thee, peace. Pay her the debt you owe her, and
+FALSTAFF
+0
+My lord, I will not undergo this sneap without reply. You
+CHIEF JUSTICE
+0
+You speak as having power to do wrong; but answer in
+FALSTAFF
+0
+Come hither, hostess.
+CHIEF JUSTICE
+0
+Now, Master Gower, what news?
+GOWER
+0
+The King, my lord, and Harry Prince of Wales
+FALSTAFF
+0
+As I am a gentleman!
+HOSTESS
+0
+Faith, you said so before.
+FALSTAFF
+0
+As I am a gentleman! Come, no more words of it.
+HOSTESS
+0
+By this heavenly ground I tread on, I must be fain to pawn
+FALSTAFF
+0
+Glasses, glasses, is the only drinking; and for thy
+HOSTESS
+0
+Pray thee, Sir John, let it be but twenty nobles;
+FALSTAFF
+0
+Let it alone; I'll make other shift. You'll be a fool
+HOSTESS
+0
+Well, you shall have it, though I pawn my gown.
+FALSTAFF
+0
+Will I live?  [To BARDOLPH]  Go, with her, with her; hook
+HOSTESS
+0
+Will you have Doll Tearsheet meet you at supper?
+FALSTAFF
+0
+No more words; let's have her.
+CHIEF JUSTICE
+0
+I have heard better news.
+FALSTAFF
+0
+What's the news, my lord?
+CHIEF JUSTICE
+0
+Where lay the King to-night?
+GOWER
+0
+At Basingstoke, my lord.
+FALSTAFF
+0
+I hope, my lord, all's well. What is the news, my lord?
+CHIEF JUSTICE
+0
+Come all his forces back?
+GOWER
+0
+No; fifteen hundred foot, five hundred horse,
+FALSTAFF
+0
+Comes the King back from Wales, my noble lord?
+CHIEF JUSTICE
+0
+You shall have letters of me presently.
+FALSTAFF
+0
+My lord!
+CHIEF JUSTICE
+0
+What's the matter?
+FALSTAFF
+0
+Master Gower, shall I entreat you with me to dinner?
+GOWER
+0
+I must wait upon my good lord here, I thank you, good Sir
+CHIEF JUSTICE
+0
+Sir John, you loiter here too long, being you are to
+FALSTAFF
+0
+Will you sup with me, Master Gower?
+CHIEF JUSTICE
+0
+What foolish master taught you these manners, Sir
+FALSTAFF
+0
+Master Gower, if they become me not, he was a fool that
+CHIEF JUSTICE
+0
+Now, the Lord lighten thee! Thou art a great fool.
+PRINCE
+0
+Before God, I am exceeding weary.
+POINS
+0
+Is't come to that? I had thought weariness durst not have
+PRINCE
+0
+Faith, it does me; though it discolours the complexion of
+POINS
+0
+Why, a prince should not be so loosely studied as to
+PRINCE
+0
+Belike then my appetite was not-princely got; for, by my
+POINS
+0
+How ill it follows, after you have laboured so hard, you
+PRINCE
+0
+Shall I tell thee one thing, Poins?
+POINS
+0
+Yes, faith; and let it be an excellent good thing.
+PRINCE
+0
+It shall serve among wits of no higher breeding than thine.
+POINS
+0
+Go to; I stand the push of your one thing that you will
+PRINCE
+0
+Marry, I tell thee it is not meet that I should be sad, now
+POINS
+0
+Very hardly upon such a subject.
+PRINCE
+0
+By this hand, thou thinkest me as far in the devil's book
+POINS
+0
+The reason?
+PRINCE
+0
+What wouldst thou think of me if I should weep?
+POINS
+0
+I would think thee a most princely hypocrite.
+PRINCE
+0
+It would be every man's thought; and thou art a blessed
+POINS
+0
+Why, because you have been so lewd and so much engraffed to
+PRINCE
+0
+And to thee.
+POINS
+0
+By this light, I am well spoke on; I can hear it with mine
+PRINCE
+0
+And the boy that I gave Falstaff. 'A had him from me
+BARDOLPH
+0
+God save your Grace!
+PRINCE
+0
+And yours, most noble Bardolph!
+POINS
+0
+Come, you virtuous ass, you bashful fool, must you be
+PAGE
+0
+'A calls me e'en now, my lord, through a red lattice, and I
+PRINCE
+0
+Has not the boy profited?
+BARDOLPH
+0
+Away, you whoreson upright rabbit, away!
+PAGE
+0
+Away, you rascally Althaea's dream, away!
+PRINCE
+0
+Instruct us, boy; what dream, boy?
+PAGE
+0
+Marry, my lord, Althaea dreamt she was delivered of a
+PRINCE
+0
+A crown's worth of good interpretation. There 'tis, boy.
+POINS
+0
+O that this blossom could be kept from cankers!
+BARDOLPH
+0
+An you do not make him be hang'd among you, the gallows
+PRINCE
+0
+And how doth thy master, Bardolph?
+BARDOLPH
+0
+Well, my lord. He heard of your Grace's coming to town.
+POINS
+0
+Deliver'd with good respect. And how doth the martlemas,
+BARDOLPH
+0
+In bodily health, sir.
+POINS
+0
+Marry, the immortal part needs a physician; but that moves
+PRINCE
+0
+I do allow this well to be as familiar with me as my dog;
+POINS
+0
+ [Reads]  'John Falstaff, knight'- Every man must know that
+PRINCE
+0
+Nay, they will be kin to us, or they will fetch it from
+POINS
+0
+Why, this is a certificate.
+PRINCE
+0
+Peace!  [Reads]  'I will imitate the honourable Romans in
+POINS
+0
+He sure means brevity in breath, short-winded.
+PRINCE
+0
+ [Reads]  'I commend me to thee, I commend thee, and I
+POINS
+0
+My lord, I'll steep this letter in sack and make him eat it.
+PRINCE
+0
+That's to make him eat twenty of his words. But do you use
+POINS
+0
+God send the wench no worse fortune! But I never said so.
+PRINCE
+0
+Well, thus we play the fools with the time, and the spirits
+BARDOLPH
+0
+Yea, my lord.
+PRINCE
+0
+Where sups he? Doth the old boar feed in the old frank?
+BARDOLPH
+0
+At the old place, my lord, in Eastcheap.
+PRINCE
+0
+What company?
+PAGE
+0
+Ephesians, my lord, of the old church.
+PRINCE
+0
+Sup any women with him?
+PAGE
+0
+None, my lord, but old Mistress Quickly and Mistress Doll
+PRINCE
+0
+What pagan may that be?
+PAGE
+0
+A proper gentlewoman, sir, and a kinswoman of my master's.
+PRINCE
+0
+Even such kin as the parish heifers are to the town bull.
+POINS
+0
+I am your shadow, my lord; I'll follow you.
+PRINCE
+0
+Sirrah, you boy, and Bardolph, no word to your master that
+BARDOLPH
+0
+I have no tongue, sir.
+PAGE
+0
+And for mine, sir, I will govern it.
+PRINCE
+0
+Fare you well; go.            Exeunt BARDOLPH and PAGE
+POINS
+0
+I warrant you, as common as the way between Saint Albans and
+PRINCE
+0
+How might we see Falstaff bestow himself to-night in his
+POINS
+0
+Put on two leathern jerkins and aprons, and wait upon him at
+PRINCE
+0
+From a god to a bull? A heavy descension! It was Jove's
+NORTHUMBERLAND
+0
+I pray thee, loving wife, and gentle daughter,
+LADY NORTHUMBERLAND
+0
+I have given over, I will speak no more.
+NORTHUMBERLAND
+0
+Alas, sweet wife, my honour is at pawn;
+LADY PERCY
+0
+O, yet, for God's sake, go not to these wars!
+NORTHUMBERLAND
+0
+Beshrew your heart,
+LADY NORTHUMBERLAND
+0
+O, fly to Scotland
+LADY PERCY
+0
+If they get ground and vantage of the King,
+NORTHUMBERLAND
+0
+Come, come, go in with me. 'Tis with my mind
+FRANCIS
+0
+What the devil hast thou brought there-apple-johns? Thou
+SECOND DRAWER
+0
+Mass, thou say'st true. The Prince once set a dish
+FRANCIS
+0
+Why, then, cover and set them down; and see if thou canst
+THIRD DRAWER
+0
+Dispatch! The room where they supp'd is too hot;
+FRANCIS
+0
+Sirrah, here will be the Prince and Master Poins anon; and
+THIRD DRAWER
+0
+By the mass, here will be old uds; it will be an
+SECOND DRAWER
+0
+I'll see if I can find out Sneak.
+HOSTESS
+0
+I' faith, sweetheart, methinks now you are in an excellent
+DOLL
+0
+Better than I was- hem.
+HOSTESS
+0
+Why, that's well said; a good heart's worth gold.
+FALSTAFF
+0
+ [Singing]  'When Arthur first in court'- Empty the
+HOSTESS
+0
+Sick of a calm; yea, good faith.
+FALSTAFF
+0
+So is all her sect; and they be once in a calm, they are
+DOLL
+0
+A pox damn you, you muddy rascal! Is that all the comfort you
+FALSTAFF
+0
+You make fat rascals, Mistress Doll.
+DOLL
+0
+I make them! Gluttony and diseases make them: I make them
+FALSTAFF
+0
+If the cook help to make the gluttony, you help to make
+DOLL
+0
+Yea, joy, our chains and our jewels.
+FALSTAFF
+0
+'Your brooches, pearls, and ouches.' For to serve bravely
+DOLL
+0
+Hang yourself, you muddy conger, hang yourself!
+HOSTESS
+0
+By my troth, this is the old fashion; you two never meet
+DOLL
+0
+Can a weak empty vessel bear such a huge full hogs-head?
+DOLL
+1
+FRANCIS
+Can a weak empty vessel bear such a huge full hogs-head?
+    There's a whole merchant's venture of Bourdeaux stuff in him; you
+    have not seen a hulk better stuff'd in the hold. Come, I'll be
+    friends with thee, Jack. Thou art going to the wars; and whether
+    I shall ever see thee again or no, there is nobody cares.
+FRANCIS
+1
+FRANCIS
+Sir, Ancient Pistol's below and would speak with you.
+DOLL
+1
+FRANCIS
+Hang him, swaggering rascal! Let him not come hither; it is
+HOSTESS
+1
+FRANCIS
+If he swagger, let him not come here. No, by my faith! I
+FALSTAFF
+1
+FRANCIS
+Dost thou hear, hostess?
+HOSTESS
+1
+FRANCIS
+Pray ye, pacify yourself, Sir John; there comes no
+FALSTAFF
+1
+FRANCIS
+Dost thou hear? It is mine ancient.
+HOSTESS
+1
+FRANCIS
+Tilly-fally, Sir John, ne'er tell me; and your ancient
+FALSTAFF
+1
+FRANCIS
+He's no swagg'rer, hostess; a tame cheater, i' faith; you
+HOSTESS
+0
+Cheater, call you him? I will bar no honest man my house,
+DOLL
+0
+So you do, hostess.
+HOSTESS
+0
+Do I? Yea, in very truth, do I, an 'twere an aspen leaf. I
+PISTOL
+0
+God save you, Sir John!
+FALSTAFF
+0
+Welcome, Ancient Pistol. Here, Pistol, I charge you with
+PISTOL
+0
+I will discharge upon her, Sir John, with two bullets.
+FALSTAFF
+0
+She is pistol-proof, sir; you shall not hardly offend
+HOSTESS
+0
+Come, I'll drink no proofs nor no bullets. I'll drink no
+PISTOL
+0
+Then to you, Mistress Dorothy; I will charge you.
+DOLL
+0
+Charge me! I scorn you, scurvy companion. What! you poor,
+PISTOL
+0
+I know you, Mistress Dorothy.
+DOLL
+0
+Away, you cut-purse rascal! you filthy bung, away! By this
+PISTOL
+0
+God let me not live but I will murder your ruff for this.
+FALSTAFF
+0
+No more, Pistol; I would not have you go off here.
+HOSTESS
+0
+No, good Captain Pistol; not here, sweet captain.
+DOLL
+0
+Captain! Thou abominable damn'd cheater, art thou not ashamed
+BARDOLPH
+0
+Pray thee go down, good ancient.
+FALSTAFF
+0
+Hark thee hither, Mistress Doll.
+PISTOL
+0
+Not I! I tell thee what, Corporal Bardolph, I could tear
+PAGE
+0
+Pray thee go down.
+PISTOL
+0
+I'll see her damn'd first; to Pluto's damn'd lake, by this
+HOSTESS
+0
+Good Captain Peesel, be quiet; 'tis very late, i' faith; I
+PISTOL
+0
+These be good humours, indeed! Shall packhorses,
+HOSTESS
+0
+By my troth, Captain, these are very bitter words.
+BARDOLPH
+0
+Be gone, good ancient; this will grow to a brawl anon.
+PISTOL
+0
+Die men like dogs! Give crowns like pins! Have we not Hiren
+HOSTESS
+0
+O' my word, Captain, there's none such here. What the
+PISTOL
+0
+Then feed and be fat, my fair Calipolis.
+FALSTAFF
+0
+Pistol, I would be quiet.
+PISTOL
+0
+Sweet knight, I kiss thy neaf. What! we have seen the seven
+DOLL
+0
+For God's sake thrust him down stairs; I cannot endure such a
+PISTOL
+0
+Thrust him down stairs! Know we not Galloway nags?
+FALSTAFF
+0
+Quoit him down, Bardolph, like a shove-groat shilling.
+BARDOLPH
+0
+Come, get you down stairs.
+PISTOL
+0
+What! shall we have incision? Shall we imbrue?
+HOSTESS
+0
+Here's goodly stuff toward!
+FALSTAFF
+0
+Give me my rapier, boy.
+DOLL
+0
+I pray thee, Jack, I pray thee, do not draw.
+FALSTAFF
+0
+Get you down stairs.
+HOSTESS
+0
+Here's a goodly tumult! I'll forswear keeping house afore
+DOLL
+0
+I pray thee, Jack, be quiet; the rascal's gone. Ah, you
+HOSTESS
+0
+Are you not hurt i' th' groin? Methought 'a made a shrewd
+HOSTESS
+1
+BARDOLPH
+Are you not hurt i' th' groin? Methought 'a made a shrewd
+    thrust at your belly.
+FALSTAFF
+1
+BARDOLPH
+Have you turn'd him out a doors?
+BARDOLPH
+1
+BARDOLPH
+Yea, sir. The rascal's drunk. You have hurt him, sir, i'
+FALSTAFF
+1
+BARDOLPH
+A rascal! to brave me!
+DOLL
+1
+BARDOLPH
+Ah, you sweet little rogue, you! Alas, poor ape, how thou
+FALSTAFF
+1
+BARDOLPH
+A rascally slave! I will toss the rogue in a blanket.
+DOLL
+1
+BARDOLPH
+Do, an thou dar'st for thy heart. An thou dost, I'll canvass
+PAGE
+1
+BARDOLPH
+The music is come, sir.
+FALSTAFF
+1
+BARDOLPH
+Let them play. Play, sirs. Sit on my knee, Don. A rascal
+DOLL
+1
+BARDOLPH
+I' faith, and thou follow'dst him like a church. Thou
+FALSTAFF
+1
+BARDOLPH
+Peace, good Doll! Do not speak like a death's-head; do
+DOLL
+1
+BARDOLPH
+Sirrah, what humour's the Prince of?
+FALSTAFF
+1
+BARDOLPH
+A good shallow young fellow. 'A would have made a good
+DOLL
+1
+BARDOLPH
+They say Poins has a good wit.
+FALSTAFF
+1
+BARDOLPH
+He a good wit! hang him, baboon! His wit's as thick as
+DOLL
+1
+BARDOLPH
+Why does the Prince love him so, then?
+FALSTAFF
+1
+BARDOLPH
+Because their legs are both of a bigness, and 'a plays at
+PRINCE
+1
+BARDOLPH
+Would not this nave of a wheel have his ears cut off?
+POINS
+1
+BARDOLPH
+Let's beat him before his whore.
+PRINCE
+1
+BARDOLPH
+Look whe'er the wither'd elder hath not his poll claw'd
+POINS
+1
+BARDOLPH
+Is it not strange that desire should so many years outlive
+FALSTAFF
+1
+BARDOLPH
+Kiss me, Doll.
+PRINCE
+1
+BARDOLPH
+Saturn and Venus this year in conjunction! What says th'
+POINS
+1
+BARDOLPH
+And look whether the fiery Trigon, his man, be not lisping
+FALSTAFF
+1
+BARDOLPH
+Thou dost give me flattering busses.
+DOLL
+1
+BARDOLPH
+By my troth, I kiss thee with a most constant heart.
+FALSTAFF
+1
+BARDOLPH
+I am old, I am old.
+DOLL
+1
+BARDOLPH
+I love thee better than I love e'er a scurvy young boy of
+FALSTAFF
+1
+BARDOLPH
+What stuff wilt have a kirtle of? I shall receive money a
+DOLL
+1
+BARDOLPH
+By my troth, thou't set me a-weeping, an thou say'st so.
+FALSTAFF
+1
+BARDOLPH
+Some sack, Francis.
+FALSTAFF
+1
+BARDOLPH
+Ha! a bastard son of the King's? And art thou not Poins
+PRINCE
+1
+BARDOLPH
+Why, thou globe of sinful continents, what a life dost thou
+FALSTAFF
+1
+BARDOLPH
+A better than thou. I am a gentleman: thou art a drawer.
+PRINCE
+1
+BARDOLPH
+Very true, sir, and I come to draw you out by the ears.
+HOSTESS
+1
+BARDOLPH
+O, the Lord preserve thy Grace! By my troth, welcome to
+FALSTAFF
+1
+BARDOLPH
+Thou whoreson mad compound of majesty, by this light
+DOLL
+1
+BARDOLPH
+How, you fat fool! I scorn you.
+POINS
+1
+BARDOLPH
+My lord, he will drive you out of your revenge and turn all
+PRINCE
+1
+BARDOLPH
+YOU whoreson candle-mine, you, how vilely did you speak of
+HOSTESS
+1
+BARDOLPH
+God's blessing of your good heart! and so she is, by my
+FALSTAFF
+1
+BARDOLPH
+Didst thou hear me?
+PRINCE
+1
+BARDOLPH
+Yea; and you knew me, as you did when you ran away by
+FALSTAFF
+1
+BARDOLPH
+No, no, no; not so; I did not think thou wast within
+PRINCE
+1
+BARDOLPH
+I shall drive you then to confess the wilful abuse, and
+FALSTAFF
+1
+BARDOLPH
+No abuse, Hal, o' mine honour; no abuse.
+PRINCE
+1
+BARDOLPH
+Not- to dispraise me, and call me pander, and
+FALSTAFF
+1
+BARDOLPH
+No abuse, Hal.
+POINS
+1
+BARDOLPH
+No abuse!
+FALSTAFF
+1
+BARDOLPH
+No abuse, Ned, i' th' world; honest Ned, none. I
+PRINCE
+1
+BARDOLPH
+See now, whether pure fear and entire cowardice doth not
+POINS
+1
+BARDOLPH
+Answer, thou dead elm, answer.
+FALSTAFF
+1
+BARDOLPH
+The fiend hath prick'd down Bardolph irrecoverable; and
+PRINCE
+1
+BARDOLPH
+For the women?
+FALSTAFF
+1
+BARDOLPH
+For one of them- she's in hell already, and burns poor
+HOSTESS
+1
+BARDOLPH
+No, I warrant you.
+FALSTAFF
+1
+BARDOLPH
+No, I think thou art not; I think thou art quit for that.
+HOSTESS
+1
+BARDOLPH
+All vict'lers do so. What's a joint of mutton or two in a
+PRINCE
+1
+BARDOLPH
+You, gentlewoman-
+DOLL
+1
+BARDOLPH
+What says your Grace?
+FALSTAFF
+1
+BARDOLPH
+His Grace says that which his flesh rebels against.
+HOSTESS
+1
+BARDOLPH
+Who knocks so loud at door? Look to th' door there,
+PRINCE
+1
+BARDOLPH
+Peto, how now! What news?
+PETO
+1
+BARDOLPH
+The King your father is at Westminster;
+PRINCE
+1
+BARDOLPH
+By heaven, Poins, I feel me much to blame
+PRINCE
+1
+BARDOLPH
+By heaven, Poins, I feel me much to blame
+    So idly to profane the precious time,
+    When tempest of commotion, like the south,
+    Borne with black vapour, doth begin to melt
+    And drop upon our bare unarmed heads.
+    Give me my sword and cloak. Falstaff, good night.
+                        Exeunt PRINCE, POINS, PETO, and BARDOLPH
+FALSTAFF
+1
+BARDOLPH
+Now comes in the sweetest morsel of the night, and we
+FALSTAFF
+1
+BARDOLPH
+Now comes in the sweetest morsel of the night, and we
+    must hence, and leave it unpick'd.  [Knocking within]  More
+    knocking at the door!
+BARDOLPH
+1
+BARDOLPH
+You must away to court, sir, presently;
+FALSTAFF
+1
+BARDOLPH
+ [To the PAGE]. Pay the musicians, sirrah.- Farewell,
+DOLL
+1
+BARDOLPH
+I cannot speak. If my heart be not ready to burst!
+FALSTAFF
+1
+BARDOLPH
+Farewell, farewell.
+FALSTAFF
+1
+BARDOLPH
+Farewell, farewell.
+                                    Exeunt FALSTAFF and BARDOLPH
+HOSTESS
+1
+BARDOLPH
+Well, fare thee well. I have known thee these twenty-nine
+BARDOLPH
+1
+BARDOLPH
+ [ Within]  Mistress Tearsheet!
+HOSTESS
+1
+BARDOLPH
+What's the matter?
+BARDOLPH
+1
+BARDOLPH
+ [ Within]  Bid Mistress Tearsheet come to my master.
+HOSTESS
+1
+BARDOLPH
+O, run Doll, run, run, good Come.  [To BARDOLPH]  She
+KING
+1
+BARDOLPH
+Go call the Earls of Surrey and of Warwick;
+WARWICK
+1
+BARDOLPH
+Many good morrows to your Majesty!
+KING
+1
+BARDOLPH
+Is it good morrow, lords?
+WARWICK
+1
+BARDOLPH
+'Tis one o'clock, and past.
+KING
+1
+BARDOLPH
+Why then, good morrow to you all, my lords.
+WARWICK
+1
+BARDOLPH
+We have, my liege.
+KING
+1
+BARDOLPH
+Then you perceive the body of our kingdom
+WARWICK
+1
+BARDOLPH
+It is but as a body yet distempered;
+KING
+1
+BARDOLPH
+O God! that one might read the book of fate,
+WARWICK
+1
+BARDOLPH
+There is a history in all men's lives,
+KING
+1
+BARDOLPH
+Are these things then necessities?
+WARWICK
+1
+BARDOLPH
+It cannot be, my lord.
+KING
+1
+BARDOLPH
+I will take your counsel.
+SHALLOW
+0
+Come on, come on, come on; give me your hand, sir; give me
+SILENCE
+0
+Good morrow, good cousin Shallow.
+SHALLOW
+0
+And how doth my cousin, your bed-fellow? and your fairest
+SILENCE
+0
+Alas, a black ousel, cousin Shallow!
+SHALLOW
+0
+By yea and no, sir. I dare say my cousin William is become
+SILENCE
+0
+Indeed, sir, to my cost.
+SHALLOW
+0
+'A must, then, to the Inns o' Court shortly. I was once of
+SILENCE
+0
+You were call'd 'lusty Shallow' then, cousin.
+SHALLOW
+0
+By the mass, I was call'd anything; and I would have done
+SILENCE
+0
+This Sir John, cousin, that comes hither anon about
+SHALLOW
+0
+The same Sir John, the very same. I see him break
+SILENCE
+0
+We shall all follow, cousin.
+SHALLOW
+0
+Certain, 'tis certain; very sure, very sure. Death, as the
+SILENCE
+0
+By my troth, I was not there.
+SHALLOW
+0
+Death is certain. Is old Double of your town living yet?
+SILENCE
+0
+Dead, sir.
+SHALLOW
+0
+Jesu, Jesu, dead! drew a good bow; and dead! 'A shot a
+SILENCE
+0
+Thereafter as they be- a score of good ewes may be worth
+SHALLOW
+0
+And is old Double dead?
+SILENCE
+0
+Here come two of Sir John Falstaffs men, as I think.
+SHALLOW
+0
+Good morrow, honest gentlemen.
+BARDOLPH
+0
+I beseech you, which is Justice Shallow?
+SHALLOW
+0
+I am Robert Shallow, sir, a poor esquire of this county,
+BARDOLPH
+0
+My captain, sir, commends him to you; my captain, Sir
+SHALLOW
+0
+He greets me well, sir; I knew him a good back-sword man.
+BARDOLPH
+0
+Sir, pardon; a soldier is better accommodated than with a
+SHALLOW
+0
+It is well said, in faith, sir; and it is well said indeed
+BARDOLPH
+0
+Pardon, sir; I have heard the word. 'Phrase' call you it?
+SHALLOW
+0
+It is very just. Look, here comes good Sir John. Give me
+FALSTAFF
+0
+I am glad to see you well, good Master Robert Shallow.
+SHALLOW
+0
+No, Sir John; it is my cousin Silence, in commission with
+FALSTAFF
+0
+Good Master Silence, it well befits you should be of the
+SILENCE
+0
+Your good worship is welcome.
+FALSTAFF
+0
+Fie! this is hot weather. Gentlemen, have you provided me
+SHALLOW
+0
+Marry, have we, sir. Will you sit?
+FALSTAFF
+0
+Let me see them, I beseech you.
+SHALLOW
+0
+Where's the roll? Where's the roll? Where's the roll? Let
+MOULDY
+0
+Here, an't please you.
+SHALLOW
+0
+What think you, Sir John? A good-limb'd fellow; young,
+FALSTAFF
+0
+Is thy name Mouldy?
+MOULDY
+0
+Yea, an't please you.
+FALSTAFF
+0
+'Tis the more time thou wert us'd.
+SHALLOW
+0
+Ha, ha, ha! most excellent, i' faith! Things that are
+FALSTAFF
+0
+Prick him.
+MOULDY
+0
+I was prick'd well enough before, an you could have let me
+FALSTAFF
+0
+Go to; peace, Mouldy; you shall go. Mouldy, it is time
+MOULDY
+0
+Spent!
+SHALLOW
+0
+Peace, fellow, peace; stand aside; know you where you are?
+FALSTAFF
+0
+Yea, marry, let me have him to sit under. He's like to be
+SHALLOW
+0
+Where's Shadow?
+SHADOW
+0
+Here, sir.
+FALSTAFF
+0
+Shadow, whose son art thou?
+SHADOW
+0
+My mother's son, sir.
+FALSTAFF
+0
+Thy mother's son! Like enough; and thy father's shadow.
+SHALLOW
+0
+Do you like him, Sir John?
+FALSTAFF
+0
+Shadow will serve for summer. Prick him; for we have a
+SHALLOW
+0
+Thomas Wart!
+FALSTAFF
+0
+Where's he?
+WART
+0
+Here, sir.
+FALSTAFF
+0
+Is thy name Wart?
+WART
+0
+Yea, sir.
+FALSTAFF
+0
+Thou art a very ragged wart.
+SHALLOW
+0
+Shall I prick him, Sir John?
+FALSTAFF
+0
+It were superfluous; for his apparel is built upon his
+SHALLOW
+0
+Ha, ha, ha! You can do it, sir; you can do it. I commend
+FEEBLE
+0
+Here, sir.
+FALSTAFF
+0
+What trade art thou, Feeble?
+FEEBLE
+0
+A woman's tailor, sir.
+SHALLOW
+0
+Shall I prick him, sir?
+FALSTAFF
+0
+You may; but if he had been a man's tailor, he'd ha'
+FEEBLE
+0
+I will do my good will, sir; you can have no more.
+FALSTAFF
+0
+Well said, good woman's tailor! well said, courageous
+FEEBLE
+0
+I would Wart might have gone, sir.
+FALSTAFF
+0
+I would thou wert a man's tailor, that thou mightst mend
+FEEBLE
+0
+It shall suffice, sir.
+FALSTAFF
+0
+I am bound to thee, reverend Feeble. Who is next?
+SHALLOW
+0
+Peter Bullcalf o' th' green!
+FALSTAFF
+0
+Yea, marry, let's see Bullcalf.
+BULLCALF
+0
+Here, sir.
+FALSTAFF
+0
+Fore God, a likely fellow! Come, prick me Bullcalf till
+BULLCALF
+0
+O Lord! good my lord captain-
+FALSTAFF
+0
+What, dost thou roar before thou art prick'd?
+BULLCALF
+0
+O Lord, sir! I am a diseased man.
+FALSTAFF
+0
+What disease hast thou?
+BULLCALF
+0
+A whoreson cold, sir, a cough, sir, which I caught with
+FALSTAFF
+0
+Come, thou shalt go to the wars in a gown. We will have
+SHALLOW
+0
+Here is two more call'd than your number. You must have
+FALSTAFF
+0
+Come, I will go drink with you, but I cannot tarry
+SHALLOW
+0
+O, Sir John, do you remember since we lay all night in the
+FALSTAFF
+0
+No more of that, Master Shallow, no more of that.
+SHALLOW
+0
+Ha, 'twas a merry night. And is Jane Nightwork alive?
+FALSTAFF
+0
+She lives, Master Shallow.
+SHALLOW
+0
+She never could away with me.
+FALSTAFF
+0
+Never, never; she would always say she could not abide
+SHALLOW
+0
+By the mass, I could anger her to th' heart. She was then
+FALSTAFF
+0
+Old, old, Master Shallow.
+SHALLOW
+0
+Nay, she must be old; she cannot choose but be old;
+SILENCE
+0
+That's fifty-five year ago.
+SHALLOW
+0
+Ha, cousin Silence, that thou hadst seen that that this
+FALSTAFF
+0
+We have heard the chimes at midnight, Master Shallow.
+SHALLOW
+0
+That we have, that we have, that we have; in faith, Sir
+BULLCALF
+0
+Good Master Corporate Bardolph, stand my friend; and
+BARDOLPH
+0
+Go to; stand aside.
+MOULDY
+0
+And, good Master Corporal Captain, for my old dame's sake,
+BARDOLPH
+0
+Go to; stand aside.
+FEEBLE
+0
+By my troth, I care not; a man can die but once; we owe God
+BARDOLPH
+0
+Well said; th'art a good fellow.
+FEEBLE
+1
+FALSTAFF
+Faith, I'll bear no base mind.
+FALSTAFF
+1
+FALSTAFF
+Come, sir, which men shall I have?
+SHALLOW
+1
+FALSTAFF
+Four of which you please.
+BARDOLPH
+1
+FALSTAFF
+Sir, a word with you. I have three pound to free Mouldy
+FALSTAFF
+1
+FALSTAFF
+Go to; well.
+SHALLOW
+1
+FALSTAFF
+Come, Sir John, which four will you have?
+FALSTAFF
+1
+FALSTAFF
+Do you choose for me.
+SHALLOW
+1
+FALSTAFF
+Marry, then- Mouldy, Bullcalf, Feeble, and Shadow.
+FALSTAFF
+1
+FALSTAFF
+Mouldy and Bullcalf: for you, Mouldy, stay at home till
+SHALLOW
+1
+FALSTAFF
+Sir John, Sir John, do not yourself wrong. They are your
+FALSTAFF
+1
+FALSTAFF
+Will you tell me, Master Shallow, how to choose a man?
+BARDOLPH
+1
+FALSTAFF
+Hold, Wart. Traverse- thus, thus, thus.
+FALSTAFF
+1
+FALSTAFF
+Come, manage me your caliver. So- very well. Go to; very
+SHALLOW
+1
+FALSTAFF
+He is not his craft's master, he doth not do it right. I
+FALSTAFF
+1
+FALSTAFF
+These fellows will do well. Master Shallow, God keep you!
+SHALLOW
+1
+FALSTAFF
+Sir John, the Lord bless you; God prosper your affairs;
+FALSTAFF
+1
+FALSTAFF
+Fore God, would you would.
+SHALLOW
+1
+FALSTAFF
+Go to; I have spoke at a word. God keep you.
+FALSTAFF
+1
+FALSTAFF
+Fare you well, gentle gentlemen.  [Exeunt JUSTICES]  On,
+ARCHBISHOP
+0
+What is this forest call'd
+HASTINGS
+0
+'Tis Gaultree Forest, an't shall please your Grace.
+ARCHBISHOP
+0
+Here stand, my lords, and send discoverers forth
+HASTINGS
+0
+We have sent forth already.
+ARCHBISHOP
+0
+'Tis well done.
+MOWBRAY
+0
+Thus do the hopes we have in him touch ground
+HASTINGS
+0
+Now, what news?
+MESSENGER
+0
+West of this forest, scarcely off a mile,
+MOWBRAY
+0
+The just proportion that we gave them out.
+ARCHBISHOP
+0
+What well-appointed leader fronts us here?
+MOWBRAY
+0
+I think it is my Lord of Westmoreland.
+WESTMORELAND
+0
+Health and fair greeting from our general,
+ARCHBISHOP
+0
+Say on, my Lord of Westmoreland, in peace,
+WESTMORELAND
+0
+Then, my lord,
+ARCHBISHOP
+0
+Wherefore do I this? So the question stands.
+WESTMORELAND
+0
+When ever yet was your appeal denied;
+ARCHBISHOP
+0
+My brother general, the commonwealth,
+WESTMORELAND
+0
+There is no need of any such redress;
+MOWBRAY
+0
+Why not to him in part, and to us all
+WESTMORELAND
+0
+O my good Lord Mowbray,
+MOWBRAY
+0
+What thing, in honour, had my father lost
+WESTMORELAND
+0
+You speak, Lord Mowbray, now you know not what.
+MOWBRAY
+0
+But he hath forc'd us to compel this offer;
+WESTMORELAND
+0
+Mowbray. you overween to take it so.
+MOWBRAY
+0
+Well, by my will we shall admit no parley.
+WESTMORELAND
+0
+That argues but the shame of your offence:
+HASTINGS
+0
+Hath the Prince John a full commission,
+WESTMORELAND
+0
+That is intended in the general's name.
+ARCHBISHOP
+0
+Then take, my Lord of Westmoreland, this schedule,
+WESTMORELAND
+0
+This will I show the general. Please you, lords,
+ARCHBISHOP
+0
+My lord, we will do so.          Exit WESTMORELAND
+MOWBRAY
+0
+There is a thing within my bosom tells me
+HASTINGS
+0
+Fear you not that: if we can make our peace
+MOWBRAY
+0
+Yea, but our valuation shall be such
+ARCHBISHOP
+0
+No, no, my lord. Note this: the King is weary
+HASTINGS
+0
+Besides, the King hath wasted all his rods
+ARCHBISHOP
+0
+'Tis very true;
+MOWBRAY
+0
+Be it so.
+MOWBRAY
+1
+WESTMORELAND
+Be it so.
+    Here is return'd my Lord of Westmoreland.
+WESTMORELAND
+1
+WESTMORELAND
+The Prince is here at hand. Pleaseth your lordship
+MOWBRAY
+1
+WESTMORELAND
+Your Grace of York, in God's name then, set forward.
+ARCHBISHOP
+1
+WESTMORELAND
+Before, and greet his Grace. My lord, we come.
+PRINCE JOHN
+0
+You are well encount'red here, my cousin Mowbray.
+ARCHBISHOP
+0
+Good my Lord of Lancaster,
+MOWBRAY
+0
+If not, we ready are to try our fortunes
+HASTINGS
+0
+And though we here fall down,
+PRINCE JOHN
+0
+YOU are too shallow, Hastings, much to shallow,
+WESTMORELAND
+0
+Pleaseth your Grace to answer them directly
+PRINCE JOHN
+0
+I like them all and do allow them well;
+ARCHBISHOP
+0
+I take your princely word for these redresses.
+PRINCE JOHN
+0
+I give it you, and will maintain my word;
+HASTINGS
+0
+Go, Captain, and deliver to the army
+ARCHBISHOP
+0
+To you, my noble Lord of Westmoreland.
+WESTMORELAND
+0
+I pledge your Grace; and if you knew what pains
+ARCHBISHOP
+0
+I do not doubt you.
+WESTMORELAND
+0
+I am glad of it.
+MOWBRAY
+0
+You wish me health in very happy season,
+ARCHBISHOP
+0
+Against ill chances men are ever merry;
+WESTMORELAND
+0
+Therefore be merry, coz; since sudden sorrow
+ARCHBISHOP
+0
+Believe me, I am passing light in spirit.
+MOWBRAY
+0
+So much the worse, if your own rule be true.
+PRINCE JOHN
+0
+The word of peace is rend'red. Hark, how they shout!
+MOWBRAY
+0
+This had been cheerful after victory.
+ARCHBISHOP
+0
+A peace is of the nature of a conquest;
+PRINCE JOHN
+0
+Go, my lord,
+ARCHBISHOP
+0
+Go, good Lord Hastings,
+PRINCE JOHN
+1
+WESTMORELAND
+I trust, lords, we shall lie to-night together.
+WESTMORELAND
+1
+WESTMORELAND
+The leaders, having charge from you to stand,
+PRINCE JOHN
+2
+WESTMORELAND
+HASTINGS
+They know their duties.
+HASTINGS
+2
+WESTMORELAND
+HASTINGS
+My lord, our army is dispers'd already.
+WESTMORELAND
+2
+WESTMORELAND
+HASTINGS
+Good tidings, my Lord Hastings; for the which
+MOWBRAY
+2
+WESTMORELAND
+HASTINGS
+Is this proceeding just and honourable?
+WESTMORELAND
+2
+WESTMORELAND
+HASTINGS
+Is your assembly so?
+ARCHBISHOP
+2
+WESTMORELAND
+HASTINGS
+Will you thus break your faith?
+PRINCE JOHN
+2
+WESTMORELAND
+HASTINGS
+I pawn'd thee none:
+FALSTAFF
+0
+What's your name, sir? Of what condition are you, and of
+COLVILLE
+0
+I am a knight sir; and my name is Colville of the Dale.
+FALSTAFF
+0
+Well then, Colville is your name, a knight is your
+COLVILLE
+0
+Are not you Sir John Falstaff?
+FALSTAFF
+0
+As good a man as he, sir, whoe'er I am. Do you yield,
+COLVILLE
+0
+I think you are Sir John Falstaff, and in that thought
+FALSTAFF
+0
+I have a whole school of tongues in this belly of mine;
+PRINCE JOHN
+0
+The heat is past; follow no further now.
+FALSTAFF
+0
+I would be sorry, my lord, but it should be thus: I never
+PRINCE JOHN
+0
+It was more of his courtesy than your deserving.
+FALSTAFF
+0
+I know not. Here he is, and here I yield him; and I
+PRINCE JOHN
+0
+Thine's too heavy to mount.
+FALSTAFF
+0
+Let it shine, then.
+PRINCE JOHN
+0
+Thine's too thick to shine.
+FALSTAFF
+0
+Let it do something, my good lord, that may do me good,
+PRINCE JOHN
+0
+Is thy name Colville?
+COLVILLE
+0
+It is, my lord.
+PRINCE JOHN
+0
+A famous rebel art thou, Colville.
+FALSTAFF
+0
+And a famous true subject took him.
+COLVILLE
+0
+I am, my lord, but as my betters are
+FALSTAFF
+0
+I know not how they sold themselves; but thou, like a
+FALSTAFF
+1
+WESTMORELAND
+I know not how they sold themselves; but thou, like a
+    kind fellow, gavest thyself away gratis; and I thank thee for
+    thee.
+PRINCE JOHN
+1
+WESTMORELAND
+Now, have you left pursuit?
+WESTMORELAND
+1
+WESTMORELAND
+Retreat is made, and execution stay'd.
+PRINCE JOHN
+1
+WESTMORELAND
+Send Colville, with his confederates,
+PRINCE JOHN
+1
+WESTMORELAND
+Send Colville, with his confederates,
+    To York, to present execution.
+    Blunt, lead him hence; and see you guard him sure.
+                                         Exeunt BLUNT and others
+FALSTAFF
+1
+WESTMORELAND
+My lord, I beseech you, give me leave to go through
+PRINCE JOHN
+1
+WESTMORELAND
+Fare you well, Falstaff. I, in my condition,
+PRINCE JOHN
+1
+WESTMORELAND
+Fare you well, Falstaff. I, in my condition,
+    Shall better speak of you than you deserve.
+                                         Exeunt all but FALSTAFF
+FALSTAFF
+1
+WESTMORELAND
+I would you had but the wit; 'twere better than your
+BARDOLPH
+1
+WESTMORELAND
+The army is discharged all and gone.
+FALSTAFF
+1
+WESTMORELAND
+Let them go. I'll through Gloucestershire, and there will
+KING
+0
+Now, lords, if God doth give successful end
+WARWICK
+0
+Both which we doubt not but your Majesty
+KING
+0
+Humphrey, my son of Gloucester,
+PRINCE HUMPHREY
+0
+I think he's gone to hunt, my lord, at Windsor.
+KING
+0
+And how accompanied?
+PRINCE HUMPHREY
+0
+I do not know, my lord.
+KING
+0
+Is not his brother, Thomas of Clarence, with him?
+PRINCE HUMPHREY
+0
+No, my good lord, he is in presence here.
+CLARENCE
+0
+What would my lord and father?
+KING
+0
+Nothing but well to thee, Thomas of Clarence.
+CLARENCE
+0
+I shall observe him with all care and love.
+KING
+0
+Why art thou not at Windsor with him, Thomas?
+CLARENCE
+0
+He is not there to-day; he dines in London.
+KING
+0
+And how accompanied? Canst thou tell that?
+CLARENCE
+0
+With Poins, and other his continual followers.
+KING
+0
+Most subject is the fattest soil to weeds;
+WARWICK
+0
+My gracious lord, you look beyond him quite.
+KING
+0
+'Tis seldom when the bee doth leave her comb
+WESTMORELAND
+0
+Health to my sovereign, and new happiness
+KING
+0
+O Westmoreland, thou art a summer bird,
+HARCOURT
+0
+From enemies heaven keep your Majesty;
+KING
+0
+And wherefore should these good news make me sick?
+PRINCE HUMPHREY
+0
+Comfort, your Majesty!
+CLARENCE
+0
+O my royal father!
+WESTMORELAND
+0
+My sovereign lord, cheer up yourself, look up.
+WARWICK
+0
+Be patient, Princes; you do know these fits
+CLARENCE
+0
+No, no; he cannot long hold out these pangs.
+PRINCE HUMPHREY
+0
+The people fear me; for they do observe
+CLARENCE
+0
+The river hath thrice flow'd, no ebb between;
+WARWICK
+0
+Speak lower, Princes, for the King recovers.
+PRINCE HUMPHREY
+0
+This apoplexy will certain be his end.
+KING
+0
+I pray you take me up, and bear me hence
+KING
+0
+Let there be no noise made, my gentle friends;
+WARWICK
+0
+Call for the music in the other room.
+KING
+0
+Set me the crown upon my pillow here.
+CLARENCE
+0
+His eye is hollow, and he changes much.
+WARWICK
+0
+Less noise! less noise!
+PRINCE
+0
+Who saw the Duke of Clarence?
+CLARENCE
+0
+I am here, brother, full of heaviness.
+PRINCE
+0
+How now! Rain within doors, and none abroad!
+PRINCE HUMPHREY
+0
+Exceeding ill.
+PRINCE
+0
+Heard he the good news yet? Tell it him.
+PRINCE HUMPHREY
+0
+He alt'red much upon the hearing it.
+PRINCE
+0
+If he be sick with joy, he'll recover without physic.
+WARWICK
+0
+Not so much noise, my lords. Sweet Prince, speak low;
+CLARENCE
+0
+Let us withdraw into the other room.
+WARWICK
+0
+Will't please your Grace to go along with us?
+PRINCE
+0
+No; I will sit and watch here by the King.
+KING
+1
+WARWICK
+Warwick! Gloucester! Clarence!
+CLARENCE
+1
+WARWICK
+Doth the King call?
+WARWICK
+1
+WARWICK
+What would your Majesty? How fares your Grace?
+KING
+1
+WARWICK
+Why did you leave me here alone, my lords?
+CLARENCE
+1
+WARWICK
+We left the Prince my brother here, my liege,
+KING
+1
+WARWICK
+The Prince of Wales! Where is he? Let me see him.
+WARWICK
+1
+WARWICK
+This door is open; he is gone this way.
+PRINCE HUMPHREY
+1
+WARWICK
+He came not through the chamber where we stay'd.
+KING
+1
+WARWICK
+Where is the crown? Who took it from my pillow?
+WARWICK
+1
+WARWICK
+When we withdrew, my liege, we left it here.
+KING
+1
+WARWICK
+The Prince hath ta'en it hence. Go, seek him out.
+KING
+1
+WARWICK
+The Prince hath ta'en it hence. Go, seek him out.
+    Is he so hasty that he doth suppose
+    My sleep my death?
+    Find him, my lord of Warwick; chide him hither.
+                                                    Exit WARWICK
+    This part of his conjoins with my disease
+    And helps to end me. See, sons, what things you are!
+    How quickly nature falls into revolt
+    When gold becomes her object!
+    For this the foolish over-careful fathers
+    Have broke their sleep with thoughts,
+    Their brains with care, their bones with industry;
+    For this they have engrossed and pil'd up
+    The cank'red heaps of strange-achieved gold;
+    For this they have been thoughtful to invest
+    Their sons with arts and martial exercises;
+    When, like the bee, tolling from every flower
+    The virtuous sweets,
+    Our thighs with wax, our mouths with honey pack'd,
+    We bring it to the hive, and, like the bees,
+    Are murd'red for our pains. This bitter taste
+    Yields his engrossments to the ending father.
+WARWICK
+1
+WARWICK
+My lord, I found the Prince in the next room,
+KING
+2
+PRINCE
+WARWICK
+But wherefore did he take away the crown?
+KING
+2
+PRINCE
+WARWICK
+But wherefore did he take away the crown?
+    Lo where he comes. Come hither to me, Harry.
+    Depart the chamber, leave us here alone.
+                          Exeunt all but the KING and the PRINCE
+PRINCE
+2
+PRINCE
+WARWICK
+I never thought to hear you speak again.
+KING
+2
+PRINCE
+WARWICK
+Thy wish was father, Harry, to that thought.
+PRINCE
+2
+PRINCE
+WARWICK
+O, pardon me, my liege! But for my tears,
+KING
+2
+PRINCE
+WARWICK
+O my son,
+PRINCE
+2
+PRINCE
+WARWICK
+My gracious liege,
+KING
+2
+PRINCE
+WARWICK
+Look, look, here comes my John of Lancaster.
+PRINCE JOHN
+2
+PRINCE
+WARWICK
+Health, peace, and happiness, to my royal father!
+KING
+2
+PRINCE
+WARWICK
+Thou bring'st me happiness and peace, son John;
+PRINCE
+2
+PRINCE
+WARWICK
+My Lord of Warwick!
+KING
+2
+PRINCE
+WARWICK
+Doth any name particular belong
+WARWICK
+2
+PRINCE
+WARWICK
+'Tis call'd Jerusalem, my noble lord.
+KING
+2
+PRINCE
+WARWICK
+Laud be to God! Even there my life must end.
+SHALLOW
+0
+By cock and pie, sir, you shall not away to-night.
+FALSTAFF
+0
+You must excuse me, Master Robert Shallow.
+SHALLOW
+0
+I will not excuse you; you shall not be excus'd; excuses
+DAVY
+0
+Here, sir.
+SHALLOW
+0
+Davy, Davy, Davy, Davy; let me see, Davy; let me see,
+DAVY
+0
+Marry, sir, thus: those precepts cannot be served; and,
+SHALLOW
+0
+With red wheat, Davy. But for William cook- are there no
+DAVY
+0
+Yes, sir. Here is now the smith's note for shoeing and
+SHALLOW
+0
+Let it be cast, and paid. Sir John, you shall not be
+DAVY
+0
+Now, sir, a new link to the bucket must needs be had; and,
+SHALLOW
+0
+'A shall answer it. Some pigeons, Davy, a couple of
+DAVY
+0
+Doth the man of war stay all night, sir?
+SHALLOW
+0
+Yea, Davy; I will use him well. A friend i' th' court is
+DAVY
+0
+No worse than they are backbitten, sir; for they have
+SHALLOW
+0
+Well conceited, Davy- about thy business, Davy.
+DAVY
+0
+I beseech you, sir, to countenance William Visor of Woncot
+SHALLOW
+0
+There, is many complaints, Davy, against that Visor. That
+DAVY
+0
+I grant your worship that he is a knave, sir; but yet God
+SHALLOW
+0
+Go to; I say he shall have no wrong. Look about,
+DAVY
+0
+ [Exit DAVY]  Where are you, Sir John? Come, come, come, off
+BARDOLPH
+0
+I am glad to see your worship.
+SHALLOW
+0
+I thank thee with all my heart, kind Master Bardolph.
+FALSTAFF
+0
+I'll follow you, good Master Robert Shallow.
+SHALLOW
+0
+ [Within]  Sir John!
+FALSTAFF
+0
+I come, Master Shallow; I come, Master Shallow.
+WARWICK
+0
+How now, my Lord Chief Justice; whither away?
+CHIEF JUSTICE
+0
+How doth the King?
+WARWICK
+0
+Exceeding well; his cares are now all ended.
+CHIEF JUSTICE
+0
+I hope, not dead.
+WARWICK
+0
+He's walk'd the way of nature;
+CHIEF JUSTICE
+0
+I would his Majesty had call'd me with him.
+WARWICK
+0
+Indeed, I think the young king loves you not.
+CHIEF JUSTICE
+0
+I know he doth not, and do arm myself
+WARWICK
+0
+Here comes the heavy issue of dead Harry.
+CHIEF JUSTICE
+0
+O God, I fear all will be overturn'd.
+PRINCE JOHN
+0
+Good morrow, cousin Warwick, good morrow.
+PRINCE JOHN
+0
+We meet like men that had forgot to speak.
+WARWICK
+0
+We do remember; but our argument
+PRINCE JOHN
+0
+Well, peace be with him that hath made us heavy!
+CHIEF JUSTICE
+0
+Peace be with us, lest we be heavier!
+PRINCE HUMPHREY
+0
+O, good my lord, you have lost a friend indeed;
+PRINCE JOHN
+0
+Though no man be assur'd what grace to find,
+CLARENCE
+0
+Well, you must now speak Sir John Falstaff fair;
+CHIEF JUSTICE
+0
+Sweet Princes, what I did, I did in honour,
+WARWICK
+0
+Here comes the Prince.
+CHIEF JUSTICE
+0
+Good morrow, and God save your Majesty!
+KING
+0
+This new and gorgeous garment, majesty,
+BROTHERS
+0
+We hope no otherwise from your Majesty.
+KING
+0
+You all look strangely on me; and you most.
+CHIEF JUSTICE
+0
+I am assur'd, if I be measur'd rightly,
+KING
+0
+No?
+CHIEF JUSTICE
+0
+I then did use the person of your father;
+KING
+0
+You are right, Justice, and you weigh this well;
+SHALLOW
+0
+Nay, you shall see my orchard, where, in an arbour, we
+FALSTAFF
+0
+Fore God, you have here a goodly dwelling and rich.
+SHALLOW
+0
+Barren, barren, barren; beggars all, beggars all, Sir John
+FALSTAFF
+0
+This Davy serves you for good uses; he is your
+SHALLOW
+0
+A good varlet, a good varlet, a very good varlet, Sir
+SILENCE
+0
+Ah, sirrah! quoth-a- we shall               [Singing]
+FALSTAFF
+0
+There's a merry heart! Good Master Silence, I'll give you
+SHALLOW
+0
+Give Master Bardolph some wine, Davy.
+DAVY
+0
+Sweet sir, sit; I'll be with you anon; most sweet sir, sit.
+SHALLOW
+0
+Be merry, Master Bardolph; and, my little soldier there,
+SILENCE
+0
+ [Singing]
+FALSTAFF
+0
+I did not think Master Silence had been a man of this
+SILENCE
+1
+DAVY
+Who, I? I have been merry twice and once ere now.
+DAVY
+1
+DAVY
+ [To BARDOLPH]  There's a dish of leather-coats for you.
+SHALLOW
+1
+DAVY
+Davy!
+DAVY
+1
+DAVY
+Your worship! I'll be with you straight.  [To BARDOLPH]
+SILENCE
+1
+DAVY
+ [Singing]
+FALSTAFF
+1
+DAVY
+Well said, Master Silence.
+SILENCE
+1
+DAVY
+An we shall be merry, now comes in the sweet o' th' night.
+FALSTAFF
+1
+DAVY
+Health and long life to you, Master Silence!
+SILENCE
+1
+DAVY
+ [Singing]
+SHALLOW
+1
+DAVY
+Honest Bardolph, welcome; if thou want'st anything and
+DAVY
+1
+DAVY
+I hope to see London once ere I die.
+BARDOLPH
+1
+DAVY
+An I might see you there, Davy!
+SHALLOW
+1
+DAVY
+By the mass, you'R crack a quart together- ha! will you
+BARDOLPH
+1
+DAVY
+Yea, sir, in a pottle-pot.
+SHALLOW
+1
+DAVY
+By God's liggens, I thank thee. The knave will stick by
+BARDOLPH
+1
+DAVY
+And I'll stick by him, sir.
+SHALLOW
+1
+DAVY
+Why, there spoke a king. Lack nothing; be merry.
+FALSTAFF
+0
+ [To SILENCE, who has drunk a bumper]  Why, now you have
+SILENCE
+0
+ [Singing]
+FALSTAFF
+0
+'Tis so.
+SILENCE
+1
+DAVY
+Is't so? Why then, say an old man can do somewhat.
+DAVY
+1
+DAVY
+An't please your worship, there's one Pistol come from the
+FALSTAFF
+1
+DAVY
+From the court? Let him come in.
+PISTOL
+1
+DAVY
+Sir John, God save you!
+FALSTAFF
+1
+DAVY
+What wind blew you hither, Pistol?
+PISTOL
+1
+DAVY
+Not the ill wind which blows no man to good. Sweet knight,
+SILENCE
+1
+DAVY
+By'r lady, I think 'a be, but goodman Puff of Barson.
+PISTOL
+1
+DAVY
+Puff!
+FALSTAFF
+1
+DAVY
+I pray thee now, deliver them like a man of this world.
+PISTOL
+1
+DAVY
+A foutra for the world and worldlings base!
+FALSTAFF
+1
+DAVY
+O base Assyrian knight, what is thy news?
+SILENCE
+1
+DAVY
+ [Singing]  And Robin Hood, Scarlet, and John.
+PISTOL
+1
+DAVY
+Shall dunghill curs confront the Helicons?
+SHALLOW
+1
+DAVY
+Honest gentleman, I know not your breeding.
+PISTOL
+1
+DAVY
+Why, then, lament therefore.
+SHALLOW
+1
+DAVY
+Give me pardon, sir. If, sir, you come with news from the
+PISTOL
+1
+DAVY
+Under which king, Bezonian? Speak, or die.
+SHALLOW
+1
+DAVY
+Under King Harry.
+PISTOL
+1
+DAVY
+Harry the Fourth- or Fifth?
+SHALLOW
+1
+DAVY
+Harry the Fourth.
+PISTOL
+1
+DAVY
+A foutra for thine office!
+FALSTAFF
+1
+DAVY
+What, is the old king dead?
+PISTOL
+1
+DAVY
+As nail in door. The things I speak are just.
+FALSTAFF
+1
+DAVY
+Away, Bardolph! saddle my horse. Master Robert Shallow,
+BARDOLPH
+1
+DAVY
+O joyful day!
+PISTOL
+1
+DAVY
+What, I do bring good news?
+FALSTAFF
+1
+DAVY
+Carry Master Silence to bed. Master Shallow, my Lord
+FALSTAFF
+1
+DAVY
+Carry Master Silence to bed. Master Shallow, my Lord
+    Shallow, be what thou wilt- I am Fortune's steward. Get on thy
+    boots; we'll ride all night. O sweet Pistol! Away, Bardolph!
+    [Exit BARDOLPH]  Come, Pistol, utter more to me; and withal
+PISTOL
+1
+DAVY
+Let vultures vile seize on his lungs also!
+HOSTESS
+0
+No, thou arrant knave; I would to God that I might die,
+FIRST BEADLE
+0
+The constables have delivered her over to me; and she
+DOLL
+0
+Nut-hook, nut-hook, you lie. Come on; I'll tell thee what,
+HOSTESS
+0
+O the Lord, that Sir John were come! He would make this a
+FIRST BEADLE
+0
+If it do, you shall have a dozen of cushions again;
+DOLL
+0
+I'll tell you what, you thin man in a censer, I will have you
+FIRST BEADLE
+0
+Come, come, you she knight-errant, come.
+HOSTESS
+0
+O God, that right should thus overcome might!
+DOLL
+0
+Come, you rogue, come; bring me to a justice.
+HOSTESS
+0
+Ay, come, you starv'd bloodhound.
+DOLL
+0
+Goodman death, goodman bones!
+HOSTESS
+0
+Thou atomy, thou!
+DOLL
+0
+Come, you thin thing! come, you rascal!
+FIRST BEADLE
+0
+Very well.                                Exeunt
+FIRST GROOM
+0
+More rushes, more rushes!
+SECOND GROOM
+0
+The trumpets have sounded twice.
+THIRD GROOM
+0
+'Twill be two o'clock ere they come from the
+THIRD GROOM
+1
+FALSTAFF
+'Twill be two o'clock ere they come from the
+    coronation. Dispatch, dispatch.                       Exeunt
+        Trumpets sound, and the KING and his train pass
+FALSTAFF
+1
+FALSTAFF
+Stand here by me, Master Robert Shallow; I will make the
+PISTOL
+1
+FALSTAFF
+God bless thy lungs, good knight!
+FALSTAFF
+1
+FALSTAFF
+Come here, Pistol; stand behind me.  [To SHALLOW]  O, if
+SHALLOW
+1
+FALSTAFF
+It doth so.
+FALSTAFF
+1
+FALSTAFF
+It shows my earnestness of affection-
+SHALLOW
+1
+FALSTAFF
+It doth so.
+FALSTAFF
+1
+FALSTAFF
+My devotion-
+SHALLOW
+1
+FALSTAFF
+It doth, it doth, it doth.
+FALSTAFF
+1
+FALSTAFF
+As it were, to ride day and night; and not to deliberate,
+SHALLOW
+1
+FALSTAFF
+It is best, certain.
+FALSTAFF
+1
+FALSTAFF
+But to stand stained with travel, and sweating with
+PISTOL
+1
+FALSTAFF
+'Tis 'semper idem' for 'obsque hoc nihil est.' 'Tis all in
+SHALLOW
+1
+FALSTAFF
+'Tis so, indeed.
+PISTOL
+1
+FALSTAFF
+My knight, I will inflame thy noble liver
+FALSTAFF
+1
+FALSTAFF
+I will deliver her.
+PISTOL
+1
+FALSTAFF
+There roar'd the sea, and trumpet-clangor sounds.
+FALSTAFF
+1
+FALSTAFF
+God save thy Grace, King Hal; my royal Hal!
+PISTOL
+1
+FALSTAFF
+The heavens thee guard and keep, most royal imp of fame!
+FALSTAFF
+1
+FALSTAFF
+God save thee, my sweet boy!
+KING
+1
+FALSTAFF
+My Lord Chief Justice, speak to that vain man.
+CHIEF JUSTICE
+1
+FALSTAFF
+Have you your wits? Know you what 'tis you speak?
+FALSTAFF
+1
+FALSTAFF
+My king! my Jove! I speak to thee, my heart!
+KING
+1
+FALSTAFF
+I know thee not, old man. Fall to thy prayers.
+KING
+1
+FALSTAFF
+I know thee not, old man. Fall to thy prayers.
+    How ill white hairs become a fool and jester!
+    I have long dreamt of such a kind of man,
+    So surfeit-swell'd, so old, and so profane;
+    But being awak'd, I do despise my dream.
+    Make less thy body hence, and more thy grace;
+    Leave gormandizing; know the grave doth gape
+    For thee thrice wider than for other men-
+    Reply not to me with a fool-born jest;
+    Presume not that I am the thing I was,
+    For God doth know, so shall the world perceive,
+    That I have turn'd away my former self;
+    So will I those that kept me company.
+    When thou dost hear I am as I have been,
+    Approach me, and thou shalt be as thou wast,
+    The tutor and the feeder of my riots.
+    Till then I banish thee, on pain of death,
+    As I have done the rest of my misleaders,
+    Not to come near our person by ten mile.
+    For competence of life I will allow you,
+    That lack of means enforce you not to evils;
+    And, as we hear you do reform yourselves,
+    We will, according to your strengths and qualities,
+    Give you advancement. Be it your charge, my lord,
+    To see perform'd the tenour of our word.
+    Set on.                        Exeunt the KING and his train
+FALSTAFF
+1
+FALSTAFF
+Master Shallow, I owe you a thousand pounds.
+SHALLOW
+1
+FALSTAFF
+Yea, marry, Sir John; which I beseech you to let me have
+FALSTAFF
+1
+FALSTAFF
+That can hardly be, Master Shallow. Do not you grieve at
+SHALLOW
+1
+FALSTAFF
+I cannot perceive how, unless you give me your doublet,
+FALSTAFF
+1
+FALSTAFF
+Sir, I will be as good as my word. This that you heard
+SHALLOW
+1
+FALSTAFF
+A colour that I fear you will die in, Sir John.
+FALSTAFF
+1
+FALSTAFF
+Fear no colours; go with me to dinner. Come, Lieutenant
+FALSTAFF
+2
+FALSTAFF
+PRINCE
+Fear no colours; go with me to dinner. Come, Lieutenant
+    Pistol; come, Bardolph. I shall be sent for soon at night.
+CHIEF JUSTICE
+2
+FALSTAFF
+PRINCE
+Go, carry Sir John Falstaff to the Fleet;
+FALSTAFF
+2
+FALSTAFF
+PRINCE
+My lord, my lord-
+CHIEF JUSTICE
+2
+FALSTAFF
+PRINCE
+I cannot now speak. I will hear you soon.
+PISTOL
+2
+FALSTAFF
+PRINCE
+Si fortuna me tormenta, spero me contenta.
+PISTOL
+2
+FALSTAFF
+PRINCE
+Si fortuna me tormenta, spero me contenta.
+           Exeunt all but PRINCE JOHN and the LORD CHIEF JUSTICE
+PRINCE JOHN
+2
+FALSTAFF
+PRINCE
+I like this fair proceeding of the King's.
+CHIEF JUSTICE
+2
+FALSTAFF
+PRINCE
+And so they are.
+PRINCE JOHN
+2
+FALSTAFF
+PRINCE
+The King hath call'd his parliament, my lord.
+CHIEF JUSTICE
+2
+FALSTAFF
+PRINCE
+He hath.
+PRINCE JOHN
+2
+FALSTAFF
+PRINCE
+I will lay odds that, ere this year expire,

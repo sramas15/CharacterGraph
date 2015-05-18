@@ -1,0 +1,4051 @@
+BUCKINGHAM
+0
+Good morrow, and well met. How have ye done
+NORFOLK
+0
+I thank your Grace,
+BUCKINGHAM
+0
+An untimely ague
+NORFOLK
+0
+'Twixt Guynes and Arde-
+BUCKINGHAM
+0
+All the whole time
+NORFOLK
+0
+Then you lost
+BUCKINGHAM
+0
+O, you go far!
+NORFOLK
+0
+As I belong to worship, and affect
+BUCKINGHAM
+0
+Who did guide-
+NORFOLK
+0
+One, certes, that promises no element
+BUCKINGHAM
+0
+I pray you, who, my lord?
+NORFOLK
+0
+All this was ord'red by the good discretion
+BUCKINGHAM
+0
+The devil speed him! No man's pie is freed
+NORFOLK
+0
+Surely, sir,
+ABERGAVENNY
+0
+I cannot tell
+BUCKINGHAM
+0
+Why the devil,
+ABERGAVENNY
+0
+I do know
+BUCKINGHAM
+0
+O, many
+NORFOLK
+0
+Grievingly I think
+BUCKINGHAM
+0
+Every man,
+NORFOLK
+0
+Which is budded out;
+ABERGAVENNY
+0
+Is it therefore
+NORFOLK
+0
+Marry, is't.
+ABERGAVENNY
+0
+A proper tide of a peace, and purchas'd
+BUCKINGHAM
+0
+Why, all this business
+NORFOLK
+0
+Like it your Grace,
+WOLSEY
+0
+The Duke of Buckingham's surveyor? Ha!
+SECRETARY
+0
+Here, so please you.
+WOLSEY
+0
+Is he in person ready?
+SECRETARY
+0
+Ay, please your Grace.
+WOLSEY
+0
+Well, we shall then know more, and Buckingham
+BUCKINGHAM
+0
+This butcher's cur is venom-mouth'd, and I
+NORFOLK
+0
+What, are you chaf'd?
+BUCKINGHAM
+0
+I read in's looks
+NORFOLK
+0
+Stay, my lord,
+BUCKINGHAM
+0
+I'll to the King,
+NORFOLK
+0
+Be advis'd:
+BUCKINGHAM
+0
+Sir,
+NORFOLK
+0
+Say not treasonous.
+BUCKINGHAM
+0
+To th' King I'll say't, and make my vouch as strong
+NORFOLK
+0
+Faith, and so it did.
+BUCKINGHAM
+0
+Pray, give me favour, sir; this cunning cardinal
+NORFOLK
+0
+I am sorry
+BUCKINGHAM
+0
+No, not a syllable:
+BRANDON
+0
+Your office, sergeant: execute it.
+SERGEANT
+0
+Sir,
+BUCKINGHAM
+0
+Lo you, my lord,
+BRANDON
+0
+I am sorry
+BUCKINGHAM
+0
+It will help nothing
+BRANDON
+0
+Nay, he must bear you company.
+ABERGAVENNY
+0
+As the Duke said,
+BRANDON
+0
+Here is warrant from
+BUCKINGHAM
+0
+So, so!
+BRANDON
+0
+A monk o' th' Chartreux.
+BUCKINGHAM
+0
+O, Nicholas Hopkins?
+BRANDON
+0
+He.
+BUCKINGHAM
+0
+My surveyor is false. The o'er-great Cardinal
+KING
+0
+My life itself, and the best heart of it,
+QUEEN KATHARINE
+0
+Nay, we must longer kneel: I am suitor.
+KING
+0
+Arise, and take place by us. Half your suit
+QUEEN KATHARINE
+0
+Thank your Majesty.
+KING
+0
+Lady mine, proceed.
+QUEEN KATHARINE
+0
+I am solicited, not by a few,
+NORFOLK
+0
+Not almost appears-
+KING
+0
+Taxation!
+WOLSEY
+0
+Please you, sir,
+QUEEN KATHARINE
+0
+No, my lord!
+KING
+0
+Still exaction!
+QUEEN KATHARINE
+0
+I am much too venturous
+KING
+0
+By my life,
+WOLSEY
+0
+And for me,
+KING
+0
+Things done well
+WOLSEY
+0
+[Aside to the SECRETARY]  A word with you.
+QUEEN KATHARINE
+0
+I am sorry that the Duke of Buckingham
+KING
+0
+It grieves many.
+WOLSEY
+0
+Stand forth, and with bold spirit relate what you,
+KING
+0
+Speak freely.
+SURVEYOR
+0
+First, it was usual with him-every day
+WOLSEY
+0
+Please your Highness, note
+QUEEN KATHARINE
+0
+My learn'd Lord Cardinal,
+KING
+0
+Speak on.
+SURVEYOR
+0
+He was brought to this
+KING
+0
+What was that Henton?
+SURVEYOR
+0
+Sir, a Chartreux friar,
+KING
+0
+How know'st thou this?
+SURVEYOR
+0
+Not long before your Highness sped to France,
+QUEEN KATHARINE
+0
+If I know you well,
+KING
+0
+Let him on.
+SURVEYOR
+0
+On my soul, I'll speak but truth.
+KING
+0
+Ha! what, so rank? Ah ha!
+SURVEYOR
+0
+I can, my liege.
+KING
+0
+Proceed.
+SURVEYOR
+0
+Being at Greenwich,
+KING
+0
+I remember
+SURVEYOR
+0
+'If' quoth he 'I for this had been committed-
+KING
+0
+A giant traitor!
+WOLSEY
+0
+Now, madam, may his Highness live in freedom,
+QUEEN KATHARINE
+0
+God mend all!
+KING
+0
+There's something more would out of thee: what say'st?
+SURVEYOR
+0
+After 'the Duke his father' with the 'knife,'
+KING
+0
+There's his period,
+CHAMBERLAIN
+0
+Is't possible the spells of France should juggle
+SANDYS
+0
+New customs,
+CHAMBERLAIN
+0
+As far as I see, all the good our English
+SANDYS
+0
+They have all new legs, and lame ones. One would take it,
+CHAMBERLAIN
+0
+Death! my lord,
+LOVELL
+0
+Faith, my lord,
+CHAMBERLAIN
+0
+What is't for?
+LOVELL
+0
+The reformation of our travell'd gallants,
+CHAMBERLAIN
+0
+I am glad 'tis there. Now I would pray our monsieurs
+LOVELL
+0
+They must either,
+SANDYS
+0
+'Tis time to give 'em physic, their diseases
+CHAMBERLAIN
+0
+What a loss our ladies
+LOVELL
+0
+Ay, marry,
+SANDYS
+0
+The devil fiddle 'em! I am glad they are going,
+CHAMBERLAIN
+0
+Well said, Lord Sandys;
+SANDYS
+0
+No, my lord,
+CHAMBERLAIN
+0
+Sir Thomas,
+LOVELL
+0
+To the Cardinal's;
+CHAMBERLAIN
+0
+O, 'tis true;
+LOVELL
+0
+That churchman bears a bounteous mind indeed,
+CHAMBERLAIN
+0
+No doubt he's noble;
+SANDYS
+0
+He may, my lord; has wherewithal. In him
+CHAMBERLAIN
+0
+True, they are so;
+SANDYS
+2
+ANNE
+GUILDFORD
+I am your lordship's.                                Exeunt
+GUILDFORD
+2
+ANNE
+GUILDFORD
+Ladies, a general welcome from his Grace
+CHAMBERLAIN
+2
+ANNE
+GUILDFORD
+You are young, Sir Harry Guildford.
+SANDYS
+2
+ANNE
+GUILDFORD
+Sir Thomas Lovell, had the Cardinal
+LOVELL
+2
+ANNE
+GUILDFORD
+O that your lordship were but now confessor
+SANDYS
+2
+ANNE
+GUILDFORD
+I would I were;
+LOVELL
+2
+ANNE
+GUILDFORD
+Faith, how easy?
+SANDYS
+2
+ANNE
+GUILDFORD
+As easy as a down bed would afford it.
+CHAMBERLAIN
+2
+ANNE
+GUILDFORD
+Sweet ladies, will it please you sit? Sir Harry,
+SANDYS
+2
+ANNE
+GUILDFORD
+By my faith,
+ANNE
+2
+ANNE
+GUILDFORD
+Was he mad, sir?
+SANDYS
+2
+ANNE
+GUILDFORD
+O, very mad, exceeding mad, in love too.
+CHAMBERLAIN
+2
+ANNE
+GUILDFORD
+Well said, my lord.
+SANDYS
+2
+ANNE
+GUILDFORD
+For my little cure,
+WOLSEY
+2
+ANNE
+GUILDFORD
+Y'are welcome, my fair guests. That noble lady
+SANDYS
+2
+ANNE
+GUILDFORD
+Your Grace is noble.
+WOLSEY
+2
+ANNE
+GUILDFORD
+My Lord Sandys,
+SANDYS
+2
+ANNE
+GUILDFORD
+The red wine first must rise
+ANNE
+2
+ANNE
+GUILDFORD
+You are a merry gamester,
+SANDYS
+2
+ANNE
+GUILDFORD
+Yes, if I make my play.
+ANNE
+2
+ANNE
+GUILDFORD
+You cannot show me.
+SANDYS
+2
+ANNE
+GUILDFORD
+I told your Grace they would talk anon.
+WOLSEY
+2
+ANNE
+GUILDFORD
+What's that?
+CHAMBERLAIN
+2
+ANNE
+GUILDFORD
+Look out there, some of ye.             Exit a SERVANT
+WOLSEY
+2
+ANNE
+GUILDFORD
+What warlike voice,
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+What warlike voice,
+    And to what end, is this? Nay, ladies, fear not:
+    By all the laws of war y'are privileg'd.
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+How now! what is't?
+SERVANT
+3
+SERVANT
+ANNE
+GUILDFORD
+A noble troop of strangers-
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Good Lord Chamberlain,
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Good Lord Chamberlain,
+    Go, give 'em welcome; you can speak the French tongue;
+    And pray receive 'em nobly and conduct 'em
+    Into our presence, where this heaven of beauty
+    Shall shine at full upon them. Some attend him.
+              Exit CHAMBERLAIN attended. All rise, and tables remov'd
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+Because they speak no English, thus they pray'd
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Say, Lord Chamberlain,
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+The fairest hand I ever touch'd! O beauty,
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+My lord!
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+Your Grace?
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Pray tell 'em thus much from me:
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+I will, my lord.
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+What say they?
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+Such a one, they all confess,
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Let me see, then.                    [Comes from his state]
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+ [Unmasking]  Ye have found him, Cardinal.
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+I am glad
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+My Lord Chamberlain,
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+An't please your Grace, Sir Thomas Bullen's
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+By heaven, she is a dainty one. Sweet heart,
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Sir Thomas Lovell, is the banquet ready
+LOVELL
+3
+SERVANT
+ANNE
+GUILDFORD
+Yes, my lord.
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Your Grace,
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+I fear, too much.
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+There's fresher air, my lord,
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+Lead in your ladies, ev'ry one. Sweet partner,
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Whither away so fast?
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+O, God save ye!
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+I'll save you
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Were you there?
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Yes, indeed, was I.
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Pray, speak what has happen'd.
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+You may guess quickly what.
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Is he found guilty?
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Yes, truly is he, and condemn'd upon't.
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+I am sorry for't.
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+So are a number more.
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+But, pray, how pass'd it?
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+I'll tell you in a little. The great Duke.
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+That was he
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+The same.
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+After all this, how did he bear him-self
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+When he was brought again to th' bar to hear
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+I do not think he fears death.
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Sure, he does not;
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Certainly
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+'Tis likely,
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+That trick of state
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+At his return
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+All the commons
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Stay there, sir,
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Let's stand close, and behold him.
+BUCKINGHAM
+3
+SERVANT
+ANNE
+GUILDFORD
+All good people,
+LOVELL
+3
+SERVANT
+ANNE
+GUILDFORD
+I do beseech your Grace, for charity,
+BUCKINGHAM
+3
+SERVANT
+ANNE
+GUILDFORD
+Sir Thomas Lovell, I as free forgive you
+LOVELL
+3
+SERVANT
+ANNE
+GUILDFORD
+To th' water side I must conduct your Grace;
+VAUX
+3
+SERVANT
+ANNE
+GUILDFORD
+Prepare there;
+BUCKINGHAM
+3
+SERVANT
+ANNE
+GUILDFORD
+Nay, Sir Nicholas,
+BUCKINGHAM
+3
+SERVANT
+ANNE
+GUILDFORD
+Nay, Sir Nicholas,
+    Let it alone; my state now will but mock me.
+    When I came hither I was Lord High Constable
+    And Duke of Buckingham; now, poor Edward Bohun.
+    Yet I am richer than my base accusers
+    That never knew what truth meant; I now seal it;
+    And with that blood will make 'em one day groan fort.
+    My noble father, Henry of Buckingham,
+    Who first rais'd head against usurping Richard,
+    Flying for succour to his servant Banister,
+    Being distress'd, was by that wretch betray'd
+    And without trial fell; God's peace be with him!
+    Henry the Seventh succeeding, truly pitying
+    My father's loss, like a most royal prince,
+    Restor'd me to my honours, and out of ruins
+    Made my name once more noble. Now his son,
+    Henry the Eighth, life, honour, name, and all
+    That made me happy, at one stroke has taken
+    For ever from the world. I had my trial,
+    And must needs say a noble one; which makes me
+    A little happier than my wretched father;
+    Yet thus far we are one in fortunes: both
+    Fell by our servants, by those men we lov'd most-
+    A most unnatural and faithless service.
+    Heaven has an end in all. Yet, you that hear me,
+    This from a dying man receive as certain:
+    Where you are liberal of your loves and counsels,
+    Be sure you be not loose; for those you make friends
+    And give your hearts to, when they once perceive
+    The least rub in your fortunes, fall away
+    Like water from ye, never found again
+    But where they mean to sink ye. All good people,
+    Pray for me! I must now forsake ye; the last hour
+    Of my long weary life is come upon me.
+    Farewell;
+    And when you would say something that is sad,
+    Speak how I fell. I have done; and God forgive me!
+                                          Exeunt BUCKINGHAM and train
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+O, this is full of pity! Sir, it calls,
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+If the Duke be guiltless,
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Good angels keep it from us!
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+This secret is so weighty, 'twill require
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Let me have it;
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+I am confident.
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+Yes, but it held not;
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+But that slander, sir,
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+'Tis the Cardinal;
+SECOND GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+I think you have hit the mark; but is't
+FIRST GENTLEMAN
+3
+SERVANT
+ANNE
+GUILDFORD
+'Tis woeful.
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+'My lord,
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+Well met, my Lord Chamberlain.
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+Good day to both your Graces.
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+How is the King employ'd?
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+I left him private,
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+What's the cause?
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+It seems the marriage with his brother's wife
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+No, his conscience
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+'Tis so;
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+Pray God he do! He'll never know himself else.
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+How holily he works in all his business!
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+Heaven keep me from such counsel! 'Tis most true
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+And free us from his slavery.
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+We had need pray, and heartily, for our deliverance;
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+For me, my lords,
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+Let's in;
+CHAMBERLAIN
+3
+SERVANT
+ANNE
+GUILDFORD
+Excuse me,
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+Thanks, my good Lord Chamberlain.
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+Thanks, my good Lord Chamberlain.
+                            Exit LORD CHAMBERLAIN; and the KING draws
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+How sad he looks; sure, he is much afflicted.
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+Who's there, ha?
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+Pray God he be not angry.
+KING HENRY
+3
+SERVANT
+ANNE
+GUILDFORD
+Who's there, I say? How dare you thrust yourselves
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+A gracious king that pardons all offences
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+Ye are too bold.
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Sir, you cannot.
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+ [To NORFOLK and SUFFOLK]  We are busy; go.
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+ [Aside to SUFFOLK]  This priest has no pride in him!
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+ [Aside to NORFOLK]  Not to speak of!
+NORFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+ [Aside to SUFFOLK]  If it do,
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+ [Aside to NORFOLK]  I another.
+SUFFOLK
+3
+SERVANT
+ANNE
+GUILDFORD
+ [Aside to NORFOLK]  I another.
+                                           Exeunt NORFOLK and SUFFOLK
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+Your Grace has given a precedent of wisdom
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+And once more in mine arms I bid him welcome,
+CAMPEIUS
+3
+SERVANT
+ANNE
+GUILDFORD
+Your Grace must needs deserve an strangers' loves,
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+Two equal men. The Queen shall be acquainted
+WOLSEY
+3
+SERVANT
+ANNE
+GUILDFORD
+I know your Majesty has always lov'd her
+KING
+3
+SERVANT
+ANNE
+GUILDFORD
+Ay, and the best she shall have; and my favour
+KING
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Ay, and the best she shall have; and my favour
+    To him that does best. God forbid else. Cardinal,
+    Prithee call Gardiner to me, my new secretary;
+    I find him a fit fellow.                              Exit WOLSEY
+WOLSEY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+ [Aside to GARDINER]  Give me your hand: much
+GARDINER
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+ [Aside to WOLSEY]  But to be commanded
+KING
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Come hither, Gardiner.                   [Walks and whispers]
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+My Lord of York, was not one Doctor Pace
+WOLSEY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Yes, he was.
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Was he not held a learned man?
+WOLSEY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Yes, surely.
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Believe me, there's an ill opinion spread then,
+WOLSEY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+How! Of me?
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+They will not stick to say you envied him
+WOLSEY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Heav'n's peace be with him!
+KING
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Deliver this with modesty to th' Queen.
+KING
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Deliver this with modesty to th' Queen.
+                                                        Exit GARDINER
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Not for that neither. Here's the pang that pinches:
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Hearts of most hard temper
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+O, God's will! much better
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Alas, poor lady!
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+So much the more
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Our content
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+By my troth and maidenhead,
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Beshrew me, I would,
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Nay, good troth.
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Yes, troth and troth. You would not be a queen!
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+No, not for all the riches under heaven.
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+'Tis strange: a threepence bow'd would hire me,
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+No, in truth.
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Then you are weakly made. Pluck off a little;
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+How you do talk!
+OLD LADY
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+In faith, for little England
+CHAMBERLAIN
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Good morrow, ladies. What were't worth to know
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+My good lord,
+CHAMBERLAIN
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+It was a gentle business and becoming
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Now, I pray God, amen!
+CHAMBERLAIN
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+You bear a gentle mind, and heav'nly blessings
+ANNE
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+I do not know
+CHAMBERLAIN
+4
+SERVANT
+WOLSEY
+ANNE
+GUILDFORD
+Lady,
+ANNE
+3
+SERVANT
+WOLSEY
+GUILDFORD
+My honour'd lord!                       Exit LORD CHAMBERLAIN
+OLD LADY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Why, this it is: see, see!
+ANNE
+3
+SERVANT
+WOLSEY
+GUILDFORD
+This is strange to me.
+OLD LADY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+How tastes it? Is it bitter? Forty pence, no.
+ANNE
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Come, you are pleasant.
+OLD LADY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+With your theme I could
+ANNE
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Good lady,
+OLD LADY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+What do you think me?                              Exeunt
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Whilst our commission from Rome is read,
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+What's the need?
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Be't so; proceed.
+SCRIBE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Say 'Henry King of England, come into the court.'
+CRIER
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Henry King of England, &c.
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Here.
+SCRIBE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Say 'Katharine Queen of England, come into the court.'
+CRIER
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Katharine Queen of England, &c.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Sir, I desire you do me right and justice,
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+You have here, lady,
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+His Grace
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Lord Cardinal,
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Your pleasure, madam?
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Sir,
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Be patient yet.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+I Will, when you are humble; nay, before
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+I do profess
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+My lord, my lord,
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+The Queen is obstinate,
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Call her again.
+CRIER
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Katharine Queen of England, come into the court.
+GENTLEMAN USHER
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Madam, you are call'd back.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+What need you note it? Pray you keep your way;
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+What need you note it? Pray you keep your way;
+    When you are call'd, return. Now the Lord help!
+    They vex me past my patience. Pray you pass on.
+    I will not tarry; no, nor ever more
+    Upon this business my appearance make
+    In any of their courts.           Exeunt QUEEN and her attendants
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Go thy ways, Kate.
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Most gracious sir,
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+My Lord Cardinal,
+LINCOLN
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Very well, my liege.
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+I have spoke long; be pleas'd yourself to say
+LINCOLN
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+So please your Highness,
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+I then mov'd you,
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+So please your Highness,
+KING
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+ [Aside]  I may perceive
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Take thy lute, wench. My soul grows
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+How now?
+GENTLEMAN
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+An't please your Grace, the two great Cardinals
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Would they speak with me?
+GENTLEMAN
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+They will'd me say so, madam.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Pray their Graces
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Pray their Graces
+    To come near. [Exit GENTLEMAN] What can be their business
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Peace to your Highness!
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Your Graces find me here part of housewife;
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+May it please you, noble madam, to withdraw
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Speak it here;
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Tanta est erga te mentis integritas, regina serenis-sima-
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+O, good my lord, no Latin!
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Noble lady,
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Most honour'd madam,
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+ [Aside]  To betray me.-
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Madam, you wrong the King's love with these fears;
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+In England
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+I would your Grace
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+How, sir?
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Put your main cause into the King's protection;
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+He tells you rightly.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Ye tell me what ye wish for both-my ruin.
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Your rage mistakes us.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+The more shame for ye; holy men I thought ye,
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Madam, this is a mere distraction;
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Ye turn me into nothing. Woe upon ye,
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Your fears are worse.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Have I liv'd thus long-let me speak myself,
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Madam, you wander from the good we aim at.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+My lord, I dare not make myself so guilty,
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Pray hear me.
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Would I had never trod this English earth,
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+If your Grace
+CAMPEIUS
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Madam, you'll find it so. You wrong your virtues
+QUEEN KATHARINE
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Do what ye will my lords; and pray
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+If you will now unite in your complaints
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+I am joyful
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Which of the peers
+CHAMBERLAIN
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+My lords, you speak your pleasures.
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+O, fear him not!
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Sir,
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Believe it, this is true:
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+How came
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Most Strangely.
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+O, how, how?
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+The Cardinal's letters to the Pope miscarried,
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Has the King this?
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Believe it.
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Will this work?
+CHAMBERLAIN
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+The King in this perceives him how he coasts
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Would he had!
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+May you be happy in your wish, my lord!
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Now, all my joy
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+My amen to't!
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+An men's!
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+There's order given for her coronation;
+SURREY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+But will the King
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Marry, amen!
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+No, no;
+CHAMBERLAIN
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Now, God incense him,
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+But, my lord,
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+He is return'd in his opinions; which
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+This same Cranmer's
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+He has; and we shall see him
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+So I hear.
+SUFFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+'Tis so.
+NORFOLK
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Observe, observe, he's moody.
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+The packet, Cromwell,
+CROMWELL
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+To his own hand, in's bedchamber.
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Look'd he o' th' inside of the paper?
+CROMWELL
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Presently
+WOLSEY
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+Is he ready
+CROMWELL
+4
+SERVANT
+WOLSEY
+GUILDFORD
+KING
+I think by this he is.
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+Leave me awhile.                              Exit CROMWELL
+NORFOLK
+3
+SERVANT
+GUILDFORD
+KING
+He's discontented.
+SUFFOLK
+3
+SERVANT
+GUILDFORD
+KING
+May be he hears the King
+SURREY
+3
+SERVANT
+GUILDFORD
+KING
+Sharp enough,
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+ [Aside]  The late Queen's gentlewoman, a knight's
+NORFOLK
+3
+SERVANT
+GUILDFORD
+KING
+He is vex'd at something.
+SURREY
+3
+SERVANT
+GUILDFORD
+KING
+I would 'twere something that would fret the string,
+SUFFOLK
+3
+SERVANT
+GUILDFORD
+KING
+The King, the King!
+KING
+3
+SERVANT
+GUILDFORD
+KING
+What piles of wealth hath he accumulated
+NORFOLK
+3
+SERVANT
+GUILDFORD
+KING
+My lord, we have
+KING
+3
+SERVANT
+GUILDFORD
+KING
+It may well be
+NORFOLK
+3
+SERVANT
+GUILDFORD
+KING
+It's heaven's will;
+KING
+3
+SERVANT
+GUILDFORD
+KING
+If we did think
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+Heaven forgive me!
+KING
+3
+SERVANT
+GUILDFORD
+KING
+Good, my lord,
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+Sir,
+KING
+3
+SERVANT
+GUILDFORD
+KING
+You have said well.
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+And ever may your Highness yoke together,
+KING
+3
+SERVANT
+GUILDFORD
+KING
+'Tis well said again;
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+ [Aside]  What should this mean?
+SURREY
+3
+SERVANT
+GUILDFORD
+KING
+ [Aside]  The Lord increase this business!
+KING
+3
+SERVANT
+GUILDFORD
+KING
+Have I not made you
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+My sovereign, I confess your royal graces,
+KING
+3
+SERVANT
+GUILDFORD
+KING
+Fairly answer'd!
+WOLSEY
+3
+SERVANT
+GUILDFORD
+KING
+I do profess
+KING
+3
+SERVANT
+GUILDFORD
+KING
+'Tis nobly spoken.
+KING
+2
+SERVANT
+GUILDFORD
+'Tis nobly spoken.
+    Take notice, lords, he has a loyal breast,
+    For you have seen him open 't. Read o'er this;
+                                                  [Giving him papers]
+    And after, this; and then to breakfast with
+    What appetite you have.
+                Exit the KING, frowning upon the CARDINAL; the NOBLES
+WOLSEY
+2
+SERVANT
+GUILDFORD
+What should this mean?
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+What should this mean?
+    What sudden anger's this? How have I reap'd it?
+    He parted frowning from me, as if ruin
+    Leap'd from his eyes; so looks the chafed lion
+    Upon the daring huntsman that has gall'd him-
+    Then makes him nothing. I must read this paper;
+    I fear, the story of his anger. 'Tis so;
+    This paper has undone me. 'Tis th' account
+    Of all that world of wealth I have drawn together
+    For mine own ends; indeed to gain the popedom,
+    And fee my friends in Rome. O negligence,
+    Fit for a fool to fall by! What cross devil
+    Made me put this main secret in the packet
+    I sent the King? Is there no way to cure this?
+    No new device to beat this from his brains?
+    I know 'twill stir him strongly; yet I know
+    A way, if it take right, in spite of fortune,
+    Will bring me off again. What's this? 'To th' Pope.'
+    The letter, as I live, with all the business
+    I writ to's Holiness. Nay then, farewell!
+    I have touch'd the highest point of all my greatness,
+    And from that full meridian of my glory
+    I haste now to my setting. I shall fall
+    Like a bright exhalation in the evening,
+    And no man see me more.
+NORFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Hear the King's pleasure, Cardinal, who commands you
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Stay:
+SUFFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Who dares cross 'em,
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Till I find more than will or words to do it-
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+The King, that gave it.
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+It must be himself then.
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Thou art a proud traitor, priest.
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Proud lord, thou liest.
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Thy ambition,
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+This, and all else
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+By my soul,
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+All goodness
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Yes, that goodness
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+How much, methinks, I could despise this man,
+NORFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Those articles, my lord, are in the King's hand;
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+So much fairer
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+This cannot save you.
+WOLSEY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Speak on, sir;
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+I had rather want those than my head. Have at you!
+NORFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Then, that in all you writ to Rome, or else
+SUFFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Then, that without the knowledge
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Item, you sent a large commission
+SUFFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+That out of mere ambition you have caus'd
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Then, that you have sent innumerable substance,
+CHAMBERLAIN
+3
+SERVANT
+WOLSEY
+GUILDFORD
+O my lord,
+SURREY
+3
+SERVANT
+WOLSEY
+GUILDFORD
+I forgive him.
+SUFFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+Lord Cardinal, the King's further pleasure is-
+NORFOLK
+3
+SERVANT
+WOLSEY
+GUILDFORD
+And so we'll leave you to your meditations
+NORFOLK
+2
+SERVANT
+GUILDFORD
+And so we'll leave you to your meditations
+    How to live better. For your stubborn answer
+    About the giving back the great seal to us,
+    The King shall know it, and, no doubt, shall thank you.
+    So fare you well, my little good Lord Cardinal.
+                                                Exeunt all but WOLSEY
+WOLSEY
+2
+SERVANT
+GUILDFORD
+So farewell to the little good you bear me.
+CROMWELL
+2
+SERVANT
+GUILDFORD
+I have no power to speak, sir.
+WOLSEY
+2
+SERVANT
+GUILDFORD
+What, amaz'd
+CROMWELL
+2
+SERVANT
+GUILDFORD
+How does your Grace?
+WOLSEY
+2
+SERVANT
+GUILDFORD
+Why, well;
+CROMWELL
+2
+SERVANT
+GUILDFORD
+I am glad your Grace has made that right use of it.
+WOLSEY
+2
+SERVANT
+GUILDFORD
+I hope I have. I am able now, methinks,
+CROMWELL
+2
+SERVANT
+GUILDFORD
+The heaviest and the worst
+WOLSEY
+2
+SERVANT
+GUILDFORD
+God bless him!
+CROMWELL
+2
+SERVANT
+GUILDFORD
+The next is that Sir Thomas More is chosen
+WOLSEY
+2
+SERVANT
+GUILDFORD
+That's somewhat sudden.
+CROMWELL
+2
+SERVANT
+GUILDFORD
+That Cranmer is return'd with welcome,
+WOLSEY
+2
+SERVANT
+GUILDFORD
+That's news indeed.
+CROMWELL
+2
+SERVANT
+GUILDFORD
+Last, that the Lady Anne,
+WOLSEY
+2
+SERVANT
+GUILDFORD
+There was the weight that pull'd me down.
+CROMWELL
+2
+SERVANT
+GUILDFORD
+O my lord,
+WOLSEY
+2
+SERVANT
+GUILDFORD
+Cromwell, I did not think to shed a tear
+CROMWELL
+2
+SERVANT
+GUILDFORD
+Good sir, have patience.
+WOLSEY
+2
+SERVANT
+GUILDFORD
+So I have. Farewell
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Y'are well met once again.
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+So are you.
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+You come to take your stand here, and
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+'Tis all my business. At our last encounter
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+'Tis very true. But that time offer'd
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+'Tis well. The citizens,
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Never greater,
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+May I be bold to ask what that contains,
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Yes; 'tis the list
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+I thank you, sir; had I not known
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+That I can tell you too. The Archbishop
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Alas, good lady!                       [Trumpets]
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+A royal train, believe me. These know.
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Marquis Dorset;
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+A bold brave gentleman. That should be
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+'Tis the same-High Steward.
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+And that my Lord of Norfolk?
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Yes.
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+ [Looking on the QUEEN]  Heaven
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+They that bear
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Those men are happy; and so are all
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+It is; and all the rest are countesses.
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Their coronets say so. These are stars indeed,
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+No more of that.
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+No more of that.
+                   Exit Procession, with a great flourish of trumpets
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Among the crowds i' th' Abbey, where a finger
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+You saw
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+That I did.
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+How was it?
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Well worth the seeing.
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Good sir, speak it to us.
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+As well as I am able. The rich stream
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+But what follow'd?
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+At length her Grace rose, and with
+FIRST GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Sir,
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+I know it;
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+What two reverend bishops
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Stokesly and Gardiner: the one of Winchester,
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+He of Winchester
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+All the land knows that;
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Who may that be, I pray you?
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Thomas Cromwell,
+SECOND GENTLEMAN
+2
+SERVANT
+GUILDFORD
+He will deserve more.
+THIRD GENTLEMAN
+2
+SERVANT
+GUILDFORD
+Yes, without all doubt.
+BOTH
+2
+SERVANT
+GUILDFORD
+You may command us, sir.                               Exeunt
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+How does your Grace?
+KATHARINE
+2
+SERVANT
+GUILDFORD
+O Griffith, sick to death!
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+Yes, madam; but I think your Grace,
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Prithee, good Griffith, tell me how he died.
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+Well, the voice goes, madam;
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Alas, poor man!
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+At last, with easy roads, he came to Leicester,
+KATHARINE
+2
+SERVANT
+GUILDFORD
+So may he rest; his faults lie gently on him!
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+Noble madam,
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Yes, good Griffith;
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+This Cardinal,
+KATHARINE
+2
+SERVANT
+GUILDFORD
+After my death I wish no other herald,
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+She is asleep. Good wench, let's sit down quiet,
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Spirits of peace, where are ye? Are ye all gone?
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+Madam, we are here.
+KATHARINE
+2
+SERVANT
+GUILDFORD
+It is not you I call for.
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+None, madam.
+KATHARINE
+2
+SERVANT
+GUILDFORD
+No? Saw you not, even now, a blessed troop
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+I am most joyful, madam, such good dreams
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Bid the music leave,
+PATIENCE
+2
+SERVANT
+GUILDFORD
+Do you note
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+She is going, wench. Pray, pray.
+PATIENCE
+2
+SERVANT
+GUILDFORD
+Heaven comfort her!
+MESSENGER
+2
+SERVANT
+GUILDFORD
+An't like your Grace-
+KATHARINE
+2
+SERVANT
+GUILDFORD
+You are a saucy fellow.
+GRIFFITH
+2
+SERVANT
+GUILDFORD
+You are to blame,
+MESSENGER
+2
+SERVANT
+GUILDFORD
+I humbly do entreat your Highness' pardon;
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Admit him entrance, Griffith; but this fellow
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Admit him entrance, Griffith; but this fellow
+    Let me ne'er see again.                            Exit MESSENGER
+CAPUCIUS
+2
+SERVANT
+GUILDFORD
+Madam, the same-your servant.
+KATHARINE
+2
+SERVANT
+GUILDFORD
+O, my Lord,
+CAPUCIUS
+2
+SERVANT
+GUILDFORD
+Noble lady,
+KATHARINE
+2
+SERVANT
+GUILDFORD
+O my good lord, that comfort comes too late,
+CAPUCIUS
+2
+SERVANT
+GUILDFORD
+Madam, in good health.
+KATHARINE
+2
+SERVANT
+GUILDFORD
+So may he ever do! and ever flourish
+PATIENCE
+2
+SERVANT
+GUILDFORD
+No, madam.                       [Giving it to KATHARINE]
+KATHARINE
+2
+SERVANT
+GUILDFORD
+Sir, I most humbly pray you to deliver
+CAPUCIUS
+2
+SERVANT
+GUILDFORD
+Most willing, madam.
+KATHARINE
+2
+SERVANT
+GUILDFORD
+In which I have commended to his goodness
+CAPUCIUS
+2
+SERVANT
+GUILDFORD
+By heaven, I will,
+KATHARINE
+2
+SERVANT
+GUILDFORD
+I thank you, honest lord. Remember me
+GARDINER
+2
+SERVANT
+GUILDFORD
+It's one o'clock, boy, is't not?
+BOY
+2
+SERVANT
+GUILDFORD
+It hath struck.
+GARDINER
+2
+SERVANT
+GUILDFORD
+These should be hours for necessities,
+LOVELL
+2
+SERVANT
+GUILDFORD
+Came you from the King, my lord?
+GARDINER
+2
+SERVANT
+GUILDFORD
+I did, Sir Thomas, and left him at primero
+LOVELL
+2
+SERVANT
+GUILDFORD
+I must to him too,
+GARDINER
+2
+SERVANT
+GUILDFORD
+Not yet, Sir Thomas Lovell. What's the matter?
+LOVELL
+2
+SERVANT
+GUILDFORD
+My lord, I love you;
+GARDINER
+2
+SERVANT
+GUILDFORD
+The fruit she goes with
+LOVELL
+2
+SERVANT
+GUILDFORD
+Methinks I could
+GARDINER
+2
+SERVANT
+GUILDFORD
+But, sir, sir-
+LOVELL
+2
+SERVANT
+GUILDFORD
+Now, sir, you speak of two
+GARDINER
+2
+SERVANT
+GUILDFORD
+Yes, yes, Sir Thomas,
+LOVELL
+2
+SERVANT
+GUILDFORD
+Many good nights, my lord; I rest your servant.
+LOVELL
+2
+SERVANT
+GUILDFORD
+Many good nights, my lord; I rest your servant.
+                                             Exeunt GARDINER and PAGE
+KING
+2
+SERVANT
+GUILDFORD
+Charles, I will play no more to-night;
+SUFFOLK
+2
+SERVANT
+GUILDFORD
+Sir, I did never win of you before.
+KING
+2
+SERVANT
+GUILDFORD
+But little, Charles;
+LOVELL
+2
+SERVANT
+GUILDFORD
+I could not personally deliver to her
+KING
+2
+SERVANT
+GUILDFORD
+What say'st thou, ha?
+LOVELL
+2
+SERVANT
+GUILDFORD
+So said her woman; and that her suff'rance made
+KING
+2
+SERVANT
+GUILDFORD
+Alas, good lady!
+SUFFOLK
+2
+SERVANT
+GUILDFORD
+God safely quit her of her burden, and
+KING
+2
+SERVANT
+GUILDFORD
+'Tis midnight, Charles;
+SUFFOLK
+2
+SERVANT
+GUILDFORD
+I wish your Highness
+KING
+2
+SERVANT
+GUILDFORD
+Charles, good night.                             Exit SUFFOLK
+DENNY
+2
+SERVANT
+GUILDFORD
+Sir, I have brought my lord the Archbishop,
+KING
+2
+SERVANT
+GUILDFORD
+Ha! Canterbury?
+DENNY
+2
+SERVANT
+GUILDFORD
+Ay, my good lord.
+KING
+2
+SERVANT
+GUILDFORD
+'Tis true. Where is he, Denny?
+DENNY
+2
+SERVANT
+GUILDFORD
+He attends your Highness' pleasure.
+KING
+2
+SERVANT
+GUILDFORD
+Bring him to us.                                   Exit DENNY
+LOVELL
+2
+SERVANT
+GUILDFORD
+ [Aside]  This is about that which the bishop spake.
+LOVELL
+3
+SERVANT
+GUILDFORD
+DENNY
+ [Aside]  This is about that which the bishop spake.
+    I am happily come hither.
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Avoid the gallery.                     [LOVELL seems to stay]
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Avoid the gallery.                     [LOVELL seems to stay]
+    Ha! I have said. Be gone.
+    What!                                     Exeunt LOVELL and DENNY
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+ [Aside]  I am fearful-wherefore frowns he thus?
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+How now, my lord? You do desire to know
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+ [Kneeling]  It is my duty
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Pray you, arise,
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+I humbly thank your Highness
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Stand up, good Canterbury;
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Most dread liege,
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Know you not
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+God and your Majesty
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Be of good cheer;
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Be of good cheer;
+    They shall no more prevail than we give way to.
+    Keep comfort to you, and this morning see
+    You do appear before them; if they shall chance,
+    In charging you with matters, to commit you,
+    The best persuasions to the contrary
+    Fail not to use, and with what vehemency
+    Th' occasion shall instruct you. If entreaties
+    Will render you no remedy, this ring
+    Deliver them, and your appeal to us
+    There make before them. Look, the good man weeps!
+    He's honest, on mine honour. God's blest Mother!
+    I swear he is true-hearted, and a soul
+    None better in my kingdom. Get you gone,
+    And do as I have bid you.
+                                                         Exit CRANMER
+GENTLEMAN
+3
+SERVANT
+GUILDFORD
+DENNY
+ [Within]  Come back; what mean you?
+OLD LADY
+3
+SERVANT
+GUILDFORD
+DENNY
+I'll not come back; the tidings that I bring
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Now, by thy looks
+OLD LADY
+3
+SERVANT
+GUILDFORD
+DENNY
+Ay, ay, my liege;
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Lovell!
+LOVELL
+3
+SERVANT
+GUILDFORD
+DENNY
+Sir?
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Give her an hundred marks. I'll to the Queen.            Exit
+OLD LADY
+3
+SERVANT
+GUILDFORD
+DENNY
+An hundred marks? By this light, I'll ha' more!
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+I hope I am not too late; and yet the gentleman
+KEEPER
+3
+SERVANT
+GUILDFORD
+DENNY
+Yes, my lord;
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Why?
+KEEPER
+3
+SERVANT
+GUILDFORD
+DENNY
+Your Grace must wait till you be call'd for.
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+So.
+BUTTS
+3
+SERVANT
+GUILDFORD
+DENNY
+ [Aside]  This is a piece of malice. I am glad
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+ [Aside]  'Tis Butts,
+BUTTS
+3
+SERVANT
+GUILDFORD
+DENNY
+I'll show your Grace the strangest sight-
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+What's that, Butts?
+BUTTS
+3
+SERVANT
+GUILDFORD
+DENNY
+I think your Highness saw this many a day.
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Body a me, where is it?
+BUTTS
+3
+SERVANT
+GUILDFORD
+DENNY
+There my lord:
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Ha, 'tis he indeed.
+CHANCELLOR
+3
+SERVANT
+GUILDFORD
+DENNY
+Speak to the business, master secretary;
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+Please your honours,
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Has he had knowledge of it?
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+Yes.
+NORFOLK
+3
+SERVANT
+GUILDFORD
+DENNY
+Who waits there?
+KEEPER
+3
+SERVANT
+GUILDFORD
+DENNY
+Without, my noble lords?
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Yes.
+KEEPER
+3
+SERVANT
+GUILDFORD
+DENNY
+My Lord Archbishop;
+CHANCELLOR
+3
+SERVANT
+GUILDFORD
+DENNY
+Let him come in.
+KEEPER
+3
+SERVANT
+GUILDFORD
+DENNY
+Your Grace may enter now.
+CHANCELLOR
+3
+SERVANT
+GUILDFORD
+DENNY
+My good Lord Archbishop, I am very sorry
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Which reformation must be sudden too,
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+My good lords, hitherto in all the progress
+SUFFOLK
+3
+SERVANT
+GUILDFORD
+DENNY
+Nay, my lord,
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+My lord, because we have business of more moment,
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Ah, my good Lord of Winchester, I thank you;
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+My lord, my lord, you are a sectary;
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+My Lord of Winchester, y'are a little,
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Good Master Secretary,
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+Why, my lord?
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Do not I know you for a favourer
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+Not sound?
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Not sound, I say.
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+Would you were half so honest!
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+I shall remember this bold language.
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+Do.
+CHANCELLOR
+3
+SERVANT
+GUILDFORD
+DENNY
+This is too much;
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+I have done.
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+And I.
+CHANCELLOR
+3
+SERVANT
+GUILDFORD
+DENNY
+Then thus for you, my lord: it stands agreed,
+ALL
+3
+SERVANT
+GUILDFORD
+DENNY
+We are.
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Is there no other way of mercy,
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+What other
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+For me?
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Receive him,
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Stay, good my lords,
+CHAMBERLAIN
+3
+SERVANT
+GUILDFORD
+DENNY
+This is the King's ring.
+SURREY
+3
+SERVANT
+GUILDFORD
+DENNY
+'Tis no counterfeit.
+SUFFOLK
+3
+SERVANT
+GUILDFORD
+DENNY
+'Tis the right ring, by heav'n. I told ye all,
+NORFOLK
+3
+SERVANT
+GUILDFORD
+DENNY
+Do you think, my lords,
+CHAMBERLAIN
+3
+SERVANT
+GUILDFORD
+DENNY
+'Tis now too certain;
+CROMWELL
+3
+SERVANT
+GUILDFORD
+DENNY
+My mind gave me,
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+Dread sovereign, how much are we bound to heaven
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+You were ever good at sudden commendations,
+SURREY
+3
+SERVANT
+GUILDFORD
+DENNY
+May it please your Grace-
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+No, sir, it does not please me.
+CHANCELLOR
+3
+SERVANT
+GUILDFORD
+DENNY
+Thus far,
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Well, well, my lords, respect him;
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+The greatest monarch now alive may glory
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Come, come, my lord, you'd spare your spoons. You
+GARDINER
+3
+SERVANT
+GUILDFORD
+DENNY
+With a true heart
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+And let heaven
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Good man, those joyful tears show thy true heart.
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+You'll leave your noise anon, ye rascals. Do you
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+Belong to th' gallows, and be hang'd, ye rogue! Is
+MAN
+3
+SERVANT
+GUILDFORD
+DENNY
+Pray, sir, be patient; 'tis as much impossible,
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+How got they in, and be hang'd?
+MAN
+3
+SERVANT
+GUILDFORD
+DENNY
+Alas, I know not: how gets the tide in?
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+You did nothing, sir.
+MAN
+3
+SERVANT
+GUILDFORD
+DENNY
+I am not Samson, nor Sir Guy, nor Colbrand,
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+I shall be with you presently, good master puppy.
+MAN
+3
+SERVANT
+GUILDFORD
+DENNY
+What would you have me do?
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+What should you do, but knock 'em down by th'
+MAN
+3
+SERVANT
+GUILDFORD
+DENNY
+The spoons will be the bigger, sir. There is a fellow
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+These are the youths that thunder at a playhouse
+CHAMBERLAIN
+3
+SERVANT
+GUILDFORD
+DENNY
+Mercy o' me, what a multitude are here!
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+An't please your honour,
+CHAMBERLAIN
+3
+SERVANT
+GUILDFORD
+DENNY
+As I live,
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+Make way there for the Princess.
+MAN
+3
+SERVANT
+GUILDFORD
+DENNY
+You great fellow,
+PORTER
+3
+SERVANT
+GUILDFORD
+DENNY
+You i' th' camlet, get up o' th' rail;
+GARTER
+3
+SERVANT
+GUILDFORD
+DENNY
+Heaven, from thy endless goodness, send prosperous
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+ [Kneeling]  And to your royal Grace and the
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Thank you, good Lord Archbishop.
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Elizabeth.
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Stand up, lord.                   [The KING kisses the child]
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Amen.
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+My noble gossips, y'have been too prodigal;
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+Let me speak, sir,
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+Thou speakest wonders.
+CRANMER
+3
+SERVANT
+GUILDFORD
+DENNY
+She shall be, to the happiness of England,
+KING
+3
+SERVANT
+GUILDFORD
+DENNY
+O Lord Archbishop,

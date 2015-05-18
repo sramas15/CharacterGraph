@@ -1,0 +1,3186 @@
+Kent
+0
+I thought the King had more affected the Duke of Albany than
+Glou
+0
+It did always seem so to us; but now, in the division of the
+Kent
+0
+Is not this your son, my lord?
+Glou
+0
+His breeding, sir, hath been at my charge. I have so often
+Kent
+0
+I cannot conceive you.
+Glou
+0
+Sir, this young fellow's mother could; whereupon she grew
+Kent
+0
+I cannot wish the fault undone, the issue of it being so
+Glou
+0
+But I have, sir, a son by order of law, some year elder than
+Edm
+0
+[comes forward] No, my lord.
+Glou
+0
+My Lord of Kent. Remember him hereafter as my honourable
+Edm
+0
+My services to your lordship.
+Kent
+0
+I must love you, and sue to know you better.
+Edm
+0
+Sir, I shall study deserving.
+Glou
+0
+He hath been out nine years, and away he shall again.
+Lear
+0
+Attend the lords of France and Burgundy, Gloucester.
+Glou
+0
+I shall, my liege.
+Lear
+0
+Meantime we shall express our darker purpose.
+Gon
+0
+Sir, I love you more than words can wield the matter;
+Cor
+0
+[aside] What shall Cordelia speak? Love, and be silent.
+Lear
+0
+Of all these bounds, even from this line to this,
+Reg
+0
+Sir, I am made
+Cor
+0
+[aside] Then poor Cordelia!
+Lear
+0
+To thee and thine hereditary ever
+Cor
+0
+Nothing, my lord.
+Lear
+0
+Nothing?
+Cor
+0
+Nothing.
+Lear
+0
+Nothing can come of nothing. Speak again.
+Cor
+0
+Unhappy that I am, I cannot heave
+Lear
+0
+How, how, Cordelia? Mend your speech a little,
+Cor
+0
+Good my lord,
+Lear
+0
+But goes thy heart with this?
+Cor
+0
+Ay, good my lord.
+Lear
+0
+So young, and so untender?
+Cor
+0
+So young, my lord, and true.
+Lear
+0
+Let it be so! thy truth then be thy dower!
+Kent
+0
+Good my liege-
+Lear
+0
+Peace, Kent!
+Kent
+0
+Royal Lear,
+Lear
+0
+The bow is bent and drawn; make from the shaft.
+Kent
+0
+Let it fall rather, though the fork invade
+Lear
+0
+Kent, on thy life, no more!
+Kent
+0
+My life I never held but as a pawn
+Lear
+0
+Out of my sight!
+Kent
+0
+See better, Lear, and let me still remain
+Lear
+0
+Now by Apollo-
+Kent
+0
+Now by Apollo, King,
+Lear
+0
+O vassal! miscreant!
+Alb
+0
+ Corn. Dear sir, forbear!
+Kent
+0
+Do!
+Lear
+0
+Hear me, recreant!
+Kent
+0
+Fare thee well, King. Since thus thou wilt appear,
+Flourish
+0
+Enter Gloucester, with France and Burgundy; Attendants.
+Glou
+0
+Here's France and Burgundy, my noble lord.
+Lear
+0
+My Lord of Burgundy,
+Bur
+0
+Most royal Majesty,
+Lear
+0
+Right noble Burgundy,
+Bur
+0
+I know no answer.
+Lear
+0
+Will you, with those infirmities she owes,
+Bur
+0
+Pardon me, royal sir.
+Lear
+0
+Then leave her, sir; for, by the pow'r that made me,
+France
+0
+This is most strange,
+Cor
+0
+I yet beseech your Majesty,
+Lear
+0
+Better thou
+France
+0
+Is it but this- a tardiness in nature
+Bur
+0
+Royal Lear,
+Lear
+0
+Nothing! I have sworn; I am firm.
+Bur
+0
+I am sorry then you have so lost a father
+Cor
+0
+Peace be with Burgundy!
+France
+0
+Fairest Cordelia, that art most rich, being poor;
+Lear
+0
+Thou hast her, France; let her be thine; for we
+France
+0
+Bid farewell to your sisters.
+Cor
+0
+The jewels of our father, with wash'd eyes
+Gon
+0
+Prescribe not us our duties.
+Reg
+0
+Let your study
+Cor
+0
+Time shall unfold what plighted cunning hides.
+France
+0
+Come, my fair Cordelia.
+Gon
+0
+Sister, it is not little I have to say of what most nearly
+Reg
+0
+That's most certain, and with you; next month with us.
+Gon
+0
+You see how full of changes his age is. The observation we
+Reg
+0
+'Tis the infirmity of his age; yet he hath ever but slenderly
+Gon
+0
+The best and soundest of his time hath been but rash; then
+Reg
+0
+Such unconstant starts are we like to have from him as this
+Gon
+0
+There is further compliment of leave-taking between France and
+Reg
+0
+We shall further think on't.
+Gon
+0
+We must do something, and i' th' heat.
+Edm
+0
+Thou, Nature, art my goddess; to thy law
+Glou
+0
+Kent banish'd thus? and France in choler parted?
+Edm
+0
+So please your lordship, none.
+Glou
+0
+Why so earnestly seek you to put up that letter?
+Edm
+0
+I know no news, my lord.
+Glou
+0
+What paper were you reading?
+Edm
+0
+Nothing, my lord.
+Glou
+0
+No? What needed then that terrible dispatch of it into your
+Edm
+0
+I beseech you, sir, pardon me. It is a letter from my brother
+Glou
+0
+Give me the letter, sir.
+Edm
+0
+I shall offend, either to detain or give it. The contents, as
+Glou
+0
+Let's see, let's see!
+Edm
+0
+I hope, for my brother's justification, he wrote this but as
+Glou
+0
+(reads) 'This policy and reverence of age makes the world
+Edm
+0
+It was not brought me, my lord: there's the cunning of it. I
+Glou
+0
+You know the character to be your brother's?
+Edm
+0
+If the matter were good, my lord, I durst swear it were his;
+Glou
+0
+It is his.
+Edm
+0
+It is his hand, my lord; but I hope his heart is not in the
+Glou
+0
+Hath he never before sounded you in this business?
+Edm
+0
+Never, my lord. But I have heard him oft maintain it to be fit
+Glou
+0
+O villain, villain! His very opinion in the letter! Abhorred
+Edm
+0
+I do not well know, my lord. If it shall please you to suspend
+Glou
+0
+Think you so?
+Edm
+0
+If your honour judge it meet, I will place you where you shall
+Glou
+0
+He cannot be such a monster.
+Edm
+0
+Nor is not, sure.
+Glou
+0
+To his father, that so tenderly and entirely loves him.
+Edm
+0
+I will seek him, sir, presently; convey the business as I
+Glou
+0
+These late eclipses in the sun and moon portend no good to
+Edm
+0
+This is the excellent foppery of the world, that, when we are
+Edg
+0
+How now, brother Edmund? What serious contemplation are you
+Edm
+0
+I am thinking, brother, of a prediction I read this other day,
+Edg
+0
+Do you busy yourself with that?
+Edm
+0
+I promise you, the effects he writes of succeed unhappily: as
+Edg
+0
+How long have you been a sectary astronomical?
+Edm
+0
+Come, come! When saw you my father last?
+Edg
+0
+The night gone by.
+Edm
+0
+Spake you with him?
+Edg
+0
+Ay, two hours together.
+Edm
+0
+Parted you in good terms? Found you no displeasure in him by
+Edg
+0
+None at all.
+Edm
+0
+Bethink yourself wherein you may have offended him; and at my
+Edg
+0
+Some villain hath done me wrong.
+Edm
+0
+That's my fear. I pray you have a continent forbearance till
+Edg
+0
+Arm'd, brother?
+Edm
+0
+Brother, I advise you to the best. Go arm'd. I am no honest man
+Edg
+0
+Shall I hear from you anon?
+Edm
+0
+I do serve you in this business.
+Gon
+0
+Did my father strike my gentleman for chiding of his fool?
+Osw
+0
+Ay, madam.
+Gon
+0
+By day and night, he wrongs me! Every hour
+Osw
+0
+He's coming, madam; I hear him.
+Gon
+0
+Put on what weary negligence you please,
+Osw
+0
+Very well, madam.
+Gon
+0
+And let his knights have colder looks among you.
+Kent
+0
+If but as well I other accents borrow,
+Lear
+0
+Let me not stay a jot for dinner; go get it ready. [Exit
+Kent
+0
+A man, sir.
+Lear
+0
+What dost thou profess? What wouldst thou with us?
+Kent
+0
+I do profess to be no less than I seem, to serve him truly
+Lear
+0
+What art thou?
+Kent
+0
+A very honest-hearted fellow, and as poor as the King.
+Lear
+0
+If thou be'st as poor for a subject as he's for a king, thou
+Kent
+0
+Service.
+Lear
+0
+Who wouldst thou serve?
+Kent
+0
+You.
+Lear
+0
+Dost thou know me, fellow?
+Kent
+0
+No, sir; but you have that in your countenance which I would
+Lear
+0
+What's that?
+Kent
+0
+Authority.
+Lear
+0
+What services canst thou do?
+Kent
+0
+I can keep honest counsel, ride, run, mar a curious tale in
+Lear
+0
+How old art thou?
+Kent
+0
+Not so young, sir, to love a woman for singing, nor so old to
+Lear
+0
+Follow me; thou shalt serve me. If I like thee no worse after
+Osw
+0
+So please you-                                      Exit.
+Lear
+0
+What says the fellow there? Call the clotpoll back.
+Knight
+0
+He says, my lord, your daughter is not well.
+Lear
+0
+Why came not the slave back to me when I call'd him?
+Knight
+0
+Sir, he answered me in the roundest manner, he would not.
+Lear
+0
+He would not?
+Knight
+0
+My lord, I know not what the matter is; but to my judgment
+Lear
+0
+Ha! say'st thou so?
+Knight
+0
+I beseech you pardon me, my lord, if I be mistaken; for
+Lear
+0
+Thou but rememb'rest me of mine own conception. I have
+Knight
+0
+Since my young lady's going into France, sir, the fool
+Lear
+0
+No more of that; I have noted it well. Go you and tell my
+Osw
+0
+My lady's father.
+Lear
+0
+'My lady's father'? My lord's knave! You whoreson dog! you
+Osw
+0
+I am none of these, my lord; I beseech your pardon.
+Lear
+0
+Do you bandy looks with me, you rascal?
+Osw
+0
+I'll not be strucken, my lord.
+Kent
+0
+Nor tripp'd neither, you base football player?
+Lear
+0
+I thank thee, fellow. Thou serv'st me, and I'll love thee.
+Kent
+0
+Come, sir, arise, away! I'll teach you differences. Away,
+Lear
+0
+Now, my friendly knave, I thank thee. There's earnest of thy
+Fool
+0
+Let me hire him too. Here's my coxcomb.
+Lear
+0
+How now, my pretty knave? How dost thou?
+Fool
+0
+Sirrah, you were best take my coxcomb.
+Kent
+0
+Why, fool?
+Fool
+0
+Why? For taking one's part that's out of favour. Nay, an thou
+Lear
+0
+Why, my boy?
+Fool
+0
+If I gave them all my living, I'ld keep my coxcombs myself.
+Lear
+0
+Take heed, sirrah- the whip.
+Fool
+0
+Truth's a dog must to kennel; he must be whipp'd out, when
+Lear
+0
+A pestilent gall to me!
+Fool
+0
+Sirrah, I'll teach thee a speech.
+Lear
+0
+Do.
+Fool
+0
+Mark it, nuncle.
+Kent
+0
+This is nothing, fool.
+Fool
+0
+Then 'tis like the breath of an unfeed lawyer- you gave me
+Lear
+0
+Why, no, boy. Nothing can be made out of nothing.
+Fool
+0
+[to Kent] Prithee tell him, so much the rent of his land
+Lear
+0
+A bitter fool!
+Fool
+0
+Dost thou know the difference, my boy, between a bitter
+Lear
+0
+No, lad; teach me.
+Fool
+0
+  That lord that counsell'd thee
+Lear
+0
+Dost thou call me fool, boy?
+Fool
+0
+All thy other titles thou hast given away; that thou wast
+Kent
+0
+This is not altogether fool, my lord.
+Fool
+0
+No, faith; lords and great men will not let me. If I had a
+Lear
+0
+What two crowns shall they be?
+Fool
+0
+Why, after I have cut the egg i' th' middle and eat up the
+Lear
+0
+When were you wont to be so full of songs, sirrah?
+Fool
+0
+I have us'd it, nuncle, ever since thou mad'st thy daughters
+Lear
+0
+An you lie, sirrah, we'll have you whipp'd.
+Fool
+0
+I marvel what kin thou and thy daughters are. They'll have me
+Lear
+0
+How now, daughter? What makes that frontlet on? Methinks you
+Fool
+0
+Thou wast a pretty fellow when thou hadst no need to care for
+Gon
+0
+Not only, sir, this your all-licens'd fool,
+Fool
+0
+For you know, nuncle,
+Lear
+0
+Are you our daughter?
+Gon
+0
+Come, sir,
+Fool
+0
+May not an ass know when the cart draws the horse?
+Lear
+0
+Doth any here know me? This is not Lear.
+Fool
+0
+Lear's shadow.
+Lear
+0
+I would learn that; for, by the marks of sovereignty,
+Fool
+0
+Which they will make an obedient father.
+Lear
+0
+Your name, fair gentlewoman?
+Gon
+0
+This admiration, sir, is much o' th' savour
+Lear
+0
+Darkness and devils!
+Gon
+0
+You strike my people, and your disorder'd rabble
+Lear
+0
+Woe that too late repents!- O, sir, are you come?
+Alb
+0
+Pray, sir, be patient.
+Lear
+0
+[to Goneril] Detested kite, thou liest!
+Alb
+0
+My lord, I am guiltless, as I am ignorant
+Lear
+0
+It may be so, my lord.
+Alb
+0
+Now, gods that we adore, whereof comes this?
+Gon
+0
+Never afflict yourself to know the cause;
+Lear
+0
+What, fifty of my followers at a clap?
+Alb
+0
+What's the matter, sir?
+Lear
+0
+I'll tell thee. [To Goneril] Life and death! I am asham'd
+Gon
+0
+Do you mark that, my lord?
+Alb
+0
+I cannot be so partial, Goneril,
+Gon
+0
+Pray you, content.- What, Oswald, ho!
+Fool
+0
+Nuncle Lear, nuncle Lear, tarry! Take the fool with thee.
+Gon
+0
+This man hath had good counsel! A hundred knights?
+Alb
+0
+Well, you may fear too far.
+Gon
+0
+Safer than trust too far.
+Osw
+0
+Yes, madam.
+Gon
+0
+Take you some company, and away to horse!
+Alb
+0
+How far your eyes may pierce I cannot tell.
+Gon
+0
+Nay then-
+Alb
+0
+Well, well; th' event.                            Exeunt.
+Lear
+0
+Go you before to Gloucester with these letters. Acquaint my
+Kent
+0
+I will not sleep, my lord, till I have delivered your letter.
+Fool
+0
+If a man's brains were in's heels, were't not in danger of
+Lear
+0
+Ay, boy.
+Fool
+0
+Then I prithee be merry. Thy wit shall ne'er go slip-shod.
+Lear
+0
+Ha, ha, ha!
+Fool
+0
+Shalt see thy other daughter will use thee kindly; for though
+Lear
+0
+What canst tell, boy?
+Fool
+0
+She'll taste as like this as a crab does to a crab. Thou
+Lear
+0
+No.
+Fool
+0
+Why, to keep one's eyes of either side's nose, that what a
+Lear
+0
+I did her wrong.
+Fool
+0
+Canst tell how an oyster makes his shell?
+Lear
+0
+No.
+Fool
+0
+Nor I neither; but I can tell why a snail has a house.
+Lear
+0
+Why?
+Fool
+0
+Why, to put's head in; not to give it away to his daughters,
+Lear
+0
+I will forget my nature. So kind a father!- Be my horses
+Fool
+0
+Thy asses are gone about 'em. The reason why the seven stars
+Lear
+0
+Because they are not eight?
+Fool
+0
+Yes indeed. Thou wouldst make a good fool.
+Lear
+0
+To tak't again perforce! Monster ingratitude!
+Fool
+0
+If thou wert my fool, nuncle, I'ld have thee beaten for being
+Lear
+0
+How's that?
+Fool
+0
+Thou shouldst not have been old till thou hadst been wise.
+Lear
+0
+O, let me not be mad, not mad, sweet heaven!
+Gent
+0
+Ready, my lord.
+Lear
+0
+Come, boy.
+Fool
+0
+She that's a maid now, and laughs at my departure,
+Edm
+0
+Save thee, Curan.
+Cur
+0
+And you, sir. I have been with your father, and given him
+Edm
+0
+How comes that?
+Cur
+0
+Nay, I know not. You have heard of the news abroad- I mean the
+Edm
+0
+Not I. Pray you, what are they?
+Cur
+0
+Have you heard of no likely wars toward 'twixt the two Dukes
+Edm
+0
+Not a word.
+Cur
+0
+You may do, then, in time. Fare you well, sir.      Exit.
+Edm
+0
+The Duke be here to-night? The better! best!
+Edg
+0
+I am sure on't, not a word.
+Edm
+0
+I hear my father coming. Pardon me!
+Glou
+0
+Now, Edmund, where's the villain?
+Edm
+0
+Here stood he in the dark, his sharp sword out,
+Glou
+0
+But where is he?
+Edm
+0
+Look, sir, I bleed.
+Glou
+0
+Where is the villain, Edmund?
+Edm
+0
+Fled this way, sir. When by no means he could-
+Glou
+0
+Pursue him, ho! Go after.        [Exeunt some Servants].
+Edm
+0
+Persuade me to the murther of your lordship;
+Glou
+0
+Let him fly far.
+Edm
+0
+When I dissuaded him from his intent
+Glou
+0
+Strong and fast'ned villain!
+Corn
+0
+How now, my noble friend? Since I came hither
+Reg
+0
+If it be true, all vengeance comes too short
+Glou
+0
+O madam, my old heart is crack'd, it's crack'd!
+Reg
+0
+What, did my father's godson seek your life?
+Glou
+0
+O lady, lady, shame would have it hid!
+Reg
+0
+Was he not companion with the riotous knights
+Glou
+0
+I know not, madam. 'Tis too bad, too bad!
+Edm
+0
+Yes, madam, he was of that consort.
+Reg
+0
+No marvel then though he were ill affected.
+Corn
+0
+Nor I, assure thee, Regan.
+Edm
+0
+'Twas my duty, sir.
+Glou
+0
+He did bewray his practice, and receiv'd
+Corn
+0
+Is he pursued?
+Glou
+0
+Ay, my good lord.
+Corn
+0
+If he be taken, he shall never more
+Edm
+0
+I shall serve you, sir,
+Glou
+0
+For him I thank your Grace.
+Corn
+0
+You know not why we came to visit you-
+Reg
+0
+Thus out of season, threading dark-ey'd night.
+Glou
+0
+I serve you, madam.
+Osw
+0
+Good dawning to thee, friend. Art of this house?
+Kent
+0
+Ay.
+Osw
+0
+Where may we set our horses?
+Kent
+0
+I' th' mire.
+Osw
+0
+Prithee, if thou lov'st me, tell me.
+Kent
+0
+I love thee not.
+Osw
+0
+Why then, I care not for thee.
+Kent
+0
+If I had thee in Lipsbury Pinfold, I would make thee care for
+Osw
+0
+Why dost thou use me thus? I know thee not.
+Kent
+0
+Fellow, I know thee.
+Osw
+0
+What dost thou know me for?
+Kent
+0
+A knave; a rascal; an eater of broken meats; a base, proud,
+Osw
+0
+Why, what a monstrous fellow art thou, thus to rail on one
+Kent
+0
+What a brazen-fac'd varlet art thou, to deny thou knowest me!
+Osw
+0
+Away! I have nothing to do with thee.
+Kent
+0
+Draw, you rascal! You come with letters against the King, and
+Osw
+0
+Help, ho! murther! help!
+Kent
+0
+Strike, you slave! Stand, rogue! Stand, you neat slave!
+Osw
+0
+Help, ho! murther! murther!
+Edm
+0
+How now? What's the matter?                 Parts [them].
+Kent
+0
+With you, goodman boy, an you please! Come, I'll flesh ye!
+Glou
+0
+Weapons? arms? What's the matter here?
+Corn
+0
+Keep peace, upon your lives!
+Reg
+0
+The messengers from our sister and the King
+Corn
+0
+What is your difference? Speak.
+Osw
+0
+I am scarce in breath, my lord.
+Kent
+0
+No marvel, you have so bestirr'd your valour. You cowardly
+Corn
+0
+Thou art a strange fellow. A tailor make a man?
+Kent
+0
+Ay, a tailor, sir. A stonecutter or a painter could not have
+Corn
+0
+Speak yet, how grew your quarrel?
+Osw
+0
+This ancient ruffian, sir, whose life I have spar'd
+Kent
+0
+Thou whoreson zed! thou unnecessary letter! My lord, if
+Corn
+0
+Peace, sirrah!
+Kent
+0
+Yes, sir, but anger hath a privilege.
+Corn
+0
+Why art thou angry?
+Kent
+0
+That such a slave as this should wear a sword,
+Corn
+0
+What, art thou mad, old fellow?
+Glou
+0
+How fell you out? Say that.
+Kent
+0
+No contraries hold more antipathy
+Corn
+0
+Why dost thou call him knave? What is his fault?
+Kent
+0
+His countenance likes me not.
+Corn
+0
+No more perchance does mine, or his, or hers.
+Kent
+0
+Sir, 'tis my occupation to be plain.
+Corn
+0
+This is some fellow
+Kent
+0
+Sir, in good faith, in sincere verity,
+Corn
+0
+What mean'st by this?
+Kent
+0
+To go out of my dialect, which you discommend so much. I
+Corn
+0
+What was th' offence you gave him?
+Osw
+0
+I never gave him any.
+Kent
+0
+None of these rogues and cowards
+Corn
+0
+Fetch forth the stocks!
+Kent
+0
+Sir, I am too old to learn.
+Corn
+0
+Fetch forth the stocks! As I have life and honour,
+Reg
+0
+Till noon? Till night, my lord, and all night too!
+Kent
+0
+Why, madam, if I were your father's dog,
+Reg
+0
+Sir, being his knave, I will.
+Corn
+0
+This is a fellow of the selfsame colour
+Glou
+0
+Let me beseech your Grace not to do so.
+Corn
+0
+I'll answer that.
+Reg
+0
+My sister may receive it much more worse,
+Glou
+0
+I am sorry for thee, friend. 'Tis the Duke's pleasure,
+Kent
+0
+Pray do not, sir. I have watch'd and travell'd hard.
+Glou
+0
+The Duke 's to blame in this; 'twill be ill taken.
+Kent
+0
+Good King, that must approve the common saw,
+Edg
+0
+I heard myself proclaim'd,
+Lear
+0
+'Tis strange that they should so depart from home,
+Gent
+0
+As I learn'd,
+Kent
+0
+Hail to thee, noble master!
+Lear
+0
+Ha!
+Kent
+0
+No, my lord.
+Fool
+0
+Ha, ha! look! he wears cruel garters. Horses are tied by the
+Lear
+0
+What's he that hath so much thy place mistook
+Kent
+0
+It is both he and she-
+Lear
+0
+No.
+Kent
+0
+Yes.
+Lear
+0
+No, I say.
+Kent
+0
+I say yea.
+Lear
+0
+No, no, they would not!
+Kent
+0
+Yes, they have.
+Lear
+0
+By Jupiter, I swear no!
+Kent
+0
+By Juno, I swear ay!
+Lear
+0
+They durst not do't;
+Kent
+0
+My lord, when at their home
+Fool
+0
+Winter's not gone yet, if the wild geese fly that way.
+Lear
+0
+O, how this mother swells up toward my heart!
+Kent
+0
+With the Earl, sir, here within.
+Lear
+0
+Follow me not;
+Gent
+0
+Made you no more offence but what you speak of?
+Kent
+0
+None.
+Fool
+0
+An thou hadst been set i' th' stocks for that question,
+Kent
+0
+Why, fool?
+Fool
+0
+We'll set thee to school to an ant, to teach thee there's no
+Kent
+0
+Where learn'd you this, fool?
+Fool
+0
+Not i' th' stocks, fool.
+Lear
+0
+Deny to speak with me? They are sick? they are weary?
+Glou
+0
+My dear lord,
+Lear
+0
+Vengeance! plague! death! confusion!
+Glou
+0
+Well, my good lord, I have inform'd them so.
+Lear
+0
+Inform'd them? Dost thou understand me, man?
+Glou
+0
+Ay, my good lord.
+Lear
+0
+The King would speak with Cornwall; the dear father
+Glou
+0
+I would have all well betwixt you.                 Exit.
+Lear
+0
+O me, my heart, my rising heart! But down!
+Fool
+0
+Cry to it, nuncle, as the cockney did to the eels when she
+Lear
+0
+Good morrow to you both.
+Corn
+0
+Hail to your Grace!
+Reg
+0
+I am glad to see your Highness.
+Lear
+0
+Regan, I think you are; I know what reason
+Reg
+0
+I pray you, sir, take patience. I have hope
+Lear
+0
+Say, how is that?
+Reg
+0
+I cannot think my sister in the least
+Lear
+0
+My curses on her!
+Reg
+0
+O, sir, you are old!
+Lear
+0
+Ask her forgiveness?
+Reg
+0
+Good sir, no more! These are unsightly tricks.
+Lear
+0
+[rises] Never, Regan!
+Corn
+0
+Fie, sir, fie!
+Lear
+0
+You nimble lightnings, dart your blinding flames
+Reg
+0
+O the blest gods! so will you wish on me
+Lear
+0
+No, Regan, thou shalt never have my curse.
+Reg
+0
+Good sir, to th' purpose.
+Lear
+0
+Who put my man i' th' stocks?
+Corn
+0
+What trumpet's that?
+Reg
+0
+I know't- my sister's. This approves her letter,
+Lear
+0
+This is a slave, whose easy-borrowed pride
+Corn
+0
+What means your Grace?
+Lear
+0
+Who stock'd my servant? Regan, I have good hope
+Gon
+0
+Why not by th' hand, sir? How have I offended?
+Lear
+0
+O sides, you are too tough!
+Corn
+0
+I set him there, sir; but his own disorders
+Lear
+0
+You? Did you?
+Reg
+0
+I pray you, father, being weak, seem so.
+Lear
+0
+Return to her, and fifty men dismiss'd?
+Gon
+0
+At your choice, sir.
+Lear
+0
+I prithee, daughter, do not make me mad.
+Reg
+0
+Not altogether so.
+Lear
+0
+Is this well spoken?
+Reg
+0
+I dare avouch it, sir. What, fifty followers?
+Gon
+0
+Why might not you, my lord, receive attendance
+Reg
+0
+Why not, my lord? If then they chanc'd to slack ye,
+Lear
+0
+I gave you all-
+Reg
+0
+And in good time you gave it!
+Lear
+0
+Made you my guardians, my depositaries;
+Reg
+0
+And speak't again my lord. No more with me.
+Lear
+0
+Those wicked creatures yet do look well-favour'd
+Gon
+0
+Hear, me, my lord.
+Reg
+0
+What need one?
+Lear
+0
+O, reason not the need! Our basest beggars
+Corn
+0
+Let us withdraw; 'twill be a storm.
+Reg
+0
+This house is little; the old man and 's people
+Gon
+0
+'Tis his own blame; hath put himself from rest
+Reg
+0
+For his particular, I'll receive him gladly,
+Gon
+0
+So am I purpos'd.
+Corn
+0
+Followed the old man forth.
+Glou
+0
+The King is in high rage.
+Corn
+0
+Whither is he going?
+Glou
+0
+He calls to horse, but will I know not whither.
+Corn
+0
+'Tis best to give him way; he leads himself.
+Gon
+0
+My lord, entreat him by no means to stay.
+Glou
+0
+Alack, the night comes on, and the bleak winds
+Reg
+0
+O, sir, to wilful men
+Corn
+0
+Shut up your doors, my lord: 'tis a wild night.
+Kent
+0
+Who's there, besides foul weather?
+Gent
+0
+One minded like the weather, most unquietly.
+Kent
+0
+I know you. Where's the King?
+Gent
+0
+Contending with the fretful elements;
+Kent
+0
+But who is with him?
+Gent
+0
+None but the fool, who labours to outjest
+Kent
+0
+Sir, I do know you,
+Gent
+0
+I will talk further with you.
+Kent
+0
+No, do not.
+Gent
+0
+Give me your hand. Have you no more to say?
+Kent
+0
+Few words, but, to effect, more than all yet:
+Lear
+0
+Blow, winds, and crack your cheeks! rage! blow!
+Fool
+0
+O nuncle, court holy water in a dry house is better than this
+Lear
+0
+Rumble thy bellyful! Spit, fire! spout, rain!
+Fool
+0
+He that has a house to put 's head in has a good head-piece.
+Lear
+0
+No, I will be the pattern of all patience;
+Kent
+0
+Who's there?
+Fool
+0
+Marry, here's grace and a codpiece; that's a wise man and a
+Kent
+0
+Alas, sir, are you here? Things that love night
+Lear
+0
+Let the great gods,
+Kent
+0
+Alack, bareheaded?
+Lear
+0
+My wits begin to turn.
+Fool
+0
+[sings]
+Lear
+0
+True, my good boy. Come, bring us to this hovel.
+Fool
+0
+This is a brave night to cool a courtesan. I'll speak a
+Glou
+0
+Alack, alack, Edmund, I like not this unnatural dealing! When
+Edm
+0
+Most savage and unnatural!
+Glou
+0
+Go to; say you nothing. There is division betwixt the Dukes,
+Edm
+0
+This courtesy, forbid thee, shall the Duke
+Kent
+0
+Here is the place, my lord. Good my lord, enter.
+Lear
+0
+Let me alone.
+Kent
+0
+Good my lord, enter here.
+Lear
+0
+Wilt break my heart?
+Kent
+0
+I had rather break mine own. Good my lord, enter.
+Lear
+0
+Thou think'st 'tis much that this contentious storm
+Kent
+0
+Good my lord, enter here.
+Lear
+0
+Prithee go in thyself; seek thine own ease.
+Edg
+0
+[within] Fathom and half, fathom and half! Poor Tom!
+Fool
+0
+Come not in here, nuncle, here's a spirit. Help me, help me!
+Kent
+0
+Give me thy hand. Who's there?
+Fool
+0
+A spirit, a spirit! He says his name's poor Tom.
+Kent
+0
+What art thou that dost grumble there i' th' straw?
+Edg
+0
+Away! the foul fiend follows me! Through the sharp hawthorn
+Lear
+0
+Hast thou given all to thy two daughters, and art thou come
+Edg
+0
+Who gives anything to poor Tom? whom the foul fiend hath led
+Lear
+0
+What, have his daughters brought him to this pass?
+Fool
+0
+Nay, he reserv'd a blanket, else we had been all sham'd.
+Lear
+0
+Now all the plagues that in the pendulous air
+Kent
+0
+He hath no daughters, sir.
+Lear
+0
+Death, traitor! nothing could have subdu'd nature
+Edg
+0
+Pillicock sat on Pillicock's Hill. 'Allow, 'allow, loo, loo!
+Fool
+0
+This cold night will turn us all to fools and madmen.
+Edg
+0
+Take heed o' th' foul fiend; obey thy parents: keep thy word
+Lear
+0
+What hast thou been?
+Edg
+0
+A servingman, proud in heart and mind; that curl'd my hair,
+Lear
+0
+Why, thou wert better in thy grave than to answer with thy
+Fool
+0
+Prithee, nuncle, be contented! 'Tis a naughty night to swim
+Edg
+0
+This is the foul fiend Flibbertigibbet. He begins at curfew,
+Kent
+0
+How fares your Grace?
+Lear
+0
+What's he?
+Kent
+0
+Who's there? What is't you seek?
+Glou
+0
+What are you there? Your names?
+Edg
+0
+Poor Tom, that eats the swimming frog, the toad, the todpole,
+Glou
+0
+What, hath your Grace no better company?
+Edg
+0
+The prince of darkness is a gentleman!
+Glou
+0
+Our flesh and blood is grown so vile, my lord,
+Edg
+0
+Poor Tom 's acold.
+Glou
+0
+Go in with me. My duty cannot suffer
+Lear
+0
+First let me talk with this philosopher.
+Kent
+0
+Good my lord, take his offer; go into th' house.
+Lear
+0
+I'll talk a word with this same learned Theban.
+Edg
+0
+How to prevent the fiend and to kill vermin.
+Lear
+0
+Let me ask you one word in private.
+Kent
+0
+Importune him once more to go, my lord.
+Glou
+0
+Canst thou blame him?
+Lear
+0
+O, cry you mercy, sir.
+Edg
+0
+Tom's acold.
+Glou
+0
+In, fellow, there, into th' hovel; keep thee warm.
+Lear
+0
+Come, let's in all.
+Kent
+0
+This way, my lord.
+Lear
+0
+With him!
+Kent
+0
+Good my lord, soothe him; let him take the fellow.
+Glou
+0
+Take him you on.
+Kent
+0
+Sirrah, come on; go along with us.
+Lear
+0
+Come, good Athenian.
+Glou
+0
+No words, no words! hush.
+Edg
+0
+Child Rowland to the dark tower came;
+Corn
+0
+I will have my revenge ere I depart his house.
+Edm
+0
+How, my lord, I may be censured, that nature thus gives way to
+Corn
+0
+I now perceive it was not altogether your brother's evil
+Edm
+0
+How malicious is my fortune that I must repent to be just!
+Corn
+0
+Go with me to the Duchess.
+Edm
+0
+If the matter of this paper be certain, you have mighty
+Corn
+0
+True or false, it hath made thee Earl of Gloucester.
+Edm
+0
+[aside] If I find him comforting the King, it will stuff his
+Corn
+0
+I will lay trust upon thee, and thou shalt find a dearer
+Glou
+0
+Here is better than the open air; take it thankfully. I will
+Kent
+0
+All the power of his wits have given way to his impatience.
+Edg
+0
+Frateretto calls me, and tells me Nero is an angler in the
+Fool
+0
+Prithee, nuncle, tell me whether a madman be a gentleman or a
+Lear
+0
+A king, a king!
+Fool
+0
+No, he's a yeoman that has a gentleman to his son; for he's a
+Lear
+0
+To have a thousand with red burning spits
+Edg
+0
+The foul fiend bites my back.
+Fool
+0
+He's mad that trusts in the tameness of a wolf, a horse's
+Lear
+0
+It shall be done; I will arraign them straight.
+Edg
+0
+Look, where he stands and glares! Want'st thou eyes at trial,
+Fool
+0
+     Her boat hath a leak,
+Edg
+0
+The foul fiend haunts poor Tom in the voice of a nightingale.
+Kent
+0
+How do you, sir? Stand you not so amaz'd.
+Lear
+0
+I'll see their trial first. Bring in their evidence.
+Edg
+0
+Let us deal justly.
+Lear
+0
+Arraign her first. 'Tis Goneril. I here take my oath before
+Fool
+0
+Come hither, mistress. Is your name Goneril?
+Lear
+0
+She cannot deny it.
+Fool
+0
+Cry you mercy, I took you for a joint-stool.
+Lear
+0
+And here's another, whose warp'd looks proclaim
+Edg
+0
+Bless thy five wits!
+Kent
+0
+O pity! Sir, where is the patience now
+Edg
+0
+[aside] My tears begin to take his part so much
+Lear
+0
+The little dogs and all,
+Edg
+0
+Tom will throw his head at them. Avaunt, you curs!
+Lear
+0
+Then let them anatomize Regan. See what breeds about her
+Kent
+0
+Now, good my lord, lie here and rest awhile.
+Lear
+0
+Make no noise, make no noise; draw the curtains.
+Fool
+0
+And I'll go to bed at noon.
+Glou
+0
+Come hither, friend. Where is the King my master?
+Kent
+0
+Here, sir; but trouble him not; his wits are gone.
+Glou
+0
+Good friend, I prithee take him in thy arms.
+Kent
+0
+Oppressed nature sleeps.
+Glou
+0
+Come, come, away!
+Edg
+0
+When we our betters see bearing our woes,
+Corn
+0
+[to Goneril] Post speedily to my lord your husband, show him
+Reg
+0
+Hang him instantly.
+Gon
+0
+Pluck out his eyes.
+Corn
+0
+Leave him to my displeasure. Edmund, keep you our sister
+Osw
+0
+My Lord of Gloucester hath convey'd him hence.
+Corn
+0
+Get horses for your mistress.
+Gon
+0
+Farewell, sweet lord, and sister.
+Corn
+0
+Edmund, farewell.
+Reg
+0
+Ingrateful fox! 'tis he.
+Corn
+0
+Bind fast his corky arms.
+Glou
+0
+What mean, your Graces? Good my friends, consider
+Corn
+0
+Bind him, I say.
+Reg
+0
+Hard, hard. O filthy traitor!
+Glou
+0
+Unmerciful lady as you are, I am none.
+Corn
+0
+To this chair bind him. Villain, thou shalt find-
+Glou
+0
+By the kind gods, 'tis most ignobly done
+Reg
+0
+So white, and such a traitor!
+Glou
+0
+Naughty lady,
+Corn
+0
+Come, sir, what letters had you late from France?
+Reg
+0
+Be simple-answer'd, for we know the truth.
+Corn
+0
+And what confederacy have you with the traitors
+Reg
+0
+To whose hands have you sent the lunatic King?
+Glou
+0
+I have a letter guessingly set down,
+Corn
+0
+Cunning.
+Reg
+0
+And false.
+Corn
+0
+Where hast thou sent the King?
+Glou
+0
+To Dover.
+Reg
+0
+Wherefore to Dover? Wast thou not charg'd at peril-
+Corn
+0
+Wherefore to Dover? Let him first answer that.
+Glou
+0
+I am tied to th' stake, and I must stand the course.
+Reg
+0
+Wherefore to Dover, sir?
+Glou
+0
+Because I would not see thy cruel nails
+Corn
+0
+See't shalt thou never. Fellows, hold the chair.
+Glou
+0
+He that will think to live till he be old,
+Reg
+0
+One side will mock another. Th' other too!
+Corn
+0
+If you see vengeance-
+Reg
+0
+How now, you dog?
+Reg
+0
+What do you mean?
+Corn
+0
+My villain!                               Draw and fight.
+Reg
+0
+Give me thy sword. A peasant stand up thus?
+Corn
+0
+Lest it see more, prevent it. Out, vile jelly!
+Glou
+0
+All dark and comfortless! Where's my son Edmund?
+Reg
+0
+Out, treacherous villain!
+Glou
+0
+O my follies! Then Edgar was abus'd.
+Reg
+0
+Go thrust him out at gates, and let him smell
+Corn
+0
+I have receiv'd a hurt. Follow me, lady.
+Edg
+0
+Yet better thus, and known to be contemn'd,
+Old Man
+0
+O my good lord,
+Glou
+0
+Away, get thee away! Good friend, be gone.
+Old Man
+0
+You cannot see your way.
+Glou
+0
+I have no way, and therefore want no eyes;
+Old Man
+0
+How now? Who's there?
+Edg
+0
+[aside] O gods! Who is't can say 'I am at the worst'?
+Old Man
+0
+'Tis poor mad Tom.
+Edg
+0
+[aside] And worse I may be yet. The worst is not
+Old Man
+0
+Fellow, where goest?
+Glou
+0
+Is it a beggarman?
+Old Man
+0
+Madman and beggar too.
+Glou
+0
+He has some reason, else he could not beg.
+Edg
+0
+[aside] How should this be?
+Glou
+0
+Is that the naked fellow?
+Old Man
+0
+Ay, my lord.
+Glou
+0
+Then prithee get thee gone. If for my sake
+Old Man
+0
+Alack, sir, he is mad!
+Glou
+0
+'Tis the time's plague when madmen lead the blind.
+Old Man
+0
+I'll bring him the best 'parel that I have,
+Glou
+0
+Sirrah naked fellow-
+Edg
+0
+Poor Tom's acold. [Aside] I cannot daub it further.
+Glou
+0
+Come hither, fellow.
+Edg
+0
+[aside] And yet I must.- Bless thy sweet eyes, they bleed.
+Glou
+0
+Know'st thou the way to Dover?
+Edg
+0
+Both stile and gate, horseway and footpath. Poor Tom hath been
+Glou
+0
+Here, take this Purse, thou whom the heavens' plagues
+Edg
+0
+Ay, master.
+Glou
+0
+There is a cliff, whose high and bending head
+Edg
+0
+Give me thy arm.
+Gon
+0
+Welcome, my lord. I marvel our mild husband
+Osw
+0
+Madam, within, but never man so chang'd.
+Gon
+0
+[to Edmund] Then shall you go no further.
+Edm
+0
+Yours in the ranks of death!                        Exit.
+Gon
+0
+My most dear Gloucester!
+Osw
+0
+Madam, here comes my lord.                          Exit.
+Gon
+0
+I have been worth the whistle.
+Alb
+0
+O Goneril,
+Gon
+0
+No more! The text is foolish.
+Alb
+0
+Wisdom and goodness to the vile seem vile;
+Gon
+0
+Milk-liver'd man!
+Alb
+0
+See thyself, devil!
+Gon
+0
+O vain fool!
+Alb
+0
+Thou changed and self-cover'd thing, for shame!
+Gon
+0
+Marry, your manhood mew!
+Alb
+0
+What news?
+Gent
+0
+O, my good lord, the Duke of Cornwall 's dead,
+Alb
+0
+Gloucester's eyes?
+Gent
+0
+A servant that he bred, thrill'd with remorse,
+Alb
+0
+This shows you are above,
+Gent
+0
+Both, both, my lord.
+Gon
+0
+[aside] One way I like this well;
+Alb
+0
+Where was his son when they did take his eyes?
+Gent
+0
+Come with my lady hither.
+Alb
+0
+He is not here.
+Gent
+0
+No, my good lord; I met him back again.
+Alb
+0
+Knows he the wickedness?
+Gent
+0
+Ay, my good lord. 'Twas he inform'd against him,
+Alb
+0
+Gloucester, I live
+Kent
+0
+Why the King of France is so suddenly gone back know you the
+Gent
+0
+Something he left imperfect in the state, which since his
+Kent
+0
+Who hath he left behind him general?
+Gent
+0
+The Marshal of France, Monsieur La Far.
+Kent
+0
+Did your letters pierce the Queen to any demonstration of
+Gent
+0
+Ay, sir. She took them, read them in my presence,
+Kent
+0
+O, then it mov'd her?
+Gent
+0
+Not to a rage. Patience and sorrow strove
+Kent
+0
+Made she no verbal question?
+Gent
+0
+Faith, once or twice she heav'd the name of father
+Kent
+0
+It is the stars,
+Gent
+0
+No.
+Kent
+0
+Was this before the King return'd?
+Gent
+0
+No, since.
+Kent
+0
+Well, sir, the poor distressed Lear's i' th' town;
+Gent
+0
+Why, good sir?
+Kent
+0
+A sovereign shame so elbows him; his own unkindness,
+Gent
+0
+Alack, poor gentleman!
+Kent
+0
+Of Albany's and Cornwall's powers you heard not?
+Gent
+0
+'Tis so; they are afoot.
+Kent
+0
+Well, sir, I'll bring you to our master Lear
+Cor
+0
+Alack, 'tis he! Why, he was met even now
+Doct
+0
+There is means, madam.
+Cor
+0
+All blest secrets,
+Mess
+0
+News, madam.
+Cor
+0
+'Tis known before. Our preparation stands
+Reg
+0
+But are my brother's pow'rs set forth?
+Osw
+0
+Ay, madam.
+Reg
+0
+Himself in person there?
+Osw
+0
+Madam, with much ado.
+Reg
+0
+Lord Edmund spake not with your lord at home?
+Osw
+0
+No, madam.
+Reg
+0
+What might import my sister's letter to him?
+Osw
+0
+I know not, lady.
+Reg
+0
+Faith, he is posted hence on serious matter.
+Osw
+0
+I must needs after him, madam, with my letter.
+Reg
+0
+Our troops set forth to-morrow. Stay with us.
+Osw
+0
+I may not, madam.
+Reg
+0
+Why should she write to Edmund? Might not you
+Osw
+0
+Madam, I had rather-
+Reg
+0
+I know your lady does not love her husband;
+Osw
+0
+I, madam?
+Reg
+0
+I speak in understanding. Y'are! I know't.
+Osw
+0
+Would I could meet him, madam! I should show
+Reg
+0
+Fare thee well.                                   Exeunt.
+Glou
+0
+When shall I come to th' top of that same hill?
+Edg
+0
+You do climb up it now. Look how we labour.
+Glou
+0
+Methinks the ground is even.
+Edg
+0
+Horrible steep.
+Glou
+0
+No, truly.
+Edg
+0
+Why, then, your other senses grow imperfect
+Glou
+0
+So may it be indeed.
+Edg
+0
+Y'are much deceiv'd. In nothing am I chang'd
+Glou
+0
+Methinks y'are better spoken.
+Edg
+0
+Come on, sir; here's the place. Stand still. How fearful
+Glou
+0
+Set me where you stand.
+Edg
+0
+Give me your hand. You are now within a foot
+Glou
+0
+Let go my hand.
+Edg
+0
+Now fare ye well, good sir.
+Glou
+0
+With all my heart.
+Edg
+0
+[aside]. Why I do trifle thus with his despair
+Glou
+0
+O you mighty gods!                            He kneels.
+Edg
+0
+Gone, sir, farewell.-
+Glou
+0
+Away, and let me die.
+Edg
+0
+Hadst thou been aught but gossamer, feathers, air,
+Glou
+0
+But have I fall'n, or no?
+Edg
+0
+From the dread summit of this chalky bourn.
+Glou
+0
+Alack, I have no eyes!
+Edg
+0
+Give me your arm.
+Glou
+0
+Too well, too well.
+Edg
+0
+This is above all strangeness.
+Glou
+0
+A poor unfortunate beggar.
+Edg
+0
+As I stood here below, methought his eyes
+Glou
+0
+I do remember now. Henceforth I'll bear
+Edg
+0
+Bear free and patient thoughts.
+Lear
+0
+No, they cannot touch me for coming;
+Edg
+0
+O thou side-piercing sight!
+Lear
+0
+Nature 's above art in that respect. There's your press
+Edg
+0
+Sweet marjoram.
+Lear
+0
+Pass.
+Glou
+0
+I know that voice.
+Lear
+0
+Ha! Goneril with a white beard? They flatter'd me like a dog,
+Glou
+0
+The trick of that voice I do well remember.
+Lear
+0
+Ay, every inch a king!
+Glou
+0
+O, let me kiss that hand!
+Lear
+0
+Let me wipe it first; it smells of mortality.
+Glou
+0
+O ruin'd piece of nature! This great world
+Lear
+0
+I remember thine eyes well enough. Dost thou squiny at me?
+Glou
+0
+Were all the letters suns, I could not see one.
+Edg
+0
+[aside] I would not take this from report. It is,
+Lear
+0
+Read.
+Glou
+0
+What, with the case of eyes?
+Lear
+0
+O, ho, are you there with me? No eyes in your head, nor no
+Glou
+0
+I see it feelingly.
+Lear
+0
+What, art mad? A man may see how the world goes with no eyes.
+Glou
+0
+Ay, sir.
+Lear
+0
+And the creature run from the cur? There thou mightst behold
+Edg
+0
+O, matter and impertinency mix'd!
+Lear
+0
+If thou wilt weep my fortunes, take my eyes.
+Glou
+0
+Alack, alack the day!
+Lear
+0
+When we are born, we cry that we are come
+Gent
+0
+O, here he is! Lay hand upon him.- Sir,
+Lear
+0
+No rescue? What, a prisoner? I am even
+Gent
+0
+You shall have anything.
+Lear
+0
+No seconds? All myself?
+Gent
+0
+Good sir-
+Lear
+0
+I will die bravely, like a smug bridegroom. What!
+Gent
+0
+You are a royal one, and we obey you.
+Lear
+0
+Then there's life in't. Nay, an you get it, you shall get it
+Gent
+0
+A sight most pitiful in the meanest wretch,
+Edg
+0
+Hail, gentle sir.
+Gent
+0
+Sir, speed you. What's your will?
+Edg
+0
+Do you hear aught, sir, of a battle toward?
+Gent
+0
+Most sure and vulgar. Every one hears that
+Edg
+0
+But, by your favour,
+Gent
+0
+Near and on speedy foot. The main descry
+Edg
+0
+I thank you sir. That's all.
+Gent
+0
+Though that the Queen on special cause is here,
+Edg
+0
+I thank you, sir
+Glou
+0
+You ever-gentle gods, take my breath from me;
+Edg
+0
+Well pray you, father.
+Glou
+0
+Now, good sir, what are you?
+Edg
+0
+A most poor man, made tame to fortune's blows,
+Glou
+0
+Hearty thanks.
+Osw
+0
+A proclaim'd prize! Most happy!
+Glou
+0
+Now let thy friendly hand
+Osw
+0
+Wherefore, bold peasant,
+Edg
+0
+Chill not let go, zir, without vurther 'cagion.
+Osw
+0
+Let go, slave, or thou diest!
+Edg
+0
+Good gentleman, go your gait, and let poor voke pass. An chud
+Osw
+0
+Out, dunghill!
+Edg
+0
+Chill pick your teeth, zir. Come! No matter vor your foins.
+Osw
+0
+Slave, thou hast slain me. Villain, take my purse.
+Edg
+0
+I know thee well. A serviceable villain,
+Glou
+0
+What, is he dead?
+Edg
+0
+Sit you down, father; rest you.
+Glou
+0
+The King is mad. How stiff is my vile sense,
+Edg
+0
+Give me your hand.
+Cor
+0
+O thou good Kent, how shall I live and work
+Kent
+0
+To be acknowledg'd, madam, is o'erpaid.
+Cor
+0
+Be better suited.
+Kent
+0
+Pardon, dear madam.
+Cor
+0
+Then be't so, my good lord. [To the Doctor] How, does the King?
+Doct
+0
+Madam, sleeps still.
+Cor
+0
+O you kind gods,
+Doct
+0
+So please your Majesty
+Cor
+0
+Be govern'd by your knowledge, and proceed
+Gent
+0
+Ay, madam. In the heaviness of sleep
+Doct
+0
+Be by, good madam, when we do awake him.
+Cor
+0
+Very well.
+Doct
+0
+Please you draw near. Louder the music there!
+Cor
+0
+O my dear father, restoration hang
+Kent
+0
+Kind and dear princess!
+Cor
+0
+Had you not been their father, these white flakes
+Doct
+0
+Madam, do you; 'tis fittest.
+Cor
+0
+How does my royal lord? How fares your Majesty?
+Lear
+0
+You do me wrong to take me out o' th' grave.
+Cor
+0
+Sir, do you know me?
+Lear
+0
+You are a spirit, I know. When did you die?
+Cor
+0
+Still, still, far wide!
+Doct
+0
+He's scarce awake. Let him alone awhile.
+Lear
+0
+Where have I been? Where am I? Fair daylight,
+Cor
+0
+O, look upon me, sir,
+Lear
+0
+Pray, do not mock me.
+Cor
+0
+And so I am! I am!
+Lear
+0
+Be your tears wet? Yes, faith. I pray weep not.
+Cor
+0
+No cause, no cause.
+Lear
+0
+Am I in France?
+Kent
+0
+In your own kingdom, sir.
+Lear
+0
+Do not abuse me.
+Doct
+0
+Be comforted, good madam. The great rage
+Cor
+0
+Will't please your Highness walk?
+Lear
+0
+You must bear with me.
+Gent
+0
+Holds it true, sir, that the Duke of Cornwall was so slain?
+Kent
+0
+Most certain, sir.
+Gent
+0
+Who is conductor of his people?
+Kent
+0
+As 'tis said, the bastard son of Gloucester.
+Gent
+0
+They say Edgar, his banish'd son, is with the Earl of Kent
+Kent
+0
+Report is changeable. 'Tis time to look about; the powers of
+Gent
+0
+The arbitrement is like to be bloody.
+Kent
+0
+My point and period will be throughly wrought,
+Edm
+0
+Know of the Duke if his last purpose hold,
+Reg
+0
+Our sister's man is certainly miscarried.
+Edm
+0
+Tis to be doubted, madam.
+Reg
+0
+Now, sweet lord,
+Edm
+0
+In honour'd love.
+Reg
+0
+But have you never found my brother's way
+Edm
+0
+That thought abuses you.
+Reg
+0
+I am doubtful that you have been conjunct
+Edm
+0
+No, by mine honour, madam.
+Reg
+0
+I never shall endure her. Dear my lord,
+Edm
+0
+Fear me not.
+Gon
+0
+[aside] I had rather lose the battle than that sister
+Alb
+0
+Our very loving sister, well bemet.
+Edm
+0
+Sir, you speak nobly.
+Reg
+0
+Why is this reason'd?
+Gon
+0
+Combine together 'gainst the enemy;
+Alb
+0
+Let's then determine
+Edm
+0
+I shall attend you presently at your tent.
+Reg
+0
+Sister, you'll go with us?
+Gon
+0
+No.
+Reg
+0
+'Tis most convenient. Pray you go with us.
+Gon
+0
+[aside] O, ho, I know the riddle.- I will go.
+Edg
+0
+If e'er your Grace had speech with man so poor,
+Alb
+0
+I'll overtake you.- Speak.
+Edg
+0
+Before you fight the battle, ope this letter.
+Alb
+0
+Stay till I have read the letter.
+Edg
+0
+I was forbid it.
+Alb
+0
+Why, fare thee well. I will o'erlook thy paper.
+Edm
+0
+The enemy 's in view; draw up your powers.
+Alb
+0
+We will greet the time.                             Exit.
+Edm
+0
+To both these sisters have I sworn my love;
+Edg
+0
+Here, father, take the shadow of this tree
+Glou
+0
+Grace go with you, sir!
+Edg
+0
+Away, old man! give me thy hand! away!
+Glou
+0
+No further, sir. A man may rot even here.
+Edg
+0
+What, in ill thoughts again? Men must endure
+Glou
+0
+And that's true too.                             Exeunt.
+Edm
+0
+Some officers take them away. Good guard
+Cor
+0
+We are not the first
+Lear
+0
+No, no, no, no! Come, let's away to prison.
+Edm
+0
+Take them away.
+Lear
+0
+Upon such sacrifices, my Cordelia,
+Edm
+0
+Come hither, Captain; hark.
+Capt
+0
+I'll do't, my lord.
+Edm
+0
+About it! and write happy when th' hast done.
+Capt
+0
+I cannot draw a cart, nor eat dried oats;
+Alb
+0
+Sir, you have show'd to-day your valiant strain,
+Edm
+0
+Sir, I thought it fit
+Alb
+0
+Sir, by your patience,
+Reg
+0
+That's as we list to grace him.
+Gon
+0
+Not so hot!
+Reg
+0
+In my rights
+Gon
+0
+That were the most if he should husband you.
+Reg
+0
+Jesters do oft prove prophets.
+Gon
+0
+Holla, holla!
+Reg
+0
+Lady, I am not well; else I should answer
+Gon
+0
+Mean you to enjoy him?
+Alb
+0
+The let-alone lies not in your good will.
+Edm
+0
+Nor in thine, lord.
+Alb
+0
+Half-blooded fellow, yes.
+Reg
+0
+[to Edmund] Let the drum strike, and prove my title thine.
+Alb
+0
+Stay yet; hear reason. Edmund, I arrest thee
+Gon
+0
+An interlude!
+Alb
+0
+Thou art arm'd, Gloucester. Let the trumpet sound.
+Reg
+0
+Sick, O, sick!
+Gon
+0
+[aside] If not, I'll ne'er trust medicine.
+Edm
+0
+There's my exchange [throws down a glove]. What in the world
+Alb
+0
+A herald, ho!
+Edm
+0
+A herald, ho, a herald!
+Alb
+0
+Trust to thy single virtue; for thy soldiers,
+Reg
+0
+My sickness grows upon me.
+Alb
+0
+She is not well. Convey her to my tent.
+Capt
+0
+Sound, trumpet!                        A trumpet sounds.
+Her
+0
+(reads) 'If any man of quality or degree within the lists of
+Edm
+0
+Sound!                                     First trumpet.
+Her
+0
+Again!                                    Second trumpet.
+Her
+0
+Again!                                     Third trumpet.
+Alb
+0
+Ask him his purposes, why he appears
+Her
+0
+What are you?
+Edg
+0
+Know my name is lost;
+Alb
+0
+Which is that adversary?
+Edg
+0
+What's he that speaks for Edmund Earl of Gloucester?
+Edm
+0
+Himself. What say'st thou to him?
+Edg
+0
+Draw thy sword,
+Edm
+0
+In wisdom I should ask thy name;
+Alb
+0
+Save him, save him!
+Gon
+0
+This is mere practice, Gloucester.
+Alb
+0
+Shut your mouth, dame,
+Gon
+0
+Say if I do- the laws are mine, not thine.
+Alb
+0
+Most monstrous!
+Gon
+0
+Ask me not what I know.                             Exit.
+Alb
+0
+Go after her. She's desperate; govern her.
+Edm
+0
+What, you have charg'd me with, that have I done,
+Edg
+0
+Let's exchange charity.
+Edm
+0
+Th' hast spoken right; 'tis true.
+Alb
+0
+Methought thy very gait did prophesy
+Edg
+0
+Worthy prince, I know't.
+Alb
+0
+Where have you hid yourself?
+Edg
+0
+By nursing them, my lord. List a brief tale;
+Edm
+0
+This speech of yours hath mov'd me,
+Alb
+0
+If there be more, more woful, hold it in;
+Edg
+0
+This would have seem'd a period
+Alb
+0
+But who was this?
+Edg
+0
+Kent, sir, the banish'd Kent; who in disguise
+Gent
+0
+Help, help! O, help!
+Edg
+0
+What kind of help?
+Alb
+0
+Speak, man.
+Edg
+0
+What means that bloody knife?
+Gent
+0
+'Tis hot, it smokes.
+Alb
+0
+Who dead? Speak, man.
+Gent
+0
+Your lady, sir, your lady! and her sister
+Edm
+0
+I was contracted to them both. All three
+Edg
+0
+Here comes Kent.
+Alb
+0
+Produce their bodies, be they alive or dead.
+Kent
+0
+I am come
+Alb
+0
+Great thing of us forgot!
+Kent
+0
+Alack, why thus?
+Edm
+0
+Yet Edmund was belov'd.
+Alb
+0
+Even so. Cover their faces.
+Edm
+0
+I pant for life. Some good I mean to do,
+Alb
+0
+Run, run, O, run!
+Edg
+0
+To who, my lord? Who has the office? Send
+Edm
+0
+Well thought on. Take my sword;
+Alb
+0
+Haste thee for thy life.                    [Exit Edgar.]
+Edm
+0
+He hath commission from thy wife and me
+Alb
+0
+The gods defend her! Bear him hence awhile.
+Lear
+0
+Howl, howl, howl, howl! O, you are men of stone.
+Kent
+0
+Is this the promis'd end?
+Edg
+0
+Or image of that horror?
+Alb
+0
+Fall and cease!
+Lear
+0
+This feather stirs; she lives! If it be so,
+Kent
+0
+O my good master!
+Lear
+0
+Prithee away!
+Edg
+0
+'Tis noble Kent, your friend.
+Lear
+0
+A plague upon you, murderers, traitors all!
+Capt
+0
+'Tis true, my lords, he did.
+Lear
+0
+Did I not, fellow?
+Kent
+0
+If fortune brag of two she lov'd and hated,
+Lear
+0
+This' a dull sight. Are you not Kent?
+Kent
+0
+The same-
+Lear
+0
+He's a good fellow, I can tell you that.
+Kent
+0
+No, my good lord; I am the very man-
+Lear
+0
+I'll see that straight.
+Kent
+0
+That from your first of difference and decay
+Lear
+0
+You're welcome hither.
+Kent
+0
+Nor no man else! All's cheerless, dark, and deadly.
+Lear
+0
+Ay, so I think.
+Alb
+0
+He knows not what he says; and vain is it
+Edg
+0
+Very bootless.
+Capt
+0
+Edmund is dead, my lord.
+Alb
+0
+That's but a trifle here.
+Lear
+0
+And my poor fool is hang'd! No, no, no life!
+Edg
+0
+He faints! My lord, my lord!
+Kent
+0
+Break, heart; I prithee break!
+Edg
+0
+Look up, my lord.
+Kent
+0
+Vex not his ghost. O, let him pass! He hates him
+Edg
+0
+He is gone indeed.
+Kent
+0
+The wonder is, he hath endur'd so long.
+Alb
+0
+Bear them from hence. Our present business
+Kent
+0
+I have a journey, sir, shortly to go.
+Alb
+0
+The weight of this sad time we must obey,

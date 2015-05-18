@@ -1,0 +1,3361 @@
+Players
+0
+English Ambassadors
+0
+Ber
+0
+Who's there.?
+Fran
+0
+Nay, answer me. Stand and unfold yourself.
+Ber
+0
+Long live the King!
+Fran
+0
+Bernardo?
+Ber
+0
+He.
+Fran
+0
+You come most carefully upon your hour.
+Ber
+0
+'Tis now struck twelve. Get thee to bed, Francisco.
+Fran
+0
+For this relief much thanks. 'Tis bitter cold,
+Ber
+0
+Have you had quiet guard?
+Fran
+0
+Not a mouse stirring.
+Ber
+0
+Well, good night.
+Fran
+0
+I think I hear them. Stand, ho! Who is there?
+Hor
+0
+Friends to this ground.
+Mar
+0
+And liegemen to the Dane.
+Fran
+0
+Give you good night.
+Mar
+0
+O, farewell, honest soldier.
+Fran
+0
+Bernardo hath my place.
+Mar
+0
+Holla, Bernardo!
+Ber
+0
+Say-
+Hor
+0
+A piece of him.
+Ber
+0
+Welcome, Horatio. Welcome, good Marcellus.
+Mar
+0
+What, has this thing appear'd again to-night?
+Ber
+0
+I have seen nothing.
+Mar
+0
+Horatio says 'tis but our fantasy,
+Hor
+0
+Tush, tush, 'twill not appear.
+Ber
+0
+Sit down awhile,
+Hor
+0
+Well, sit we down,
+Ber
+0
+Last night of all,
+Mar
+0
+Peace! break thee off! Look where it comes again!
+Ber
+0
+In the same figure, like the King that's dead.
+Mar
+0
+Thou art a scholar; speak to it, Horatio.
+Ber
+0
+Looks it not like the King? Mark it, Horatio.
+Hor
+0
+Most like. It harrows me with fear and wonder.
+Ber
+0
+It would be spoke to.
+Mar
+0
+Question it, Horatio.
+Hor
+0
+What art thou that usurp'st this time of night
+Mar
+0
+It is offended.
+Ber
+0
+See, it stalks away!
+Hor
+0
+Stay! Speak, speak! I charge thee speak!
+Mar
+0
+'Tis gone and will not answer.
+Ber
+0
+How now, Horatio? You tremble and look pale.
+Hor
+0
+Before my God, I might not this believe
+Mar
+0
+Is it not like the King?
+Hor
+0
+As thou art to thyself.
+Mar
+0
+Thus twice before, and jump at this dead hour,
+Hor
+0
+In what particular thought to work I know not;
+Mar
+0
+Good now, sit down, and tell me he that knows,
+Hor
+0
+That can I.
+Ber
+0
+I think it be no other but e'en so.
+Hor
+0
+A mote it is to trouble the mind's eye.
+Mar
+0
+Shall I strike at it with my partisan?
+Hor
+0
+Do, if it will not stand.
+Ber
+0
+'Tis here!
+Hor
+0
+'Tis here!
+Mar
+0
+'Tis gone!
+Ber
+0
+It was about to speak, when the cock crew.
+Hor
+0
+And then it started, like a guilty thing
+Mar
+0
+It faded on the crowing of the cock.
+Hor
+0
+So have I heard and do in part believe it.
+King
+0
+Though yet of Hamlet our dear brother's death
+Cor
+0
+ Volt. In that, and all things, will we show our duty.
+King
+0
+We doubt it nothing. Heartily farewell.
+Laer
+0
+My dread lord,
+King
+0
+Have you your father's leave? What says Polonius?
+Pol
+0
+He hath, my lord, wrung from me my slow leave
+King
+0
+Take thy fair hour, Laertes. Time be thine,
+Ham
+0
+[aside] A little more than kin, and less than kind!
+King
+0
+How is it that the clouds still hang on you?
+Ham
+0
+Not so, my lord. I am too much i' th' sun.
+Queen
+0
+Good Hamlet, cast thy nighted colour off,
+Ham
+0
+Ay, madam, it is common.
+Queen
+0
+If it be,
+Ham
+0
+Seems, madam, Nay, it is. I know not 'seems.'
+King
+0
+'Tis sweet and commendable in your nature, Hamlet,
+Queen
+0
+Let not thy mother lose her prayers, Hamlet.
+Ham
+0
+I shall in all my best obey you, madam.
+King
+0
+Why, 'tis a loving and a fair reply.
+Ham
+0
+O that this too too solid flesh would melt,
+Hor
+0
+Hail to your lordship!
+Ham
+0
+I am glad to see you well.
+Hor
+0
+The same, my lord, and your poor servant ever.
+Ham
+0
+Sir, my good friend- I'll change that name with you.
+Mar
+0
+My good lord!
+Ham
+0
+I am very glad to see you.- [To Bernardo] Good even, sir.-
+Hor
+0
+A truant disposition, good my lord.
+Ham
+0
+I would not hear your enemy say so,
+Hor
+0
+My lord, I came to see your father's funeral.
+Ham
+0
+I prithee do not mock me, fellow student.
+Hor
+0
+Indeed, my lord, it followed hard upon.
+Ham
+0
+Thrift, thrift, Horatio! The funeral bak'd meats
+Hor
+0
+O, where, my lord?
+Ham
+0
+In my mind's eye, Horatio.
+Hor
+0
+I saw him once. He was a goodly king.
+Ham
+0
+He was a man, take him for all in all.
+Hor
+0
+My lord, I think I saw him yesternight.
+Ham
+0
+Saw? who?
+Hor
+0
+My lord, the King your father.
+Ham
+0
+The King my father?
+Hor
+0
+Season your admiration for a while
+Ham
+0
+For God's love let me hear!
+Hor
+0
+Two nights together had these gentlemen
+Ham
+0
+But where was this?
+Mar
+0
+My lord, upon the platform where we watch'd.
+Ham
+0
+Did you not speak to it?
+Hor
+0
+My lord, I did;
+Ham
+0
+'Tis very strange.
+Hor
+0
+As I do live, my honour'd lord, 'tis true;
+Ham
+0
+Indeed, indeed, sirs. But this troubles me.
+Ham
+0
+Arm'd, say you?
+Both
+0
+Arm'd, my lord.
+Ham
+0
+From top to toe?
+Both
+0
+My lord, from head to foot.
+Ham
+0
+Then saw you not his face?
+Hor
+0
+O, yes, my lord! He wore his beaver up.
+Ham
+0
+What, look'd he frowningly.
+Hor
+0
+A countenance more in sorrow than in anger.
+Ham
+0
+Pale or red?
+Hor
+0
+Nay, very pale.
+Ham
+0
+And fix'd his eyes upon you?
+Hor
+0
+Most constantly.
+Ham
+0
+I would I had been there.
+Hor
+0
+It would have much amaz'd you.
+Ham
+0
+Very like, very like. Stay'd it long?
+Hor
+0
+While one with moderate haste might tell a hundred.
+Both
+0
+Longer, longer.
+Hor
+0
+Not when I saw't.
+Ham
+0
+His beard was grizzled- no?
+Hor
+0
+It was, as I have seen it in his life,
+Ham
+0
+I will watch to-night.
+Hor
+0
+I warr'nt it will.
+Ham
+0
+If it assume my noble father's person,
+All
+0
+Our duty to your honour.
+Ham
+0
+Your loves, as mine to you. Farewell.
+Laer
+0
+My necessaries are embark'd. Farewell.
+Oph
+0
+Do you doubt that?
+Laer
+0
+For Hamlet, and the trifling of his favour,
+Oph
+0
+No more but so?
+Laer
+0
+Think it no more.
+Oph
+0
+I shall th' effect of this good lesson keep
+Laer
+0
+O, fear me not!
+Pol
+0
+Yet here, Laertes? Aboard, aboard, for shame!
+Laer
+0
+Most humbly do I take my leave, my lord.
+Pol
+0
+The time invites you. Go, your servants tend.
+Laer
+0
+Farewell, Ophelia, and remember well
+Oph
+0
+'Tis in my memory lock'd,
+Laer
+0
+Farewell.                                          Exit.
+Pol
+0
+What is't, Ophelia, he hath said to you?
+Oph
+0
+So please you, something touching the Lord Hamlet.
+Pol
+0
+Marry, well bethought!
+Oph
+0
+He hath, my lord, of late made many tenders
+Pol
+0
+Affection? Pooh! You speak like a green girl,
+Oph
+0
+I do not know, my lord, what I should think,
+Pol
+0
+Marry, I will teach you! Think yourself a baby
+Oph
+0
+My lord, he hath importun'd me with love
+Pol
+0
+Ay, fashion you may call it. Go to, go to!
+Oph
+0
+And hath given countenance to his speech, my lord,
+Pol
+0
+Ay, springes to catch woodcocks! I do know,
+Oph
+0
+I shall obey, my lord.
+Ham
+0
+The air bites shrewdly; it is very cold.
+Hor
+0
+It is a nipping and an eager air.
+Ham
+0
+What hour now?
+Hor
+0
+I think it lacks of twelve.
+Mar
+0
+No, it is struck.
+Hor
+0
+Indeed? I heard it not. It then draws near the season
+Ham
+0
+The King doth wake to-night and takes his rouse,
+Hor
+0
+Is it a custom?
+Ham
+0
+Ay, marry, is't;
+Hor
+0
+Look, my lord, it comes!
+Ham
+0
+Angels and ministers of grace defend us!
+Hor
+0
+It beckons you to go away with it,
+Mar
+0
+Look with what courteous action
+Hor
+0
+No, by no means!
+Ham
+0
+It will not speak. Then will I follow it.
+Hor
+0
+Do not, my lord!
+Ham
+0
+Why, what should be the fear?
+Hor
+0
+What if it tempt you toward the flood, my lord,
+Ham
+0
+It waves me still.
+Mar
+0
+You shall not go, my lord.
+Ham
+0
+Hold off your hands!
+Hor
+0
+Be rul'd. You shall not go.
+Ham
+0
+My fate cries out
+Hor
+0
+He waxes desperate with imagination.
+Mar
+0
+Let's follow. 'Tis not fit thus to obey him.
+Hor
+0
+Have after. To what issue wail this come?
+Mar
+0
+Something is rotten in the state of Denmark.
+Hor
+0
+Heaven will direct it.
+Mar
+0
+Nay, let's follow him.
+Ham
+0
+Whither wilt thou lead me? Speak! I'll go no further.
+Ghost
+0
+Mark me.
+Ham
+0
+I will.
+Ghost
+0
+My hour is almost come,
+Ham
+0
+Alas, poor ghost!
+Ghost
+0
+Pity me not, but lend thy serious hearing
+Ham
+0
+Speak. I am bound to hear.
+Ghost
+0
+So art thou to revenge, when thou shalt hear.
+Ham
+0
+What?
+Ghost
+0
+I am thy father's spirit,
+Ham
+0
+O God!
+Ghost
+0
+Revenge his foul and most unnatural murther.
+Ham
+0
+Murther?
+Ghost
+0
+Murther most foul, as in the best it is;
+Ham
+0
+Haste me to know't, that I, with wings as swift
+Ghost
+0
+I find thee apt;
+Ham
+0
+O my prophetic soul!
+Ghost
+0
+Ay, that incestuous, that adulterate beast,
+Ham
+0
+O, horrible! O, horrible! most horrible!
+Ghost
+0
+If thou hast nature in thee, bear it not.
+Ham
+0
+O all you host of heaven! O earth! What else?
+Hor
+0
+(within) My lord, my lord!
+Mar
+0
+Lord Hamlet!
+Hor
+0
+Heaven secure him!
+Ham
+0
+So be it!
+Mar
+0
+Illo, ho, ho, my lord!
+Ham
+0
+Hillo, ho, ho, boy! Come, bird, come.
+Mar
+0
+How is't, my noble lord?
+Hor
+0
+What news, my lord?
+Mar
+0
+O, wonderful!
+Hor
+0
+Good my lord, tell it.
+Ham
+0
+No, you will reveal it.
+Hor
+0
+Not I, my lord, by heaven!
+Mar
+0
+Nor I, my lord.
+Ham
+0
+How say you then? Would heart of man once think it?
+Both
+0
+Ay, by heaven, my lord.
+Ham
+0
+There's neer a villain dwelling in all Denmark
+Hor
+0
+There needs no ghost, my lord, come from the grave
+Ham
+0
+Why, right! You are in the right!
+Hor
+0
+These are but wild and whirling words, my lord.
+Ham
+0
+I am sorry they offend you, heartily;
+Hor
+0
+There's no offence, my lord.
+Ham
+0
+Yes, by Saint Patrick, but there is, Horatio,
+Hor
+0
+What is't, my lord? We will.
+Ham
+0
+Never make known what you have seen to-night.
+Both
+0
+My lord, we will not.
+Ham
+0
+Nay, but swear't.
+Hor
+0
+In faith,
+Mar
+0
+Nor I, my lord- in faith.
+Ham
+0
+Upon my sword.
+Mar
+0
+We have sworn, my lord, already.
+Ham
+0
+Indeed, upon my sword, indeed.
+Ghost
+0
+Swear.
+Ham
+0
+Aha boy, say'st thou so? Art thou there, truepenny?
+Hor
+0
+Propose the oath, my lord.
+Ham
+0
+Never to speak of this that you have seen.
+Ghost
+0
+[beneath] Swear.
+Ham
+0
+Hic et ubique? Then we'll shift our ground.
+Ghost
+0
+[beneath] Swear by his sword.
+Ham
+0
+Well said, old mole! Canst work i' th' earth so fast?
+Hor
+0
+O day and night, but this is wondrous strange!
+Ham
+0
+And therefore as a stranger give it welcome.
+Ghost
+0
+[beneath] Swear.
+Ham
+0
+Rest, rest, perturbed spirit! So, gentlemen,
+Pol
+0
+Give him this money and these notes, Reynaldo.
+Rey
+0
+I will, my lord.
+Pol
+0
+You shall do marvell's wisely, good Reynaldo,
+Rey
+0
+My lord, I did intend it.
+Pol
+0
+Marry, well said, very well said. Look you, sir,
+Rey
+0
+Ay, very well, my lord.
+Pol
+0
+'And in part him, but,' you may say, 'not well.
+Rey
+0
+As gaming, my lord.
+Pol
+0
+Ay, or drinking, fencing, swearing, quarrelling,
+Rey
+0
+My lord, that would dishonour him.
+Pol
+0
+Faith, no, as you may season it in the charge.
+Rey
+0
+But, my good lord-
+Pol
+0
+Wherefore should you do this?
+Rey
+0
+Ay, my lord,
+Pol
+0
+Marry, sir, here's my drift,
+Rey
+0
+Very good, my lord.
+Pol
+0
+And then, sir, does 'a this- 'a does- What was I about to say?
+Rey
+0
+At 'closes in the consequence,' at 'friend or so,' and
+Pol
+0
+At 'closes in the consequence'- Ay, marry!
+Rey
+0
+My lord, I have.
+Pol
+0
+God b' wi' ye, fare ye well!
+Rey
+0
+Good my lord!                                    [Going.]
+Pol
+0
+Observe his inclination in yourself.
+Rey
+0
+I shall, my lord.
+Pol
+0
+And let him ply his music.
+Rey
+0
+Well, my lord.
+Pol
+0
+Farewell!
+Oph
+0
+O my lord, my lord, I have been so affrighted!
+Pol
+0
+With what, i' th' name of God I
+Oph
+0
+My lord, as I was sewing in my closet,
+Pol
+0
+Mad for thy love?
+Oph
+0
+My lord, I do not know,
+Pol
+0
+What said he?
+Oph
+0
+He took me by the wrist and held me hard;
+Pol
+0
+Come, go with me. I will go seek the King.
+Oph
+0
+No, my good lord; but, as you did command,
+Pol
+0
+That hath made him mad.
+King
+0
+Welcome, dear Rosencrantz and Guildenstern.
+Queen
+0
+Good gentlemen, he hath much talk'd of you,
+Ros
+0
+Both your Majesties
+Guil
+0
+But we both obey,
+King
+0
+Thanks, Rosencrantz and gentle Guildenstern.
+Queen
+0
+Thanks, Guildenstern and gentle Rosencrantz.
+Guil
+0
+Heavens make our presence and our practices
+Queen
+0
+Ay, amen!
+Pol
+0
+Th' ambassadors from Norway, my good lord,
+King
+0
+Thou still hast been the father of good news.
+Pol
+0
+Have I, my lord? Assure you, my good liege,
+King
+0
+O, speak of that! That do I long to hear.
+Pol
+0
+Give first admittance to th' ambassadors.
+King
+0
+Thyself do grace to them, and bring them in.
+Queen
+0
+I doubt it is no other but the main,
+King
+0
+Well, we shall sift him.
+Volt
+0
+Most fair return of greetings and desires.
+King
+0
+It likes us well;
+Pol
+0
+This business is well ended.
+Queen
+0
+More matter, with less art.
+Pol
+0
+Madam, I swear I use no art at all.
+Queen
+0
+Came this from Hamlet to her?
+Pol
+0
+Good madam, stay awhile. I will be faithful.     [Reads.]
+King
+0
+But how hath she
+Pol
+0
+What do you think of me?
+King
+0
+As of a man faithful and honourable.
+Pol
+0
+I would fain prove so. But what might you think,
+King
+0
+Do you think 'tis this?
+Queen
+0
+it may be, very like.
+Pol
+0
+Hath there been such a time- I would fain know that-
+King
+0
+Not that I know.
+Pol
+0
+[points to his head and shoulder] Take this from this, if this
+King
+0
+How may we try it further?
+Pol
+0
+You know sometimes he walks four hours together
+Queen
+0
+So he does indeed.
+Pol
+0
+At such a time I'll loose my daughter to him.
+King
+0
+We will try it.
+Queen
+0
+But look where sadly the poor wretch comes reading.
+Pol
+0
+Away, I do beseech you, both away
+Ham
+0
+Well, God-a-mercy.
+Pol
+0
+Do you know me, my lord?
+Ham
+0
+Excellent well. You are a fishmonger.
+Pol
+0
+Not I, my lord.
+Ham
+0
+Then I would you were so honest a man.
+Pol
+0
+Honest, my lord?
+Ham
+0
+Ay, sir. To be honest, as this world goes, is to be one man
+Pol
+0
+That's very true, my lord.
+Ham
+0
+For if the sun breed maggots in a dead dog, being a god
+Pol
+0
+I have, my lord.
+Ham
+0
+Let her not walk i' th' sun. Conception is a blessing, but not
+Pol
+0
+[aside] How say you by that? Still harping on my daughter. Yet
+Ham
+0
+Words, words, words.
+Pol
+0
+What is the matter, my lord?
+Ham
+0
+Between who?
+Pol
+0
+I mean, the matter that you read, my lord.
+Ham
+0
+Slanders, sir; for the satirical rogue says here that old men
+Pol
+0
+[aside] Though this be madness, yet there is a method in't.-
+Ham
+0
+Into my grave?
+Pol
+0
+Indeed, that is out o' th' air. [Aside] How pregnant sometimes
+Ham
+0
+You cannot, sir, take from me anything that I will more
+Pol
+0
+Fare you well, my lord.
+Ham
+0
+These tedious old fools!
+Pol
+0
+You go to seek the Lord Hamlet. There he is.
+Ros
+0
+[to Polonius] God save you, sir!
+Guil
+0
+My honour'd lord!
+Ros
+0
+My most dear lord!
+Ham
+0
+My excellent good friends! How dost thou, Guildenstern? Ah,
+Ros
+0
+As the indifferent children of the earth.
+Guil
+0
+Happy in that we are not over-happy.
+Ham
+0
+Nor the soles of her shoe?
+Ros
+0
+Neither, my lord.
+Ham
+0
+Then you live about her waist, or in the middle of her
+Guil
+0
+Faith, her privates we.
+Ham
+0
+In the secret parts of Fortune? O! most true! she is a
+Ros
+0
+None, my lord, but that the world's grown honest.
+Ham
+0
+Then is doomsday near! But your news is not true. Let me
+Guil
+0
+Prison, my lord?
+Ham
+0
+Denmark's a prison.
+Ros
+0
+Then is the world one.
+Ham
+0
+A goodly one; in which there are many confines, wards, and
+Ros
+0
+We think not so, my lord.
+Ham
+0
+Why, then 'tis none to you; for there is nothing either good
+Ros
+0
+Why, then your ambition makes it one. 'Tis too narrow for your
+Ham
+0
+O God, I could be bounded in a nutshell and count myself a
+Guil
+0
+Which dreams indeed are ambition; for the very substance of
+Ham
+0
+A dream itself is but a shadow.
+Ros
+0
+Truly, and I hold ambition of so airy and light a quality that
+Ham
+0
+Then are our beggars bodies, and our monarchs and outstretch'd
+Both
+0
+We'll wait upon you.
+Ham
+0
+No such matter! I will not sort you with the rest of my
+Ros
+0
+To visit you, my lord; no other occasion.
+Ham
+0
+Beggar that I am, I am even poor in thanks; but I thank you;
+Guil
+0
+What should we say, my lord?
+Ham
+0
+Why, anything- but to th' purpose. You were sent for; and
+Ros
+0
+To what end, my lord?
+Ham
+0
+That you must teach me. But let me conjure you by the rights
+Ros
+0
+[aside to Guildenstern] What say you?
+Ham
+0
+[aside] Nay then, I have an eye of you.- If you love me, hold
+Guil
+0
+My lord, we were sent for.
+Ham
+0
+I will tell you why. So shall my anticipation prevent your
+Ros
+0
+My lord, there was no such stuff in my thoughts.
+Ham
+0
+Why did you laugh then, when I said 'Man delights not me'?
+Ros
+0
+To think, my lord, if you delight not in man, what lenten
+Ham
+0
+He that plays the king shall be welcome- his Majesty shall
+Ros
+0
+Even those you were wont to take such delight in, the
+Ham
+0
+How chances it they travel? Their residence, both in
+Ros
+0
+I think their inhibition comes by the means of the late
+Ham
+0
+Do they hold the same estimation they did when I was in the
+Ros
+0
+No indeed are they not.
+Ham
+0
+How comes it? Do they grow rusty?
+Ros
+0
+Nay, their endeavour keeps in the wonted pace; but there is,
+Ham
+0
+What, are they children? Who maintains 'em? How are they
+Ros
+0
+Faith, there has been much to do on both sides; and the nation
+Ham
+0
+Is't possible?
+Guil
+0
+O, there has been much throwing about of brains.
+Ham
+0
+Do the boys carry it away?
+Ros
+0
+Ay, that they do, my lord- Hercules and his load too.
+Ham
+0
+It is not very strange; for my uncle is King of Denmark, and
+Guil
+0
+There are the players.
+Ham
+0
+Gentlemen, you are welcome to Elsinore. Your hands, come! Th'
+Guil
+0
+In what, my dear lord?
+Ham
+0
+I am but mad north-north-west. When the wind is southerly I
+Pol
+0
+Well be with you, gentlemen!
+Ham
+0
+Hark you, Guildenstern- and you too- at each ear a hearer!
+Ros
+0
+Happily he's the second time come to them; for they say an old
+Ham
+0
+I will prophesy he comes to tell me of the players. Mark it.-
+Pol
+0
+My lord, I have news to tell you.
+Ham
+0
+My lord, I have news to tell you. When Roscius was an actor in
+Pol
+0
+The actors are come hither, my lord.
+Ham
+0
+Buzz, buzz!
+Pol
+0
+Upon my honour-
+Ham
+0
+Then came each actor on his ass-
+Pol
+0
+The best actors in the world, either for tragedy, comedy,
+Ham
+0
+O Jephthah, judge of Israel, what a treasure hadst thou!
+Pol
+0
+What treasure had he, my lord?
+Ham
+0
+Why,
+Pol
+0
+[aside] Still on my daughter.
+Ham
+0
+Am I not i' th' right, old Jephthah?
+Pol
+0
+If you call me Jephthah, my lord, I have a daughter that I
+Ham
+0
+Nay, that follows not.
+Pol
+0
+What follows then, my lord?
+Ham
+0
+Why,
+Ham
+0
+I heard thee speak me a speech once, but it was never acted;
+Pol
+0
+Fore God, my lord, well spoken, with good accent and good
+Pol
+0
+This is too long.
+Ham
+0
+It shall to the barber's, with your beard.- Prithee say on.
+Ham
+0
+'The mobled queen'?
+Pol
+0
+That's good! 'Mobled queen' is good.
+Pol
+0
+Look, whe'r he has not turn'd his colour, and has tears in's
+Ham
+0
+'Tis well. I'll have thee speak out the rest of this soon.-
+Pol
+0
+My lord, I will use them according to their desert.
+Ham
+0
+God's bodykins, man, much better! Use every man after his
+Pol
+0
+Come, sirs.
+Ham
+0
+Follow him, friends. We'll hear a play to-morrow.
+Ham
+0
+We'll ha't to-morrow night. You could, for a need, study a
+Ham
+0
+Very well. Follow that lord- and look you mock him not.
+Ros
+0
+Good my lord!
+Ham
+0
+Ay, so, God b' wi' ye!
+King
+0
+And can you by no drift of circumstance
+Ros
+0
+He does confess he feels himself distracted,
+Guil
+0
+Nor do we find him forward to be sounded,
+Queen
+0
+Did he receive you well?
+Ros
+0
+Most like a gentleman.
+Guil
+0
+But with much forcing of his disposition.
+Ros
+0
+Niggard of question, but of our demands
+Queen
+0
+Did you assay him
+Ros
+0
+Madam, it so fell out that certain players
+Pol
+0
+'Tis most true;
+King
+0
+With all my heart, and it doth much content me
+Ros
+0
+We shall, my lord.
+King
+0
+Sweet Gertrude, leave us too;
+Queen
+0
+I shall obey you;
+Oph
+0
+Madam, I wish it may.
+Pol
+0
+Ophelia, walk you here.- Gracious, so please you,
+King
+0
+[aside] O, 'tis too true!
+Pol
+0
+I hear him coming. Let's withdraw, my lord.
+Ham
+0
+To be, or not to be- that is the question:
+Oph
+0
+Good my lord,
+Ham
+0
+I humbly thank you; well, well, well.
+Oph
+0
+My lord, I have remembrances of yours
+Ham
+0
+No, not I!
+Oph
+0
+My honour'd lord, you know right well you did,
+Ham
+0
+Ha, ha! Are you honest?
+Oph
+0
+My lord?
+Ham
+0
+Are you fair?
+Oph
+0
+What means your lordship?
+Ham
+0
+That if you be honest and fair, your honesty should admit no
+Oph
+0
+Could beauty, my lord, have better commerce than with honesty?
+Ham
+0
+Ay, truly; for the power of beauty will sooner transform
+Oph
+0
+Indeed, my lord, you made me believe so.
+Ham
+0
+You should not have believ'd me; for virtue cannot so
+Oph
+0
+I was the more deceived.
+Ham
+0
+Get thee to a nunnery! Why wouldst thou be a breeder of
+Oph
+0
+At home, my lord.
+Ham
+0
+Let the doors be shut upon him, that he may play the fool
+Oph
+0
+O, help him, you sweet heavens!
+Ham
+0
+If thou dost marry, I'll give thee this plague for thy dowry:
+Oph
+0
+O heavenly powers, restore him!
+Ham
+0
+I have heard of your paintings too, well enough. God hath
+Oph
+0
+O, what a noble mind is here o'erthrown!
+King
+0
+Love? his affections do not that way tend;
+Pol
+0
+It shall do well. But yet do I believe
+King
+0
+It shall be so.
+Ham
+0
+Speak the speech, I pray you, as I pronounc'd it to you,
+Player
+0
+I warrant your honour.
+Ham
+0
+Be not too tame neither; but let your own discretion be your
+Player
+0
+I hope we have reform'd that indifferently with us, sir.
+Ham
+0
+O, reform it altogether! And let those that play your clowns
+Pol
+0
+And the Queen too, and that presently.
+Ham
+0
+Bid the players make haste, [Exit Polonius.] Will you two
+Both
+0
+We will, my lord.                       Exeunt they two.
+Ham
+0
+What, ho, Horatio!
+Hor
+0
+Here, sweet lord, at your service.
+Ham
+0
+Horatio, thou art e'en as just a man
+Hor
+0
+O, my dear lord!
+Ham
+0
+Nay, do not think I flatter;
+Hor
+0
+Well, my lord.
+Ham
+0
+They are coming to the play. I must be idle.
+King
+0
+How fares our cousin Hamlet?
+Ham
+0
+Excellent, i' faith; of the chameleon's dish. I eat the air,
+King
+0
+I have nothing with this answer, Hamlet. These words are not
+Ham
+0
+No, nor mine now. [To Polonius] My lord, you play'd once
+Pol
+0
+That did I, my lord, and was accounted a good actor.
+Ham
+0
+What did you enact?
+Pol
+0
+I did enact Julius Caesar; I was kill'd i' th' Capitol; Brutus
+Ham
+0
+It was a brute part of him to kill so capital a calf there. Be
+Ros
+0
+Ay, my lord. They stay upon your patience.
+Queen
+0
+Come hither, my dear Hamlet, sit by me.
+Ham
+0
+No, good mother. Here's metal more attractive.
+Pol
+0
+[to the King] O, ho! do you mark that?
+Ham
+0
+Lady, shall I lie in your lap?
+Oph
+0
+No, my lord.
+Ham
+0
+I mean, my head upon your lap?
+Oph
+0
+Ay, my lord.
+Ham
+0
+Do you think I meant country matters?
+Oph
+0
+I think nothing, my lord.
+Ham
+0
+That's a fair thought to lie between maids' legs.
+Oph
+0
+What is, my lord?
+Ham
+0
+Nothing.
+Oph
+0
+You are merry, my lord.
+Ham
+0
+Who, I?
+Oph
+0
+Ay, my lord.
+Ham
+0
+O God, your only jig-maker! What should a man do but be merry?
+Oph
+0
+Nay 'tis twice two months, my lord.
+Ham
+0
+So long? Nay then, let the devil wear black, for I'll have a
+Oph
+0
+What means this, my lord?
+Ham
+0
+Marry, this is miching malhecho; it means mischief.
+Oph
+0
+Belike this show imports the argument of the play.
+Ham
+0
+We shall know by this fellow. The players cannot keep counsel;
+Oph
+0
+Will he tell us what this show meant?
+Ham
+0
+Ay, or any show that you'll show him. Be not you asham'd to
+Oph
+0
+You are naught, you are naught! I'll mark the play.
+Ham
+0
+Is this a prologue, or the posy of a ring?
+Oph
+0
+'Tis brief, my lord.
+Ham
+0
+As woman's love.
+Ham
+0
+[aside] Wormwood, wormwood!
+Ham
+0
+If she should break it now!
+Ham
+0
+Madam, how like you this play?
+Queen
+0
+The lady doth protest too much, methinks.
+Ham
+0
+O, but she'll keep her word.
+King
+0
+Have you heard the argument? Is there no offence in't?
+Ham
+0
+No, no! They do but jest, poison in jest; no offence i' th'
+King
+0
+What do you call the play?
+Ham
+0
+'The Mousetrap.' Marry, how? Tropically. This play is the
+Oph
+0
+You are as good as a chorus, my lord.
+Ham
+0
+I could interpret between you and your love, if I could see
+Oph
+0
+You are keen, my lord, you are keen.
+Ham
+0
+It would cost you a groaning to take off my edge.
+Oph
+0
+Still better, and worse.
+Ham
+0
+So you must take your husbands.- Begin, murtherer. Pox, leave
+Ham
+0
+He poisons him i' th' garden for's estate. His name's Gonzago.
+Oph
+0
+The King rises.
+Ham
+0
+What, frighted with false fire?
+Queen
+0
+How fares my lord?
+Pol
+0
+Give o'er the play.
+King
+0
+Give me some light! Away!
+All
+0
+Lights, lights, lights!
+Ham
+0
+  Why, let the strucken deer go weep,
+Hor
+0
+Half a share.
+Ham
+0
+  A whole one I!
+Hor
+0
+You might have rhym'd.
+Ham
+0
+O good Horatio, I'll take the ghost's word for a thousand
+Hor
+0
+Very well, my lord.
+Ham
+0
+Upon the talk of the poisoning?
+Hor
+0
+I did very well note him.
+Ham
+0
+  Aha! Come, some music! Come, the recorders!
+Guil
+0
+Good my lord, vouchsafe me a word with you.
+Ham
+0
+Sir, a whole history.
+Guil
+0
+The King, sir-
+Ham
+0
+Ay, sir, what of him?
+Guil
+0
+Is in his retirement, marvellous distemper'd.
+Ham
+0
+With drink, sir?
+Guil
+0
+No, my lord; rather with choler.
+Ham
+0
+Your wisdom should show itself more richer to signify this to
+Guil
+0
+Good my lord, put your discourse into some frame, and start
+Ham
+0
+I am tame, sir; pronounce.
+Guil
+0
+The Queen, your mother, in most great affliction of spirit
+Ham
+0
+You are welcome.
+Guil
+0
+Nay, good my lord, this courtesy is not of the right breed.
+Ham
+0
+Sir, I cannot.
+Guil
+0
+What, my lord?
+Ham
+0
+Make you a wholesome answer; my wit's diseas'd. But, sir, such
+Ros
+0
+Then thus she says: your behaviour hath struck her into
+Ham
+0
+O wonderful son, that can so stonish a mother! But is there no
+Ros
+0
+She desires to speak with you in her closet ere you go to bed.
+Ham
+0
+We shall obey, were she ten times our mother. Have you any
+Ros
+0
+My lord, you once did love me.
+Ham
+0
+And do still, by these pickers and stealers!
+Ros
+0
+Good my lord, what is your cause of distemper? You do surely
+Ham
+0
+Sir, I lack advancement.
+Ros
+0
+How can that be, when you have the voice of the King himself
+Ham
+0
+Ay, sir, but 'while the grass grows'- the proverb is something
+Guil
+0
+O my lord, if my duty be too bold, my love is too unmannerly.
+Ham
+0
+I do not well understand that. Will you play upon this pipe?
+Guil
+0
+My lord, I cannot.
+Ham
+0
+I pray you.
+Guil
+0
+Believe me, I cannot.
+Ham
+0
+I do beseech you.
+Guil
+0
+I know, no touch of it, my lord.
+Ham
+0
+It is as easy as lying. Govern these ventages with your
+Guil
+0
+But these cannot I command to any utt'rance of harmony. I
+Ham
+0
+Why, look you now, how unworthy a thing you make of me! You
+Pol
+0
+My lord, the Queen would speak with you, and presently.
+Ham
+0
+Do you see yonder cloud that's almost in shape of a camel?
+Pol
+0
+By th' mass, and 'tis like a camel indeed.
+Ham
+0
+Methinks it is like a weasel.
+Pol
+0
+It is back'd like a weasel.
+Ham
+0
+Or like a whale.
+Pol
+0
+Very like a whale.
+Ham
+0
+Then will I come to my mother by-and-by.- They fool me to the
+Pol
+0
+I will say so.                                      Exit.
+Ham
+0
+'By-and-by' is easily said.- Leave me, friends.
+King
+0
+I like him not, nor stands it safe with us
+Guil
+0
+We will ourselves provide.
+Ros
+0
+The single and peculiar life is bound
+King
+0
+Arm you, I pray you, to th', speedy voyage;
+Both
+0
+We will haste us.
+Pol
+0
+My lord, he's going to his mother's closet.
+King
+0
+Thanks, dear my lord.
+Ham
+0
+Now might I do it pat, now he is praying;
+King
+0
+[rises] My words fly up, my thoughts remain below.
+Pol
+0
+He will come straight. Look you lay home to him.
+Ham
+0
+(within) Mother, mother, mother!
+Queen
+0
+I'll warrant you; fear me not. Withdraw; I hear him coming.
+Ham
+0
+Now, mother, what's the matter?
+Queen
+0
+Hamlet, thou hast thy father much offended.
+Ham
+0
+Mother, you have my father much offended.
+Queen
+0
+Come, come, you answer with an idle tongue.
+Ham
+0
+Go, go, you question with a wicked tongue.
+Queen
+0
+Why, how now, Hamlet?
+Ham
+0
+What's the matter now?
+Queen
+0
+Have you forgot me?
+Ham
+0
+No, by the rood, not so!
+Queen
+0
+Nay, then I'll set those to you that can speak.
+Ham
+0
+Come, come, and sit you down. You shall not budge I
+Queen
+0
+What wilt thou do? Thou wilt not murther me?
+Pol
+0
+[behind] What, ho! help, help, help!
+Ham
+0
+[draws] How now? a rat? Dead for a ducat, dead!
+Pol
+0
+[behind] O, I am slain!
+Queen
+0
+O me, what hast thou done?
+Ham
+0
+Nay, I know not. Is it the King?
+Queen
+0
+O, what a rash and bloody deed is this!
+Ham
+0
+A bloody deed- almost as bad, good mother,
+Queen
+0
+As kill a king?
+Ham
+0
+Ay, lady, it was my word.
+Queen
+0
+What have I done that thou dar'st wag thy tongue
+Ham
+0
+Such an act
+Queen
+0
+Ay me, what act,
+Ham
+0
+Look here upon th's picture, and on this,
+Queen
+0
+O Hamlet, speak no more!
+Ham
+0
+Nay, but to live
+Queen
+0
+O, speak to me no more!
+Ham
+0
+A murtherer and a villain!
+Queen
+0
+No more!
+Ham
+0
+A king of shreds and patches!-
+Queen
+0
+Alas, he's mad!
+Ham
+0
+Do you not come your tardy son to chide,
+Ghost
+0
+Do not forget. This visitation
+Ham
+0
+How is it with you, lady?
+Queen
+0
+Alas, how is't with you,
+Ham
+0
+On him, on him! Look you how pale he glares!
+Queen
+0
+To whom do you speak this?
+Ham
+0
+Do you see nothing there?
+Queen
+0
+Nothing at all; yet all that is I see.
+Ham
+0
+Nor did you nothing hear?
+Queen
+0
+No, nothing but ourselves.
+Ham
+0
+Why, look you there! Look how it steals away!
+Queen
+0
+This is the very coinage of your brain.
+Ham
+0
+Ecstasy?
+Queen
+0
+O Hamlet, thou hast cleft my heart in twain.
+Ham
+0
+O, throw away the worser part of it,
+Queen
+0
+What shall I do?
+Ham
+0
+Not this, by no means, that I bid you do:
+Queen
+0
+Be thou assur'd, if words be made of breath,
+Ham
+0
+I must to England; you know that?
+Queen
+0
+Alack,
+Ham
+0
+There's letters seal'd; and my two schoolfellows,
+King
+0
+There's matter in these sighs. These profound heaves
+Queen
+0
+Bestow this place on us a little while.
+King
+0
+What, Gertrude? How does Hamlet?
+Queen
+0
+Mad as the sea and wind when both contend
+King
+0
+O heavy deed!
+Queen
+0
+To draw apart the body he hath kill'd;
+King
+0
+O Gertrude, come away!
+Ham
+0
+Safely stow'd.
+Gentlemen
+0
+(within) Hamlet! Lord Hamlet!
+Ham
+0
+But soft! What noise? Who calls on Hamlet? O, here they come.
+Ros
+0
+What have you done, my lord, with the dead body?
+Ham
+0
+Compounded it with dust, whereto 'tis kin.
+Ros
+0
+Tell us where 'tis, that we may take it thence
+Ham
+0
+Do not believe it.
+Ros
+0
+Believe what?
+Ham
+0
+That I can keep your counsel, and not mine own. Besides, to be
+Ros
+0
+Take you me for a sponge, my lord?
+Ham
+0
+Ay, sir; that soaks up the King's countenance, his rewards,
+Ros
+0
+I understand you not, my lord.
+Ham
+0
+I am glad of it. A knavish speech sleeps in a foolish ear.
+Ros
+0
+My lord, you must tell us where the body is and go with us to
+Ham
+0
+The body is with the King, but the King is not with the body.
+Guil
+0
+A thing, my lord?
+Ham
+0
+Of nothing. Bring me to him. Hide fox, and all after.
+King
+0
+I have sent to seek him and to find the body.
+Ros
+0
+Where the dead body is bestow'd, my lord,
+King
+0
+But where is he?
+Ros
+0
+Without, my lord; guarded, to know your pleasure.
+King
+0
+Bring him before us.
+Ros
+0
+Ho, Guildenstern! Bring in my lord.
+King
+0
+Now, Hamlet, where's Polonius?
+Ham
+0
+At supper.
+King
+0
+At supper? Where?
+Ham
+0
+Not where he eats, but where he is eaten. A certain
+King
+0
+Alas, alas!
+Ham
+0
+A man may fish with the worm that hath eat of a king, and eat
+King
+0
+What dost thou mean by this?
+Ham
+0
+Nothing but to show you how a king may go a progress through
+King
+0
+Where is Polonius?
+Ham
+0
+In heaven. Send thither to see. If your messenger find him not
+King
+0
+Go seek him there. [To Attendants.]
+Ham
+0
+He will stay till you come.
+King
+0
+Hamlet, this deed, for thine especial safety,-
+Ham
+0
+For England?
+King
+0
+Ay, Hamlet.
+Ham
+0
+Good.
+King
+0
+So is it, if thou knew'st our purposes.
+Ham
+0
+I see a cherub that sees them. But come, for England!
+King
+0
+Thy loving father, Hamlet.
+Ham
+0
+My mother! Father and mother is man and wife; man and wife is
+King
+0
+Follow him at foot; tempt him with speed aboard.
+For
+0
+Go, Captain, from me greet the Danish king.
+Capt
+0
+I will do't, my lord.
+For
+0
+Go softly on.
+Ham
+0
+Good sir, whose powers are these?
+Capt
+0
+They are of Norway, sir.
+Ham
+0
+How purpos'd, sir, I pray you?
+Capt
+0
+Against some part of Poland.
+Ham
+0
+Who commands them, sir?
+Capt
+0
+The nephew to old Norway, Fortinbras.
+Ham
+0
+Goes it against the main of Poland, sir,
+Capt
+0
+Truly to speak, and with no addition,
+Ham
+0
+Why, then the Polack never will defend it.
+Capt
+0
+Yes, it is already garrison'd.
+Ham
+0
+Two thousand souls and twenty thousand ducats
+Capt
+0
+God b' wi' you, sir.                             [Exit.]
+Ros
+0
+Will't please you go, my lord?
+Ham
+0
+I'll be with you straight. Go a little before.
+Queen
+0
+I will not speak with her.
+Gent
+0
+She is importunate, indeed distract.
+Queen
+0
+What would she have?
+Gent
+0
+She speaks much of her father; says she hears
+Hor
+0
+'Twere good she were spoken with; for she may strew
+Queen
+0
+Let her come in.
+Oph
+0
+Where is the beauteous Majesty of Denmark?
+Queen
+0
+How now, Ophelia?
+Oph
+0
+(sings)
+Queen
+0
+Alas, sweet lady, what imports this song?
+Oph
+0
+Say you? Nay, pray You mark.
+Queen
+0
+Nay, but Ophelia-
+Oph
+0
+Pray you mark.
+Queen
+0
+Alas, look here, my lord!
+Oph
+0
+(Sings)
+King
+0
+How do you, pretty lady?
+Oph
+0
+Well, God dild you! They say the owl was a baker's daughter.
+King
+0
+Conceit upon her father.
+Oph
+0
+Pray let's have no words of this; but when they ask, you what
+King
+0
+Pretty Ophelia!
+Oph
+0
+Indeed, la, without an oath, I'll make an end on't!
+King
+0
+How long hath she been thus?
+Oph
+0
+I hope all will be well. We must be patient; but I cannot
+King
+0
+Follow her close; give her good watch, I pray you.
+Queen
+0
+Alack, what noise is this?
+King
+0
+Where are my Switzers? Let them guard the door.
+Mess
+0
+Save Yourself, my lord:
+Queen
+0
+How cheerfully on the false trail they cry!
+King
+0
+The doors are broke.
+Laer
+0
+Where is this king?- Sirs, staid you all without.
+All
+0
+No, let's come in!
+Laer
+0
+I pray you give me leave.
+All
+0
+We will, we will!
+Laer
+0
+I thank you. Keep the door.      [Exeunt his Followers.]
+Queen
+0
+Calmly, good Laertes.
+Laer
+0
+That drop of blood that's calm proclaims me bastard;
+King
+0
+What is the cause, Laertes,
+Laer
+0
+Where is my father?
+King
+0
+Dead.
+Queen
+0
+But not by him!
+King
+0
+Let him demand his fill.
+Laer
+0
+How came he dead? I'll not be juggled with:
+King
+0
+Who shall stay you?
+Laer
+0
+My will, not all the world!
+King
+0
+Good Laertes,
+Laer
+0
+None but his enemies.
+King
+0
+Will you know them then?
+Laer
+0
+To his good friends thus wide I'll ope my arms
+King
+0
+Why, now You speak
+Laer
+0
+How now? What noise is that?
+Oph
+0
+(sings)
+Laer
+0
+Hadst thou thy wits, and didst persuade revenge,
+Oph
+0
+You must sing 'A-down a-down, and you call him a-down-a.' O,
+Laer
+0
+This nothing's more than matter.
+Oph
+0
+There's rosemary, that's for remembrance. Pray you, love,
+Laer
+0
+A document in madness! Thoughts and remembrance fitted.
+Oph
+0
+There's fennel for you, and columbines. There's rue for you,
+Laer
+0
+Thought and affliction, passion, hell itself,
+Oph
+0
+(sings)
+Laer
+0
+Do you see this, O God?
+King
+0
+Laertes, I must commune with your grief,
+Laer
+0
+Let this be so.
+King
+0
+So you shall;
+Hor
+0
+What are they that would speak with me?
+Servant
+0
+Seafaring men, sir. They say they have letters for you.
+Hor
+0
+Let them come in.
+Sailor
+0
+God bless you, sir.
+Hor
+0
+Let him bless thee too.
+Sailor
+0
+'A shall, sir, an't please him. There's a letter for you,
+Hor
+0
+(reads the letter) 'Horatio, when thou shalt have overlook'd
+King
+0
+Now must your conscience my acquittance seal,
+Laer
+0
+It well appears. But tell me
+King
+0
+O, for two special reasons,
+Laer
+0
+And so have I a noble father lost;
+King
+0
+Break not your sleeps for that. You must not think
+Mess
+0
+Letters, my lord, from Hamlet:
+King
+0
+From Hamlet? Who brought them?
+Mess
+0
+Sailors, my lord, they say; I saw them not.
+King
+0
+Laertes, you shall hear them.
+Laer
+0
+Know you the hand?
+King
+0
+'Tis Hamlet's character. 'Naked!'
+Laer
+0
+I am lost in it, my lord. But let him come!
+King
+0
+If it be so, Laertes
+Laer
+0
+Ay my lord,
+King
+0
+To thine own peace. If he be now return'd
+Laer
+0
+My lord, I will be rul'd;
+King
+0
+It falls right.
+Laer
+0
+What part is that, my lord?
+King
+0
+A very riband in the cap of youth-
+Laer
+0
+A Norman was't?
+King
+0
+A Norman.
+Laer
+0
+Upon my life, Lamound.
+King
+0
+The very same.
+Laer
+0
+I know him well. He is the broach indeed
+King
+0
+He made confession of you;
+Laer
+0
+What out of this, my lord?
+King
+0
+Laertes, was your father dear to you?
+Laer
+0
+Why ask you this?
+King
+0
+Not that I think you did not love your father;
+Laer
+0
+To cut his throat i' th' church!
+King
+0
+No place indeed should murther sanctuarize;
+Laer
+0
+I will do't!
+King
+0
+Let's further think of this,
+Queen
+0
+One woe doth tread upon another's heel,
+Laer
+0
+Drown'd! O, where?
+Queen
+0
+There is a willow grows aslant a brook,
+Laer
+0
+Alas, then she is drown'd?
+Queen
+0
+Drown'd, drown'd.
+Laer
+0
+Too much of water hast thou, poor Ophelia,
+King
+0
+Let's follow, Gertrude.
+Clown
+0
+Is she to be buried in Christian burial when she wilfully
+Other
+0
+I tell thee she is; therefore make her grave straight.
+Clown
+0
+How can that be, unless she drown'd herself in her own
+Other
+0
+Why, 'tis found so.
+Clown
+0
+It must be se offendendo; it cannot be else. For here lies
+Other
+0
+Nay, but hear you, Goodman Delver!
+Clown
+0
+Give me leave. Here lies the water; good. Here stands the
+Other
+0
+But is this law?
+Clown
+0
+Ay, marry, is't- crowner's quest law.
+Other
+0
+Will you ha' the truth an't? If this had not been a
+Clown
+0
+Why, there thou say'st! And the more pity that great folk
+Other
+0
+Was he a gentleman?
+Clown
+0
+'A was the first that ever bore arms.
+Other
+0
+Why, he had none.
+Clown
+0
+What, art a heathen? How dost thou understand the Scripture?
+Other
+0
+Go to!
+Clown
+0
+What is he that builds stronger than either the mason, the
+Other
+0
+The gallows-maker; for that frame outlives a thousand
+Clown
+0
+I like thy wit well, in good faith. The gallows does well.
+Other
+0
+Who builds stronger than a mason, a shipwright, or a
+Clown
+0
+Ay, tell me that, and unyoke.
+Other
+0
+Marry, now I can tell!
+Clown
+0
+To't.
+Other
+0
+Mass, I cannot tell.
+Clown
+0
+Cudgel thy brains no more about it, for your dull ass will
+Ham
+0
+Has this fellow no feeling of his business, that he sings at
+Hor
+0
+Custom hath made it in him a Property of easiness.
+Ham
+0
+'Tis e'en so. The hand of little employment hath the daintier
+Clown
+0
+(sings)
+Ham
+0
+That skull had a tongue in it, and could sing once. How the
+Hor
+0
+It might, my lord.
+Ham
+0
+Or of a courtier, which could say 'Good morrow, sweet lord!
+Hor
+0
+Ay, my lord.
+Ham
+0
+Why, e'en so! and now my Lady Worm's, chapless, and knock'd
+Clown
+0
+(Sings)
+Ham
+0
+There's another. Why may not that be the skull of a lawyer?
+Hor
+0
+Not a jot more, my lord.
+Ham
+0
+Is not parchment made of sheepskins?
+Hor
+0
+Ay, my lord, And of calveskins too.
+Ham
+0
+They are sheep and calves which seek out assurance in that. I
+Clown
+0
+Mine, sir.
+Ham
+0
+I think it be thine indeed, for thou liest in't.
+Clown
+0
+You lie out on't, sir, and therefore 'tis not yours.
+Ham
+0
+Thou dost lie in't, to be in't and say it is thine. 'Tis for
+Clown
+0
+'Tis a quick lie, sir; 'twill away again from me to you.
+Ham
+0
+What man dost thou dig it for?
+Clown
+0
+For no man, sir.
+Ham
+0
+What woman then?
+Clown
+0
+For none neither.
+Ham
+0
+Who is to be buried in't?
+Clown
+0
+One that was a woman, sir; but, rest her soul, she's dead.
+Ham
+0
+How absolute the knave is! We must speak by the card, or
+Clown
+0
+Of all the days i' th' year, I came to't that day that our
+Ham
+0
+How long is that since?
+Clown
+0
+Cannot you tell that? Every fool can tell that. It was the
+Ham
+0
+Ay, marry, why was be sent into England?
+Clown
+0
+Why, because 'a was mad. 'A shall recover his wits there;
+Ham
+0
+Why?
+Clown
+0
+'Twill not he seen in him there. There the men are as mad as
+Ham
+0
+How came he mad?
+Clown
+0
+Very strangely, they say.
+Ham
+0
+How strangely?
+Clown
+0
+Faith, e'en with losing his wits.
+Ham
+0
+Upon what ground?
+Clown
+0
+Why, here in Denmark. I have been sexton here, man and boy
+Ham
+0
+How long will a man lie i' th' earth ere he rot?
+Clown
+0
+Faith, if 'a be not rotten before 'a die (as we have many
+Ham
+0
+Why he more than another?
+Clown
+0
+Why, sir, his hide is so tann'd with his trade that 'a will
+Ham
+0
+Whose was it?
+Clown
+0
+A whoreson, mad fellow's it was. Whose do you think it was?
+Ham
+0
+Nay, I know not.
+Clown
+0
+A pestilence on him for a mad rogue! 'A pour'd a flagon of
+Ham
+0
+This?
+Clown
+0
+E'en that.
+Ham
+0
+Let me see. [Takes the skull.] Alas, poor Yorick! I knew him,
+Hor
+0
+What's that, my lord?
+Ham
+0
+Dost thou think Alexander look'd o' this fashion i' th' earth?
+Hor
+0
+E'en so.
+Ham
+0
+And smelt so? Pah!
+Hor
+0
+E'en so, my lord.
+Ham
+0
+To what base uses we may return, Horatio! Why may not
+Hor
+0
+'Twere to consider too curiously, to consider so.
+Ham
+0
+No, faith, not a jot; but to follow him thither with modesty
+Laer
+0
+What ceremony else?
+Ham
+0
+That is Laertes,
+Laer
+0
+What ceremony else?
+Priest
+0
+Her obsequies have been as far enlarg'd
+Laer
+0
+Must there no more be done?
+Priest
+0
+No more be done.
+Laer
+0
+Lay her i' th' earth;
+Ham
+0
+What, the fair Ophelia?
+Queen
+0
+Sweets to the sweet! Farewell.
+Laer
+0
+O, treble woe
+Ham
+0
+[comes forward] What is he whose grief
+Laer
+0
+The devil take thy soul!
+Ham
+0
+Thou pray'st not well.
+King
+0
+Pluck thein asunder.
+Queen
+0
+Hamlet, Hamlet!
+All
+0
+Gentlemen!
+Hor
+0
+Good my lord, be quiet.
+Ham
+0
+Why, I will fight with him upon this theme
+Queen
+0
+O my son, what theme?
+Ham
+0
+I lov'd Ophelia. Forty thousand brothers
+King
+0
+O, he is mad, Laertes.
+Queen
+0
+For love of God, forbear him!
+Ham
+0
+'Swounds, show me what thou't do.
+Queen
+0
+This is mere madness;
+Ham
+0
+Hear you, sir!
+King
+0
+I pray thee, good Horatio, wait upon him.
+Ham
+0
+So much for this, sir; now shall you see the other.
+Hor
+0
+Remember it, my lord!
+Ham
+0
+Sir, in my heart there was a kind of fighting
+Hor
+0
+That is most certain.
+Ham
+0
+Up from my cabin,
+Hor
+0
+Is't possible?
+Ham
+0
+Here's the commission; read it at more leisure.
+Hor
+0
+I beseech you.
+Ham
+0
+Being thus benetted round with villanies,
+Hor
+0
+Ay, good my lord.
+Ham
+0
+An earnest conjuration from the King,
+Hor
+0
+How was this seal'd?
+Ham
+0
+Why, even in that was heaven ordinant.
+Hor
+0
+So Guildenstern and Rosencrantz go to't.
+Ham
+0
+Why, man, they did make love to this employment!
+Hor
+0
+Why, what a king is this!
+Ham
+0
+Does it not, thinks't thee, stand me now upon-
+Hor
+0
+It must be shortly known to him from England
+Ham
+0
+It will be short; the interim is mine,
+Hor
+0
+Peace! Who comes here?
+Osr
+0
+Your lordship is right welcome back to Denmark.
+Ham
+0
+I humbly thank you, sir. [Aside to Horatio] Dost know this
+Hor
+0
+[aside to Hamlet] No, my good lord.
+Ham
+0
+[aside to Horatio] Thy state is the more gracious; for 'tis a
+Osr
+0
+Sweet lord, if your lordship were at leisure, I should impart
+Ham
+0
+I will receive it, sir, with all diligence of spirit. Put your
+Osr
+0
+I thank your lordship, it is very hot.
+Ham
+0
+No, believe me, 'tis very cold; the wind is northerly.
+Osr
+0
+It is indifferent cold, my lord, indeed.
+Ham
+0
+But yet methinks it is very sultry and hot for my complexion.
+Osr
+0
+Exceedingly, my lord; it is very sultry, as 'twere- I cannot
+Ham
+0
+I beseech you remember.
+Osr
+0
+Nay, good my lord; for mine ease, in good faith. Sir, here is
+Ham
+0
+Sir, his definement suffers no perdition in you; though, I
+Osr
+0
+Your lordship speaks most infallibly of him.
+Ham
+0
+The concernancy, sir? Why do we wrap the gentleman in our more
+Osr
+0
+Sir?
+Ham
+0
+What imports the nomination of this gentleman
+Osr
+0
+Of Laertes?
+Hor
+0
+[aside] His purse is empty already. All's golden words are
+Ham
+0
+Of him, sir.
+Osr
+0
+I know you are not ignorant-
+Ham
+0
+I would you did, sir; yet, in faith, if you did, it would not
+Osr
+0
+You are not ignorant of what excellence Laertes is-
+Ham
+0
+I dare not confess that, lest I should compare with him in
+Osr
+0
+I mean, sir, for his weapon; but in the imputation laid on him
+Ham
+0
+What's his weapon?
+Osr
+0
+Rapier and dagger.
+Ham
+0
+That's two of his weapons- but well.
+Osr
+0
+The King, sir, hath wager'd with him six Barbary horses;
+Ham
+0
+What call you the carriages?
+Hor
+0
+[aside to Hamlet] I knew you must be edified by the margent
+Osr
+0
+The carriages, sir, are the hangers.
+Ham
+0
+The phrase would be more germane to the matter if we could
+Osr
+0
+The King, sir, hath laid that, in a dozen passes between
+Ham
+0
+How if I answer no?
+Osr
+0
+I mean, my lord, the opposition of your person in trial.
+Ham
+0
+Sir, I will walk here in the hall. If it please his Majesty,
+Osr
+0
+Shall I redeliver you e'en so?
+Ham
+0
+To this effect, sir, after what flourish your nature will.
+Osr
+0
+I commend my duty to your lordship.
+Ham
+0
+Yours, yours. [Exit Osric.] He does well to commend it
+Hor
+0
+This lapwing runs away with the shell on his head.
+Ham
+0
+He did comply with his dug before he suck'd it. Thus has he,
+Lord
+0
+My lord, his Majesty commended him to you by young Osric, who
+Ham
+0
+I am constant to my purposes; they follow the King's pleasure.
+Lord
+0
+The King and Queen and all are coming down.
+Ham
+0
+In happy time.
+Lord
+0
+The Queen desires you to use some gentle entertainment to
+Ham
+0
+She well instructs me.
+Hor
+0
+You will lose this wager, my lord.
+Ham
+0
+I do not think so. Since he went into France I have been in
+Hor
+0
+Nay, good my lord -
+Ham
+0
+It is but foolery; but it is such a kind of gaingiving as
+Hor
+0
+If your mind dislike anything, obey it. I will forestall their
+Ham
+0
+Not a whit, we defy augury; there's a special providence in
+King
+0
+Come, Hamlet, come, and take this hand from me.
+Ham
+0
+Give me your pardon, sir. I have done you wrong;
+Laer
+0
+I am satisfied in nature,
+Ham
+0
+I embrace it freely,
+Laer
+0
+Come, one for me.
+Ham
+0
+I'll be your foil, Laertes. In mine ignorance
+Laer
+0
+You mock me, sir.
+Ham
+0
+No, by this bad.
+King
+0
+Give them the foils, young Osric. Cousin Hamlet,
+Ham
+0
+Very well, my lord.
+King
+0
+I do not fear it, I have seen you both;
+Laer
+0
+This is too heavy; let me see another.
+Ham
+0
+This likes me well. These foils have all a length?
+Osr
+0
+Ay, my good lord.
+King
+0
+Set me the stoups of wine upon that table.
+Ham
+0
+Come on, sir.
+Laer
+0
+Come, my lord.                                They play.
+Ham
+0
+One.
+Laer
+0
+No.
+Ham
+0
+Judgment!
+Osr
+0
+A hit, a very palpable hit.
+Laer
+0
+Well, again!
+King
+0
+Stay, give me drink. Hamlet, this pearl is thine;
+Ham
+0
+I'll play this bout first; set it by awhile.
+Laer
+0
+A touch, a touch; I do confess't.
+King
+0
+Our son shall win.
+Queen
+0
+He's fat, and scant of breath.
+Ham
+0
+Good madam!
+King
+0
+Gertrude, do not drink.
+Queen
+0
+I will, my lord; I pray you pardon me.          Drinks.
+King
+0
+[aside] It is the poison'd cup; it is too late.
+Ham
+0
+I dare not drink yet, madam; by-and-by.
+Queen
+0
+Come, let me wipe thy face.
+Laer
+0
+My lord, I'll hit him now.
+King
+0
+I do not think't.
+Laer
+0
+[aside] And yet it is almost against my conscience.
+Ham
+0
+Come for the third, Laertes! You but dally.
+Laer
+0
+Say you so? Come on.                               Play.
+Osr
+0
+Nothing neither way.
+Laer
+0
+Have at you now!
+King
+0
+Part them! They are incens'd.
+Ham
+0
+Nay come! again!                         The Queen falls.
+Osr
+0
+Look to the Queen there, ho!
+Hor
+0
+They bleed on both sides. How is it, my lord?
+Osr
+0
+How is't, Laertes?
+Laer
+0
+Why, as a woodcock to mine own springe, Osric.
+Ham
+0
+How does the Queen?
+King
+0
+She sounds to see them bleed.
+Queen
+0
+No, no! the drink, the drink! O my dear Hamlet!
+Ham
+0
+O villany! Ho! let the door be lock'd.
+Laer
+0
+It is here, Hamlet. Hamlet, thou art slain;
+Ham
+0
+The point envenom'd too?
+All
+0
+Treason! treason!
+King
+0
+O, yet defend me, friends! I am but hurt.
+Ham
+0
+Here, thou incestuous, murd'rous, damned Dane,
+Laer
+0
+He is justly serv'd.
+Ham
+0
+Heaven make thee free of it! I follow thee.
+Hor
+0
+Never believe it.
+Ham
+0
+As th'art a man,
+Osr
+0
+Young Fortinbras, with conquest come from Poland,
+Ham
+0
+O, I die, Horatio!
+Hor
+0
+Now cracks a noble heart. Good night, sweet prince,
+Fort
+0
+Where is this sight?
+Hor
+0
+What is it you will see?
+Fort
+0
+This quarry cries on havoc. O proud Death,
+Ambassador
+0
+The sight is dismal;
+Hor
+0
+Not from his mouth,
+Fort
+0
+Let us haste to hear it,
+Hor
+0
+Of that I shall have also cause to speak,
+Fort
+0
+Let four captains
