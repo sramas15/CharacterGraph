@@ -43,7 +43,7 @@ Navarre
 ACT I. SCENE I.
 Navarre. The King's park
 
-Enter the King, BEROWNE, LONGAVILLE, and DUMAIN
+Enter the KING, BEROWNE, LONGAVILLE, and DUMAIN
 
   KING. Let fame, that all hunt after in their lives,
     Live regist'red upon our brazen tombs,
@@ -304,8 +304,7 @@ Enter the King, BEROWNE, LONGAVILLE, and DUMAIN
     apprehended with the aforesaid swain- I keep her as a vessel of
     thy law's fury; and shall, at the least of thy sweet notice,
     bring her to trial. Thine, in all compliments of devoted and
-    heart-burning heat of duty,
-                                         DON ADRIANO DE ARMADO.'
+    heart-burning heat of duty, DON ADRIANO DE ARMADO.'
 
   BEROWNE. This is not so well as I look'd for, but the best that
     ever I heard.
@@ -520,7 +519,7 @@ ACT II. SCENE II.
 The park
 
 Enter the PRINCESS OF FRANCE, with three attending ladies,
-ROSALINE, MARIA, KATHARINE, BOYET, and two other LORDS
+ROSALINE, MARIA, KATHARINE, BOYET, and two other FIRST LORD, SECOND LORD
 
   BOYET. Now, madam, summon up your dearest spirits.
     Consider who the King your father sends,
@@ -1117,8 +1116,7 @@ and a FORESTER
     -me. Thus expecting thy reply, I profane my lips on thy foot, my
     eyes on thy picture, and my heart on thy every part.
                   Thine in the dearest design of industry,
-                                           DON ADRIANO DE ARMADO.
-
+                          DON ADRIANO DE ARMADO.
     'Thus dost thou hear the Nemean lion roar
     'Gainst thee, thou lamb, that standest as his prey;
     Submissive fall his princely feet before,
@@ -1204,7 +1202,7 @@ and a FORESTER
 SCENE II.
 The park
 
-From the shooting within, enter HOLOFERNES, SIR NATHANIEL, and DULL
+From the shooting within, enter HOLOFERNES, NATHANIEL, and DULL
 
   NATHANIEL. Very reverent sport, truly; and done in the testimony of
     a good conscience.
@@ -1806,7 +1804,7 @@ END_ACT
 ACT V. SCENE I.
 The park
 
-Enter HOLOFERNES, SIR NATHANIEL, and DULL
+Enter HOLOFERNES, NATHANIEL, and DULL
 
   HOLOFERNES. Satis quod sufficit.
   NATHANIEL. I praise God for you, sir. Your reasons at dinner have
@@ -2581,7 +2579,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
     I made a little fault in Great.
   BEROWNE. My hat to a halfpenny, Pompey proves the best Worthy.
 
-                 Enter SIR NATHANIEL, for ALEXANDER
+                 Enter NATHANIEL, for ALEXANDER
 
   NATHANIEL. When in the world I liv'd, I was the world's commander;
     By east, west, north, and south, I spread my conquering might.
@@ -2737,7 +2735,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
     since when, I'll be sworn, he wore none but a dishclout of
     Jaquenetta's, and that 'a wears next his heart for a favour.
 
-                 Enter as messenger, MONSIEUR MARCADE
+                 Enter as messenger, MARCADE
 
   MARCADE. God save you, madam!
   PRINCESS OF FRANCE. Welcome, Marcade;

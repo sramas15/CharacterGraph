@@ -1,24 +1,23 @@
 THE TRAGEDY OF KING LEAR
-Gon
-Cur
-Her
-Old Man
-France
-Lear
-Kent
-Reg
-Fool
-Capt
-Corn
-Doct
-Flourish
-Glou
-Cor
-Knight
-Gent
-Mess
-Edg
-Alb
-Osw
-Edm
-Bur
+Gon V
+Cur V
+Her V 
+Old Man V
+France V
+Lear V
+Kent V
+Reg V
+Fool V
+Capt V
+Corn V
+Doct V
+Glou V
+Cor V
+Knight V
+Gent V
+Mess V
+Edg V
+Alb V
+Osw V
+Edm V
+Bur V

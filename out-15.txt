@@ -53,7 +53,7 @@ SCENE: Rome, the conspirators' camp near Sardis,  and the plains of Philippi.
 ACT I. SCENE I.
 Rome. A street.
 
-Enter Flavius, Marullus, and certain Commoners.
+Enter FLAVIUS, MARULLUS, and certain Commoners, FIRST COMMONER, SECOND COMMONER.
 
   FLAVIUS. Hence, home, you idle creatures, get you home.
     Is this a holiday? What, know you not,
@@ -137,9 +137,9 @@ Enter Flavius, Marullus, and certain Commoners.
 SCENE II.
 A public place.
 
-Flourish. Enter Caesar; Antony, for the course; Calpurnia, Portia,
-Decius, Cicero, Brutus, Cassius, and Casca; a great crowd follows,
-among them a Soothsayer.
+Flourish. Enter CAESAR; ANTONY, for the course; CALPURNIA, PORTIA,
+DECIUS, CICERO, BRUTUS, CASSIUS, and CASCA; a great crowd follows,
+among them a SOOTHSAYER.
 
   CAESAR. Calpurnia!
   CASCA. Peace, ho! Caesar speaks.
@@ -328,7 +328,7 @@ among them a Soothsayer.
   CASSIUS. I am glad that my weak words
     Have struck but thus much show of fire from Brutus.
 
-            Enter Caesar and his Train.
+            Enter CAESAR and his Train.
 
   BRUTUS. The games are done, and Caesar is returning.
   CASSIUS. As they pass by, pluck Casca by the sleeve,
@@ -477,7 +477,7 @@ among them a Soothsayer.
 SCENE III.
 A street. Thunder and lightning.
 
-Enter, from opposite sides, Casca, with his sword drawn, and Cicero.
+Enter, from opposite sides, CASCA, with his sword drawn, and CICERO.
 
   CICERO. Good even, Casca. Brought you Caesar home?
     Why are you breathless, and why stare you so?
@@ -521,7 +521,7 @@ Enter, from opposite sides, Casca, with his sword drawn, and Cicero.
     Is not to walk in.
   CASCA. Farewell, Cicero.                          Exit Cicero.
 
-                        Enter Cassius.
+                        Enter CASSIUS.
 
   CASSIUS. Who's there?
   CASCA. A Roman.
@@ -618,7 +618,7 @@ Enter, from opposite sides, Casca, with his sword drawn, and Cicero.
     In favor's like the work we have in hand,
     Most bloody, fiery, and most terrible.
 
-                       Enter Cinna.
+                       Enter CINNA.
 
   CASCA. Stand close awhile, for here comes one in haste.
   CASSIUS. 'Tis Cinna, I do know him by his gait;
@@ -666,7 +666,7 @@ END_ACT
 
 ACT II. SCENE I.
 
-Enter Brutus in his orchard.
+Enter BRUTUS in his orchard LUCIUS.
 
   BRUTUS. What, Lucius, ho!
     I cannot, by the progress of the stars,
@@ -674,7 +674,6 @@ Enter Brutus in his orchard.
     I would it were my fault to sleep so soundly.
     When, Lucius, when? Awake, I say! What, Lucius!
 
-                            Enter Lucius.
 
   LUCIUS. Call'd you, my lord?
   BRUTUS. Get me a taper in my study, Lucius.
@@ -706,7 +705,7 @@ Enter Brutus in his orchard.
     Which hatch'd would as his kind grow mischievous,
     And kill him in the shell.
 
-                        Enter Lucius.
+                        Enter LUCIUS.
 
   LUCIUS. The taper burneth in your closet, sir.
     Searching the window for a flint I found
@@ -736,7 +735,7 @@ Enter Brutus in his orchard.
     If the redress will follow, thou receivest
     Thy full petition at the hand of Brutus!
 
-                        Enter Lucius.
+                        Enter LUCIUS.
 
   LUCIUS. Sir, March is wasted fifteen days.
                                                 Knocking within.
@@ -752,7 +751,7 @@ Enter Brutus in his orchard.
     Like to a little kingdom, suffers then
     The nature of an insurrection.
 
-                         Enter Lucius.
+                         Enter LUCIUS.
 
   LUCIUS. Sir, 'tis your brother Cassius at the door,
     Who doth desire to see you.
@@ -774,8 +773,8 @@ Enter Brutus in his orchard.
     Not Erebus itself were dim enough
     To hide thee from prevention.
 
-    Enter the conspirators, Cassius, Casca, Decius, Cinna,
-                Metellus Cimber, and Trebonius.
+    Enter the conspirators, CASSIUS, CASCA, DECIUS, CINNA,
+                METELLUS, CIMBER, and TREBONIUS.
 
   CASSIUS. I think we are too bold upon your rest.
     Good morrow, Brutus, do we trouble you?
@@ -935,7 +934,7 @@ CASSIUS. This, Casca; this, Cinna; and this, Metellus Cimber.
     Which busy care draws in the brains of men;
     Therefore thou sleep'st so sound.
 
-                           Enter Portia.
+                           Enter PORTIA.
 
   PORTIA. Brutus, my lord!
   BRUTUS. Portia, what mean you? Wherefore rise you now?
@@ -1017,7 +1016,7 @@ CASSIUS. This, Casca; this, Cinna; and this, Metellus Cimber.
     All the charactery of my sad brows.
     Leave me with haste. [Exit Portia.] Lucius, who's that knocks?
 
-                  Enter Lucius with Ligarius.
+                  Enter LUCIUS with LIGARIUS.
 
   LUCIUS. Here is a sick man that would speak with you.
   BRUTUS. Caius Ligarius, that Metellus spake of.
@@ -1053,20 +1052,20 @@ CASSIUS. This, Casca; this, Cinna; and this, Metellus Cimber.
 SCENE II.
 Caesar's house. Thunder and lightning.
 
-Enter Caesar, in his nightgown.
+Enter CAESAR, in his nightgown.
 
   CAESAR. Nor heaven nor earth have been at peace tonight.
     Thrice hath Calpurnia in her sleep cried out,
     "Help, ho! They murther Caesar!" Who's within?
 
-                         Enter a Servant.
+                         Enter a SERVANT.
 
   SERVANT. My lord?
   CAESAR. Go bid the priests do present sacrifice,
     And bring me their opinions of success.
   SERVANT. I will, my lord.                                Exit.
 
-                         Enter Calpurnia.
+                         Enter CALPURNIA.
 
   CALPURNIA. What mean you, Caesar? Think you to walk forth?
     You shall not stir out of your house today.
@@ -1100,7 +1099,7 @@ Enter Caesar, in his nightgown.
     Seeing that death, a necessary end,
     Will come when it will come.
 
-                      Enter Servant.
+                      Enter SERVANT.
 
     What say the augurers?
   SERVANT. They would not have you to stir forth today.
@@ -1124,7 +1123,7 @@ Enter Caesar, in his nightgown.
   CAESAR. Mark Antony shall say I am not well,
     And, for thy humor, I will stay at home.
 
-                        Enter Decius.
+                        Enter DECIUS.
 
     Here's Decius Brutus, he shall tell them so.
   DECIUS. Caesar, all hail! Good morrow, worthy Caesar!
@@ -1179,8 +1178,8 @@ Enter Caesar, in his nightgown.
     I am ashamed I did yield to them.
     Give me my robe, for I will go.
 
-         Enter Publius, Brutus, Ligarius, Metellus, Casca,
-                     Trebonius, and Cinna.
+         Enter PUBLIUS, BRUTUS, LIVARIUS, METELLUS, CASCA,
+                     TREBONIUS, and CINNA.
 
     And look where Publius is come to fetch me.
   PUBLIUS. Good morrow,Caesar.
@@ -1193,7 +1192,7 @@ Enter Caesar, in his nightgown.
   BRUTUS. Caesar, 'tis strucken eight.
   CAESAR. I thank you for your pains and courtesy.
 
-                           Enter Antony.
+                           Enter ANTONY.
 
     See, Antony, that revels long o' nights,
     Is notwithstanding up. Good morrow, Antony.
@@ -1217,7 +1216,7 @@ Enter Caesar, in his nightgown.
 SCENE III.
 A street near the Capitol.
 
-Enter Artemidorus, reading paper.
+Enter ARTEMIDORUS, reading paper.
 
   ARTEMIDORUS. "Caesar, beware of Brutus; take heed of Cassius; come
     not near Casca; have an eye to Cinna; trust not Trebonius; mark
@@ -1240,7 +1239,7 @@ Enter Artemidorus, reading paper.
 SCENE IV.
 Another part of the same street, before the house of Brutus.
 
-Enter Portia and Lucius.
+Enter PORTIA and LUCIUS.
 
   PORTIA. I prithee, boy, run to the Senate House;
     Stay not to answer me, but get thee gone.
@@ -1266,7 +1265,7 @@ Enter Portia and Lucius.
     And the wind brings it from the Capitol.
   LUCIUS. Sooth, madam, I hear nothing.
 
-                     Enter the Soothsayer.
+                     Enter the SOOTHSAYER.
 
   PORTIA. Come hither, fellow;
     Which way hast thou been?
@@ -1307,10 +1306,10 @@ END_ACT
 
 ACT III. SCENE I.
 Rome. Before the Capitol; the Senate sitting above.
-A crowd of people, among them Artemidorus and the Soothsayer.
+A crowd of people, Enter among them ARTEMIDORUS and the SOOTHSAYER.
 
-Flourish. Enter Caesar, Brutus, Cassius, Casca, Decius, Metellus,
-Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
+Flourish. Enter CAESAR, BRUTUS, CASSIUS, CASCA, DECIUS, METELLUS,
+TREBONIUS, CINNA, ANTONY, LEPIDUS, POPILIUS, PUBLIUS, and others.
 
   CAESAR. The ides of March are come.
   SOOTHSAYER. Ay, Caesar, but not gone.
@@ -1424,7 +1423,7 @@ Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
   BRUTUS. Do so, and let no man abide this deed
     But we the doers.
 
-                        Enter Trebonius.
+                        Enter TREBONIUS.
 
   CASSIUS. Where is Antony?
   TREBONIUS. Fled to his house amazed.
@@ -1457,7 +1456,7 @@ Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
     Brutus shall lead, and we will grace his heels
     With the most boldest and best hearts of Rome.
 
-                        Enter a Servant.
+                        Enter a SERVANT.
 
   BRUTUS. Soft, who comes here? A friend of Antony's.
   SERVANT. Thus, Brutus, did my master bid me kneel,
@@ -1486,7 +1485,7 @@ Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
     That fears him much, and my misgiving still
     Falls shrewdly to the purpose.
 
-                          Enter Antony.
+                          Enter ANTONY.
 
   BRUTUS. But here comes Antony. Welcome, Mark Antony.
   ANTONY. O mighty Caesar! Dost thou lie so low?
@@ -1625,7 +1624,7 @@ Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
     That this foul deed shall smell above the earth
     With carrion men, groaning for burial.
 
-                        Enter a Servant.
+                        Enter a SERVANT.
 
     You serve Octavius Caesar, do you not?
   SERVANT. I do, Mark Antony.
@@ -1656,7 +1655,7 @@ Trebonius, Cinna, Antony, Lepidus, Popilius, Publius, and others.
 SCENE II.
 The Forum.
 
-Enter Brutus and Cassius, and a throng of Citizens.
+Enter BRUTUS and CASSIUS, and a throng of Citizens - FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN, FOURTH CITIZEN.
 
   CITIZENS. We will be satisfied! Let us be satisfied!
   BRUTUS. Then follow me and give me audience, friends.
@@ -1697,7 +1696,7 @@ Enter Brutus and Cassius, and a throng of Citizens.
     enrolled in the Capitol, his glory not extenuated, wherein he was
     worthy, nor his offenses enforced, for which he suffered death.
 
-              Enter Antony and others, with Caesar's body.
+              Enter ANTONY and others, with Caesar's body.
 
     Here comes his body, mourned by Mark Antony, who, though he had
     no hand in his death, shall receive the benefit of his dying, a
@@ -1932,7 +1931,7 @@ Enter Brutus and Cassius, and a throng of Citizens.
   ANTONY. Now let it work. Mischief, thou art afoot,
     Take thou what course thou wilt.
 
-                        Enter a Servant.
+                        Enter a SERVANT.
 
     How now, fellow?
   SERVANT. Sir, Octavius is already come to Rome.
@@ -1952,14 +1951,14 @@ Enter Brutus and Cassius, and a throng of Citizens.
 SCENE III.
 A street.
 
-Enter Cinna the poet.
+Enter CINNA the poet.
 
   CINNA. I dreamt tonight that I did feast with Caesar,
     And things unluckily charge my fantasy.
     I have no will to wander forth of doors,
     Yet something leads me forth.
 
-                        Enter Citizens.
+                        Enter FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN, FOURTH CITIZEN.
 
   FIRST CITIZEN. What is your name?
   SECOND CITIZEN. Whither are you going?
@@ -2001,7 +2000,7 @@ END_ACT
 
 
 ACT IV. SCENE I.
-A house in Rome. Antony, Octavius, and Lepidus, seated at a table.
+A house in Rome. Enter ANTONY, OCTAVIUS, and LEPIDUS, seated at a table.
 
   ANTONY. These many then shall die, their names are prick'd.
   OCTAVIUS. Your brother too must die; consent you, Lepidus?
@@ -2064,7 +2063,7 @@ A house in Rome. Antony, Octavius, and Lepidus, seated at a table.
 SCENE II.
 Camp near Sardis. Before Brutus' tent. Drum.
 
-Enter Brutus, Lucilius, Lucius, and Soldiers; Titinius and Pindarus meet them.
+Enter BRUTUS, LUCILIUS, LUCIUS, and Soldiers; TITINIUS and PINDARUS meet them.
 
   BRUTUS. Stand, ho!
   LUCILIUS. Give the word, ho, and stand.
@@ -2101,7 +2100,7 @@ Enter Brutus, Lucilius, Lucius, and Soldiers; Titinius and Pindarus meet them.
   BRUTUS. Hark, he is arrived.
     March gently on to meet him.
 
-                  Enter Cassius and his Powers.
+                  Enter CASSIUS and his Powers FIRST SOLDIER, SECOND SOLDIER, THIRD SOLDIER.
 
   CASSIUS. Stand, ho!
   BRUTUS. Stand, ho! Speak the word along.
@@ -2133,7 +2132,7 @@ Enter Brutus, Lucilius, Lucius, and Soldiers; Titinius and Pindarus meet them.
 SCENE III.
 Brutus' tent.
 
-Enter Brutus and Cassius.
+Enter BRUTUS and CASSIUS.
 
   CASSIUS. That you have wrong'd me doth appear in this:
     You have condemn'd and noted Lucius Pella
@@ -2278,7 +2277,7 @@ Enter Brutus and Cassius.
   LUCILIUS. [Within.] You shall not come to them.
   POET. [Within.] Nothing but death shall stay me.
 
-      Enter Poet, followed by Lucilius, Titinius, and Lucius.
+      Enter POET, followed by LUCILIUS, TITINIUS, and LUCIUS.
 
   CASSIUS. How now, what's the matter?
   POET. For shame, you generals! What do you mean?
@@ -2315,7 +2314,7 @@ Enter Brutus and Cassius.
   BRUTUS. Even so.
   CASSIUS. O ye immortal gods!
 
-               Enter Lucius, with wine and taper.
+               Enter LUCIUS, with wine and taper.
 
   BRUTUS. Speak no more of her. Give me a bowl of wine.
     In this I bury all unkindness, Cassius.              Drinks.
@@ -2324,7 +2323,7 @@ Enter Brutus and Cassius.
   I cannot drink too much of Brutus' love.               Drinks.
   BRUTUS. Come in, Titinius!                        Exit Lucius.
 
-                 Enter Titinius, with Messala.
+                 Enter TITINIUS, with MESSALA.
 
     Welcome, good Messala.
     Now sit we close about this taper here,
@@ -2404,7 +2403,7 @@ Enter Brutus and Cassius.
     Early tomorrow will we rise and hence.
   BRUTUS. Lucius!
 
-                       Enter Lucius.
+                       Enter LUCIUS.
 
     My gown.                                        Exit Lucius.
     Farewell, good Messala;
@@ -2421,7 +2420,7 @@ Enter Brutus and Cassius.
   BRUTUS. Farewell, everyone.
                                           Exeunt all but Brutus.
 
-               Enter Lucius, with the gown.
+               Enter LUCIUS, with the gown.
 
     Give me the gown. Where is thy instrument?
   LUCIUS. Here in the tent.
@@ -2431,7 +2430,7 @@ Enter Brutus and Cassius.
     I'll have them sleep on cushions in my tent.
   LUCIUS. Varro and Claudio!
 
-                   Enter Varro and Claudio.
+                   Enter VARRO and CLAUDIO.
 
   VARRO. Calls my lord?
   BRUTUS. I pray you, sirs, lie in my tent and sleep;
@@ -2466,7 +2465,7 @@ Enter Brutus and Cassius.
     Let me see, let me see; is not the leaf turn'd down
     Where I left reading? Here it is, I think.        Sits down.
 
-                 Enter the Ghost of Caesar.
+                 Enter the GHOST.
 
     How ill this taper burns! Ha, who comes here?
     I think it is the weakness of mine eyes
@@ -2517,7 +2516,7 @@ END_ACT
 ACT V. SCENE I.
 The plains of Philippi.
 
-Enter Octavius, Antony, and their Army.
+Enter OCTAVIUS, ANTONY, and their Army.
 
   OCTAVIUS. Now, Antony, our hopes are answered.
     You said the enemy would not come down,
@@ -2532,7 +2531,7 @@ Enter Octavius, Antony, and their Army.
     To fasten in our thoughts that they have courage;
     But 'tis not so.
 
-                    Enter a Messenger.
+                    Enter a MESSENGER.
 
   MESSENGER. Prepare you, generals.
     The enemy comes on in gallant show;
@@ -2544,8 +2543,8 @@ Enter Octavius, Antony, and their Army.
   ANTONY. Why do you cross me in this exigent?
   OCTAVIUS. I do not cross you, but I will do so.
 
-      March. Drum. Enter Brutus, Cassius, and their Army;
-           Lucilius, Titinius, Messala, and others.
+      March. Drum. Enter BRUTUS, CASSIUS, and their Army;
+           LUCILIUS, TITINIUS, MESSALA, and others.
 
   BRUTUS. They stand, and would have parley.
   CASSIUS. Stand fast, Titinius; we must out and talk.
@@ -2671,7 +2670,7 @@ Enter Octavius, Antony, and their Army.
 SCENE II.
 The field of battle.
 
-Alarum. Enter Brutus and Messala.
+Alarum. Enter BRUTUS, MESSALA.
 
   BRUTUS. Ride, ride, Messala, ride, and give these bills
     Unto the legions on the other side.             Loud alarum.
@@ -2686,7 +2685,7 @@ Alarum. Enter Brutus and Messala.
 SCENE III.
 Another part of the field.
 
-Alarums. Enter Cassius and Titinius.
+Alarums. Enter CASSIUS, TITINIUS.
 
   CASSIUS. O, look, Titinius, look, the villains fly!
     Myself have to mine own turn'd enemy.
@@ -2697,7 +2696,7 @@ Alarums. Enter Cassius and Titinius.
     Took it too eagerly. His soldiers fell to spoil,
     Whilst we by Antony are all enclosed.
 
-                       Enter Pindarus.
+                       Enter PINDARUS.
 
   PINDARUS. Fly further off, my lord, fly further off;
     Mark Antony is in your tents, my lord;
@@ -2746,7 +2745,7 @@ Alarums. Enter Cassius and Titinius.
     Far from this country Pindarus shall run,
     Where never Roman shall take note of him.              Exit.
 
-                Enter Titinius with Messala.
+                Enter TITINIUS with MESSALA.
 
   MESSALA. It is but change, Titinius, for Octavius
     Is overthrown by noble Brutus' power,
@@ -2793,7 +2792,7 @@ Alarums. Enter Cassius and Titinius.
     Come, Cassius' sword, and find Titinius' heart.
                                                   Kills himself.
 
-       Alarum. Enter Messala, with Brutus, young Cato,
+       Alarum. Enter MESSALA, with BRUTUS, young CATO,
                          and others.
 
   BRUTUS. Where, where, Messala, doth his body lie?
@@ -2825,8 +2824,8 @@ Alarums. Enter Cassius and Titinius.
 SCENE IV.
 Another part of the field.
 
-Alarum. Enter, fighting, Soldiers of both armies; then Brutus, young Cato,
-Lucilius, and others.
+Alarum. Enter, fighting, Soldiers of both armies; then BRUTUS, young CATO,
+Lucilius, and others, FIRST SOLDIER, SECOND SOLDIER.
 
   BRUTUS. Yet, countrymen, O, yet hold up your heads!
   CATO. What bastard doth not? Who will go with me?
@@ -2847,7 +2846,7 @@ Lucilius, and others.
   SECOND SOLDIER. Room, ho! Tell Antony, Brutus is ta'en.
   FIRST SOLDIER. I'll tell the news. Here comes the general.
 
-                         Enter Antony.
+                         Enter ANTONY.
 
     Brutus is ta'en, Brutus is ta'en, my lord.
   ANTONY. Where is he?
@@ -2871,7 +2870,7 @@ Lucilius, and others.
 SCENE V.
 Another part of the field.
 
-Enter Brutus, Dardanius, Clitus, Strato, and Volumnius.
+Enter BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS.
 
   BRUTUS. Come, poor remains of friends, rest on this rock.
   CLITUS. Statilius show'd the torchlight, but, my lord,
@@ -2934,8 +2933,8 @@ Enter Brutus, Dardanius, Clitus, Strato, and Volumnius.
     Caesar, now be still;
     I kill'd not thee with half so good a will.            Dies.
 
-     Alarum. Retreat. Enter Octavius, Antony, Messala,
-                 Lucilius, and the Army.
+     Alarum. Retreat. Enter OCTAVIUS, ANTONY, MESSALA,
+                 LUCILIUS, and the Army.
 
   OCTAVIUS. What man is that?
   MESSALA. My master's man. Strato, where is thy master?

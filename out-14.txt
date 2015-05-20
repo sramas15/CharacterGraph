@@ -47,7 +47,7 @@ ACT I. SCENE 1
 
 KING JOHN's palace
 
-Enter KING JOHN, QUEEN ELINOR, PEMBROKE, ESSEX, SALISBURY, and others,
+Enter KING JOHN, ELINOR, PEMBROKE, ESSEX, SALISBURY, and others,
 with CHATILLON
 
   KING JOHN. Now, say, Chatillon, what would France with us?
@@ -104,7 +104,7 @@ with CHATILLON
     Our abbeys and our priories shall pay
     This expedition's charge.
 
-     Enter ROBERT FAULCONBRIDGE and PHILIP, his bastard
+     Enter ROBERT and BASTARD (PHILIP), his bastard
                      brother
 
     What men are you?
@@ -280,7 +280,7 @@ with CHATILLON
     What woman-post is this? Hath she no husband
     That will take pains to blow a horn before her?
 
-      Enter LADY FAULCONBRIDGE, and JAMES GURNEY
+      Enter LADY FAULCONBRIDGE, and GURNEY
 
     O me, 'tis my mother! How now, good lady!
     What brings you here to court so hastily?
@@ -354,7 +354,7 @@ ACT II. SCENE 1
 
 France. Before Angiers
 
-Enter, on one side, AUSTRIA and forces; on the other, KING PHILIP OF FRANCE,
+Enter, on one side, AUSTRIA and forces; on the other, KING PHILIP,
 LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
 
   KING PHILIP. Before Angiers well met, brave Austria.
@@ -570,7 +570,7 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
     These men of Angiers; let us hear them speak
     Whose title they admit, Arthur's or John's.
 
-      Trumpet sounds. Enter citizens upon the walls
+      Trumpet sounds. Enter CITIZEN upon the walls
 
   CITIZEN. Who is it that hath warn'd us to the walls?
   KING PHILIP. 'Tis France, for England.
@@ -674,7 +674,7 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
   KING PHILIP. It shall be so; and at the other hill
     Command the rest to stand. God and our right!              Exeunt
 
-    Here, after excursions, enter the HERALD OF FRANCE,
+    Here, after excursions, enter the FRENCH HERALD,
               with trumpets, to the gates
 
   FRENCH HERALD. You men of Angiers, open wide your gates
@@ -688,7 +688,7 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
     Upon the dancing banners of the French,
     Who are at hand, triumphantly displayed,
     To enter conquerors, and to proclaim
-    Arthur of Britaine England's King and yours.
+    Arthur of Britaine England's King and yours. Exit.
 
          Enter ENGLISH HERALD, with trumpet
 
@@ -704,7 +704,7 @@ LEWIS the Dauphin, CONSTANCE, ARTHUR, and forces
     And like a jolly troop of huntsmen come
     Our lusty English, all with purpled hands,
     Dy'd in the dying slaughter of their foes.
-    Open your gates and give the victors way.
+    Open your gates and give the victors way. Exit.
   CITIZEN. Heralds, from off our tow'rs we might behold
     From first to last the onset and retire
     Of both your armies, whose equality
@@ -1697,7 +1697,7 @@ ACT IV. SCENE 1.
 
 England. A castle
 
-Enter HUBERT and EXECUTIONERS
+Enter HUBERT and EXECUTIONER
 
   HUBERT. Heat me these irons hot; and look thou stand
     Within the arras. When I strike my foot
@@ -1706,7 +1706,7 @@ Enter HUBERT and EXECUTIONERS
     Fast to the chair. Be heedful; hence, and watch.
   EXECUTIONER. I hope your warrant will bear out the deed.
   HUBERT. Uncleanly scruples! Fear not you. Look to't.
-                                                  Exeunt EXECUTIONERS
+                                                  Exeunt EXECUTIONER
     Young lad, come forth; I have to say with you.
 
                     Enter ARTHUR
@@ -2004,7 +2004,7 @@ Enter KING JOHN, PEMBROKE, SALISBURY, and other LORDS
   KING JOHN. Thou hast made me giddy
     With these in tidings.
 
-         Enter the BASTARD and PETER OF POMFRET
+         Enter the BASTARD and PETER
 
     Now! What says the world
     To your proceedings? Do not seek to stuff

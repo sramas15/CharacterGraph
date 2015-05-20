@@ -9,17 +9,17 @@ DRAMATIS PERSONAE
   KING HENRY THE EIGHTH
   CARDINAL WOLSEY
   CARDINAL CAMPEIUS
-  CAPUCIUS, Ambassador from the Emperor Charles V
-  CRANMER, ARCHBISHOP OF CANTERBURY
+  (LORD) CAPUCIUS, Ambassador from the Emperor Charles V
+  CRANMER(, ARCHBISHOP OF CANTERBURY)
   DUKE OF NORFOLK 
-  DUKE OF BUCKINGHAM
+  (DUKE OF )BUCKINGHAM
   DUKE OF SUFFOLK
   EARL OF SURREY
-  LORD CHAMBERLAIN
+  (LORD) CHAMBERLAIN
   LORD CHANCELLOR
   GARDINER, BISHOP OF WINCHESTER
-  BISHOP OF LINCOLN
-  LORD ABERGAVENNY
+  (BISHOP OF) LINCOLN
+  (LORD) ABERGAVENNY
   LORD SANDYS
   SIR HENRY GUILDFORD
   SIR THOMAS LOVELL
@@ -29,8 +29,8 @@ DRAMATIS PERSONAE
   CROMWELL, servant to Wolsey
   GRIFFITH, gentleman-usher to Queen Katharine
   THREE GENTLEMEN
-  DOCTOR BUTTS, physician to the King
-  GARTER KING-AT-ARMS
+  (DOCTOR) BUTTS, physician to the King
+  GARTER (KING-AT-ARMS)
   SURVEYOR to the Duke of Buckingham
   BRANDON, and a SERGEANT-AT-ARMS
   DOORKEEPER Of the Council chamber
@@ -96,8 +96,8 @@ ACT I. SCENE 1.
 
 London. The palace
 
-Enter the DUKE OF NORFOLK at one door; at the other,
-the DUKE OF BUCKINGHAM and the LORD ABERGAVENNY
+Enter the NORFOLK at one door; at the other,
+the BUCKINGHAM and the ABERGAVENNY
 
   BUCKINGHAM. Good morrow, and well met. How have ye done
     Since last we saw in France?
@@ -234,8 +234,8 @@ the DUKE OF BUCKINGHAM and the LORD ABERGAVENNY
     You'll find it wholesome. Lo, where comes that rock
     That I advise your shunning.
 
-      Enter CARDINAL WOLSEY, the purse borne before
-      him, certain of the guard, and two SECRETARIES
+      Enter WOLSEY, the purse borne before
+      him, certain of the guard, and two SECRETARY
       with papers. The CARDINAL in his passage fixeth his
       eye on BUCKINGHAM, and BUCKINGHAM on him,
       both full of disdain
@@ -247,7 +247,8 @@ the DUKE OF BUCKINGHAM and the LORD ABERGAVENNY
   SECRETARY. Ay, please your Grace.
   WOLSEY. Well, we shall then know more, and Buckingham
     shall lessen this big look.
-                                          Exeunt WOLSEY and his train
+                                          Exeunt WOLSEY and SECRETARY
+
   BUCKINGHAM. This butcher's cur is venom-mouth'd, and I
     Have not the power to muzzle him; therefore best
     Not wake him in his slumber. A beggar's book
@@ -337,7 +338,7 @@ the DUKE OF BUCKINGHAM and the LORD ABERGAVENNY
     I do pronounce him in that very shape
     He shall appear in proof.
 
-       Enter BRANDON, a SERGEANT-AT-ARMS before him,
+       Enter BRANDON, a SERGEANT before him,
               and two or three of the guard
 
   BRANDON. Your office, sergeant: execute it.
@@ -388,9 +389,9 @@ ACT I. SCENE 2.
 
 London. The Council Chamber
 
-Cornets. Enter KING, leaning on the CARDINAL'S shoulder, the NOBLES,
-and SIR THOMAS LOVELL, with others. The CARDINAL places himself
-under the KING'S feet on his right side
+Cornets. Enter KING, leaning on the WOLSEY'S shoulder, the NOBLES,
+and LOVELL, with others. The WOLSEY, SECRETARY places himself
+under the KING'S feet on his right side. QUEEN KATHARINE
 
   KING. My life itself, and the best heart of it,
     Thanks you for this great care; I stood i' th' level
@@ -402,7 +403,7 @@ under the KING'S feet on his right side
     He shall again relate.
 
       A noise within, crying 'Room for the Queen!'
-      Enter the QUEEN, usher'd by the DUKES OF NORFOLK
+      Enter the QUEEN, usher'd by the NORFOLK
       and SUFFOLK; she kneels. The KING riseth
       from his state, takes her up, kisses and placeth her
       by him
@@ -655,7 +656,7 @@ ACT I. SCENE 3.
 
 London. The palace
 
-Enter the LORD CHAMBERLAIN and LORD SANDYS
+Enter the CHAMBERLAIN and SANDYS 
 
   CHAMBERLAIN. Is't possible the spells of France should juggle
     Men into such strange mysteries?
@@ -675,7 +676,7 @@ Enter the LORD CHAMBERLAIN and LORD SANDYS
     Their clothes are after such a pagan cut to't,
     That sure th' have worn out Christendom.
 
-           Enter SIR THOMAS LOVELL
+           Enter  LOVELL
 
     How now?
     What news, Sir Thomas Lovell?
@@ -752,9 +753,9 @@ ACT I. SCENE 4.
 London. The Presence Chamber in York Place
 
 Hautboys. A small table under a state for the Cardinal,
-a longer table for the guests. Then enter ANNE BULLEN,
+a longer table for the guests. Then enter ANNE,
 and divers other LADIES and GENTLEMEN, as guests, at one door;
-at another door enter SIR HENRY GUILDFORD
+at another door enter  GUILDFORD
 
   GUILDFORD. Ladies, a general welcome from his Grace
     Salutes ye all; this night he dedicates
@@ -764,8 +765,7 @@ at another door enter SIR HENRY GUILDFORD
     As, first, good company, good wine, good welcome,
     Can make good people.
 
-       Enter LORD CHAMBERLAIN, LORD SANDYS, and SIR
-                  THOMAS LOVELL
+       Enter CHAMBERLAIN, SANDYS, and LOVELL
 
     O, my lord, y'are tardy,
     The very thought of this fair company
@@ -804,7 +804,7 @@ at another door enter SIR HENRY GUILDFORD
   SANDYS. For my little cure,
     Let me alone.
 
-         Hautboys. Enter CARDINAL WOLSEY, attended; and
+         Hautboys. Enter WOLSEY, attended SERVANT; and
                          takes his state
 
   WOLSEY. Y'are welcome, my fair guests. That noble lady
@@ -848,16 +848,17 @@ at another door enter SIR HENRY GUILDFORD
     Into our presence, where this heaven of beauty
     Shall shine at full upon them. Some attend him.
               Exit CHAMBERLAIN attended. All rise, and tables remov'd
-    You have now a broken banquet, but we'll mend it.
+  WOLSEY. You have now a broken banquet, but we'll mend it.
     A good digestion to you all; and once more
     I show'r a welcome on ye; welcome all.
 
       Hautboys. Enter the KING, and others, as maskers,
-      habited like shepherds, usher'd by the LORD CHAMBERLAIN.
+      habited like shepherds, usher'd by the CHAMBERLAIN.
       They pass directly before the CARDINAL,
       and gracefully salute him
 
-    A noble company! What are their pleasures?
+  WOLSEY.  A noble company! What are their pleasures?
+
   CHAMBERLAIN. Because they speak no English, thus they pray'd
     To tell your Grace, that, having heard by fame
     Of this so noble and so fair assembly
@@ -930,7 +931,7 @@ ACT II. SCENE 1.
 
 Westminster. A street
 
-Enter two GENTLEMEN, at several doors
+Enter FIRST GENTLEMAN, SECOND GENTLEMAN, at several doors
 
   FIRST GENTLEMAN. Whither away so fast?
   SECOND GENTLEMAN. O, God save ye!
@@ -1002,8 +1003,8 @@ Enter two GENTLEMEN, at several doors
 
       Enter BUCKINGHAM from his arraignment, tip-staves
       before him; the axe with the edge towards him; halberds
-      on each side; accompanied with SIR THOMAS
-      LOVELL, SIR NICHOLAS VAUX, SIR WILLIAM SANDYS,
+      on each side; accompanied with
+      LOVELL, VAUX, SANDYS,
       and common people, etc.
 
   FIRST GENTLEMAN. Stay there, sir,
@@ -1144,7 +1145,7 @@ ACT II. SCENE 2.
 
 London. The palace
 
-Enter the LORD CHAMBERLAIN reading this letter
+Enter the CHAMBERLAIN reading this letter
 
   CHAMBERLAIN. 'My lord,
     'The horses your lordship sent for, with all the care
@@ -1159,7 +1160,7 @@ Enter the LORD CHAMBERLAIN reading this letter
     I fear he will indeed. Well, let him have them.
     He will have all, I think.
 
-    Enter to the LORD CHAMBERLAIN the DUKES OF NORFOLK and SUFFOLK
+    Enter to the CHAMBERLAIN the NORFOLK and SUFFOLK
 
   NORFOLK. Well met, my Lord Chamberlain.
   CHAMBERLAIN. Good day to both your Graces.
@@ -1219,7 +1220,7 @@ Enter the LORD CHAMBERLAIN reading this letter
     You'll find a most unfit time to disturb him.
     Health to your lordships!
   NORFOLK. Thanks, my good Lord Chamberlain.
-                            Exit LORD CHAMBERLAIN; and the KING draws
+                            Exit CHAMBERLAIN; and the KING draws
                                the curtain and sits reading pensively
   SUFFOLK. How sad he looks; sure, he is much afflicted.
   KING. Who's there, ha?
@@ -1333,7 +1334,7 @@ ACT II. SCENE 3.
 
 London. The palace
 
-Enter ANNE BULLEN and an OLD LADY
+Enter ANNE and an OLD LADY
 
   ANNE. Not for that neither. Here's the pang that pinches:
     His Highness having liv'd so long with her, and she
@@ -1396,7 +1397,7 @@ Enter ANNE BULLEN and an OLD LADY
     Would for Carnarvonshire, although there long'd
     No more to th' crown but that. Lo, who comes here?
 
-         Enter the LORD CHAMBERLAIN
+         Enter the CHAMBERLAIN
 
   CHAMBERLAIN. Good morrow, ladies. What were't worth to know
     The secret of your conference?
@@ -1433,7 +1434,7 @@ Enter ANNE BULLEN and an OLD LADY
     But from this lady may proceed a gem
     To lighten all this isle?-I'll to the King
     And say I spoke with you.
-  ANNE. My honour'd lord!                       Exit LORD CHAMBERLAIN
+  ANNE. My honour'd lord!                       Exit CHAMBERLAIN
   OLD LADY. Why, this it is: see, see!
     I have been begging sixteen years in court-
     Am yet a courtier beggarly-nor could
@@ -1474,19 +1475,19 @@ ACT II. SCENE 4.
 London. A hall in Blackfriars
 
 Trumpets, sennet, and cornets. Enter two VERGERS, with short silver wands;
-next them, two SCRIBES, in the habit of doctors; after them,
-the ARCHBISHOP OF CANTERBURY alone; after him, the BISHOPS OF LINCOLN, ELY,
+next them, two SCRIBE, in the habit of doctors; after them,
+the CRANMER, ARCHBISHOP OF CANTERBURY alone; after him, the LINCOLN, ELY,
 ROCHESTER, and SAINT ASAPH; next them, with some small distance,
 follows a GENTLEMAN bearing the purse, with the great seal,
 and a Cardinal's hat; then two PRIESTS, bearing each silver cross;
-then a GENTLEMAN USHER bareheaded, accompanied with a SERGEANT-AT-ARMS
+then a GENTLEMAN USHER bareheaded, accompanied with a SERGEANT
 bearing a silver mace; then two GENTLEMEN bearing two great silver pillars;
 after them, side by side, the two CARDINALS, WOLSEY and CAMPEIUS;
-two NOBLEMEN with the sword and mace. Then enter the KING and QUEEN
+two NOBLEMEN with the sword and mace. Then enter the KING and QUEEN KATHARINE
 and their trains. The KING takes place under the cloth of state;
 the two CARDINALS sit under him as judges. The QUEEN takes place
 some distance from the KING. The BISHOPS place themselves on each side
-of the court, in manner of consistory; below them the SCRIBES.
+of the court, in manner of consistory; below them the SCRIBE.
 The LORDS sit next the BISHOPS. The rest of the attendants stand
 in convenient order about the stage
 
@@ -1498,6 +1499,9 @@ in convenient order about the stage
     You may then spare that time.
   WOLSEY. Be't so; proceed.
   SCRIBE. Say 'Henry King of England, come into the court.'
+
+  Enter CRIER
+
   CRIER. Henry King of England, &c.
   KING. Here.
   SCRIBE. Say 'Katharine Queen of England, come into the court.'
@@ -1630,14 +1634,14 @@ in convenient order about the stage
     Disdainful to be tried by't; 'tis not well.
     She's going away.
   KING. Call her again.
-  CRIER. Katharine Queen of England, come into the court.
+  CRIER. Katharine Queen of England, come into the court. Exit.
   GENTLEMAN USHER. Madam, you are call'd back.
   QUEEN KATHARINE. What need you note it? Pray you keep your way;
     When you are call'd, return. Now the Lord help!
     They vex me past my patience. Pray you pass on.
     I will not tarry; no, nor ever more
     Upon this business my appearance make
-    In any of their courts.           Exeunt QUEEN and her attendants
+    In any of their courts.           Exeunt QUEEN KATHARINE and her attendants
   KING. Go thy ways, Kate.
     That man i' th' world who shall report he has
     A better wife, let him in nought be trusted
@@ -1766,7 +1770,7 @@ ACT III. SCENE 1.
 
 London. The QUEEN'S apartments
 
-Enter the QUEEN and her women, as at work
+Enter the QUEEN KATHARINE and her women, as at work
 
   QUEEN KATHARINE. Take thy lute, wench. My soul grows
       sad with troubles;
@@ -1986,8 +1990,8 @@ ACT III.SCENE 2.
 
 London. The palace
 
-Enter the DUKE OF NORFOLK, the DUKE OF SUFFOLK, the EARL OF SURREY,
-and the LORD CHAMBERLAIN
+Enter the NORFOLK, the SUFFOLK, the SURREY,
+and the CHAMBERLAIN
 
   NORFOLK. If you will now unite in your complaints
     And force them with a constancy, the Cardinal
@@ -2277,8 +2281,8 @@ and the LORD CHAMBERLAIN
     Like a bright exhalation in the evening,
     And no man see me more.
 
-        Enter to WOLSEY the DUKES OF NORFOLK and
-        SUFFOLK, the EARL OF SURREY, and the LORD
+        Enter to WOLSEY the NORFOLK and 
+        SUFFOLK, the SURREY, and the LORD
         CHAMBERLAIN
 
   NORFOLK. Hear the King's pleasure, Cardinal, who commands you
@@ -2556,7 +2560,7 @@ ACT IV. SCENE 1.
 
 A street in Westminster
 
-Enter two GENTLEMEN, meeting one another
+Enter FIRST GENTLEMAN, SECOND GENTLEMAN meeting one another
 
   FIRST GENTLEMAN. Y'are well met once again.
   SECOND GENTLEMAN. So are you.
@@ -2630,7 +2634,7 @@ Enter two GENTLEMEN, meeting one another
    10. Certain LADIES or COUNTESSES, with plain circlets of gold
        without flowers.
 
-             Exeunt, first passing over the stage in order and state,
+             Leave, first passing over the stage in order and state,
                                 and then a great flourish of trumpets
 
   SECOND GENTLEMAN. A royal train, believe me. These know.
@@ -2662,7 +2666,7 @@ Enter two GENTLEMEN, meeting one another
   FIRST GENTLEMAN. No more of that.
                    Exit Procession, with a great flourish of trumpets
 
-               Enter a third GENTLEMAN
+               Enter a THIRD GENTLEMAN
 
     God save you, sir! Where have you been broiling?
   THIRD GENTLEMAN. Among the crowds i' th' Abbey, where a finger
@@ -2748,11 +2752,11 @@ ACT IV. SCENE 2.
 
 Kimbolton
 
-Enter KATHARINE, Dowager, sick; led between GRIFFITH, her Gentleman Usher,
+Enter QUEEN KATHARINE, Dowager, sick; led between GRIFFITH, her Gentleman Usher,
 and PATIENCE, her woman
 
   GRIFFITH. How does your Grace?
-  KATHARINE. O Griffith, sick to death!
+  QUEEN KATHARINE. O Griffith, sick to death!
     My legs like loaden branches bow to th' earth,
     Willing to leave their burden. Reach a chair.
     So-now, methinks, I feel a little ease.
@@ -2761,7 +2765,7 @@ and PATIENCE, her woman
     Was dead?
   GRIFFITH. Yes, madam; but I think your Grace,
     Out of the pain you suffer'd, gave no ear to't.
-  KATHARINE. Prithee, good Griffith, tell me how he died.
+  QUEEN KATHARINE. Prithee, good Griffith, tell me how he died.
     If well, he stepp'd before me, happily,
     For my example.
   GRIFFITH. Well, the voice goes, madam;
@@ -2770,7 +2774,7 @@ and PATIENCE, her woman
     As a man sorely tainted, to his answer,
     He fell sick suddenly, and grew so ill
     He could not sit his mule.
-  KATHARINE. Alas, poor man!
+  QUEEN KATHARINE. Alas, poor man!
   GRIFFITH. At last, with easy roads, he came to Leicester,
     Lodg'd in the abbey; where the reverend abbot,
     With all his covent, honourably receiv'd him;
@@ -2785,7 +2789,7 @@ and PATIENCE, her woman
     Continual meditations, tears, and sorrows,
     He gave his honours to the world again,
     His blessed part to heaven, and slept in peace.
-  KATHARINE. So may he rest; his faults lie gently on him!
+  QUEEN KATHARINE. So may he rest; his faults lie gently on him!
     Yet thus far, Griffith, give me leave to speak him,
     And yet with charity. He was a man
     Of an unbounded stomach, ever ranking
@@ -2803,7 +2807,7 @@ and PATIENCE, her woman
     Men's evil manners live in brass: their virtues
     We write in water. May it please your Highness
     To hear me speak his good now?
-  KATHARINE. Yes, good Griffith;
+  QUEEN KATHARINE. Yes, good Griffith;
     I were malicious else.
   GRIFFITH. This Cardinal,
     Though from an humble stock, undoubtedly
@@ -2826,7 +2830,7 @@ and PATIENCE, her woman
     And found the blessedness of being little.
     And, to add greater honours to his age
     Than man could give him, he died fearing God.
-  KATHARINE. After my death I wish no other herald,
+  QUEEN KATHARINE. After my death I wish no other herald,
     No other speaker of my living actions,
     To keep mine honour from corruption,
     But such an honest chronicler as Griffith.
@@ -2861,13 +2865,13 @@ and PATIENCE, her woman
       hands to heaven. And so in their dancing vanish,
       carrying the garland with them. The music continues
 
-  KATHARINE. Spirits of peace, where are ye? Are ye all gone?
+  QUEEN KATHARINE. Spirits of peace, where are ye? Are ye all gone?
     And leave me here in wretchedness behind ye?
   GRIFFITH. Madam, we are here.
-  KATHARINE. It is not you I call for.
+  QUEEN KATHARINE. It is not you I call for.
     Saw ye none enter since I slept?
   GRIFFITH. None, madam.
-  KATHARINE. No? Saw you not, even now, a blessed troop
+  QUEEN KATHARINE. No? Saw you not, even now, a blessed troop
     Invite me to a banquet; whose bright faces
     Cast thousand beams upon me, like the sun?
     They promis'd me eternal happiness,
@@ -2875,7 +2879,7 @@ and PATIENCE, her woman
     I am not worthy yet to wear. I shall, assuredly.
   GRIFFITH. I am most joyful, madam, such good dreams
     Possess your fancy.
-  KATHARINE. Bid the music leave,
+  QUEEN KATHARINE. Bid the music leave,
     They are harsh and heavy to me.                    [Music ceases]
   PATIENCE. Do you note
     How much her Grace is alter'd on the sudden?
@@ -2887,7 +2891,7 @@ and PATIENCE, her woman
              Enter a MESSENGER
 
   MESSENGER. An't like your Grace-
-  KATHARINE. You are a saucy fellow.
+  QUEEN KATHARINE. You are a saucy fellow.
     Deserve we no more reverence?
   GRIFFITH. You are to blame,
     Knowing she will not lose her wonted greatness,
@@ -2895,16 +2899,16 @@ and PATIENCE, her woman
   MESSENGER. I humbly do entreat your Highness' pardon;
     My haste made me unmannerly. There is staying
     A gentleman, sent from the King, to see you.
-  KATHARINE. Admit him entrance, Griffith; but this fellow
+  QUEEN KATHARINE. Admit him entrance, Griffith; but this fellow
     Let me ne'er see again.                            Exit MESSENGER
 
-              Enter LORD CAPUCIUS
+              Enter CAPUCIUS
 
     If my sight fail not,
     You should be Lord Ambassador from the Emperor,
     My royal nephew, and your name Capucius.
   CAPUCIUS. Madam, the same-your servant.
-  KATHARINE. O, my Lord,
+  QUEEN KATHARINE. O, my Lord,
     The times and titles now are alter'd strangely
     With me since first you knew me. But, I pray you,
     What is your pleasure with me?
@@ -2914,21 +2918,21 @@ and PATIENCE, her woman
     Who grieves much for your weakness, and by me
     Sends you his princely commendations
     And heartily entreats you take good comfort.
-  KATHARINE. O my good lord, that comfort comes too late,
+  QUEEN KATHARINE. O my good lord, that comfort comes too late,
     'Tis like a pardon after execution:
     That gentle physic, given in time, had cur'd me;
     But now I am past all comforts here, but prayers.
     How does his Highness?
   CAPUCIUS. Madam, in good health.
-  KATHARINE. So may he ever do! and ever flourish
+  QUEEN KATHARINE. So may he ever do! and ever flourish
     When I shall dwell with worms, and my poor name
     Banish'd the kingdom! Patience, is that letter
     I caus'd you write yet sent away?
   PATIENCE. No, madam.                       [Giving it to KATHARINE]
-  KATHARINE. Sir, I most humbly pray you to deliver
+  QUEEN KATHARINE. Sir, I most humbly pray you to deliver
     This to my lord the King.
   CAPUCIUS. Most willing, madam.
-  KATHARINE. In which I have commended to his goodness
+  QUEEN KATHARINE. In which I have commended to his goodness
     The model of our chaste loves, his young daughter-
     The dews of heaven fall thick in blessings on her!-
     Beseeching him to give her virtuous breeding-
@@ -2958,7 +2962,7 @@ and PATIENCE, her woman
     To do me this last right.
   CAPUCIUS. By heaven, I will,
     Or let me lose the fashion of a man!
-  KATHARINE. I thank you, honest lord. Remember me
+  QUEEN KATHARINE. I thank you, honest lord. Remember me
     In all humility unto his Highness;
     Say his long trouble now is passing
     Out of this world. Tell him in death I bless'd him,
@@ -2985,7 +2989,7 @@ ACT V. SCENE 1.
 London. A gallery in the palace
 
 Enter GARDINER, BISHOP OF WINCHESTER, a PAGE with a torch before him,
-met by SIR THOMAS LOVELL, BOY
+met by LOVELL, BOY
 
   GARDINER. It's one o'clock, boy, is't not?
   BOY. It hath struck.       Exit
@@ -3053,7 +3057,7 @@ met by SIR THOMAS LOVELL, BOY
   LOVELL. Many good nights, my lord; I rest your servant.
                                              Exeunt GARDINER and PAGE
 
-         Enter the KING and the DUKE OF SUFFOLK
+         Enter the KING and the SUFFOLK 
 
   KING. Charles, I will play no more to-night;
     My mind's not on't; you are too hard for me.
@@ -3084,7 +3088,7 @@ met by SIR THOMAS LOVELL, BOY
     Remember in my prayers.
   KING. Charles, good night.                             Exit SUFFOLK
 
-         Enter SIR ANTHONY DENNY
+         Enter DENNY
 
     Well, sir, what follows?
   DENNY. Sir, I have brought my lord the Archbishop,
@@ -3183,9 +3187,9 @@ met by SIR THOMAS LOVELL, BOY
                                                          Exit CRANMER
     He has strangled his language in his tears.
 
-           Enter OLD LADY
+           Enter OLD LADY, GENTLEMAN
 
-  GENTLEMAN.  [Within]  Come back; what mean you?
+  GENTLEMAN.  [Within]  Come back; what mean you?   Exit.
   OLD LADY. I'll not come back; the tidings that I bring
     Will make my boldness manners. Now, good angels
     Fly o'er thy royal head, and shade thy person
@@ -3220,7 +3224,7 @@ ACT V. SCENE 2.
 
 Lobby before the Council Chamber
 
-Enter CRANMER, ARCHBISHOP OF CANTERBURY
+Enter CRANMER
 
   CRANMER. I hope I am not too late; and yet the gentleman
     That was sent to me from the Council pray'd me
@@ -3234,7 +3238,7 @@ Enter CRANMER, ARCHBISHOP OF CANTERBURY
   CRANMER. Why?
   KEEPER. Your Grace must wait till you be call'd for.
 
-           Enter DOCTOR BUTTS
+           Enter BUTTS
 
   CRANMER. So.
   BUTTS.  [Aside]  This is a piece of malice. I am glad
@@ -3281,10 +3285,10 @@ ACT V. SCENE 3.
 The Council Chamber
 
 A Council table brought in, with chairs and stools, and placed
-under the state. Enter LORD CHANCELLOR, places himself at the upper end
+under the state. Enter CHANCELLOR, places himself at the upper end
 of the table on the left band, a seat being left void above him,
-as for Canterbury's seat. DUKE OF SUFFOLK, DUKE OF NORFOLK, SURREY,
-LORD CHAMBERLAIN, GARDINER, seat themselves in order on each side;
+as for Canterbury's seat. SUFFOLK, NORFOLK, SURREY,
+CHAMBERLAIN, GARDINER, seat themselves in order on each side;
 CROMWELL at lower end, as secretary. KEEPER at the door
 
   CHANCELLOR. Speak to the business, master secretary;
@@ -3579,7 +3583,7 @@ Noise and tumult within. Enter PORTER and his MAN
     Patrum, and there they are like to dance these three days;
     besides the running banquet of two beadles that is to come.
 
-          Enter the LORD CHAMBERLAIN
+          Enter the CHAMBERLAIN
 
   CHAMBERLAIN. Mercy o' me, what a multitude are here!
     They grow still too; from all parts they are coming,
@@ -3617,7 +3621,7 @@ ACT V. SCENE 5.
 The palace
 
 Enter TRUMPETS, sounding; then two ALDERMEN, LORD MAYOR, GARTER, CRANMER,
-DUKE OF NORFOLK, with his marshal's staff, DUKE OF SUFFOLK,
+NORFOLK, with his marshal's staff,  SUFFOLK,
 two Noblemen bearing great standing-bowls for the christening gifts;
 then four Noblemen bearing a canopy, under which the DUCHESS OF NORFOLK,
 godmother, bearing the CHILD richly habited in a mantle, etc.,
