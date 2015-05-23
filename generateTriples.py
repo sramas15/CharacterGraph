@@ -82,10 +82,10 @@ def checkExit(line, currSpeaker, currCharList):
 
 # Checks if a line is speech continuation
 def checkSpeechContinuation(line):
-	match = re.search(r'^    (?:[A-Za-z]*)', line)
+	match = re.search(r'^    (?:[A-Za-z]+)', line)
 	return match
 
-# Writes triple: currSpeaker \n len(currCharList) \n currCharList \n currSpeech
+# Writes triple: currSpeaker \n len(currCharList) \n currCharList \n currSpeech \n
 def writeToFile(currSpeaker, currCharList, currSpeech, outFile):
 	with open(outFile, 'a') as f:
 		f.write(currSpeaker + '\n')
@@ -133,6 +133,8 @@ for playNum in range(NUM_PLAYS):
 					if needToWriteTriple:
 						writeToFile(currSpeaker, currCharList, currSpeech, outFile)
 					currSpeaker = tup[0]
+					if currSpeaker not in currCharList:
+						currCharList.add(currSpeaker)
 					line = tup[1]
 					needToWriteTriple = True
 					exitOutput = checkExit(line, currSpeaker, currCharList)
