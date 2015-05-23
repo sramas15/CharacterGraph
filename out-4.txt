@@ -54,7 +54,7 @@ Rome and the neighbourhood; Corioli and the neighbourhood; Antium
 ACT I. SCENE I.
 Rome. A street
 
-Enter a company of mutinous citizens, with staves, clubs, and other weapons
+Enter a company of mutinous citizens FIRST CITIZEN, SECOND CITIZEN, with staves, clubs, and other weapons
 
   FIRST CITIZEN. Before we proceed any further, hear me speak.
   ALL. Speak, speak.
@@ -97,7 +97,7 @@ Enter a company of mutinous citizens, with staves, clubs, and other weapons
   ALL. Come, come.
   FIRST CITIZEN. Soft! who comes here?
 
-                       Enter MENENIUS AGRIPPA
+                       Enter MENENIUS
 
   SECOND CITIZEN. Worthy Menenius Agrippa; one that hath always lov'd
     the people.
@@ -215,7 +215,7 @@ Enter a company of mutinous citizens, with staves, clubs, and other weapons
     Rome and her rats are at the point of battle;
     The one side must have bale.
 
-                      Enter CAIUS MARCIUS
+                      Enter MARCIUS
 
     Hail, noble Marcius!
   MARCIUS. Thanks. What's the matter, you dissentious rogues
@@ -291,8 +291,8 @@ Enter a company of mutinous citizens, with staves, clubs, and other weapons
   MARCIUS. I am glad on't; then we shall ha' means to vent
     Our musty superfluity. See, our best elders.
 
-         Enter COMINIUS, TITUS LARTIUS, with other SENATORS;
-                  JUNIUS BRUTUS and SICINIUS VELUTUS
+         Enter COMINIUS, LARTIUS, with other FIRST SENATOR;
+                  BRUTUS and SICINIUS
 
   FIRST SENATOR. Marcius, 'tis true that you have lately told us:
     The Volsces are in arms.
@@ -371,7 +371,7 @@ Enter a company of mutinous citizens, with staves, clubs, and other weapons
 SCENE II.
 Corioli. The Senate House.
 
-Enter TULLUS AUFIDIUS with SENATORS of Corioli
+Enter AUFIDIUS with FIRST SENATOR, SECOND SENATOR
 
   FIRST SENATOR. So, your opinion is, Aufidius,
     That they of Rome are ent'red in our counsels
@@ -544,7 +544,7 @@ they set them down on two low stools and sew
 SCENE IV.
 Before Corioli
 
-Enter MARCIUS, TITUS LARTIUS, with drum and colours,
+Enter MARCIUS, LARTIUS, with drum and colours,
 with CAPTAINS and soldiers. To them a MESSENGER
 
   MARCIUS. Yonder comes news; a wager- they have met.
@@ -558,16 +558,16 @@ with CAPTAINS and soldiers. To them a MESSENGER
   LARTIUS. No, I'll nor sell nor give him; lend you him I will
     For half a hundred years. Summon the town.
   MARCIUS. How far off lie these armies?
-  MESSENGER. Within this mile and half.
+  MESSENGER. Within this mile and half. Exit.
   MARCIUS. Then shall we hear their 'larum, and they ours.
     Now, Mars, I prithee, make us quick in work,
     That we with smoking swords may march from hence
     To help our fielded friends! Come, blow thy blast.
 
-          They sound a parley. Enter two SENATORS with others,
+          They sound a parley. Enter FIRST SENATOR, SECOND SENATOR with others,
                       on the walls of Corioli
 
-    Tullus Aufidius, is he within your walls?
+  MARCIUS.  Tullus Aufidius, is he within your walls?
   FIRST SENATOR. No, nor a man that fears you less than he:
     That's lesser than a little.  [Drum afar off]  Hark, our drums
     Are bringing forth our youth. We'll break our walls
@@ -609,18 +609,20 @@ with CAPTAINS and soldiers. To them a MESSENGER
          Another alarum. The Volsces fly, and MARCIUS follows
                           them to the gates
 
-    So, now the gates are ope; now prove good seconds;
+  MARCIUS.  So, now the gates are ope; now prove good seconds;
     'Tis for the followers fortune widens them,
-    Not for the fliers. Mark me, and do the like.
+    Not for the fliers. Mark me, and do the like. Exit.
 
                     [MARCIUS enters the gates]
+
+                    Enter FIRST SOLDIER, SECOND SOLDIER.
 
   FIRST SOLDIER. Fool-hardiness; not I.
   SECOND SOLDIER. Not I.                    [MARCIUS is shut in]
   FIRST SOLDIER. See, they have shut him in.
   ALL. To th' pot, I warrant him.             [Alarum continues]
 
-                      Enter TITUS LARTIUS
+                      Enter LARTIUS
 
   LARTIUS. What is become of Marcius?
   ALL. Slain, sir, doubtless.
@@ -652,14 +654,14 @@ with CAPTAINS and soldiers. To them a MESSENGER
 SCENE V.
 Within Corioli. A street
 
-Enter certain Romans, with spoils
+Enter certain Romans FIRST ROMAN, SECOND ROMAN, THIRD ROMAN, with spoils
 
   FIRST ROMAN. This will I carry to Rome.
   SECOND ROMAN. And I this.
-  THIRD ROMAN. A murrain on 't! I took this for silver.
+  THIRD ROMAN. A murrain on 't! I took this for silver. Exeunt FIRST ROMAN, SECOND ROMAN, THIRD ROMAN
                                [Alarum continues still afar off]
 
-          Enter MARCIUS and TITUS LARTIUS With a trumpeter
+          Enter MARCIUS and LARTIUS With a trumpeter
 
   MARCIUS. See here these movers that do prize their hours
     At a crack'd drachma! Cushions, leaden spoons,
@@ -688,7 +690,7 @@ Enter certain Romans, with spoils
   MARCIUS. Thy friend no less
     Than those she placeth highest! So farewell.
   LARTIUS. Thou worthiest Marcius!                  Exit MARCIUS
-    Go sound thy trumpet in the market-place;
+  LARTIUS.  Go sound thy trumpet in the market-place;
     Call thither all the officers o' th' town,
     Where they shall know our mind. Away!                 Exeunt
 
@@ -726,7 +728,7 @@ Enter COMINIUS, as it were in retire, with soldiers
   MESSENGER. Spies of the Volsces
     Held me in chase, that I was forc'd to wheel
     Three or four miles about; else had I, sir,
-    Half an hour since brought my report.
+    Half an hour since brought my report. Exit.
 
                            Enter MARCIUS
 
@@ -818,8 +820,8 @@ Enter COMINIUS, as it were in retire, with soldiers
 SCENE VII.
 The gates of Corioli
 
-TITUS LARTIUS, having set a guard upon Corioli, going with drum and trumpet
-toward COMINIUS and CAIUS MARCIUS, enters with a LIEUTENANT, other soldiers,
+Enter LARTIUS, having set a guard upon Corioli, going with drum and trumpet
+toward Cominius and Marcius, Enter with a LIEUTENANT, other soldiers,
 and a scout
 
   LARTIUS. So, let the ports be guarded; keep your duties
@@ -861,7 +863,7 @@ Alarum, as in battle. Enter MARCIUS and AUFIDIUS at several doors
         of AUFIDIUS. MARCIUS fights till they be driven in
                              breathless
 
-    Officious, and not valiant, you have sham'd me
+  AUFIDIUS.  Officious, and not valiant, you have sham'd me
     In your condemned seconds.                            Exeunt
 
 
@@ -885,7 +887,7 @@ COMINIUS with the Romans; at another door, MARCIUS, with his arm in a scarf
     Yet cam'st thou to a morsel of this feast,
     Having fully din'd before.
 
-         Enter TITUS LARTIUS, with his power, from the pursuit
+         Enter LARTIUS, with his power, from the pursuit
 
   LARTIUS. O General,
     Here is the steed, we the caparison.
@@ -925,7 +927,7 @@ COMINIUS with the Romans; at another door, MARCIUS, with his arm in a scarf
            A long flourish. They all cry 'Marcius, Marcius!'
    cast up their caps and lances. COMINIUS and LARTIUS stand bare
 
-    May these same instruments which you profane
+  MARCIUS.  May these same instruments which you profane
     Never sound more! When drums and trumpets shall
     I' th' field prove flatterers, let courts and cities be
     Made all of false-fac'd soothing. When steel grows
@@ -953,7 +955,7 @@ COMINIUS with the Romans; at another door, MARCIUS, with his arm in a scarf
     Bear th' addition nobly ever!
                            [Flourish. Trumpets sound, and drums]
   ALL. Caius Marcius Coriolanus!
-  CORIOLANUS. I will go wash;
+  MARCIUS. I will go wash;
     And when my face is fair you shall perceive
     Whether I blush or no. Howbeit, I thank you;
     I mean to stride your steed, and at all times
@@ -966,11 +968,11 @@ COMINIUS with the Romans; at another door, MARCIUS, with his arm in a scarf
     The best, with whom we may articulate
     For their own good and ours.
   LARTIUS. I shall, my lord.
-  CORIOLANUS. The gods begin to mock me. I, that now
+  MARCIUS. The gods begin to mock me. I, that now
     Refus'd most princely gifts, am bound to beg
     Of my Lord General.
   COMINIUS. Take't- 'tis yours; what is't?
-  CORIOLANUS. I sometime lay here in Corioli
+  MARCIUS. I sometime lay here in Corioli
     At a poor man's house; he us'd me kindly.
     He cried to me; I saw him prisoner;
     But then Aufidius was within my view,
@@ -980,7 +982,7 @@ COMINIUS with the Romans; at another door, MARCIUS, with his arm in a scarf
     Were he the butcher of my son, he should
     Be free as is the wind. Deliver him, Titus.
   LARTIUS. Marcius, his name?
-  CORIOLANUS. By Jupiter, forgot!
+  MARCIUS. By Jupiter, forgot!
     I am weary; yea, my memory is tir'd.
     Have we no wine here?
   COMINIUS. Go we to our tent.
@@ -993,7 +995,7 @@ COMINIUS with the Romans; at another door, MARCIUS, with his arm in a scarf
 SCENE X.
 The camp of the Volsces
 
-A flourish. Cornets. Enter TULLUS AUFIDIUS bloody, with two or three soldiers
+A flourish. Cornets. Enter AUFIDIUS bloody, with FIRST SOLDIER, SECOND SOLDIER two or three soldiers
 
   AUFIDIUS. The town is ta'en.
   FIRST SOLDIER. 'Twill be deliver'd back on good condition.
@@ -1042,7 +1044,7 @@ END_ACT
 ACT II. SCENE I.
 Rome. A public place
 
-Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
+Enter MENENIUS, with the two Tribunes BOTH TRIBUNES of the people, SICINIUS and BRUTUS
 
   MENENIUS. The augurer tells me we shall have news tonight.
   BRUTUS. Good or bad?
@@ -1128,7 +1130,7 @@ Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
 
                Enter VOLUMNIA, VIRGILIA, and VALERIA
 
-    How now, my as fair as noble ladies- and the moon, were she
+  MENENIUS.  How now, my as fair as noble ladies- and the moon, were she
     earthly, no nobler- whither do you follow your eyes so fast?
   VOLUMNIA. Honourable Menenius, my boy Marcius approaches; for the
     love of Juno, let's go.
@@ -1187,8 +1189,8 @@ Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
     Which, being advanc'd, declines, and then men die.
 
             A sennet. Trumpets sound. Enter COMINIUS the
-              GENERAL, and TITUS LARTIUS; between them,
-           CORIOLANUS, crown'd with an oaken garland; with
+              GENERAL, and LARTIUS; between them,
+           MARCIUS, crown'd with an oaken garland; with
                    CAPTAINS and soldiers and a HERALD
 
   HERALD. Know, Rome, that all alone Marcius did fight
@@ -1197,10 +1199,10 @@ Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
     In honour follows Coriolanus.
     Welcome to Rome, renowned Coriolanus!             [Flourish]
   ALL. Welcome to Rome, renowned Coriolanus!
-  CORIOLANUS. No more of this, it does offend my heart.
+  MARCIUS. No more of this, it does offend my heart.
     Pray now, no more.
   COMINIUS. Look, sir, your mother!
-  CORIOLANUS. O,
+  MARCIUS. O,
     You have, I know, petition'd all the gods
     For my prosperity!                                  [Kneels]
   VOLUMNIA. Nay, my good soldier, up;
@@ -1208,13 +1210,13 @@ Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
     By deed-achieving honour newly nam'd-
     What is it? Coriolanus must I can thee?
     But, O, thy wife!
-  CORIOLANUS. My gracious silence, hail!
+  MARCIUS. My gracious silence, hail!
     Wouldst thou have laugh'd had I come coffin'd home,
     That weep'st to see me triumph? Ah, my dear,
     Such eyes the widows in Corioli wear,
     And mothers that lack sons.
   MENENIUS. Now the gods crown thee!
-  CORIOLANUS. And live you yet?  [To VALERIA]  O my sweet lady,
+  MARCIUS. And live you yet?  [To VALERIA]  O my sweet lady,
     pardon.
   VOLUMNIA. I know not where to turn.
     O, welcome home! And welcome, General.
@@ -1229,9 +1231,9 @@ Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
     We call a nettle but a nettle, and
     The faults of fools but folly.
   COMINIUS. Ever right.
-  CORIOLANUS. Menenius ever, ever.
+  MARCIUS. Menenius ever, ever.
   HERALD. Give way there, and go on.
-  CORIOLANUS.  [To his wife and mother]  Your hand, and yours.
+  MARCIUS.  [To his wife and mother]  Your hand, and yours.
     Ere in our own house I do shade my head,
     The good patricians must be visited;
     From whom I have receiv'd not only greetings,
@@ -1241,7 +1243,7 @@ Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
     And the buildings of my fancy; only
     There's one thing wanting, which I doubt not but
     Our Rome will cast upon thee.
-  CORIOLANUS. Know, good mother,
+  MARCIUS. Know, good mother,
     I had rather be their servant in my way
     Than sway with them in theirs.
   COMINIUS. On, to the Capitol.
@@ -1338,7 +1340,7 @@ Enter MENENIUS, with the two Tribunes of the people, SICINIUS and BRUTUS
 SCENE II.
 Rome. The Capitol
 
-Enter two OFFICERS, to lay cushions, as it were in the Capitol
+Enter FIRST OFFICER, SECOND OFFICER to lay cushions, as it were in the Capitol
 
   FIRST OFFICER. Come, come, they are almost here. How many stand for
     consulships?
@@ -1373,11 +1375,11 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
   FIRST OFFICER. No more of him; he's a worthy man. Make way, they
     are coming.
 
-         A sennet. Enter the PATRICIANS and the TRIBUNES
-         OF THE PEOPLE, LICTORS before them; CORIOLANUS,
+         A sennet. Enter the FIRST SENATOR PATRICIANS and the TRIBUNES
+         OF THE PEOPLE, LICTORS before them; MARCIUS,
             MENENIUS, COMINIUS the Consul. SICINIUS and
                BRUTUS take their places by themselves.
-                         CORIOLANUS stands
+                         MARCIUS stands
 
   MENENIUS. Having determin'd of the Volsces, and
     To send for Titus Lartius, it remains,
@@ -1390,7 +1392,7 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
     A little of that worthy work perform'd
     By Caius Marcius Coriolanus; whom
     We met here both to thank and to remember
-    With honours like himself.                 [CORIOLANUS sits]
+    With honours like himself.                 [MARCIUS sits]
   FIRST SENATOR. Speak, good Cominius.
     Leave nothing out for length, and make us think
     Rather our state's defective for requital
@@ -1415,21 +1417,21 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
   MENENIUS. He loves your people;
     But tie him not to be their bedfellow.
     Worthy Cominius, speak.
-                       [CORIOLANUS rises, and offers to go away]
-    Nay, keep your place.
+                       [MARCIUSrises, and offers to go away]
+  MENENIUS.  Nay, keep your place.
   FIRST SENATOR. Sit, Coriolanus, never shame to hear
     What you have nobly done.
-  CORIOLANUS. Your Honours' pardon.
+  MARCIUS. Your Honours' pardon.
     I had rather have my wounds to heal again
     Than hear say how I got them.
   BRUTUS. Sir, I hope
     My words disbench'd you not.
-  CORIOLANUS. No, sir; yet oft,
+  MARCIUS. No, sir; yet oft,
     When blows have made me stay, I fled from words.
     You sooth'd not, therefore hurt not. But your people,
     I love them as they weigh-
   MENENIUS. Pray now, sit down.
-  CORIOLANUS. I had rather have one scratch my head i' th' sun
+  MARCIUS. I had rather have one scratch my head i' th' sun
     When the alarum were struck than idly sit
     To hear my nothings monster'd.                          Exit
   MENENIUS. Masters of the people,
@@ -1492,15 +1494,15 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
   FIRST SENATOR. Call Coriolanus.
     OFFICER. He doth appear.
 
-                            Enter CORIOLANUS
+                            Enter MARCIUS
 
   MENENIUS. The Senate, Coriolanus, are well pleas'd
     To make thee consul.
-  CORIOLANUS. I do owe them still
+  MARCIUS. I do owe them still
     My life and services.
   MENENIUS. It then remains
     That you do speak to the people.
-  CORIOLANUS. I do beseech you
+  MARCIUS. I do beseech you
     Let me o'erleap that custom; for I cannot
     Put on the gown, stand naked, and entreat them
     For my wounds' sake to give their suffrage. Please you
@@ -1512,11 +1514,11 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
     Pray you go fit you to the custom, and
     Take to you, as your predecessors have,
     Your honour with your form.
-  CORIOLANUS. It is a part
+  MARCIUS. It is a part
     That I shall blush in acting, and might well
     Be taken from the people.
   BRUTUS. Mark you that?
-  CORIOLANUS. To brag unto them 'Thus I did, and thus!'
+  MARCIUS. To brag unto them 'Thus I did, and thus!'
     Show them th' unaching scars which I should hide,
     As if I had receiv'd them for the hire
     Of their breath only!
@@ -1525,8 +1527,7 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
     Our purpose to them; and to our noble consul
     Wish we all joy and honour.
   SENATORS. To Coriolanus come all joy and honour!
-                             [Flourish. Cornets. Then exeunt all
-                                        but SICINIUS and BRUTUS]
+                             Exeunt all but SICINIUS and BRUTUS]
   BRUTUS. You see how he intends to use the people.
   SICINIUS. May they perceive's intent! He will require them
     As if he did contemn what he requested
@@ -1541,7 +1542,7 @@ Enter two OFFICERS, to lay cushions, as it were in the Capitol
 SCENE III.
 Rome. The Forum
 
-Enter seven or eight citizens
+Enter seven or eight citizens FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN
 
   FIRST CITIZEN. Once, if he do require our voices, we ought not to
     deny him.
@@ -1578,19 +1579,19 @@ Enter seven or eight citizens
     no matter, the greater part carries it. I say, if he would
     incline to the people, there was never a worthier man.
 
-                Enter CORIOLANUS, in a gown of humility,
+                Enter MARCIUS, in a gown of humility,
                                with MENENIUS
 
-    Here he comes, and in the gown of humility. Mark his behaviour.
+  THIRD CITIZEN.  Here he comes, and in the gown of humility. Mark his behaviour.
     We are not to stay all together, but to come by him where he
     stands, by ones, by twos, and by threes. He's to make his
     requests by particulars, wherein every one of us has a single
     honour, in giving him our own voices with our own tongues;
     therefore follow me, and I'll direct you how you shall go by him.
-  ALL. Content, content.                         Exeunt citizens
+  ALL. Content, content.                         Exeunt FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN
   MENENIUS. O sir, you are not right; have you not known
     The worthiest men have done't?
-  CORIOLANUS. What must I say?
+  MARCIUS. What must I say?
     'I pray, sir'- Plague upon't! I cannot bring
     My tongue to such a pace. 'Look, sir, my wounds
     I got them in my country's service, when
@@ -1599,50 +1600,50 @@ Enter seven or eight citizens
   MENENIUS. O me, the gods!
     You must not speak of that. You must desire them
     To think upon you.
-  CORIOLANUS. Think upon me? Hang 'em!
+  MARCIUS. Think upon me? Hang 'em!
     I would they would forget me, like the virtues
     Which our divines lose by 'em.
   MENENIUS. You'll mar all.
     I'll leave you. Pray you speak to 'em, I pray you,
     In wholesome manner.                                    Exit
 
-                       Enter three of the citizens
+                       Enter FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN
 
-  CORIOLANUS. Bid them wash their faces
+  MARCIUS. Bid them wash their faces
     And keep their teeth clean. So, here comes a brace.
     You know the cause, sir, of my standing here.
   THIRD CITIZEN. We do, sir; tell us what hath brought you to't.
-  CORIOLANUS. Mine own desert.
+  MARCIUS. Mine own desert.
   SECOND CITIZEN. Your own desert?
-  CORIOLANUS. Ay, not mine own desire.
+  MARCIUS. Ay, not mine own desire.
   THIRD CITIZEN. How, not your own desire?
-  CORIOLANUS. No, sir, 'twas never my desire yet to trouble the poor
+  MARCIUS. No, sir, 'twas never my desire yet to trouble the poor
     with begging.
   THIRD CITIZEN. YOU MUST think, if we give you anything, we hope to
     gain by you.
-  CORIOLANUS. Well then, I pray, your price o' th' consulship?
+  MARCIUS. Well then, I pray, your price o' th' consulship?
   FIRST CITIZEN. The price is to ask it kindly.
-  CORIOLANUS. Kindly, sir, I pray let me ha't. I have wounds to show
+  MARCIUS. Kindly, sir, I pray let me ha't. I have wounds to show
     you, which shall be yours in private. Your good voice, sir; what
     say you?
   SECOND CITIZEN. You shall ha' it, worthy sir.
-  CORIOLANUS. A match, sir. There's in all two worthy voices begg'd.
+  MARCIUS. A match, sir. There's in all two worthy voices begg'd.
     I have your alms. Adieu.
   THIRD CITIZEN. But this is something odd.
   SECOND CITIZEN. An 'twere to give again- but 'tis no matter.
-                                       Exeunt the three citizens
+                                       Exeunt FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN.
 
-                      Enter two other citizens
+                      Enter FOURTH CITIZEN, FIFTH CITIZEN.
 
-  CORIOLANUS. Pray you now, if it may stand with the tune of your
+  MARCIUS. Pray you now, if it may stand with the tune of your
     voices that I may be consul, I have here the customary gown.
   FOURTH CITIZEN. You have deserved nobly of your country, and you
     have not deserved nobly.
-  CORIOLANUS. Your enigma?
+  MARCIUS. Your enigma?
   FOURTH CITIZEN. You have been a scourge to her enemies; you have
     been a rod to her friends. You have not indeed loved the common
     people.
-  CORIOLANUS. You should account me the more virtuous, that I have
+  MARCIUS. You should account me the more virtuous, that I have
     not been common in my love. I will, sir, flatter my sworn
     brother, the people, to earn a dearer estimation of them; 'tis a
     condition they account gentle; and since the wisdom of their
@@ -1654,11 +1655,11 @@ Enter seven or eight citizens
   FIFTH CITIZEN. We hope to find you our friend; and therefore give
     you our voices heartily.
   FOURTH CITIZEN. You have received many wounds for your country.
-  CORIOLANUS. I will not seal your knowledge with showing them. I
+  MARCIUS. I will not seal your knowledge with showing them. I
     will make much of your voices, and so trouble you no farther.
   BOTH CITIZENS. The gods give you joy, sir, heartily!
-                                                 Exeunt citizens
-  CORIOLANUS. Most sweet voices!
+                                                 Exeunt FOURTH CITIZEN, FIFTH CITIZEN.
+  MARCIUS. Most sweet voices!
     Better it is to die, better to starve,
     Than crave the hire which first we do deserve.
     Why in this wolvish toge should I stand here
@@ -1672,9 +1673,9 @@ Enter seven or eight citizens
     To one that would do thus. I am half through:
     The one part suffered, the other will I do.
 
-                      Enter three citizens more
+                      Enter SIXTH CITIZEN, SEVENTH CITIZEN, EIGHTH CITIZEN
 
-    Here come moe voices.
+  MARCIUS.  Here come moe voices.
     Your voices. For your voices I have fought;
     Watch'd for your voices; for your voices bear
     Of wounds two dozen odd; battles thrice six
@@ -1686,8 +1687,8 @@ Enter seven or eight citizens
   SEVENTH CITIZEN. Therefore let him be consul. The gods give him
     joy, and make him good friend to the people!
   ALL. Amen, amen. God save thee, noble consul!
-                                                 Exeunt citizens
-  CORIOLANUS. Worthy voices!
+                                                 Exeunt SIXTH CITIZEN, SEVENTH CITIZEN, EIGHTH CITIZEN
+  MARCIUS. Worthy voices!
 
              Enter MENENIUS with BRUTUS and SICINIUS
 
@@ -1695,26 +1696,26 @@ Enter seven or eight citizens
     Endue you with the people's voice. Remains
     That, in th' official marks invested, you
     Anon do meet the Senate.
-  CORIOLANUS. Is this done?
+  MARCIUS. Is this done?
   SICINIUS. The custom of request you have discharg'd.
     The people do admit you, and are summon'd
     To meet anon, upon your approbation.
-  CORIOLANUS. Where? At the Senate House?
+  MARCIUS. Where? At the Senate House?
   SICINIUS. There, Coriolanus.
-  CORIOLANUS. May I change these garments?
+  MARCIUS. May I change these garments?
   SICINIUS. You may, sir.
-  CORIOLANUS. That I'll straight do, and, knowing myself again,
+  MARCIUS. That I'll straight do, and, knowing myself again,
     Repair to th' Senate House.
   MENENIUS. I'll keep you company. Will you along?
   BRUTUS. We stay here for the people.
   SICINIUS. Fare you well.
-                                  Exeunt CORIOLANUS and MENENIUS
-    He has it now; and by his looks methinks
+                                  Exeunt MARCIUS and MENENIUS
+  SICINIUS.  He has it now; and by his looks methinks
     'Tis warm at's heart.
   BRUTUS. With a proud heart he wore
     His humble weeds. Will you dismiss the people?
 
-                            Enter citizens
+                            Enter FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN.
 
   SICINIUS. How now, my masters! Have you chose this man?
   FIRST CITIZEN. He has our voices, sir.
@@ -1830,7 +1831,7 @@ Enter seven or eight citizens
     And presently, when you have drawn your number,
     Repair to th' Capitol.
   CITIZENS. will will so; almost all
-    Repent in their election.                   Exeunt plebeians
+    Repent in their election.                   Exeunt FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN, CITIZENS.
   BRUTUS. Let them go on;
     This mutiny were better put in hazard
     Than stay, past doubt, for greater.
@@ -1848,60 +1849,60 @@ Enter seven or eight citizens
 ACT III. SCENE I.
 Rome. A street
 
-Cornets. Enter CORIOLANUS, MENENIUS, all the GENTRY, COMINIUS,
-TITUS LARTIUS, and other SENATORS
+Cornets. Enter MARCIUS, MENENIUS, all the GENTRY, COMINIUS,
+LARTIUS, and other FIRST SENATOR, SECOND SENATOR
 
-  CORIOLANUS. Tullus Aufidius, then, had made new head?
+  MARCIUS. Tullus Aufidius, then, had made new head?
   LARTIUS. He had, my lord; and that it was which caus'd
     Our swifter composition.
-  CORIOLANUS. So then the Volsces stand but as at first,
+  MARCIUS. So then the Volsces stand but as at first,
     Ready, when time shall prompt them, to make road
     Upon's again.
   COMINIUS. They are worn, Lord Consul, so
     That we shall hardly in our ages see
     Their banners wave again.
-  CORIOLANUS. Saw you Aufidius?
+  MARCIUS. Saw you Aufidius?
   LARTIUS. On safeguard he came to me, and did curse
     Against the Volsces, for they had so vilely
     Yielded the town. He is retir'd to Antium.
-  CORIOLANUS. Spoke he of me?
+  MARCIUS. Spoke he of me?
   LARTIUS. He did, my lord.
-  CORIOLANUS. How? What?
+  MARCIUS. How? What?
   LARTIUS. How often he had met you, sword to sword;
     That of all things upon the earth he hated
     Your person most; that he would pawn his fortunes
     To hopeless restitution, so he might
     Be call'd your vanquisher.
-  CORIOLANUS. At Antium lives he?
+  MARCIUS. At Antium lives he?
   LARTIUS. At Antium.
-  CORIOLANUS. I wish I had a cause to seek him there,
+  MARCIUS. I wish I had a cause to seek him there,
     To oppose his hatred fully. Welcome home.
 
                        Enter SICINIUS and BRUTUS
 
-    Behold, these are the tribunes of the people,
+  MARCIUS.  Behold, these are the tribunes of the people,
     The tongues o' th' common mouth. I do despise them,
     For they do prank them in authority,
     Against all noble sufferance.
   SICINIUS. Pass no further.
-  CORIOLANUS. Ha! What is that?
+  MARCIUS. Ha! What is that?
   BRUTUS. It will be dangerous to go on- no further.
-  CORIOLANUS. What makes this change?
+  MARCIUS. What makes this change?
   MENENIUS. The matter?
   COMINIUS. Hath he not pass'd the noble and the common?
   BRUTUS. Cominius, no.
-  CORIOLANUS. Have I had children's voices?
+  MARCIUS. Have I had children's voices?
   FIRST SENATOR. Tribunes, give way: he shall to th' market-place.
   BRUTUS. The people are incens'd against him.
   SICINIUS. Stop,
     Or all will fall in broil.
-  CORIOLANUS. Are these your herd?
+  MARCIUS. Are these your herd?
     Must these have voices, that can yield them now
     And straight disclaim their tongues? What are your offices?
     You being their mouths, why rule you not their teeth?
     Have you not set them on?
   MENENIUS. Be calm, be calm.
-  CORIOLANUS. It is a purpos'd thing, and grows by plot,
+  MARCIUS. It is a purpos'd thing, and grows by plot,
     To curb the will of the nobility;
     Suffer't, and live with such as cannot rule
     Nor ever will be rul'd.
@@ -1910,14 +1911,14 @@ TITUS LARTIUS, and other SENATORS
     When corn was given them gratis, you repin'd;
     Scandal'd the suppliants for the people, call'd them
     Time-pleasers, flatterers, foes to nobleness.
-  CORIOLANUS. Why, this was known before.
+  MARCIUS. Why, this was known before.
   BRUTUS. Not to them all.
-  CORIOLANUS. Have you inform'd them sithence?
+  MARCIUS. Have you inform'd them sithence?
   BRUTUS. How? I inform them!
   COMINIUS. You are like to do such business.
   BRUTUS. Not unlike
     Each way to better yours.
-  CORIOLANUS. Why then should I be consul? By yond clouds,
+  MARCIUS. Why then should I be consul? By yond clouds,
     Let me deserve so ill as you, and make me
     Your fellow tribune.
   SICINIUS. You show too much of that
@@ -1931,11 +1932,11 @@ TITUS LARTIUS, and other SENATORS
     Becomes not Rome; nor has Coriolanus
     Deserved this so dishonour'd rub, laid falsely
     I' th' plain way of his merit.
-  CORIOLANUS. Tell me of corn!
+  MARCIUS. Tell me of corn!
     This was my speech, and I will speak't again-
   MENENIUS. Not now, not now.
   FIRST SENATOR. Not in this heat, sir, now.
-  CORIOLANUS. Now, as I live, I will.
+  MARCIUS. Now, as I live, I will.
     My nobler friends, I crave their pardons.
     For the mutable, rank-scented meiny, let them
     Regard me as I do not flatter, and
@@ -1948,7 +1949,7 @@ TITUS LARTIUS, and other SENATORS
     Which they have given to beggars.
   MENENIUS. Well, no more.
   FIRST SENATOR. No more words, we beseech you.
-  CORIOLANUS. How? no more!
+  MARCIUS. How? no more!
     As for my country I have shed my blood,
     Not fearing outward force, so shall my lungs
     Coin words till their decay against those measles
@@ -1960,17 +1961,17 @@ TITUS LARTIUS, and other SENATORS
   SICINIUS. 'Twere well
     We let the people know't.
   MENENIUS. What, what? his choler?
-  CORIOLANUS. Choler!
+  MARCIUS. Choler!
     Were I as patient as the midnight sleep,
     By Jove, 'twould be my mind!
   SICINIUS. It is a mind
     That shall remain a poison where it is,
     Not poison any further.
-  CORIOLANUS. Shall remain!
+  MARCIUS. Shall remain!
     Hear you this Triton of the minnows? Mark you
     His absolute 'shall'?
   COMINIUS. 'Twas from the canon.
-  CORIOLANUS. 'Shall'!
+  MARCIUS. 'Shall'!
     O good but most unwise patricians! Why,
     You grave but reckless senators, have you thus
     Given Hydra here to choose an officer
@@ -1994,16 +1995,16 @@ TITUS LARTIUS, and other SENATORS
     May enter 'twixt the gap of both and take
     The one by th' other.
   COMINIUS. Well, on to th' market-place.
-  CORIOLANUS. Whoever gave that counsel to give forth
+  MARCIUS. Whoever gave that counsel to give forth
     The corn o' th' storehouse gratis, as 'twas us'd
     Sometime in Greece-
   MENENIUS. Well, well, no more of that.
-  CORIOLANUS. Though there the people had more absolute pow'r-
+  MARCIUS. Though there the people had more absolute pow'r-
     I say they nourish'd disobedience, fed
     The ruin of the state.
   BRUTUS. Why shall the people give
     One that speaks thus their voice?
-  CORIOLANUS. I'll give my reasons,
+  MARCIUS. I'll give my reasons,
     More worthier than their voices. They know the corn
     Was not our recompense, resting well assur'd
     They ne'er did service for't; being press'd to th' war
@@ -2026,7 +2027,7 @@ TITUS LARTIUS, and other SENATORS
     The crows to peck the eagles.
   MENENIUS. Come, enough.
   BRUTUS. Enough, with over measure.
-  CORIOLANUS. No, take more.
+  MARCIUS. No, take more.
     What may be sworn by, both divine and human,
     Seal what I end withal! This double worship,
     Where one part does disdain with cause, the other
@@ -2051,7 +2052,7 @@ TITUS LARTIUS, and other SENATORS
   BRUTUS. Has said enough.
   SICINIUS. Has spoken like a traitor and shall answer
     As traitors do.
-  CORIOLANUS. Thou wretch, despite o'erwhelm thee!
+  MARCIUS. Thou wretch, despite o'erwhelm thee!
     What should the people do with these bald tribunes,
     On whom depending, their obedience fails
     To the greater bench? In a rebellion,
@@ -2065,15 +2066,15 @@ TITUS LARTIUS, and other SENATORS
 
                            Enter an AEDILE
 
-    Let him be apprehended.
+  BRUTUS.  Let him be apprehended.
   SICINIUS. Go call the people,  [Exit AEDILE]  in whose name myself
     Attach thee as a traitorous innovator,
     A foe to th' public weal. Obey, I charge thee,
     And follow to thine answer.
-  CORIOLANUS. Hence, old goat!
+  MARCIUS. Hence, old goat!
   PATRICIANS. We'll surety him.
   COMINIUS. Ag'd sir, hands off.
-  CORIOLANUS. Hence, rotten thing! or I shall shake thy bones
+  MARCIUS. Hence, rotten thing! or I shall shake thy bones
     Out of thy garments.
   SICINIUS. Help, ye citizens!
 
@@ -2084,7 +2085,7 @@ TITUS LARTIUS, and other SENATORS
   BRUTUS. Seize him, aediles.
     PLEBEIANS. Down with him! down with him!
   SECOND SENATOR. Weapons, weapons, weapons!
-                              [They all bustle about CORIOLANUS]
+                              [They all bustle about MARCIUS]
   ALL. Tribunes! patricians! citizens! What, ho! Sicinius!
     Brutus! Coriolanus! Citizens!
   PATRICIANS. Peace, peace, peace; stay, hold, peace!
@@ -2132,8 +2133,8 @@ TITUS LARTIUS, and other SENATORS
     That seem like prudent helps, are very poisonous
     Where the disease is violent. Lay hands upon him
     And bear him to the rock.
-                                    [CORIOLANUS draws his sword]
-  CORIOLANUS. No: I'll die here.
+                                    [MARCIUS draws his sword]
+  MARCIUS. No: I'll die here.
     There's some among you have beheld me fighting;
     Come, try upon yourselves what you have seen me.
   MENENIUS. Down with that sword! Tribunes, withdraw awhile.
@@ -2146,7 +2147,7 @@ TITUS LARTIUS, and other SENATORS
   MENENIUS. Go, get you to your house; be gone, away.
     All will be nought else.
   SECOND SENATOR. Get you gone.
-  CORIOLANUS. Stand fast;
+  MARCIUS. Stand fast;
     We have as many friends as enemies.
   MENENIUS. Shall it be put to that?
   FIRST SENATOR. The gods forbid!
@@ -2155,13 +2156,13 @@ TITUS LARTIUS, and other SENATORS
   MENENIUS. For 'tis a sore upon us
     You cannot tent yourself; be gone, beseech you.
   COMINIUS. Come, sir, along with us.
-  CORIOLANUS. I would they were barbarians, as they are,
+  MARCIUS. I would they were barbarians, as they are,
     Though in Rome litter'd; not Romans, as they are not,
     Though calved i' th' porch o' th' Capitol.
   MENENIUS. Be gone.
     Put not your worthy rage into your tongue;
     One time will owe another.
-  CORIOLANUS. On fair ground
+  MARCIUS. On fair ground
     I could beat forty of them.
   MENENIUS. I could myself
     Take up a brace o' th' best of them; yea, the two tribunes.
@@ -2176,7 +2177,7 @@ TITUS LARTIUS, and other SENATORS
     With those that have but little; this must be patch'd
     With cloth of any colour.
   COMINIUS. Nay, come away.
-                     Exeunt CORIOLANUS and COMINIUS, with others
+                     Exeunt MARCIUS and COMINIUS, with others
   PATRICIANS. This man has marr'd his fortune.
   MENENIUS. His nature is too noble for the world:
     He would not flatter Neptune for his trident,
@@ -2289,18 +2290,18 @@ TITUS LARTIUS, and other SENATORS
 
 
 SCENE II.
-Rome. The house of CORIOLANUS
+Rome. The house of MARCIUS
 
-Enter CORIOLANUS with NOBLES
+Enter MARCIUS with FIRST PATRICIAN
 
-  CORIOLANUS. Let them pull all about mine ears, present me
+  MARCIUS. Let them pull all about mine ears, present me
     Death on the wheel or at wild horses' heels;
     Or pile ten hills on the Tarpeian rock,
     That the precipitation might down stretch
     Below the beam of sight; yet will I still
     Be thus to them.
   FIRST PATRICIAN. You do the nobler.
-  CORIOLANUS. I muse my mother
+  MARCIUS. I muse my mother
     Does not approve me further, who was wont
     To call them woollen vassals, things created
     To buy and sell with groats; to show bare heads
@@ -2317,16 +2318,16 @@ Enter CORIOLANUS with NOBLES
   VOLUMNIA. O, sir, sir, sir,
     I would have had you put your power well on
     Before you had worn it out.
-  CORIOLANUS. Let go.
+  MARCIUS. Let go.
   VOLUMNIA. You might have been enough the man you are
     With striving less to be so; lesser had been
     The thwartings of your dispositions, if
     You had not show'd them how ye were dispos'd,
     Ere they lack'd power to cross you.
-  CORIOLANUS. Let them hang.
+  MARCIUS. Let them hang.
   VOLUMNIA. Ay, and burn too.
 
-                    Enter MENENIUS with the SENATORS
+                    Enter MENENIUS with the FIRST SENATOR
 
   MENENIUS. Come, come, you have been too rough, something too rough;
     You must return and mend it.
@@ -2342,11 +2343,11 @@ Enter CORIOLANUS with NOBLES
     The violent fit o' th' time craves it as physic
     For the whole state, I would put mine armour on,
     Which I can scarcely bear.
-  CORIOLANUS. What must I do?
+  MARCIUS. What must I do?
   MENENIUS. Return to th' tribunes.
-  CORIOLANUS. Well, what then, what then?
+  MARCIUS. Well, what then, what then?
   MENENIUS. Repent what you have spoke.
-  CORIOLANUS. For them! I cannot do it to the gods;
+  MARCIUS. For them! I cannot do it to the gods;
     Must I then do't to them?
   VOLUMNIA. You are too absolute;
     Though therein you can never be too noble
@@ -2355,7 +2356,7 @@ Enter CORIOLANUS with NOBLES
     I' th' war do grow together; grant that, and tell me
     In peace what each of them by th' other lose
     That they combine not there.
-  CORIOLANUS. Tush, tush!
+  MARCIUS. Tush, tush!
   MENENIUS. A good demand.
   VOLUMNIA. If it be honour in your wars to seem
     The same you are not, which for your best ends
@@ -2363,7 +2364,7 @@ Enter CORIOLANUS with NOBLES
     That it shall hold companionship in peace
     With honour as in war; since that to both
     It stands in like request?
-  CORIOLANUS. Why force you this?
+  MARCIUS. Why force you this?
   VOLUMNIA. Because that now it lies you on to speak
     To th' people, not by your own instruction,
     Nor by th' matter which your heart prompts you,
@@ -2421,7 +2422,7 @@ Enter CORIOLANUS with NOBLES
     Can thereto frame his spirit.
   VOLUMNIA. He must and will.
     Prithee now, say you will, and go about it.
-  CORIOLANUS. Must I go show them my unbarb'd sconce? Must I
+  MARCIUS. Must I go show them my unbarb'd sconce? Must I
     With my base tongue give to my noble heart
     A lie that it must bear? Well, I will do't;
     Yet, were there but this single plot to lose,
@@ -2434,7 +2435,7 @@ Enter CORIOLANUS with NOBLES
     My praises made thee first a soldier, so,
     To have my praise for this, perform a part
     Thou hast not done before.
-  CORIOLANUS. Well, I must do't.
+  MARCIUS. Well, I must do't.
     Away, my disposition, and possess me
     Some harlot's spirit! My throat of war be turn'd,
     Which quier'd with my drum, into a pipe
@@ -2456,7 +2457,7 @@ Enter CORIOLANUS with NOBLES
     With as big heart as thou. Do as thou list.
     Thy valiantness was mine, thou suck'dst it from me;
     But owe thy pride thyself.
-  CORIOLANUS. Pray be content.
+  MARCIUS. Pray be content.
     Mother, I am going to the market-place;
     Chide me no more. I'll mountebank their loves,
     Cog their hearts from them, and come home belov'd
@@ -2469,11 +2470,11 @@ Enter CORIOLANUS with NOBLES
     To answer mildly; for they are prepar'd
     With accusations, as I hear, more strong
     Than are upon you yet.
-  CORIOLANUS. The word is 'mildly.' Pray you let us go.
+  MARCIUS. The word is 'mildly.' Pray you let us go.
     Let them accuse me by invention; I
     Will answer in mine honour.
   MENENIUS. Ay, but mildly.
-  CORIOLANUS. Well, mildly be it then- mildly.            Exeunt
+  MARCIUS. Well, mildly be it then- mildly.            Exeunt
 
 
 
@@ -2525,11 +2526,11 @@ Enter SICINIUS and BRUTUS
     What's in his heart, and that is there which looks
     With us to break his neck.
 
-          Enter CORIOLANUS, MENENIUS and COMINIUS, with others
+          Enter MARCIUS, MENENIUS and COMINIUS, with others
 
   SICINIUS. Well, here he comes.
   MENENIUS. Calmly, I do beseech you.
-  CORIOLANUS. Ay, as an ostler, that for th' poorest piece
+  MARCIUS. Ay, as an ostler, that for th' poorest piece
     Will bear the knave by th' volume. Th' honour'd gods
     Keep Rome in safety, and the chairs of justice
     Supplied with worthy men! plant love among's!
@@ -2538,25 +2539,25 @@ Enter SICINIUS and BRUTUS
   FIRST SENATOR. Amen, amen!
   MENENIUS. A noble wish.
 
-                  Enter the.AEDILE,with the plebeians
+                  Enter the. AEDILE,with the plebeians
 
   SICINIUS. Draw near, ye people.
   AEDILE. List to your tribunes. Audience! peace, I say!
-  CORIOLANUS. First, hear me speak.
+  MARCIUS. First, hear me speak.
   BOTH TRIBUNES. Well, say. Peace, ho!
-  CORIOLANUS. Shall I be charg'd no further than this present?
+  MARCIUS. Shall I be charg'd no further than this present?
     Must all determine here?
   SICINIUS. I do demand,
     If you submit you to the people's voices,
     Allow their officers, and are content
     To suffer lawful censure for such faults
     As shall be prov'd upon you.
-  CORIOLANUS. I am content.
+  MARCIUS. I am content.
   MENENIUS. Lo, citizens, he says he is content.
     The warlike service he has done, consider; think
     Upon the wounds his body bears, which show
     Like graves i' th' holy churchyard.
-  CORIOLANUS. Scratches with briers,
+  MARCIUS. Scratches with briers,
     Scars to move laughter only.
   MENENIUS. Consider further,
     That when he speaks not like a citizen,
@@ -2565,19 +2566,19 @@ Enter SICINIUS and BRUTUS
     But, as I say, such as become a soldier
     Rather than envy you.
   COMINIUS. Well, well! No more.
-  CORIOLANUS. What is the matter,
+  MARCIUS. What is the matter,
     That being pass'd for consul with full voice,
     I am so dishonour'd that the very hour
     You take it off again?
   SICINIUS. Answer to us.
-  CORIOLANUS. Say then; 'tis true, I ought so.
+  MARCIUS. Say then; 'tis true, I ought so.
   SICINIUS. We charge you that you have contriv'd to take
     From Rome all season'd office, and to wind
     Yourself into a power tyrannical;
     For which you are a traitor to the people.
-  CORIOLANUS. How- traitor?
+  MARCIUS. How- traitor?
   MENENIUS. Nay, temperately! Your promise.
-  CORIOLANUS. The fires i' th' lowest hell fold in the people!
+  MARCIUS. The fires i' th' lowest hell fold in the people!
     Call me their traitor! Thou injurious tribune!
     Within thine eyes sat twenty thousand deaths,
     In thy hands clutch'd as many millions, in
@@ -2596,12 +2597,12 @@ Enter SICINIUS and BRUTUS
     Deserves th' extremest death.
   BRUTUS. But since he hath
     Serv'd well for Rome-
-  CORIOLANUS. What do you prate of service?
+  MARCIUS. What do you prate of service?
   BRUTUS. I talk of that that know it.
-  CORIOLANUS. You!
+  MARCIUS. You!
   MENENIUS. Is this the promise that you made your mother?
   COMINIUS. Know, I pray you-
-  CORIOLANUS. I'll know no further.
+  MARCIUS. I'll know no further.
     Let them pronounce the steep Tarpeian death,
     Vagabond exile, flaying, pent to linger
     But with a grain a day, I would not buy
@@ -2638,7 +2639,7 @@ Enter SICINIUS and BRUTUS
     As enemy to the people and his country.
     It shall be so.
   PLEBEIANS. It shall be so, it shall be so.
-  CORIOLANUS. YOU common cry of curs, whose breath I hate
+  MARCIUS. YOU common cry of curs, whose breath I hate
     As reek o' th' rotten fens, whose loves I prize
     As the dead carcasses of unburied men
     That do corrupt my air- I banish you.
@@ -2654,8 +2655,8 @@ Enter SICINIUS and BRUTUS
     That won you without blows! Despising
     For you the city, thus I turn my back;
     There is a world elsewhere.
-                                              Exeunt CORIOLANUS,
-                   COMINIUS, MENENIUS, with the other PATRICIANS
+                                              Exeunt MARCIUS,
+                   COMINIUS, MENENIUS, with the other FIRST NOBLE
   AEDILE. The people's enemy is gone, is gone!
                         [They all shout and throw up their caps]
   PLEBEIANS. Our enemy is banish'd, he is gone! Hoo-oo!
@@ -2676,10 +2677,10 @@ END_ACT
 ACT IV. SCENE I.
 Rome. Before a gate of the city
 
-Enter CORIOLANUS, VOLUMNIA, VIRGILIA, MENENIUS, COMINIUS,
+Enter MARCIUS, VOLUMNIA, VIRGILIA, MENENIUS, COMINIUS,
 with the young NOBILITY of Rome
 
-  CORIOLANUS. Come, leave your tears; a brief farewell. The beast
+  MARCIUS. Come, leave your tears; a brief farewell. The beast
     With many heads butts me away. Nay, mother,
     Where is your ancient courage? You were us'd
     To say extremities was the trier of spirits;
@@ -2691,10 +2692,10 @@ with the young NOBILITY of Rome
     With precepts that would make invincible
     The heart that conn'd them.
   VIRGILIA. O heavens! O heavens!
-  CORIOLANUS. Nay, I prithee, woman-
+  MARCIUS. Nay, I prithee, woman-
   VOLUMNIA. Now the red pestilence strike all trades in Rome,
     And occupations perish!
-  CORIOLANUS. What, what, what!
+  MARCIUS. What, what, what!
     I shall be lov'd when I am lack'd. Nay, mother,
     Resume that spirit when you were wont to say,
     If you had been the wife of Hercules,
@@ -2727,7 +2728,7 @@ with the young NOBILITY of Rome
     O'er the vast world to seek a single man,
     And lose advantage, which doth ever cool
     I' th' absence of the needer.
-  CORIOLANUS. Fare ye well;
+  MARCIUS. Fare ye well;
     Thou hast years upon thee, and thou art too full
     Of the wars' surfeits to go rove with one
     That's yet unbruis'd; bring me but out at gate.
@@ -2742,7 +2743,7 @@ with the young NOBILITY of Rome
     If I could shake off but one seven years
     From these old arms and legs, by the good gods,
     I'd with thee every foot.
-  CORIOLANUS. Give me thy hand.
+  MARCIUS. Give me thy hand.
     Come.                                                 Exeunt
 
 
@@ -2751,7 +2752,7 @@ with the young NOBILITY of Rome
 SCENE II.
 Rome. A street near the gate
 
-Enter the two Tribunes, SICINIUS and BRUTUS with the AEDILE
+Enter the two TRIBUNES, SICINIUS and BRUTUS with the AEDILE
 
   SICINIUS. Bid them all home; he's gone, and we'll no further.
     The nobility are vex'd, whom we see have sided
@@ -2888,27 +2889,27 @@ Enter a ROMAN and a VOLSCE, meeting
 SCENE IV.
 Antium. Before AUFIDIUS' house
 
-Enter CORIOLANUS, in mean apparel, disguis'd and muffled
+Enter MARCIUS, in mean apparel, disguis'd and muffled
 
-  CORIOLANUS. A goodly city is this Antium. City,
+  MARCIUS. A goodly city is this Antium. City,
     'Tis I that made thy widows: many an heir
     Of these fair edifices fore my wars
     Have I heard groan and drop. Then know me not.
     Lest that thy wives with spits and boys with stones,
     In puny battle slay me.
 
-                           Enter A CITIZEN
+                           Enter a CITIZEN
 
     Save you, sir.
   CITIZEN. And you.
-  CORIOLANUS. Direct me, if it be your will,
+  MARCIUS. Direct me, if it be your will,
     Where great Aufidius lies. Is he in Antium?
   CITIZEN. He is, and feasts the nobles of the state
     At his house this night.
-  CORIOLANUS. Which is his house, beseech you?
+  MARCIUS. Which is his house, beseech you?
   CITIZEN. This here before you.
-  CORIOLANUS. Thank you, sir; farewell.             Exit CITIZEN
-    O world, thy slippery turns! Friends now fast sworn,
+  MARCIUS. Thank you, sir; farewell.             Exit CITIZEN
+  MARCIUS.  O world, thy slippery turns! Friends now fast sworn,
     Whose double bosoms seems to wear one heart,
     Whose hours, whose bed, whose meal and exercise
     Are still together, who twin, as 'twere, in love,
@@ -2930,92 +2931,91 @@ Enter CORIOLANUS, in mean apparel, disguis'd and muffled
 SCENE V.
 Antium. AUFIDIUS' house
 
-Music plays. Enter A SERVINGMAN
+Music plays. Enter FIRST SERVANT
 
   FIRST SERVANT. Wine, wine, wine! What service is here! I think our
     fellows are asleep.                                     Exit
 
-                     Enter another SERVINGMAN
+                     Enter another SECOND SERVANT
 
   SECOND SERVANT.Where's Cotus? My master calls for him.
     Cotus!                                                  Exit
 
-                       Enter CORIOLANUS
+                       Enter MARCIUS
 
-  CORIOLANUS. A goodly house. The feast smells well, but I
+  MARCIUS. A goodly house. The feast smells well, but I
     Appear not like a guest.
 
-                 Enter the first SERVINGMAN
+                 Enter the FIRST SERVANT
 
   FIRST SERVANT. What would you have, friend?
-    Whence are you? Here's no place for you: pray go to the door.
- Exit
-  CORIOLANUS. I have deserv'd no better entertainment
+    Whence are you? Here's no place for you: pray go to the door. Exit
+  MARCIUS. I have deserv'd no better entertainment
     In being Coriolanus.
 
-                   Enter second SERVINGMAN
+                   Enter SECOND SERVANT
 
   SECOND SERVANT. Whence are you, sir? Has the porter his eyes in his
     head that he gives entrance to such companions? Pray get you out.
-  CORIOLANUS. Away!
+  MARCIUS. Away!
   SECOND SERVANT. Away? Get you away.
-  CORIOLANUS. Now th' art troublesome.
+  MARCIUS. Now th' art troublesome.
   SECOND SERVANT. Are you so brave? I'll have you talk'd with anon.
 
-          Enter a third SERVINGMAN. The first meets him
+          Enter a  THIRD SERVANT, FIRST SERVANT
 
   THIRD SERVANT. What fellow's this?
   FIRST SERVANT. A strange one as ever I look'd on. I cannot get him
     out o' th' house. Prithee call my master to him.
   THIRD SERVANT. What have you to do here, fellow? Pray you avoid the
     house.
-  CORIOLANUS. Let me but stand- I will not hurt your hearth.
+  MARCIUS. Let me but stand- I will not hurt your hearth.
   THIRD SERVANT. What are you?
-  CORIOLANUS. A gentleman.
+  MARCIUS. A gentleman.
   THIRD SERVANT. A marv'llous poor one.
-  CORIOLANUS. True, so I am.
+  MARCIUS. True, so I am.
   THIRD SERVANT. Pray you, poor gentleman, take up some other
     station; here's no place for you. Pray you avoid. Come.
-  CORIOLANUS. Follow your function, go and batten on cold bits.
+  MARCIUS. Follow your function, go and batten on cold bits.
                                       [Pushes him away from him]
   THIRD SERVANT. What, you will not? Prithee tell my master what a
     strange guest he has here.
   SECOND SERVANT. And I shall.                              Exit
   THIRD SERVANT. Where dwell'st thou?
-  CORIOLANUS. Under the canopy.
+  MARCIUS. Under the canopy.
   THIRD SERVANT. Under the canopy?
-  CORIOLANUS. Ay.
+  MARCIUS. Ay.
   THIRD SERVANT. Where's that?
-  CORIOLANUS. I' th' city of kites and crows.
+  MARCIUS. I' th' city of kites and crows.
   THIRD SERVANT. I' th' city of kites and crows!
     What an ass it is! Then thou dwell'st with daws too?
-  CORIOLANUS. No, I serve not thy master.
+  MARCIUS. No, I serve not thy master.
   THIRD SERVANT. How, sir! Do you meddle with my master?
-  CORIOLANUS. Ay; 'tis an honester service than to meddle with thy
+  MARCIUS. Ay; 'tis an honester service than to meddle with thy
     mistress. Thou prat'st and prat'st; serve with thy trencher;
     hence!                                      [Beats him away]
 
-             Enter AUFIDIUS with the second SERVINGMAN
+             Enter AUFIDIUS with the SECOND SERVANT.
 
   AUFIDIUS. Where is this fellow?
   SECOND SERVANT. Here, sir; I'd have beaten him like a dog, but for
     disturbing the lords within.
   AUFIDIUS. Whence com'st thou? What wouldst thou? Thy name?
     Why speak'st not? Speak, man. What's thy name?
-  CORIOLANUS.  [Unmuffling]  If, Tullus,
+  MARCIUS.  [Unmuffling]  If, Tullus,
     Not yet thou know'st me, and, seeing me, dost not
     Think me for the man I am, necessity
     Commands me name myself.
   AUFIDIUS. What is thy name?
-  CORIOLANUS. A name unmusical to the Volscians' ears,
+  MARCIUS. A name unmusical to the Volscians' ears,
     And harsh in sound to thine.
   AUFIDIUS. Say, what's thy name?
     Thou has a grim appearance, and thy face
     Bears a command in't; though thy tackle's torn,
     Thou show'st a noble vessel. What's thy name?
-  CORIOLANUS. Prepare thy brow to frown- know'st thou me yet?
+  MARCIUS. Prepare thy brow to frown- know'st thou me yet?
   AUFIDIUS. I know thee not. Thy name?
-  CORIOLANUS. My name is Caius Marcius, who hath done
+  MARCIUS. My name is Caius Marcius, who hath done
     To thee particularly, and to all the Volsces,
     Great hurt and mischief; thereto witness may
     My surname, Coriolanus. The painful service,
@@ -3087,7 +3087,7 @@ Music plays. Enter A SERVINGMAN
     Who now are here, taking their leaves of me
     Who am prepar'd against your territories,
     Though not for Rome itself.
-  CORIOLANUS. You bless me, gods!
+  MARCIUS. You bless me, gods!
   AUFIDIUS. Therefore, most. absolute sir, if thou wilt have
     The leading of thine own revenges, take
     Th' one half of my commission, and set down-
@@ -3100,9 +3100,9 @@ Music plays. Enter A SERVINGMAN
     Say yea to thy desires. A thousand welcomes!
     And more a friend than e'er an enemy;
     Yet, Marcius, that was much. Your hand; most welcome!
-                                  Exeunt CORIOLANUS and AUFIDIUS
+                                  Exeunt MARCIUS and AUFIDIUS
 
-                    The two SERVINGMEN come forward
+                    Enter FIRST SERVANT, SECOND SERVANT come forward
 
   FIRST SERVANT. Here's a strange alteration!
   SECOND SERVANT. By my hand, I had thought to have strucken him with
@@ -3128,7 +3128,7 @@ Music plays. Enter A SERVINGMAN
     for the defence of a town our general is excellent.
   FIRST SERVANT. Ay, and for an assault too.
 
-                       Enter the third SERVINGMAN
+                       Enter the THIRD SERVANT
 
   THIRD SERVANT. O slaves, I can tell you news- news, you rascals!
   BOTH. What, what, what? Let's partake.
@@ -3221,7 +3221,7 @@ Enter the two Tribunes, SICINIUS and BRUTUS
   MENENIUS. Nay, I hear nothing; his mother and his wife
     Hear nothing from him.
 
-                     Enter three or four citizens
+                     Enter CITIZENS, FIRST CITIZEN
 
   CITIZENS. The gods preserve you both!
   SICINIUS. God-den, our neighbours.
@@ -3232,7 +3232,7 @@ Enter the two Tribunes, SICINIUS and BRUTUS
   BRUTUS. Farewell, kind neighbours; we wish'd Coriolanus
     Had lov'd you as we did.
   CITIZENS. Now the gods keep you!
-  BOTH TRIBUNES. Farewell, farewell.             Exeunt citizens
+  BOTH TRIBUNES. Farewell, farewell.             Exeunt CITIZENS, FIRST CITIZEN
   SICINIUS. This is a happier and more comely time
     Than when these fellows ran about the streets
     Crying confusion.
@@ -3276,7 +3276,7 @@ Enter the two Tribunes, SICINIUS and BRUTUS
     I know this cannot be.
   BRUTUS. Not Possible.
 
-                           Enter A MESSENGER
+                           Enter a MESSENGER
 
   MESSENGER. The nobles in great earnestness are going
     All to the Senate House; some news is come
@@ -3301,7 +3301,7 @@ Enter the two Tribunes, SICINIUS and BRUTUS
     He and Aufidius can no more atone
     Than violent'st contrariety.
 
-                      Enter a second MESSENGER
+                      Enter a SECOND MESSENGER
 
   SECOND MESSENGER. You are sent for to the Senate.
     A fearful army, led by Caius Marcius
@@ -3374,7 +3374,7 @@ Enter the two Tribunes, SICINIUS and BRUTUS
     Is all the policy, strength, and defence,
     That Rome can make against them.
 
-                       Enter a troop of citizens
+                       Enter a FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN
 
   MENENIUS. Here comes the clusters.
     And is Aufidius with him? You are they
@@ -3407,7 +3407,7 @@ Enter the two Tribunes, SICINIUS and BRUTUS
   FIRST CITIZEN. The gods be good to us! Come, masters, let's home. I
     ever said we were i' th' wrong when we banish'd him.
   SECOND CITIZEN. So did we all. But come, let's home.
-                                                 Exeunt citizens
+                                                 Exeunt FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN
   BRUTUS. I do not like this news.
   SICINIUS. Nor I.
   BRUTUS. Let's to the Capitol. Would half my wealth
@@ -3588,7 +3588,7 @@ Enter MENENIUS, COMINIUS, SICINIUS and BRUTUS, the two Tribunes, with others
 SCENE II.
 The Volscian camp before Rome
 
-Enter MENENIUS to the WATCH on guard
+Enter MENENIUS to the FIRST WATCH, SECOND WATCH on guard
 
   FIRST WATCH. Stay. Whence are you?
   SECOND WATCH. Stand, and go back.
@@ -3650,9 +3650,9 @@ Enter MENENIUS to the WATCH on guard
     your having. Back.
   MENENIUS. Nay, but fellow, fellow-
 
-                      Enter CORIOLANUS with AUFIDIUS
+                      Enter MARCIUS with AUFIDIUS
 
-  CORIOLANUS. What's the matter?
+  MARCIUS. What's the matter?
   MENENIUS. Now, you companion, I'll say an errand for you; you shall
     know now that I am in estimation; you shall perceive that a Jack
     guardant cannot office me from my son Coriolanus. Guess but by my
@@ -3668,9 +3668,9 @@ Enter MENENIUS to the WATCH on guard
     pardon Rome and thy petitionary countrymen. The good gods assuage
     thy wrath, and turn the dregs of it upon this varlet here; this,
     who, like a block, hath denied my access to thee.
-  CORIOLANUS. Away!
+  MARCIUS. Away!
   MENENIUS. How! away!
-  CORIOLANUS. Wife, mother, child, I know not. My affairs
+  MARCIUS. Wife, mother, child, I know not. My affairs
     Are servanted to others. Though I owe
     My revenge properly, my remission lies
     In Volscian breasts. That we have been familiar,
@@ -3683,7 +3683,7 @@ Enter MENENIUS to the WATCH on guard
     I will not hear thee speak. This man, Aufidius,
     Was my belov'd in Rome; yet thou behold'st.
   AUFIDIUS. You keep a constant temper.
-                                  Exeunt CORIOLANUS and Aufidius
+                                  Exeunt MARCIUS and AUFIDIUS
   FIRST WATCH. Now, sir, is your name Menenius?
   SECOND WATCH. 'Tis a spell, you see, of much power! You know the
     way home again.
@@ -3704,11 +3704,11 @@ Enter MENENIUS to the WATCH on guard
 
 
 SCENE III.
-The tent of CORIOLANUS
+The tent of MARCIUS
 
-Enter CORIOLANUS, AUFIDIUS, and others
+Enter MARCIUS, AUFIDIUS, and others
 
-  CORIOLANUS. We will before the walls of Rome to-morrow
+  MARCIUS. We will before the walls of Rome to-morrow
     Set down our host. My partner in this action,
     You must report to th' Volscian lords how plainly
     I have borne this business.
@@ -3717,7 +3717,7 @@ Enter CORIOLANUS, AUFIDIUS, and others
     The general suit of Rome; never admitted
     A private whisper- no, not with such friends
     That thought them sure of you.
-  CORIOLANUS. This last old man,
+  MARCIUS. This last old man,
     Whom with crack'd heart I have sent to Rome,
     Lov'd me above the measure of a father;
     Nay, godded me indeed. Their latest refuge
@@ -3733,9 +3733,9 @@ Enter CORIOLANUS, AUFIDIUS, and others
     In the same time 'tis made? I will not.
 
        Enter, in mourning habits, VIRGILIA, VOLUMNIA, VALERIA,
-                   YOUNG MARCIUS, with attendants
+                   BOY, with attendants
 
-    My wife comes foremost, then the honour'd mould
+ MARCIUS.   My wife comes foremost, then the honour'd mould
     Wherein this trunk was fram'd, and in her hand
     The grandchild to her blood. But out, affection!
     All bond and privilege of nature, break!
@@ -3752,10 +3752,10 @@ Enter CORIOLANUS, AUFIDIUS, and others
     As if a man were author of himself
     And knew no other kin.
   VIRGILIA. My lord and husband!
-  CORIOLANUS. These eyes are not the same I wore in Rome.
+  MARCIUS. These eyes are not the same I wore in Rome.
   VIRGILIA. The sorrow that delivers us thus chang'd
     Makes you think so.
-  CORIOLANUS. Like a dull actor now
+  MARCIUS. Like a dull actor now
     I have forgot my part and I am out,
     Even to a full disgrace. Best of my flesh,
     Forgive my tyranny; but do not say,
@@ -3773,7 +3773,7 @@ Enter CORIOLANUS, AUFIDIUS, and others
     I kneel before thee, and unproperly
     Show duty, as mistaken all this while
     Between the child and parent.                       [Kneels]
-  CORIOLANUS. What's this?
+  MARCIUS. What's this?
     Your knees to me, to your corrected son?
     Then let the pebbles on the hungry beach
     Fillip the stars; then let the mutinous winds
@@ -3782,24 +3782,24 @@ Enter CORIOLANUS, AUFIDIUS, and others
     What cannot be slight work.
   VOLUMNIA. Thou art my warrior;
     I holp to frame thee. Do you know this lady?
-  CORIOLANUS. The noble sister of Publicola,
+  MARCIUS. The noble sister of Publicola,
     The moon of Rome, chaste as the icicle
     That's curdied by the frost from purest snow,
     And hangs on Dian's temple- dear Valeria!
   VOLUMNIA. This is a poor epitome of yours,
     Which by th' interpretation of full time
     May show like all yourself.
-  CORIOLANUS. The god of soldiers,
+  MARCIUS. The god of soldiers,
     With the consent of supreme Jove, inform
     Thy thoughts with nobleness, that thou mayst prove
     To shame unvulnerable, and stick i' th' wars
     Like a great sea-mark, standing every flaw,
     And saving those that eye thee!
   VOLUMNIA. Your knee, sirrah.
-  CORIOLANUS. That's my brave boy.
+  MARCIUS. That's my brave boy.
   VOLUMNIA. Even he, your wife, this lady, and myself,
     Are suitors to you.
-  CORIOLANUS. I beseech you, peace!
+  MARCIUS. I beseech you, peace!
     Or, if you'd ask, remember this before:
     The thing I have forsworn to grant may never
     Be held by you denials. Do not bid me
@@ -3814,7 +3814,7 @@ Enter CORIOLANUS, AUFIDIUS, and others
     Which you deny already; yet we will ask,
     That, if you fail in our request, the blame
     May hang upon your hardness; therefore hear us.
-  CORIOLANUS. Aufidius, and you Volsces, mark; for we'll
+  MARCIUS. Aufidius, and you Volsces, mark; for we'll
     Hear nought from Rome in private. Your request?
   VOLUMNIA. Should we be silent and not speak, our raiment
     And state of bodies would bewray what life
@@ -3853,7 +3853,7 @@ Enter CORIOLANUS, AUFIDIUS, and others
     Living to time.
   BOY. 'A shall not tread on me!
     I'll run away till I am bigger, but then I'll fight.
-  CORIOLANUS. Not of a woman's tenderness to be
+  MARCIUS. Not of a woman's tenderness to be
     Requires nor child nor woman's face to see.
     I have sat too long.                                [Rising]
   VOLUMNIA. Nay, go not from us thus.
@@ -3909,7 +3909,7 @@ Enter CORIOLANUS, AUFIDIUS, and others
     I am hush'd until our city be afire,
     And then I'll speak a little.
                               [He holds her by the hand, silent]
-  CORIOLANUS. O mother, mother!
+  MARCIUS. O mother, mother!
     What have you done? Behold, the heavens do ope,
     The gods look down, and this unnatural scene
     They laugh at. O my mother, mother! O!
@@ -3922,7 +3922,7 @@ Enter CORIOLANUS, AUFIDIUS, and others
     Were you in my stead, would you have heard
     A mother less, or granted less, Aufidius?
   AUFIDIUS. I was mov'd withal.
-  CORIOLANUS. I dare be sworn you were!
+  MARCIUS. I dare be sworn you were!
     And, sir, it is no little thing to make
     Mine eyes to sweat compassion. But, good sir,
     What peace you'fl make, advise me. For my part,
@@ -3932,7 +3932,7 @@ Enter CORIOLANUS, AUFIDIUS, and others
       honour
     At difference in thee. Out of that I'll work
     Myself a former fortune.
-  CORIOLANUS.  [To the ladies]  Ay, by and by;
+  MARCIUS.  [To the ladies]  Ay, by and by;
     But we will drink together; and you shall bear
     A better witness back than words, which we,
     On like conditions, will have counter-seal'd.
@@ -3987,7 +3987,7 @@ Enter MENENIUS and SICINIUS
     The Roman ladies bring not comfort home
     They'll give him death by inches.
 
-                         Enter another MESSENGER
+                         Enter SECOND MESSENGER
 
   SICINIUS. What's the news?
   SECOND MESSENGER. Good news, good news! The ladies have prevail'd,
@@ -4027,7 +4027,7 @@ Enter MENENIUS and SICINIUS
 SCENE V.
 Rome. A street near the gate
 
-Enter two SENATORS With VOLUMNIA, VIRGILIA, VALERIA, passing over the stage,
+Enter FIRST SENATOR With VOLUMNIA, VIRGILIA, VALERIA, passing over the stage,
 'With other LORDS
 
   FIRST SENATOR. Behold our patroness, the life of Rome!
@@ -4044,7 +4044,7 @@ Enter two SENATORS With VOLUMNIA, VIRGILIA, VALERIA, passing over the stage,
 SCENE VI.
 Corioli. A public place
 
-Enter TULLUS AUFIDIUS with attendents
+Enter AUFIDIUS with attendents
 
   AUFIDIUS. Go tell the lords o' th' city I am here;
     Deliver them this paper' having read it,
@@ -4056,7 +4056,7 @@ Enter TULLUS AUFIDIUS with attendents
     To purge himself with words. Dispatch.
                                                Exeunt attendants
 
-           Enter three or four CONSPIRATORS of AUFIDIUS' faction
+           Enter FIRST CONSPIRATOR, SECOND CONSPIRATOR, THIRD CONSPIRATOR faction
 
     Most welcome!
   FIRST CONSPIRATOR. How is it with our general?
@@ -4123,7 +4123,7 @@ Enter TULLUS AUFIDIUS with attendents
   AUFIDIUS. Say no more:
     Here come the lords.
 
-                     Enter the LORDS of the city
+                     Enter the LORDS of the city, FIRST LORD, SECOND LORD, THIRD LORD
 
   LORDS. You are most welcome home.
   AUFIDIUS. I have not deserv'd it.
@@ -4139,10 +4139,10 @@ Enter TULLUS AUFIDIUS with attendents
     There was a yielding- this admits no excuse.
   AUFIDIUS. He approaches; you shall hear him.
 
-            Enter CORIOLANUS, marching with drum and colours;
+            Enter MARCIUS, marching with drum and colours;
                       the commoners being with him
 
-  CORIOLANUS. Hail, lords! I am return'd your soldier;
+  MARCIUS. Hail, lords! I am return'd your soldier;
     No more infected with my country's love
     Than when I parted hence, but still subsisting
     Under your great command. You are to know
@@ -4159,9 +4159,9 @@ Enter TULLUS AUFIDIUS with attendents
   AUFIDIUS. Read it not, noble lords;
     But tell the traitor in the highest degree
     He hath abus'd your powers.
-  CORIOLANUS. Traitor! How now?
+  MARCIUS. Traitor! How now?
   AUFIDIUS. Ay, traitor, Marcius.
-  CORIOLANUS. Marcius!
+  MARCIUS. Marcius!
   AUFIDIUS. Ay, Marcius, Caius Marcius! Dost thou think
     I'll grace thee with that robbery, thy stol'n name
     Coriolanus, in Corioli?
@@ -4175,11 +4175,11 @@ Enter TULLUS AUFIDIUS with attendents
     He whin'd and roar'd away your victory,
     That pages blush'd at him, and men of heart
     Look'd wond'ring each at others.
-  CORIOLANUS. Hear'st thou, Mars?
+  MARCIUS. Hear'st thou, Mars?
   AUFIDIUS. Name not the god, thou boy of tears-
-  CORIOLANUS. Ha!
+  MARCIUS. Ha!
   AUFIDIUS. -no more.
-  CORIOLANUS. Measureless liar, thou hast made my heart
+  MARCIUS. Measureless liar, thou hast made my heart
     Too great for what contains it. 'Boy'! O slave!
     Pardon me, lords, 'tis the first time that ever
     I was forc'd to scold. Your judgments, my grave lords,
@@ -4188,7 +4188,7 @@ Enter TULLUS AUFIDIUS with attendents
     Must bear my beating to his grave- shall join
     To thrust the lie unto him.
   FIRST LORD. Peace, both, and hear me speak.
-  CORIOLANUS. Cut me to pieces, Volsces; men and lads,
+  MARCIUS. Cut me to pieces, Volsces; men and lads,
     Stain all your edges on me. 'Boy'! False hound!
     If you have writ your annals true, 'tis there
     That, like an eagle in a dove-cote, I
@@ -4207,12 +4207,12 @@ Enter TULLUS AUFIDIUS with attendents
     This orb o' th' earth. His last offences to us
     Shall have judicious hearing. Stand, Aufidius,
     And trouble not the peace.
-  CORIOLANUS. O that I had him,
+  MARCIUS. O that I had him,
     With six Aufidiuses, or more- his tribe,
     To use my lawful sword!
   AUFIDIUS. Insolent villain!
   CONSPIRATORS. Kill, kill, kill, kill, kill him!
-           [The CONSPIRATORS draw and kill CORIOLANUS,who falls.
+           [The CONSPIRATORS draw and kill MARCIUS,who falls.
                                          AUFIDIUS stands on him]
   LORDS. Hold, hold, hold, hold!
   AUFIDIUS. My noble masters, hear me speak.
@@ -4242,7 +4242,7 @@ Enter TULLUS AUFIDIUS with attendents
     Hath widowed and unchilded many a one,
     Which to this hour bewail the injury,
     Yet he shall have a noble memory.
-    Assist.               Exeunt, bearing the body of CORIOLANUS
+    Assist.               Exeunt, bearing the body of MARCIUS
                                           [A dead march sounded]
 
 

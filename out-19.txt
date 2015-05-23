@@ -550,7 +550,7 @@ Enter BASSANIO With SHYLOCK the Jew
     Of an unthrifty knave, and presently
     I'll be with you.
   ANTONIO. Hie thee, gentle Jew.                    Exit SHYLOCK
-    The Hebrew will turn Christian: he grows kind.
+  ANTONIO.  The Hebrew will turn Christian: he grows kind.
   BASSANIO. I like not fair terms and a villain's mind.
   ANTONIO. Come on; in this there can be no dismay;
     My ships come home a month before the day.            Exeunt
@@ -565,10 +565,10 @@ END_ACT
 ACT II. SCENE I.
 Belmont. PORTIA'S house
 
-Flourish of cornets. Enter the PRINCE of MOROCCO, a tawny Moor all in white,
+Flourish of cornets. Enter the PRINCE OF MOROCCO, a tawny Moor all in white,
 and three or four FOLLOWERS accordingly, with PORTIA, NERISSA, and train
 
-  PRINCE OF Morocco. Mislike me not for my complexion,
+  PRINCE OF MOROCCO. Mislike me not for my complexion,
     The shadowed livery of the burnish'd sun,
     To whom I am a neighbour, and near bred.
     Bring me the fairest creature northward born,
@@ -625,7 +625,7 @@ and three or four FOLLOWERS accordingly, with PORTIA, NERISSA, and train
 SCENE II.
 Venice. A street
 
-Enter LAUNCELOT GOBBO
+Enter LAUNCELOT
 
   LAUNCELOT. Certainly my conscience will serve me to run from this
     Jew my master. The fiend is at mine elbow and tempts me, saying
@@ -653,7 +653,7 @@ Enter LAUNCELOT GOBBO
     counsel. I will run, fiend; my heels are at your commandment; I
     will run.
 
-                     Enter OLD GOBBO, with a basket
+                     Enter GOBBO, with a basket
 
   GOBBO. Master young man, you, I pray you, which is the way to
     master Jew's?
@@ -777,7 +777,7 @@ Enter LAUNCELOT GOBBO
     with the edge of a feather-bed-here are simple scapes. Well, if
     Fortune be a woman, she's a good wench for this gear. Father,
     come; I'll take my leave of the Jew in the twinkling.
-                                  Exeunt LAUNCELOT and OLD GOBBO
+                                  Exeunt LAUNCELOT and GOBBO
   BASSANIO. I pray thee, good Leonardo, think on this.
     These things being bought and orderly bestowed,
     Return in haste, for I do feast to-night
@@ -958,8 +958,8 @@ Enter SHYLOCK and LAUNCELOT
     Say I will come.
   LAUNCELOT. I will go before, sir. Mistress, look out at window for
     all this.
-        There will come a Christian by
-        Will be worth a Jewess' eye.                        Exit
+    There will come a Christian by
+    Will be worth a Jewess' eye.                        Exit
   SHYLOCK. What says that fool of Hagar's offspring, ha?
   JESSICA. His words were 'Farewell, mistress'; nothing else.
   SHYLOCK. The patch is kind enough, but a huge feeder,
@@ -1040,8 +1040,7 @@ Enter the maskers, GRATIANO and SALERIO
     For the close night doth play the runaway,
     And we are stay'd for at Bassanio's feast.
   JESSICA. I will make fast the doors, and gild myself
-    With some moe ducats, and be with you straight.
-                                                      Exit above
+    With some moe ducats, and be with you straight. Exit
 
   GRATIANO. Now, by my hood, a gentle, and no Jew.
   LORENZO. Beshrew me, but I love her heartily,
@@ -1051,11 +1050,10 @@ Enter the maskers, GRATIANO and SALERIO
     And therefore, like herself, wise, fair, and true,
     Shall she be placed in my constant soul.
 
-                     Enter JESSICA, below
+                     Enter JESSICA
 
-    What, art thou come? On, gentlemen, away;
-    Our masquing mates by this time for us stay.
-                                   Exit with JESSICA and SALERIO
+  LORENZO  What, art thou come? On, gentlemen, away;
+    Our masquing mates by this time for us stay. Exeunt LORENZO, JESSICA and SALERIO
 
                         Enter ANTONIO
 
@@ -1236,7 +1234,7 @@ Enter NERISSA, and a SERVITOR
     The Prince of Arragon hath ta'en his oath,
     And comes to his election presently.
 
-       Flourish of cornets. Enter the PRINCE OF ARRAGON,
+       Flourish of cornets. Enter the ARRAGON,
                     PORTIA, and their trains
 
   PORTIA. Behold, there stand the caskets, noble Prince.
@@ -1300,7 +1298,6 @@ Enter NERISSA, and a SERVITOR
   PORTIA. To offend and judge are distinct offices
     And of opposed natures.
   ARRAGON. What is here?  [Reads]
-
          'The fire seven times tried this;
          Seven times tried that judgment is
          That did never choose amiss.
@@ -1311,7 +1308,6 @@ Enter NERISSA, and a SERVITOR
          Take what wife you will to bed,
          I will ever be your head.
          So be gone; you are sped.'
-
          Still more fool I shall appear
          By the time I linger here.
          With one fool's head I came to woo,
@@ -1421,7 +1417,7 @@ Enter SOLANIO and SALERIO
     I will execute; and itshall go hard but I will better the
     instruction.
 
-                    Enter a MAN from ANTONIO
+                    Enter a MAN
 
   MAN. Gentlemen, my master Antonio is at his house, and desires to
     speak with you both.
@@ -1929,7 +1925,7 @@ Enter PORTIA, NERISSA, LORENZO, JESSICA, and BALTHASAR
   PORTIA. I thank you for your wish, and am well pleas'd
     To wish it back on you. Fare you well, Jessica.
                                       Exeunt JESSICA and LORENZO
-    Now, Balthasar,
+  PORTIA.  Now, Balthasar,
     As I have ever found thee honest-true,
     So let me find thee still. Take this same letter,
     And use thou all th' endeavour of a man
@@ -2035,8 +2031,7 @@ Enter LAUNCELOT and JESSICA
     the table, serve in the meat, and we will come in to dinner.
   LAUNCELOT. For the table, sir, it shall be serv'd in; for the meat,
     sir, it shall be cover'd; for your coming in to dinner, sir, why,
-    let it be as humours and conceits shall govern.
- Exit
+    let it be as humours and conceits shall govern. Exit
   LORENZO. O dear discretion, how his words are suited!
     The fool hath planted in his memory
     An army of good words; and I do know
@@ -2072,7 +2067,7 @@ Enter LAUNCELOT and JESSICA
 ACT IV. SCENE I.
 Venice. The court of justice
 
-Enter the DUKE, the MAGNIFICOES, ANTONIO, BASSANIO, GRATIANO, SALERIO,
+Enter the DUKE OF VENICE, the MAGNIFICOES, ANTONIO, BASSANIO, GRATIANO, SALERIO,
 and OTHERS
 
   DUKE OF VENICE. What, is Antonio here?
@@ -2554,7 +2549,7 @@ and OTHERS
   BASSANIO. Go, Gratiano, run and overtake him;
     Give him the ring, and bring him, if thou canst,
     Unto Antonio's house. Away, make haste.        Exit GRATIANO
-    Come, you and I will thither presently;
+  BASSANIO  Come, you and I will thither presently;
     And in the morning early will we both
     Fly toward Belmont. Come, Antonio.                    Exeunt
 
@@ -2667,7 +2662,7 @@ Enter LORENZO and JESSICA
     My friend Stephano, signify, I pray you,
     Within the house, your mistress is at hand;
     And bring your music forth into the air.       Exit STEPHANO
-    How sweet the moonlight sleeps upon this bank!
+  LORENZO.  How sweet the moonlight sleeps upon this bank!
     Here will we sit and let the sounds of music
     Creep in our ears; soft stillness and the night
     Become the touches of sweet harmony.

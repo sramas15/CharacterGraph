@@ -186,8 +186,7 @@ Enter ORLANDO and ADAM
     and weep, and thou must look pale and wonder.
   CHARLES. I am heartily glad I came hither to you. If he come
     to-morrow I'll give him his payment. If ever he go alone again,
-    I'll never wrestle for prize more. And so, God keep your worship!
- Exit
+    I'll never wrestle for prize more. And so, God keep your worship!  Exit
   OLIVER. Farewell, good Charles. Now will I stir this gamester. I
     hope I shall see an end of him; for my soul, yet I know not why,
     hates nothing more than he. Yet he's gentle; never school'd and
@@ -335,7 +334,7 @@ Enter ROSALIND and CELIA
     appointed for the wrestling, and they are ready to perform it.
   CELIA. Yonder, sure, they are coming. Let us now stay and see it.
 
-           Flourish. Enter DUKE FREDERICK, LORDS, ORLANDO,
+           Flourish. Enter FREDERICK, LORDS, ORLANDO,
                      CHARLES, and ATTENDANTS
 
   FREDERICK. Come on; since the youth will not be entreated, his own
@@ -352,7 +351,7 @@ Enter ROSALIND and CELIA
     him, ladies; see if you can move him.
   CELIA. Call him hither, good Monsieur Le Beau.
   FREDERICK. Do so; I'll not be by.
-                                     [DUKE FREDERICK goes apart]
+                                     [FREDERICK goes apart]
   LE BEAU. Monsieur the Challenger, the Princess calls for you.
   ORLANDO. I attend them with all respect and duty.
   ROSALIND. Young man, have you challeng'd Charles the wrestler?
@@ -410,7 +409,7 @@ Enter ROSALIND and CELIA
     Hadst thou descended from another house.
     But fare thee well; thou art a gallant youth;
     I would thou hadst told me of another father.
-                                 Exeunt DUKE, train, and LE BEAU
+                                 Exeunt FREDERICK, train, and LE BEAU
   CELIA. Were I my father, coz, would I do this?
   ORLANDO. I am more proud to be Sir Rowland's son,
     His youngest son- and would not change that calling
@@ -476,7 +475,7 @@ Enter ROSALIND and CELIA
     I shall desire more love and knowledge of you.
   ORLANDO. I rest much bounden to you; fare you well.
                                                     Exit LE BEAU
-    Thus must I from the smoke into the smother;
+  ORLANDO.  Thus must I from the smoke into the smother;
     From tyrant Duke unto a tyrant brother.
     But heavenly Rosalind!                                  Exit
 
@@ -518,7 +517,7 @@ Enter CELIA and ROSALIND
   ROSALIND. No, faith, hate him not, for my sake.
   CELIA. Why should I not? Doth he not deserve well?
 
-                    Enter DUKE FREDERICK, with LORDS
+                    Enter FREDERICK, with LORDS
 
   ROSALIND. Let me love him for that; and do you love him because I
     do. Look, here comes the Duke.
@@ -576,7 +575,7 @@ Enter CELIA and ROSALIND
   FREDERICK. You are a fool. You, niece, provide yourself.
     If you outstay the time, upon mine honour,
     And in the greatness of my word, you die.
-                                           Exeunt DUKE and LORDS
+                                           Exeunt FREDERICK and LORDS
   CELIA. O my poor Rosalind! Whither wilt thou go?
     Wilt thou change fathers? I will give thee mine.
     I charge thee be not thou more griev'd than I am.
@@ -640,7 +639,7 @@ END_ACT
 ACT II. SCENE I.
 The Forest of Arden
 
-Enter DUKE SENIOR, AMIENS, and two or three LORDS, like foresters
+Enter DUKE SENIOR, AMIENS, and two or three FIRST LORD, SECOND LORD, like foresters
 
   DUKE SENIOR. Now, my co-mates and brothers in exile,
     Hath not old custom made this life more sweet
@@ -722,7 +721,7 @@ Enter DUKE SENIOR, AMIENS, and two or three LORDS, like foresters
 SCENE II.
 The DUKE'S palace
 
-Enter DUKE FREDERICK, with LORDS
+Enter FREDERICK, with FIRST LORD, SECOND LORD
 
   FREDERICK. Can it be possible that no man saw them?
     It cannot be; some villains of my court
@@ -838,7 +837,7 @@ Enter ORLANDO and ADAM, meeting
 SCENE IV.
 The Forest of Arden
 
-Enter ROSALIND for GANYMEDE, CELIA for ALIENA, and CLOWN alias TOUCHSTONE
+Enter ROSALIND, CELIA, and TOUCHSTONE
 
   ROSALIND. O Jupiter, how weary are my spirits!
   TOUCHSTONE. I Care not for my spirits, if my legs were not weary.
@@ -879,7 +878,7 @@ Enter ROSALIND for GANYMEDE, CELIA for ALIENA, and CLOWN alias TOUCHSTONE
     Or if thou hast not broke from company
     Abruptly, as my passion now makes me,
     Thou hast not lov'd.
-    O Phebe, Phebe, Phebe!                          Exit Silvius
+    O Phebe, Phebe, Phebe!                          Exit SILVIUS
   ROSALIND. Alas, poor shepherd! searching of thy wound,
     I have by hard adventure found mine own.
   TOUCHSTONE. And I mine. I remember, when I was in love, I broke my
@@ -947,7 +946,7 @@ Another part of the forest
 
 Enter AMIENS, JAQUES, and OTHERS
 
-                       SONG
+        
   AMIENS.    Under the greenwood tree
                Who loves to lie with me,
                And turn his merry note
@@ -1012,7 +1011,7 @@ Enter AMIENS, JAQUES, and OTHERS
     go sleep, if I can; if I cannot, I'll rail against all the
     first-born of Egypt.
   AMIENS. And I'll go seek the Duke; his banquet is prepar'd.
-                                                Exeunt severally
+                                                Exeunt.
 
 
 
@@ -1043,7 +1042,7 @@ Enter ORLANDO and ADAM
 SCENE VII.
 The forest
 
-A table set out. Enter DUKE SENIOR, AMIENS, and LORDS, like outlaws
+A table set out. Enter DUKE SENIOR, AMIENS, and FIRST LORD, like outlaws
 
   DUKE SENIOR. I think he be transform'd into a beast;
     For I can nowhere find him like a man.
@@ -1187,8 +1186,7 @@ A table set out. Enter DUKE SENIOR, AMIENS, and LORDS, like outlaws
     I will not touch a bit.
   DUKE SENIOR. Go find him out.
     And we will nothing waste till you return.
-  ORLANDO. I thank ye; and be blest for your good comfort!
- Exit
+  ORLANDO. I thank ye; and be blest for your good comfort! Exit
   DUKE SENIOR. Thou seest we are not all alone unhappy:
     This wide and universal theatre
     Presents more woeful pageants than the scene
@@ -1270,7 +1268,7 @@ A table set out. Enter DUKE SENIOR, AMIENS, and LORDS, like outlaws
 ACT III. SCENE I.
 The palace
 
-Enter DUKE FREDERICK, OLIVER, and LORDS
+Enter FREDERICK, OLIVER, and LORDS
 
   FREDERICK. Not see him since! Sir, sir, that cannot be.
     But were I not the better part made mercy,
@@ -1750,7 +1748,7 @@ Enter TOUCHSTONE and AUDREY; JAQUES behind
     skill, by so much is horn more precious than to want. Here comes
     Sir Oliver.
 
-                       Enter SIR OLIVER MARTEXT
+                       Enter MARTEXT
 
     Sir Oliver Martext, you are well met. Will you dispatch us here
     under this tree, or shall we go with you to your chapel?
@@ -2215,18 +2213,18 @@ Enter ROSALIND, CELIA, and JAQUES
 SCENE II.
 The forest
 
-        Enter JAQUES and LORDS, in the habit of foresters
+        Enter JAQUES and FIRST LORD, in the habit of foresters
 
   JAQUES. Which is he that killed the deer?
-  LORD. Sir, it was I.
+  FIRST LORD. Sir, it was I.
   JAQUES. Let's present him to the Duke, like a Roman conqueror; and
     it would do well to set the deer's horns upon his head for a
     branch of victory. Have you no song, forester, for this purpose?
-  LORD. Yes, sir.
+  FIRST LORD. Yes, sir.
   JAQUES. Sing it; 'tis no matter how it be in tune, so it make noise
     enough.
 
-                    SONG.
+                    SONG
 
       What shall he have that kill'd the deer?
       His leather skin and horns to wear.
@@ -2292,22 +2290,16 @@ Enter ROSALIND and CELIA
     Yet heard too much of Phebe's cruelty.
   ROSALIND. She Phebes me: mark how the tyrant writes.
                                                          [Reads]
-
             'Art thou god to shepherd turn'd,
             That a maiden's heart hath burn'd?'
-
     Can a woman rail thus?
   SILVIUS. Call you this railing?
   ROSALIND. 'Why, thy godhead laid apart,
              Warr'st thou with a woman's heart?'
-
     Did you ever hear such railing?
-
             'Whiles the eye of man did woo me,
             That could do no vengeance to me.'
-
     Meaning me a beast.
-
             'If the scorn of your bright eyne
             Have power to raise such love in mine,
             Alack, in me what strange effect
@@ -2661,7 +2653,7 @@ Enter TOUCHSTONE and AUDREY
     dishonest desire to desire to be a woman of the world. Here come
     two of the banish'd Duke's pages.
 
-                            Enter two PAGES
+                            Enter two FIRST PAGE, SECOND PAGE
 
   FIRST PAGE. Well met, honest gentleman.
   TOUCHSTONE. By my troth, well met. Come sit, sit, and a song.
@@ -2671,8 +2663,7 @@ Enter TOUCHSTONE and AUDREY
     to a bad voice?
   SECOND PAGE. I'faith, i'faith; and both in a tune, like two gipsies
     on a horse.
-
-                      SONG.
+                      SONG
         It was a lover and his lass,
           With a hey, and a ho, and a hey nonino,
         That o'er the green corn-field did pass
@@ -2816,14 +2807,14 @@ Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA
 
           Enter HYMEN, ROSALIND, and CELIA. Still MUSIC
 
-    HYMEN.    Then is there mirth in heaven,
-              When earthly things made even
-                Atone together.
-              Good Duke, receive thy daughter;
-              Hymen from heaven brought her,
-                Yea, brought her hither,
-              That thou mightst join her hand with his,
-              Whose heart within his bosom is.
+  HYMEN.    Then is there mirth in heaven,
+            When earthly things made even
+              Atone together.
+            Good Duke, receive thy daughter;
+            Hymen from heaven brought her,
+              Yea, brought her hither,
+            That thou mightst join her hand with his,
+            Whose heart within his bosom is.
   ROSALIND. [To DUKE] To you I give myself, for I am yours.
     [To ORLANDO] To you I give myself, for I am yours.
   DUKE SENIOR. If there be truth in sight, you are my daughter.
@@ -2849,7 +2840,6 @@ Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA
             Feed yourselves with questioning,
             That reason wonder may diminish,
             How thus we met, and these things finish.
-
                        SONG
             Wedding is great Juno's crown;
               O blessed bond of board and bed!
@@ -2863,9 +2853,9 @@ Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA
   PHEBE. I will not eat my word, now thou art mine;
     Thy faith my fancy to thee doth combine.
 
-                 Enter JAQUES de BOYS
+                 Enter JAQUES DE BOYS
 
-  JAQUES de BOYS. Let me have audience for a word or two.
+  JAQUES DE BOYS. Let me have audience for a word or two.
     I am the second son of old Sir Rowland,
     That bring these tidings to this fair assembly.
     Duke Frederick, hearing how that every day
@@ -2916,7 +2906,7 @@ Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA
     As we do trust they'll end, in true delights.    [A dance] Exeunt
 
 EPILOGUE
-                           EPILOGUE.
+
   ROSALIND. It is not the fashion to see the lady the epilogue; but
     it is no more unhandsome than to see the lord the prologue. If it
     be true that good wine needs no bush, 'tis true that a good play
