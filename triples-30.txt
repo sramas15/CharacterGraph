@@ -11,8 +11,7 @@ Then let my father's honours live in me,
 Nor wrong mine age with this indignity.
 
 BASSIANUS
-3
-MARCUS
+2
 TRIBUNES
 SATURNINUS
 Romans, friends, followers, favourers of my right,
@@ -98,18 +97,16 @@ As I am confident and kind to thee.
 Open the gates and let me in.
 
 BASSIANUS
-4
+3
 MARCUS
 TRIBUNES
-CAPTAIN
 SATURNINUS
 Tribunes, and me, a poor competitor.
 
 CAPTAIN
-5
+4
 MARCUS
 TRIBUNES
-MARTIUS
 SATURNINUS
 BASSIANUS
 Romans, make way. The good Andronicus,
@@ -267,18 +264,15 @@ BASSIANUS
 Was never Scythia half so barbarous!
 
 DEMETRIUS
-11
+8
 MARCUS
 TRIBUNES
 CHIRON
-MARTIUS
 SATURNINUS
-LUCIUS
 TAMORA
-QUINTUS
+BASSIANUS
 CAPTAIN
 TITUS
-BASSIANUS
 Oppose not Scythia to ambitious Rome.
 Alarbus goes to rest, and we survive
 To tremble under Titus' threat'ning look.
@@ -311,7 +305,7 @@ Remaineth nought but to inter our brethren,
 And with loud 'larums welcome them to Rome.
 
 TITUS
-12
+11
 MARCUS
 TRIBUNES
 CHIRON
@@ -320,10 +314,9 @@ DEMETRIUS
 SATURNINUS
 LUCIUS
 TAMORA
-QUINTUS
-CAPTAIN
 BASSIANUS
-LAVINIA
+CAPTAIN
+QUINTUS
 Let it be so, and let Andronicus
 Make this his latest farewell to their souls.
 In peace and honour rest you here, my sons;
@@ -358,18 +351,16 @@ O, bless me here with thy victorious hand,
 Whose fortunes Rome's best citizens applaud!
 
 TITUS
-12
+10
 MARCUS
 TRIBUNES
 CHIRON
 MARTIUS
 DEMETRIUS
-SATURNINUS
 LUCIUS
 TAMORA
-QUINTUS
 CAPTAIN
-BASSIANUS
+QUINTUS
 LAVINIA
 Kind Rome, that hast thus lovingly reserv'd
 The cordial of mine age to glad my heart!
@@ -1086,6 +1077,7 @@ MUTIUS
 QUINTUS
 LAVINIA
 Dead, if you will; but not to be his wife,
+That is another's lawful promis'd love.
 
 SATURNINUS
 12
@@ -1232,18 +1224,17 @@ Whose wisdom hath her fortune conquered;
 There shall we consummate our spousal rites.
 
 TITUS
-12
-MARCUS
+11
 TRIBUNES
 CHIRON
 MARTIUS
 DEMETRIUS
 SATURNINUS
 TAMORA
-QUINTUS
+BASSIANUS
 CAPTAIN
 MUTIUS
-BASSIANUS
+QUINTUS
 LAVINIA
 I am not bid to wait upon this bride.
 Dishonoured thus, and challenged of wrongs?
@@ -1675,23 +1666,21 @@ Is she not, then, beholding to the man
 That brought her for this high good turn so far?
 
 MARCUS
-14
+13
+TITUS
 ALL
-TRIBUNES
 CHIRON
 MARTIUS
 DEMETRIUS
-SATURNINUS
+TRIBUNES
 LUCIUS
-TAMORA
-QUINTUS
+BASSIANUS
 CAPTAIN
 MUTIUS
-TITUS
-BASSIANUS
+SATURNINUS
+QUINTUS
 LAVINIA
 Yes, and will nobly him remunerate.
-at the other door, BASSIANUS and LAVINIA, with others
 
 SATURNINUS
 14
@@ -2131,9 +2120,7 @@ LAVINIA
 Be it so, Titus, and gramercy too.
 
 AARON
-2
-CHIRON
-DEMETRIUS
+0
 Now climbeth Tamora Olympus' top,
 Safe out of Fortune's shot, and sits aloft,
 Secure of thunder's crack or lightning flash,
@@ -2414,14 +2401,10 @@ To cool this heat, a charm to calm these fits,
 Per Styga, per manes vehor.                           Exeunt
 
 TITUS
-7
-SATURNINUS
+3
 LUCIUS
-TAMORA
-BASSIANUS
-MARTIUS
 QUINTUS
-LAVINIA
+MARTIUS
 The hunt is up, the morn is bright and grey,
 The fields are fragrant, and the woods are green.
 Uncouple here, and let us make a bay,
@@ -2432,9 +2415,6 @@ Sons, let it be your charge, as it is ours,
 To attend the Emperor's person carefully.
 I have been troubled in my sleep this night,
 But dawning day new comfort hath inspir'd.
-Many good morrows to your Majesty!
-Madam, to you as many and as good!
-I promised your Grace a hunter's peal.
 
 SATURNINUS
 7
@@ -2526,8 +2506,7 @@ Chiron, we hunt not, we, with horse nor hound,
 But hope to pluck a dainty doe to ground.             Exeunt
 
 AARON
-1
-TAMORA
+0
 He that had wit would think that I had none,
 To bury so much gold under a tree
 And never after to inherit it.
@@ -2563,10 +2542,8 @@ Be unto us as is a nurse's song
 Of lullaby to bring her babe asleep.
 
 AARON
-3
+1
 TAMORA
-LAVINIA
-BASSIANUS
 Madam, though Venus govern your desires,
 Saturn is dominator over mine.
 What signifies my deadly-standing eye,
@@ -2603,6 +2580,7 @@ LAVINIA
 BASSIANUS
 No more, great Empress: Bassianus comes.
 Be cross with him; and I'll go fetch thy sons
+To back thy quarrels, whatsoe'er they be.
 
 BASSIANUS
 2
@@ -2673,9 +2651,7 @@ Ay, for these slips have made him noted long.
 Good king, to be so mightily abused!
 
 TAMORA
-4
-CHIRON
-DEMETRIUS
+2
 LAVINIA
 BASSIANUS
 Why, I have patience to endure all this.
@@ -2977,6 +2953,7 @@ Farewell, my sons; see that you make her sure.
 Ne'er let my heart know merry cheer indeed
 Till all the Andronici be made away.
 Now will I hence to seek my lovely Moor,
+And let my spleenful sons this trull deflower.
 
 AARON
 4
@@ -3044,6 +3021,7 @@ BASSIANUS
 QUINTUS
  [Aside]  Now will I fetch the King to find them here,
 That he thereby may have a likely guess
+How these were they that made away his brother.
 
 MARTIUS
 5
@@ -3152,12 +3130,11 @@ BASSIANUS
 Nor I no strength to climb without thy help.
 
 QUINTUS
-6
+5
+LAVINIA
 CHIRON
 MARTIUS
 DEMETRIUS
-AARON
-LAVINIA
 BASSIANUS
 Thy hand once more; I will not loose again,
 Till thou art here aloft, or I below.
@@ -3205,15 +3182,14 @@ Upon the north side of this pleasant chase;
 'Tis not an hour since I left them there.
 
 MARTIUS
-8
+7
 SATURNINUS
 CHIRON
 DEMETRIUS
 AARON
-QUINTUS
 LAVINIA
-TAMORA
 BASSIANUS
+QUINTUS
 We know not where you left them all alive;
 But, out alas! here have we found him dead.
 
@@ -3477,19 +3453,16 @@ LAVINIA
 An 'twere my cause, I should go hang myself.
 
 DEMETRIUS
-3
+2
 CHIRON
 LAVINIA
-MARCUS
 If thou hadst hands to help thee knit the cord.
 
 MARCUS
-5
-TRIBUNES
-CHIRON
-TITUS
-DEMETRIUS
+3
 LAVINIA
+CHIRON
+DEMETRIUS
 Who is this?- my niece, that flies away so fast?
 Cousin, a word: where is your husband?
 If I do dream, would all my wealth would wake me!
@@ -3643,13 +3616,11 @@ For which attempt the judges have pronounc'd
 My everlasting doom of banishment.
 
 TITUS
-6
-MARCUS
+4
 TRIBUNES
 CHIRON
 DEMETRIUS
 LUCIUS
-LAVINIA
 O happy man! they have befriended thee.
 Why, foolish Lucius, dost thou not perceive
 That Rome is but a wilderness of tigers?
@@ -3897,13 +3868,12 @@ LAVINIA
 Ah, my Lavinia, I will wipe thy cheeks.
 
 TITUS
-7
+6
 MARCUS
 TRIBUNES
 CHIRON
 DEMETRIUS
 LUCIUS
-AARON
 LAVINIA
 Mark, Marcus, mark! I understand her signs.
 Had she a tongue to speak, now would she say
@@ -4093,25 +4063,16 @@ Come hither, Aaron, I'll deceive them both;
 Lend me thy hand, and I will give thee mine.
 
 AARON
-7
-MARCUS
+5
 TRIBUNES
 CHIRON
 TITUS
 DEMETRIUS
-LUCIUS
 LAVINIA
  [Aside]  If that be call'd deceit, I will be honest,
 And never whilst I live deceive men so;
 But I'll deceive you in another sort,
 And that you'll say ere half an hour pass.
-Good Aaron, give his Majesty my hand;
-Tell him it was a hand that warded him
-From thousand dangers; bid him bury it.
-More hath it merited- that let it have.
-As for my sons, say I account of them
-As jewels purchas'd at an easy price;
-And yet dear too, because I bought mine own.
 
 AARON
 7
@@ -4127,6 +4088,7 @@ Look by and by to have thy sons with thee.
 [Aside]  Their heads I mean. O, how this villainy
 Doth fat me with the very thoughts of it!
 Let fools do good, and fair men call for grace:
+Aaron will have his soul black like his face.
 
 TITUS
 6
@@ -4178,13 +4140,12 @@ LAVINIA
 But yet let reason govern thy lament.
 
 TITUS
-7
+6
 MARCUS
 TRIBUNES
 CHIRON
 DEMETRIUS
 LUCIUS
-MESSENGER
 LAVINIA
 If there were reason for these miseries,
 Then into limits could I bind my woes.
@@ -4217,6 +4178,7 @@ Here are the heads of thy two noble sons;
 And here's thy hand, in scorn to thee sent back-
 Thy grief their sports, thy resolution mock'd,
 That woe is me to think upon thy woes,
+More than remembrance of my father's death.
 
 MARCUS
 6
@@ -4357,6 +4319,7 @@ If Lucius live, he will requite your wrongs
 And make proud Saturnine and his emperess
 Beg at the gates like Tarquin and his queen.
 Now will I to the Goths, and raise a pow'r
+To be reveng'd on Rome and Saturnine.
 
 TITUS
 3
@@ -4890,6 +4853,7 @@ Marcus, attend him in his ecstasy,
 That hath more scars of sorrow in his heart
 Than foemen's marks upon his batt'red shield,
 But yet so just that he will not revenge.
+Revenge the heavens for old Andronicus!
 
 CHIRON
 2
@@ -5048,10 +5012,9 @@ BOY
 Belike, for joy the Emperor hath a son.
 
 DEMETRIUS
-4
+3
 CHIRON
 AARON
-NURSE
 BOY
 Soft! who comes here?
 
@@ -5795,11 +5758,10 @@ He'll so awake as he in fury shall
 Cut off the proud'st conspirator that lives.
 
 TAMORA
-4
+3
 CHIRON
 SATURNINUS
 DEMETRIUS
-CLOWN
 My gracious lord, my lovely Saturnine,
 Lord of my life, commander of my thoughts,
 Calm thee, and bear the faults of Titus' age,
@@ -5812,7 +5774,6 @@ High-witted Tamora to gloze with all.
 But, Titus, I have touch'd thee to the quick,
 Thy life-blood out; if Aaron now be wise,
 Then is all safe, the anchor in the port.
-How now, good fellow! Wouldst thou speak with us?
 
 CLOWN
 4
@@ -5870,13 +5831,13 @@ SATURNINUS
 DEMETRIUS
 TAMORA
 Hang'd! by'r lady, then I have brought up a neck to a fair
+end.
 
 SATURNINUS
-4
-AEMILIUS
-CHIRON
+3
 DEMETRIUS
 TAMORA
+CHIRON
 Despiteful and intolerable wrongs!
 Shall I endure this monstrous villainy?
 I know from whence this same device proceeds.
@@ -5888,7 +5849,6 @@ Nor age nor honour shall shape privilege.
 For this proud mock I'll be thy slaughterman,
 Sly frantic wretch, that holp'st to make me great,
 In hope thyself should govern Rome and me.
-What news with thee, Aemilius?
 
 AEMILIUS
 4
@@ -6047,10 +6007,8 @@ LUCIUS
 And as he saith, so say we all with him.
 
 LUCIUS
-4
-GOTH
+2
 ALL THE GOTHS
-AARON
 FIRST GOTH
 I humbly thank him, and I thank you all.
 But who comes here, led by a lusty Goth?
@@ -6388,13 +6346,12 @@ So I might have your company in hell
 But to torment you with my bitter tongue!
 
 LUCIUS
-6
+5
 SECOND GOTH
 GOTH
-FIRST GOTH
-AEMILIUS
-AARON
 ALL THE GOTHS
+FIRST GOTH
+AARON
 Sirs, stop his mouth, and let him speak no more.
 
 GOTH
@@ -6609,9 +6566,8 @@ And, if one arm's embracement will content thee,
 I will embrace thee in it by and by.
 
 TAMORA
-3
+2
 CHIRON
-TITUS
 DEMETRIUS
 This closing with him fits his lunacy.
 Whate'er I forge to feed his brain-sick humours,
@@ -6708,21 +6664,11 @@ And on them shalt thou ease thy angry heart.
 What says Andronicus to this device?
 
 TITUS
-4
+3
 CHIRON
 DEMETRIUS
 TAMORA
-MARCUS
 Marcus, my brother! 'Tis sad Titus calls.
-Go, gentle Marcus, to thy nephew Lucius;
-Thou shalt inquire him out among the Goths.
-Bid him repair to me, and bring with him
-Some of the chiefest princes of the Goths;
-Bid him encamp his soldiers where they are.
-Tell him the Emperor and the Empress too
-Feast at my house, and he shall feast with them.
-This do thou for my love; and so let him,
-As he regards his aged father's life.
 
 MARCUS
 4
@@ -6799,10 +6745,9 @@ TAMORA
 Tell us, old man, how shall we be employ'd?
 
 TITUS
-4
+3
 CHIRON
 DEMETRIUS
-PUBLIUS
 TAMORA
 Tut, I have work enough for you to do.
 Publius, come hither, Caius, and Valentine.
@@ -6843,6 +6788,7 @@ And therefore bind them, gentle Publius-
 Caius and Valentine, lay hands on them.
 Oft have you heard me wish for such an hour,
 And now I find it; therefore bind them sure,
+And stop their mouths if they begin to cry.
 
 CHIRON
 3
@@ -6852,9 +6798,8 @@ TAMORA
 Villains, forbear! we are the Empress' sons.
 
 PUBLIUS
-4
+3
 CHIRON
-TITUS
 DEMETRIUS
 TAMORA
 And therefore do we what we are commanded.
@@ -6938,14 +6883,12 @@ And prompt me that my tongue may utter forth
 The venomous malice of my swelling heart!
 
 LUCIUS
-3
+2
 MARCUS
 AARON
-SATURNINUS
 Away, inhuman dog, unhallowed slave!
 Sirs, help our uncle to convey him in.
 The trumpets show the Emperor is at hand.
-TAMORA, with AEMILIUS, TRIBUNES, SENATORS, and others
 
 SATURNINUS
 3
@@ -6974,10 +6917,9 @@ For peace, for love, for league, and good to Rome.
 Please you, therefore, draw nigh and take your places.
 
 SATURNINUS
-4
+3
 MARCUS
 AARON
-TITUS
 LUCIUS
 Marcus, we will.
 
@@ -7380,21 +7322,18 @@ Bid him farewell; commit him to the grave;
 Do them that kindness, and take leave of them.
 
 BOY
-8
+7
 MARCUS
 SATURNINUS
 AEMILIUS
 TITUS
 ALL
 LUCIUS
-AARON
 TAMORA
 O grandsire, grandsire! ev'n with all my heart
 Would I were dead, so you did live again!
 O Lord, I cannot speak to him for weeping;
 My tears will choke me, if I ope my mouth.
-Give sentence on the execrable wretch
-That hath been breeder of these dire events.
 
 LUCIUS
 8

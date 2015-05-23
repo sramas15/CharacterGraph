@@ -1220,6 +1220,7 @@ Writings, all tending to the great opinion
 That Rome holds of his name, wherein obscurely
 Caesar's ambition shall be glanced at.
 And after this let Caesar seat him sure;
+For we will shake him, or worse days endure.
 
 CICERO
 0
@@ -2418,6 +2419,7 @@ And by and by thy bosom shall partake
 The secrets of my heart.
 All my engagements I will construe to thee,
 All the charactery of my sad brows.
+Leave me with haste.
 
 LUCIUS
 7
@@ -2934,6 +2936,7 @@ And as a suitor will I give him this.
 My heart laments that virtue cannot live
 Out of the teeth of emulation.
 If thou read this, O Caesar, thou mayest live;
+If not, the Fates with traitors do contrive.
 
 PORTIA
 0
@@ -3056,6 +3059,7 @@ The throng that follows Caesar at the heels,
 Of senators, of praetors, common suitors,
 Will crowd a feeble man almost to death.
 I'll get me to a place more void and there
+Speak to great Caesar as he comes along.
 
 PORTIA
 1
@@ -4661,6 +4665,7 @@ In my oration, how the people take
 The cruel issue of these bloody men,
 According to the which thou shalt discourse
 To young Octavius of the state of things.
+Lend me your hand.
 
 CITIZENS
 0
@@ -4854,6 +4859,7 @@ Do grace to Caesar's corse, and grace his speech
 Tending to Caesar's glories, which Mark Antony,
 By our permission, is allow'd to make.
 I do entreat you, not a man depart,
+Save I alone, till Antony have spoke.
 
 FIRST CITIZEN
 5
@@ -6673,6 +6679,7 @@ POET
 LUCILIUS
 BRUTUS
 And come yourselves and bring Messala with you
+Immediately to us.
 
 BRUTUS
 3
@@ -7066,6 +7073,7 @@ LUCILIUS
 CASSIUS
 MESSALA
 Lucius!
+My gown.
 
 CASSIUS
 3
@@ -8155,6 +8163,7 @@ CASSIUS
 So, I am free, yet would not so have been,
 Durst I have done my will. O Cassius!
 Far from this country Pindarus shall run,
+Where never Roman shall take note of him.
 
 MESSALA
 1
@@ -8245,6 +8254,7 @@ TITINIUS
 MESSALA
 CASSIUS
 Hie you, Messala,
+And I will seek for Pindarus the while.
 
 BRUTUS
 2
@@ -8324,6 +8334,7 @@ BRUTUS
 1
 CATO
 And I am Brutus, Marcus Brutus, I;
+Brutus, my country's friend; know me for Brutus!
 
 LUCILIUS
 1

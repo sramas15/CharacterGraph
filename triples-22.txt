@@ -278,12 +278,10 @@ Leon
 No, not till a hot January.
 
 Mess
-5
-Pedro
+3
+Beat
 Hero
 Leon
-Beat
-John
 Don Pedro is approach'd.
 
 Pedro
@@ -705,8 +703,7 @@ I would scarce trust myself, though I had sworn the
 contrary, if Hero would be my wife.
 
 Bene
-7
-Pedro
+6
 Hero
 Mess
 Leon
@@ -718,7 +715,6 @@ he will wear his cap with suspicion? Shall I never see a
 bachelor of threescore again? Go to, i' faith! An thou wilt needs
 thrust thy neck into a yoke, wear the print of it and sigh away
 Sundays.
-Look! Don Pedro is returned to seek you.
 
 Pedro
 7
@@ -1107,6 +1103,7 @@ Claud
 Nay, mock not, mock not. The body of your discourse is
 sometime guarded with fragments, and the guards are but slightly
 basted on neither. Ere you flout old ends any further, examine
+your conscience. And so I leave you.
 
 Claud
 6
@@ -1264,6 +1261,7 @@ Ant
 No, no. We will hold it as a dream till it appear itself; but
 I will acquaint my daughter withal, that she may be the better
 prepared for an answer, if peradventure this be true. Go you and
+tell her of it.
 
 Con
 1
@@ -2393,13 +2391,12 @@ Bora
 If it will not be, I'll leave you.
 
 Bene
-10
-Balth
-Pedro
+9
+Ant
 Hero
 Beat
 Leon
-Ant
+Balth
 Marg
 Urs
 John
@@ -2552,13 +2549,12 @@ The Lady Beatrice hath a quarrel to you. The gentleman that
 danc'd with her told her she is much wrong'd by you.
 
 Bene
-10
-Balth
+9
+Ant
 Pedro
-Hero
 Beat
 Leon
-Ant
+Balth
 Marg
 Urs
 John
@@ -2643,6 +2639,7 @@ Urs
 John
 Bora
 O God, sir, here's a dish I love not! I cannot endure my Lady
+Tongue.
 
 Pedro
 9
@@ -3360,8 +3357,7 @@ Bora
 I will presently go learn their day of marriage.
 
 Bene
-1
-Boy
+0
 Boy!
 
 Boy
@@ -3384,6 +3380,7 @@ Bene
 1
 Boy
 I know that, but I would have thee hence and here again.
+(
 
 Pedro
 1
@@ -4129,6 +4126,7 @@ There's a double meaning in that. 'I took no more pains for those
 thanks than you took pains to thank me.' That's as much as to
 say, 'Any pains that I take for you is as easy as thanks.' If I
 do not take pity of her, I am a villain; if I do not love her, I
+am a Jew. I will go get her picture.
 
 Hero
 6
@@ -4506,6 +4504,7 @@ Taming my wild heart to thy loving hand.
 If thou dost love, my kindness shall incite thee
 To bind our loves up in a holy band;
 For others say thou dost deserve, and I
+Believe it better than reportingly.
 
 Pedro
 0
@@ -4754,10 +4753,9 @@ Leon
 For my life, to break with him about Beatrice!
 
 Claud
-4
-Bene
+3
 Pedro
-John
+Bene
 Leon
 'Tis even so. Hero and Margaret have by this played their
 parts with Beatrice, and then the two bears will not bite one
@@ -5156,6 +5154,7 @@ Verg
 One word more, honest neighbours. I pray you watch about
 Signior Leonato's door; for the wedding being there tomorrow,
 there is a great coil to-night. Adieu. Be vigitant, I beseech
+you.
 
 Bora
 2
@@ -7560,6 +7559,7 @@ this morning secretly stol'n away. Hero was in this manner
 accus'd, in this manner refus'd, and upon the grief of this
 suddenly died. Master Constable, let these men be bound and
 brought to Leonato's. I will go before and show him their
+examination.
 
 Dog
 6
@@ -7693,9 +7693,8 @@ Yet bend not all the harm upon yourself.
 Make those that do offend you suffer too.
 
 Leon
-2
+1
 Ant
-Pedro
 There thou speak'st reason. Nay, I will do so.
 My soul doth tell me Hero is belied;
 And that shall Claudio know; so shall the Prince,
@@ -9179,13 +9178,11 @@ Bene
 My heart is with your liking.
 
 Friar
-4
+3
 Ant
-Pedro
 Bene
 Leon
 And my help.
-Here comes the Prince and Claudio.
 
 Pedro
 4
@@ -9248,13 +9245,12 @@ As once Europa did at lusty Jove
 When he would play the noble beast in love.
 
 Bene
-6
-Pedro
-Hero
-Leon
+5
 Ant
+Pedro
 Friar
 Claud
+Leon
 Bull Jove, sir, had an amiable low,
 And some such strange bull leap'd your father's cow
 And got a calf in that same noble feat

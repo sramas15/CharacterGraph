@@ -1092,9 +1092,8 @@ HERMIONE
 I will seem friendly, as thou hast advis'd me.
 
 CAMILLO
-3
+2
 MAMILLIUS
-POLIXENES
 HERMIONE
 O miserable lady! But, for me,
 What case stand I in? I must be the poisoner
@@ -1532,13 +1531,10 @@ Dwelt by a churchyard- I will tell it softly;
 Yond crickets shall not hear it.
 
 HERMIONE
-6
-LORDS
+3
 FIRST LADY
-LEONTES
 SECOND LADY
 MAMILLIUS
-ANTIGONUS
 Come on then,
 And give't me in mine ear.
 
@@ -2075,6 +2071,7 @@ PAULINA
 1
 GENTLEMAN
 The keeper of the prison- call to him;
+Let him have knowledge who I am.
 
 GAOLER
 1
@@ -2117,6 +2114,7 @@ PAULINA
 GAOLER
 GENTLEMAN
 I pray now, call her.
+Withdraw yourselves.
 
 GAOLER
 2
@@ -2294,6 +2292,7 @@ He straight declin'd, droop'd, took it deeply,
 Fasten'd and fix'd the shame on't in himself,
 Threw off his spirit, his appetite, his sleep,
 And downright languish'd. Leave me solely. Go,
+See how he fares.
 
 FIRST LORD
 4
@@ -2738,6 +2737,7 @@ Look to your babe, my lord; 'tis yours. Jove send her
 A better guiding spirit! What needs these hands?
 You that are thus so tender o'er his follies
 Will never do him good, not one of you.
+So, so. Farewell; we are gone.
 
 LEONTES
 5
@@ -2891,13 +2891,13 @@ Casting their savageness aside, have done
 Like offices of pity. Sir, be prosperous
 In more than this deed does require! And blessing
 Against this cruelty fight on thy side,
+Poor thing, condemn'd to loss!
 
 LEONTES
-5
+4
 LORDS
 FIRST SERVANT
 FIRST LORD
-SERVANT
 SECOND SERVANT
 No, I'll not rear
 Another's issue.
@@ -2926,14 +2926,12 @@ So please you, sir, their speed
 Hath been beyond account.
 
 LEONTES
-7
+5
 LORDS
 FIRST SERVANT
 FIRST LORD
 SERVANT
-DION
 SECOND SERVANT
-CLEOMENES
 Twenty-three days
 They have been absent; 'tis good speed; foretells
 The great Apollo suddenly will have
@@ -3045,14 +3043,11 @@ Even to the guilt or the purgation.
 Produce the prisoner.
 
 OFFICER
-4
+2
 LORDS
-HERMIONE
-PAULINA
 LEONTES
 It is his Highness' pleasure that the Queen
 Appear in person here in court.
-Silence!
 
 LEONTES
 4
@@ -3252,13 +3247,11 @@ Is altogether just. Therefore, bring forth,
 And in Apollo's name, his oracle.
 
 HERMIONE
-7
+5
 LORDS
 PAULINA
 LEONTES
 FIRST LORD
-DION
-CLEOMENES
 OFFICER
 The Emperor of Russia was my father;
 O that he were alive, and here beholding
@@ -3354,11 +3347,10 @@ Ay, my lord; even so
 As it is here set down.
 
 LEONTES
-8
+7
 LORDS
 PAULINA
 FIRST LORD
-SERVANT
 DION
 CLEOMENES
 HERMIONE
@@ -3456,9 +3448,8 @@ This news is mortal to the Queen. Look down
 And see what death is doing.
 
 LEONTES
-8
+7
 LORDS
-PAULINA
 FIRST LORD
 SERVANT
 DION
@@ -3708,6 +3699,7 @@ MARINER
 1
 ANTIGONUS
 I am glad at heart
+To be so rid o' th' business.
 
 ANTIGONUS
 0
@@ -3754,10 +3746,10 @@ The day frowns more and more. Thou'rt like to have
 A lullaby too rough; I never saw
 The heavens so dim by day.  [Noise of hunt within]  A savage
 Well may I get aboard! This is the chase;
+I am gone for ever.
 
 SHEPHERD
-1
-CLOWN
+0
 I would there were no age between ten and three and
 twenty, or that youth would sleep out the rest; for there is
 nothing in the between but getting wenches with child, wronging
@@ -3918,6 +3910,7 @@ And what to her adheres, which follows after,
 Is th' argument of Time. Of this allow,
 If ever you have spent time worse ere now;
 If never, yet that Time himself doth say
+He wishes earnestly you never may.
 
 POLIXENES
 1
@@ -4303,11 +4296,8 @@ O Lady Fortune,
 Stand you auspicious!
 
 FLORIZEL
-4
-SHEPHERD
+1
 PERDITA
-CAMILLO
-POLIXENES
 See, your guests approach.
 Address yourself to entertain them sprightly,
 And let's be red with mirth.
@@ -4661,10 +4651,9 @@ CAMILLO
 She dances featly.
 
 SHEPHERD
-8
+7
 MOPSA
 POLIXENES
-SERVANT
 CLOWN
 DORCAS
 PERDITA
@@ -4804,12 +4793,11 @@ You have of these pedlars that have more in them than you'd
 think, sister.
 
 PERDITA
-9
+8
 SHEPHERD
 MOPSA
 POLIXENES
 SERVANT
-AUTOLYCUS
 CLOWN
 DORCAS
 FLORIZEL
@@ -5408,11 +5396,10 @@ bring away thy pack after me. Wenches, I'll buy for you both.
 Pedlar, let's have the first choice. Follow me, girls.
 
 AUTOLYCUS
-9
+8
 SHEPHERD
 MOPSA
 POLIXENES
-SERVANT
 CLOWN
 DORCAS
 PERDITA
@@ -5958,6 +5945,7 @@ Unworthy thee- if ever henceforth thou
 These rural latches to his entrance open,
 Or hoop his body more with thy embraces,
 I will devise a death as cruel for thee
+As thou art tender to't.
 
 PERDITA
 7
@@ -6011,6 +5999,7 @@ Where no priest shovels in dust. [To PERDITA] O cursed wretch,
 That knew'st this was the Prince, and wouldst adventure
 To mingle faith with him!- Undone, undone!
 If I might die within this hour, I have liv'd
+To die when I desire.
 
 FLORIZEL
 6
@@ -6447,13 +6436,12 @@ We are not furnish'd like Bohemia's son;
 Nor shall appear in Sicilia.
 
 CAMILLO
-6
-MOPSA
-AUTOLYCUS
-CLOWN
+5
 DORCAS
+MOPSA
 PERDITA
 FLORIZEL
+CLOWN
 My lord,
 Fear none of this. I think you know my fortunes
 Do all lie there. It shall be so my care
@@ -6764,10 +6752,8 @@ FLORIZEL
 The swifter speed the better.
 
 AUTOLYCUS
-7
-SHEPHERD
+5
 MOPSA
-CLOWN
 DORCAS
 PERDITA
 FLORIZEL
@@ -6784,9 +6770,6 @@ clog at his heels. If I thought it were a piece of honesty to
 acquaint the King withal, I would not do't. I hold it the more
 knavery to conceal it; and therein am I constant to my
 profession.
-Aside, aside- here is more matter for a hot brain. Every lane's
-end, every shop, church, session, hanging, yields a careful man
-work.
 
 CLOWN
 7
@@ -7413,6 +7396,7 @@ PERDITA
 FLORIZEL
 CAMILLO
 Let's before, as he bids us. He was provided to do us
+good.
 
 AUTOLYCUS
 5
@@ -7430,6 +7414,7 @@ think it fit to shore them again, and that the complaint they
 have to the King concerns him nothing, let him call me rogue for
 being so far officious; for I am proof against that title, and
 what shame else belongs to't. To him will I present them. There
+may be matter in it.
 
 CLEOMENES
 3
@@ -7671,9 +7656,8 @@ My true Paulina,
 We shall not marry till thou bid'st us.
 
 PAULINA
-4
+3
 DION
-GENTLEMAN
 LEONTES
 CLEOMENES
 That
@@ -7801,34 +7785,15 @@ Well with this lord; there was not full a month
 Between their births.
 
 LEONTES
-6
+3
 PAULINA
 DION
 GENTLEMAN
-CLEOMENES
-PERDITA
-FLORIZEL
 Prithee no more; cease. Thou know'st
 He dies to me again when talk'd of. Sure,
 When I shall see this gentleman, thy speeches
 Will bring me to consider that which may
 Unfurnish me of reason.
-They are come.
-Your mother was most true to wedlock, Prince;
-For she did print your royal father off,
-Conceiving you. Were I but twenty-one,
-Your father's image is so hit in you
-His very air, that I should call you brother,
-As I did him, and speak of something wildly
-By us perform'd before. Most dearly welcome!
-And your fair princess- goddess! O, alas!
-I lost a couple that 'twixt heaven and earth
-Might thus have stood begetting wonder as
-You, gracious couple, do. And then I lost-
-All mine own folly- the society,
-Amity too, of your brave father, whom,
-Though bearing misery, I desire my life
-Once more to look on him.
 
 FLORIZEL
 6
@@ -7910,12 +7875,11 @@ But my arrival and my wife's in safety
 Here where we are.
 
 LEONTES
-7
+6
 PAULINA
 DION
 GENTLEMAN
 CLEOMENES
-LORD
 PERDITA
 FLORIZEL
 The blessed gods
@@ -8188,8 +8152,7 @@ GENTLEMAN
 I would most gladly know the issue of it.
 
 FIRST GENTLEMAN
-2
-GENTLEMAN
+1
 AUTOLYCUS
 I make a broken delivery of the business; but the
 changes I perceived in the King and Camillo were very notes of
@@ -8200,20 +8163,14 @@ a world ransom'd, or one destroyed. A notable passion of wonder
 appeared in them; but the wisest beholder that knew no more but
 seeing could not say if th' importance were joy or sorrow- but in
 the extremity of the one it must needs be.
-Here comes a gentleman that happily knows more. The news, Rogero?
 
 SECOND GENTLEMAN
-3
+2
 FIRST GENTLEMAN
-GENTLEMAN
 AUTOLYCUS
 Nothing but bonfires. The oracle is fulfill'd:
 the King's daughter is found. Such a deal of wonder is broken out
 within this hour that ballad-makers cannot be able to express it.
-Here comes the Lady Paulina's steward; he can deliver you more.
-How goes it now, sir? This news, which is call'd true, is so like
-an old tale that the verity of it is in strong suspicion. Has the
-King found his heir?
 
 THIRD GENTLEMAN
 4
@@ -8376,13 +8333,11 @@ access? Every wink of an eye some new grace will be born. Our
 absence makes us unthrifty to our knowledge. Let's along.
 
 AUTOLYCUS
-6
-SHEPHERD
-THIRD GENTLEMAN
-FIRST GENTLEMAN
-CLOWN
+4
 GENTLEMAN
 SECOND GENTLEMAN
+THIRD GENTLEMAN
+FIRST GENTLEMAN
 Now, had I not the dash of my former life in me, would
 preferment drop on my head. I brought the old man and his son
 aboard the Prince; told him I heard them talk of a fardel and I
@@ -8392,8 +8347,6 @@ sea-sick, and himself little better, extremity of weather
 continuing, this mystery remained undiscover'd. But 'tis all one
 to me; for had I been the finder-out of this secret, it would not
 have relish'd among my other discredits.
-Here come those I have done good to against my will, and already
-appearing in the blossoms of their fortune.
 
 SHEPHERD
 6

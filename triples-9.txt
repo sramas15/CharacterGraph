@@ -39,14 +39,13 @@ EXETER
 Shall we call in th' ambassador, my liege?
 
 KING HENRY
-7
+6
 BEDFORD
 KING
-CANTERBURY
-WESTMORELAND
+EXETER
 WARWICK
 GLOUCESTER
-EXETER
+WESTMORELAND
 Not yet, my cousin; we would be resolv'd,
 Before we hear him, of some things of weight
 That task our thoughts, concerning us and France.
@@ -612,17 +611,16 @@ KING HENRY
 This was a merry message.
 
 KING HENRY
-10
+9
 BEDFORD
 AMBASSADOR
-KING
-CHORUS
-CANTERBURY
-ELY
-WESTMORELAND
-WARWICK
-GLOUCESTER
 EXETER
+ELY
+CANTERBURY
+WARWICK
+KING
+GLOUCESTER
+WESTMORELAND
 We hope to make the sender blush at it.
 Therefore, my lords, omit no happy hour
 That may give furth'rance to our expedition;
@@ -689,6 +687,7 @@ And bring you back, charming the narrow seas
 To give you gentle pass; for, if we may,
 We'll not offend one stomach with our play.
 But, till the King come forth, and not till then,
+Unto Southampton do we shift our scene.
 
 BARDOLPH
 1
@@ -736,10 +735,8 @@ Quickly; and certainly she did you wrong, for you were
 troth-plight to her.
 
 NYM
-3
+1
 BARDOLPH
-PISTOL
-HOSTESS
 I cannot tell; things must be as they may. Men may sleep, and
 they may have their throats about them at that time; and some say
 knives have edges. It must be as it may; though patience be a
@@ -918,6 +915,7 @@ PISTOL
 NYM
 By my troth, he'll yield the crow a pudding one of these
 days: the King has kill'd his heart. Good husband, come home
+presently.
 
 BARDOLPH
 2
@@ -1008,10 +1006,9 @@ NYM
 In cash most justly paid.
 
 NYM
-3
+2
 BARDOLPH
 PISTOL
-HOSTESS
 [Shaking hands] Well, then, that's the humour of't.
 
 HOSTESS
@@ -1082,11 +1079,9 @@ The King hath note of all that they intend,
 By interception which they dream not of.
 
 EXETER
-4
+2
 BEDFORD
-SCROOP
 WESTMORELAND
-KING
 Nay, but the man that was his bedfellow,
 Whom he hath dull'd and cloy'd with gracious favours-
 That he should, for a foreign purse, so sell
@@ -1771,10 +1766,9 @@ Doth like a miser spoil his coat with scanting
 A little cloth.
 
 FRENCH KING
-3
-CONSTABLE
-MESSENGER
+2
 DAUPHIN
+CONSTABLE
 Think we King Harry strong;
 And, Princes, look you strongly arm to meet him.
 The kindred of him hath been flesh'd upon us;
@@ -1810,12 +1804,10 @@ We'll give them present audience. Go and bring them.
 You see this chase is hotly followed, friends.
 
 DAUPHIN
-5
-LORDS
+3
+MESSENGER
 FRENCH KING
 CONSTABLE
-MESSENGER
-EXETER
 Turn head and stop pursuit; for coward dogs
 Most spend their mouths when what they seem to threaten
 Runs far before them. Good my sovereign,
@@ -1983,12 +1975,11 @@ Come here himself to question our delay;
 For he is footed in this land already.
 
 FRENCH KING
-6
+5
 LORDS
-CONSTABLE
-CHORUS
 MESSENGER
 DAUPHIN
+CONSTABLE
 EXETER
 You shall be soon dispatch'd with fair conditions.
 A night is but small breath and little pause
@@ -2036,6 +2027,7 @@ Some petty and unprofitable dukedoms.
 The offer likes not; and the nimble gunner
 With linstock now the devilish cannon touches,
 And down goes all before them. Still be kind,
+And eke out our performance with your mind.
 
 KING
 3
@@ -2116,11 +2108,10 @@ NYM
 And I:
 
 BOY
-4
+3
 BARDOLPH
-PISTOL
-FLUELLEN
 NYM
+PISTOL
             As duly, but not as truly,
 
 FLUELLEN
@@ -2178,6 +2169,7 @@ gloves or their handkerchers; which makes much against my
 manhood, if I should take from another's pocket to put into mine;
 for it is plain pocketing up of wrongs. I must leave them and
 seek some better service; their villainy goes against my weak
+stomach, and therefore I must cast it up.
 
 GOWER
 4
@@ -2229,11 +2221,9 @@ PISTOL
 I think it be.
 
 FLUELLEN
-6
-BARDOLPH
-JAMY
+4
 NYM
-MACMORRIS
+BARDOLPH
 PISTOL
 GOWER
 By Cheshu, he is an ass, as in the world: I will verify
@@ -2914,9 +2904,8 @@ GOWER
 He is call'd Aunchient Pistol.
 
 GOWER
-2
+1
 FLUELLEN
-PISTOL
 I know him not.
 
 FLUELLEN
@@ -3052,15 +3041,13 @@ thought on. But you must learn to know such slanders of the age,
 or else you may be marvellously mistook.
 
 FLUELLEN
-2
+1
 GOWER
-KING
 I tell you what, Captain Gower, I do perceive he is not
 the man that he would gladly make show to the world he is; if I
 find a hole in his coat I will tell him my mind. [Drum within]
 Hark you, the King is coming; and I must speak with him from the
 pridge.
-God pless your Majesty!
 
 KING HENRY
 3
@@ -3103,9 +3090,8 @@ plue and sometimes red; but his nose is executed and his fire's
 out.
 
 KING HENRY
-4
+3
 FLUELLEN
-MONTJOY
 GOWER
 KING
 We would have all such offenders so cut off. And we
@@ -3691,8 +3677,7 @@ RAMBURES
 You have shot over.
 
 ORLEANS
-3
-MESSENGER
+2
 CONSTABLE
 RAMBURES
 'Tis not the first time you were overshot.
@@ -3798,8 +3783,7 @@ eat, and none to fight. Now is it time to arm. Come, shall we
 about it?
 
 ORLEANS
-4
-CHORUS
+3
 MESSENGER
 CONSTABLE
 RAMBURES
@@ -3864,13 +3848,13 @@ Where- O for pity!- we shall much disgrace
 With four or five most vile and ragged foils,
 Right ill-dispos'd in brawl ridiculous,
 The name of Agincourt. Yet sit and see,
+Minding true things by what their mock'ries be.
 
 KING HENRY
-4
+3
+BEDFORD
 KING
 GLOUCESTER
-ERPINGHAM
-BEDFORD
 Gloucester, 'tis true that we are in great danger;
 The greater therefore should our courage be.
 Good morrow, brother Bedford. God Almighty!
@@ -3883,9 +3867,6 @@ And preachers to us all, admonishing
 That we should dress us fairly for our end.
 Thus may we gather honey from the weed,
 And make a moral of the devil himself.
-Good morrow, old Sir Thomas Erpingham:
-A good soft pillow for that good white head
-Were better than a churlish turf of France.
 
 ERPINGHAM
 4
@@ -3949,11 +3930,10 @@ BEDFORD
 The Lord in heaven bless thee, noble Harry!
 
 KING HENRY
-5
+4
 KING
 BEDFORD
 ERPINGHAM
-PISTOL
 GLOUCESTER
 God-a-mercy, old heart! thou speak'st cheerfully.
 
@@ -4154,12 +4134,10 @@ GLOUCESTER
 My name is Pistol call'd.
 
 KING HENRY
-6
+4
 KING
 BEDFORD
 ERPINGHAM
-FLUELLEN
-GOWER
 GLOUCESTER
 It sorts well with your fierceness.
 
@@ -4234,12 +4212,10 @@ GLOUCESTER
 I pray you and beseech you that you will.
 
 KING HENRY
-8
+6
 KING
-BATES
 BEDFORD
 ERPINGHAM
-COURT
 FLUELLEN
 GOWER
 GLOUCESTER
@@ -4807,13 +4783,12 @@ Be friends, you English fools, be friends; we have
 French quarrels enow, if you could tell how to reckon.
 
 KING HENRY
-9
+8
 KING
 BATES
 BEDFORD
-ERPINGHAM
-COURT
 FLUELLEN
+COURT
 GOWER
 WILLIAMS
 GLOUCESTER
@@ -4920,15 +4895,14 @@ GLOUCESTER
 I shall do't, my lord.
 
 KING
-8
+7
 BATES
 BEDFORD
 KING HENRY
-COURT
 FLUELLEN
+COURT
 GOWER
 WILLIAMS
-GLOUCESTER
 O God of battles, steel my soldiers' hearts,
 Possess them not with fear! Take from them now
 The sense of reck'ning, if th' opposed numbers
@@ -5004,12 +4978,10 @@ RAMBURES
 Rien puis? L'air et le feu.
 
 DAUPHIN
-3
+2
 ORLEANS
-CONSTABLE
 RAMBURES
 Ciel! cousin Orleans.
-Now, my Lord Constable!
 
 CONSTABLE
 3
@@ -5028,9 +5000,8 @@ That their hot blood may spin in English eyes,
 And dout them with superfluous courage, ha!
 
 RAMBURES
-4
+3
 ORLEANS
-MESSENGER
 DAUPHIN
 CONSTABLE
 What, will you have them weep our horses' blood?
@@ -5045,9 +5016,8 @@ RAMBURES
 The English are embattl'd, you French peers.
 
 CONSTABLE
-5
+4
 ORLEANS
-GRANDPRE
 MESSENGER
 DAUPHIN
 RAMBURES
@@ -5198,13 +5168,12 @@ And yet I do thee wrong to mind thee of it,
 For thou art fram'd of the firm truth of valour.
 
 BEDFORD
-6
-KING
-ERPINGHAM
+5
 SALISBURY
-WESTMORELAND
-GLOUCESTER
 EXETER
+GLOUCESTER
+ERPINGHAM
+WESTMORELAND
 He is as full of valour as of kindness;
 Princely in both.
 
@@ -5221,13 +5190,12 @@ But one ten thousand of those men in England
 That do no work to-day!
 
 KING
-6
+5
 BEDFORD
-ERPINGHAM
-SALISBURY
-WESTMORELAND
-GLOUCESTER
 EXETER
+GLOUCESTER
+ERPINGHAM
+WESTMORELAND
 What's he that wishes so?
 My cousin Westmoreland? No, my fair cousin;
 If we are mark'd to die, we are enow
@@ -5337,15 +5305,14 @@ God's will, my liege! would you and I alone,
 Without more help, could fight this royal battle!
 
 KING HENRY
-8
+7
 BEDFORD
-MONTJOY
+GLOUCESTER
 KING
 ERPINGHAM
+EXETER
 SALISBURY
 WESTMORELAND
-GLOUCESTER
-EXETER
 Why, now thou hast unwish'd five thousand men;
 Which likes me better than to wish us one.
 You know your places. God be with you all!
@@ -5453,17 +5420,17 @@ SALISBURY
 KING HENRY
 WESTMORELAND
 I shall, King Harry. And so fare thee well:
+Thou never shalt hear herald any more.
 
 KING HENRY
-8
+7
 BEDFORD
-YORK
 KING
 ERPINGHAM
-SALISBURY
+EXETER
 WESTMORELAND
 GLOUCESTER
-EXETER
+SALISBURY
 I fear thou wilt once more come again for a ransom.
 
 YORK
@@ -5698,6 +5665,7 @@ PISTOL
 FRENCH SOLDIER
 BOY
 As I suck blood, I will some mercy show.
+Follow me.
 
 BOY
 1
@@ -5950,19 +5918,15 @@ That is he. I'll tell you there is good men porn at
 Monmouth.
 
 GOWER
-4
+1
 FLUELLEN
-WARWICK
-GLOUCESTER
-KING
 Here comes his Majesty.
 
 KING HENRY
-6
+5
 KING
 WARWICK
 FLUELLEN
-MONTJOY
 GOWER
 GLOUCESTER
 I was not angry since I came to France
@@ -6174,15 +6138,14 @@ GLOUCESTER
 Thanks, good my countryman.
 
 FLUELLEN
-8
+7
 KING
-EXETER
+GLOUCESTER
 KING HENRY
 WARWICK
 MONTJOY
 GOWER
-WILLIAMS
-GLOUCESTER
+EXETER
 By Jeshu, I am your Majesty's countryman, care not who
 know it; I will confess it to all the 'orld: I need not be
 asham'd of your Majesty, praised be Got, so long as your Majesty
@@ -6484,14 +6447,12 @@ EXETER
 I will fetch him.
 
 KING HENRY
-7
+5
 KING
-EXETER
+GLOUCESTER
 WARWICK
 MONTJOY
-GOWER
-WILLIAMS
-GLOUCESTER
+EXETER
 My Lord of Warwick and my brother Gloucester,
 Follow Fluellen closely at the heels;
 The glove which I have given him for a favour
@@ -6508,15 +6469,14 @@ Follow, and see there be no harm between them.
 Go you with me, uncle of Exeter.                      Exeunt
 
 WILLIAMS
-8
+7
 KING
-EXETER
+GLOUCESTER
 KING HENRY
 WARWICK
-FLUELLEN
 MONTJOY
 GOWER
-GLOUCESTER
+EXETER
 I warrant it is to knight you, Captain.
 
 FLUELLEN
@@ -6632,15 +6592,13 @@ GLOUCESTER
 I am no traitor.
 
 FLUELLEN
-8
+6
 KING
-EXETER
 KING HENRY
-WARWICK
 MONTJOY
 GOWER
 WILLIAMS
-GLOUCESTER
+EXETER
 That's a lie in thy throat. I charge you in his Majesty's
 name, apprehend him: he's a friend of the Duke Alencon's.
 
@@ -6657,15 +6615,13 @@ GLOUCESTER
 How now! how now! what's the matter?
 
 FLUELLEN
-8
-KING
-EXETER
+6
+GLOUCESTER
 KING HENRY
 WARWICK
 MONTJOY
 GOWER
 WILLIAMS
-GLOUCESTER
 My Lord of Warwick, here is- praised be God for it!- a
 most contagious treason come to light, look you, as you shall
 desire in a summer's day. Here is his Majesty.
@@ -6853,16 +6809,15 @@ GLOUCESTER
 I will none of your money.
 
 FLUELLEN
-9
+8
 KING
-HERALD
-EXETER
+GLOUCESTER
 KING HENRY
 WARWICK
 MONTJOY
 GOWER
 WILLIAMS
-GLOUCESTER
+EXETER
 It is with a good will; I can tell you it will serve you
 to mend your shoes. Come, wherefore should you be so pashful?
 Your shoes is not so good. 'Tis a good silling, I warrant you, or
@@ -7039,17 +6994,16 @@ GLOUCESTER
 Yes, my conscience, he did us great good.
 
 KING HENRY
-10
+9
 KING
-CHORUS
+GLOUCESTER
 HERALD
-EXETER
 WARWICK
 FLUELLEN
 MONTJOY
 GOWER
 WILLIAMS
-GLOUCESTER
+EXETER
 Do we all holy rites:
 Let there be sung 'Non nobis' and 'Te Deum';
 The dead with charity enclos'd in clay-
@@ -7112,6 +7066,7 @@ Till Harry's back-return again to France.
 There must we bring him; and myself have play'd
 The interim, by rememb'ring you 'tis past.
 Then brook abridgment; and your eyes advance,
+After your thoughts, straight back again to France.
 
 GOWER
 1
@@ -7120,8 +7075,7 @@ Nay, that's right; but why wear you your leek to-day? Saint
 Davy's day is past.
 
 FLUELLEN
-2
-PISTOL
+1
 GOWER
 There is occasions and causes why and wherefore in all
 things. I will tell you, ass my friend, Captain Gower: the
@@ -7309,6 +7263,7 @@ and galling at this gentleman twice or thrice. You thought,
 because he could not speak English in the native garb, he could
 not therefore handle an English cudgel; you find it otherwise,
 and henceforth let a Welsh correction teach you a good English
+condition. Fare ye well.
 
 PISTOL
 1
@@ -7322,6 +7277,7 @@ Honour is cudgell'd. Well, bawd I'll turn,
 And something lean to cutpurse of quick hand.
 To England will I steal, and there I'll steal;
 And patches will I get unto these cudgell'd scars,
+And swear I got them in the Gallia wars.
 
 KING HENRY
 4
@@ -8160,17 +8116,16 @@ GLOUCESTER
 Oui, vraiment.
 
 KING HENRY
-10
+9
 BEDFORD
 FRENCH KING
-LORDS
 QUEEN ISABEL
 ALICE
 BURGUNDY
 KATHERINE
 WARWICK
-EXETER
 GLOUCESTER
+EXETER
 O Kate, nice customs curtsy to great kings. Dear Kate,
 you and I cannot be confin'd within the weak list of a country's
 fashion; we are the makers of manners, Kate; and the liberty that
@@ -8624,20 +8579,19 @@ GLOUCESTER
 Amen!
 
 KING HENRY
-13
+12
 BEDFORD
 ALL
+GLOUCESTER
 FRENCH KING
 LORDS
 QUEEN ISABEL
 ALICE
 BURGUNDY
-CHORUS
 KATHERINE
 WARWICK
-WESTMORELAND
 EXETER
-GLOUCESTER
+WESTMORELAND
 Prepare we for our marriage; on which day,
 My Lord of Burgundy, we'll take your oath,
 And all the peers', for surety of our leagues.
@@ -8672,4 +8626,5 @@ Of France and England, did this king succeed;
 Whose state so many had the managing
 That they lost France and made his England bleed;
 Which oft our stage hath shown; and, for their sake,
+In your fair minds let this acceptance take.
 

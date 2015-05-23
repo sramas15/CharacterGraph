@@ -445,16 +445,11 @@ I see a good amendment of life in thee- from praying to
 purse-taking.
 
 Fal
-3
-Poins
+2
 Sir John Falstaff
 Prince
 Why, Hal, 'tis my vocation, Hal. 'Tis no sin for a man to
 labour in his vocation.
-Poins! Now shall we know if Gadshill have set a match. O, if men
-were to be saved by merit, what hole in hell were hot enough for
-him? This is the most omnipotent villain that ever cried 'Stand!'
-to a true man.
 
 Prince
 3
@@ -717,6 +712,7 @@ My reformation, glitt'ring o'er my fault,
 Shall show more goodly and attract more eyes
 Than that which hath no foil to set it off.
 I'll so offend to make offence a skill,
+Redeeming time when men think least I will.
 
 King
 1
@@ -1449,21 +1445,9 @@ Uncle, adieu. O, let the hours be short
 Till fields and blows and groans applaud our sport!    Exeunt.
 
 Ost
-1
-Carrier
+0
 [within] Anon, anon.
 point. Poor jade is wrung in the withers out of all cess.
-next way to give poor jades the bots. This house is turned upside
-down since Robin Ostler died.
-was the death of him.
-for fleas. I am stung like a tench.
-could be better bit than I have been since the first cock.
-your chimney, and your chamber-lye breeds fleas like a loach.
-delivered as far as Charing Cross.
-What, ostler! A plague on thee! hast thou never an eye in thy
-head? Canst not hear? An 'twere not as good deed as drink to
-break the pate on thee, I am a very villain. Come, and be hang'd!
-Hast no faith in thee?
 
 Gads
 2
@@ -1708,10 +1692,8 @@ Fal
 Out, ye rogue! Shall I be your ostler?
 
 Fal
-4
+2
 Poins
-Bardolph
-Peto
 Prince
 Go hang thyself in thine own heir-apparent garters! If I be
 ta'en, I'll peach for this. An I have not ballads made on you
@@ -1976,14 +1958,12 @@ Gads
 O, we are undone, both we and ours for ever!
 
 Fal
-8
-Poins
+6
 Bar
 Bardolph
 Peto
 Traveller
 Thieves
-Prince
 Gads
 Hang ye, gorbellied knaves, are ye undone? No, ye fat chuffs;
 I would your store were here! On, bacons on! What, ye knaves!
@@ -2005,12 +1985,11 @@ rob the thieves and go merrily to London, it would be argument
 for a week, laughter for a month, and a good jest for ever.
 
 Poins
-8
+7
 Bar
 Bardolph
 Peto
 Traveller
-Thieves
 Fal
 Prince
 Gads
@@ -2086,8 +2065,7 @@ Gads
 How the rogue roar'd!                           Exeunt.
 
 Hot
-1
-Lady
+0
 'But, for mine own part, my lord, I could be well contented to
 be there, in respect of the love I bear your house.' He could be
 contented- why is he not then? In respect of the love he bears
@@ -2117,7 +2095,6 @@ all our proceedings. O, I could divide myself and go to buffets
 for moving such a dish of skim milk with so honourable an action!
 Hang him, let him tell the King! we are prepared. I will set
 forward to-night.
-How now, Kate? I must leave you within these two hours.
 
 Lady
 1
@@ -2538,6 +2515,7 @@ Poins
 Fran
 Prince
 What, stand'st thou still, and hear'st such a calling? Look
+to the guests within.
 
 Prince
 2
@@ -2547,7 +2525,7 @@ Let them alone awhile, and then open the door.
 Poins!
 
 Poins
-2
+1
 Fran
 Prince
 [within] Anon, anon, sir.
@@ -2583,10 +2561,8 @@ Prince
 Anon, anon, sir.
 
 Prince
-3
+1
 Poins
-Bardolph
-Peto
 That ever this fellow should have fewer words than a
 parrot, and yet the son of a woman! His industry is upstairs and
 downstairs, his eloquence the parcel of a reckoning. I am not yet
@@ -4017,9 +3993,8 @@ Falstaff, banish not him thy Harry's company, banish not him thy
 Harry's company. Banish plump Jack, and banish all the world!
 
 Prince
-7
+6
 Poins
-Bardolph
 Peto
 Host
 Bard
@@ -4145,18 +4120,17 @@ Bard
 Prince
 Gads
 Both which I have had; but their date is out, and therefore
+I'll hide me.
 
 Prince
-7
+6
 Poins
 Bardolph
 Peto
 Host
-Carrier
 Bard
 Gads
 Call in the sheriff.
-Now, Master Sheriff, what is your will with me?
 
 Sher
 8
@@ -4383,9 +4357,8 @@ money shall be paid back again with advantage. Be with me betimes
 in the morning, and so good morrow, Peto.
 
 Peto
-9
+8
 Poins
-Owen Glendower
 Bardolph
 Host
 Carrier
@@ -5135,6 +5108,7 @@ The moon shines fair; you may away by night.
 I'll haste the writer, and withal
 Break with your wives of your departure hence.
 I am afraid my daughter will run mad,
+So much she doteth on her Mortimer.
 
 Mort
 12
@@ -5618,6 +5592,7 @@ Prince
 Gads
 'Tis the next way to turn tailor or be redbreast-teacher. An
 the indentures be drawn, I'll away within these two hours; and so
+come in when ye will.
 
 Glend
 12
@@ -5839,12 +5814,10 @@ And I will die a hundred thousand deaths
 Ere break the smallest parcel of this vow.
 
 King
-2
-Blunt
+1
 Prince
 A hundred thousand rebels die in this!
 Thou shalt have charge and sovereign trust herein.
-How now, good Blunt? Thy looks are full of speed.
 
 Blunt
 2
@@ -6054,16 +6027,12 @@ O Jesu, I have heard the Prince tell him, I know not how oft,
 that that ring was copper!
 
 Fal
-5
-Poins
-Bardolph
+3
 Host
 Bard
-Prince
+Bardolph
 How? the Prince is a Jack, a sneak-cup. 'Sblood, an he were
 here, I would cudgel him like a dog if he would say so.
-How now, lad? Is the wind in that door, i' faith? Must we all
-march?
 
 Bard
 5
@@ -6451,6 +6420,7 @@ Prince
 Hostess, I forgive thee. Go make ready breakfast. Love thy
 husband, look to thy servants, cherish thy guests. Thou shalt
 find me tractable to any honest reason. Thou seest I am pacified.
+-Still?- Nay, prithee be gone.
 
 Prince
 4
@@ -6554,6 +6524,7 @@ At two o'clock in the afternoon.
 There shalt thou know thy charge. and there receive
 Money and order for their furniture.
 The land is burning; Percy stands on high;
+And either they or we must lower lie.
 
 Fal
 4
@@ -6760,12 +6731,11 @@ We shall o'erturn it topsy-turvy down.
 Yet all goes well; yet all our joints are whole.
 
 Doug
-5
-Mess
-Sir Richard Vernon
-Wor
+4
 Hot
 Messenger
+Mess
+Wor
 As heart can think. There is not such a word
 Spoke of in Scotland as this term of fear.
 
@@ -6992,10 +6962,9 @@ Fal
 I Will, Captain. Farewell.
 
 Fal
-3
+2
 Bardolph
 Bald
-Prince
 If I be not ashamed of my soldiers, I am a sous'd gurnet. I
 have misused the King's press damnably. I have got in exchange of
 a hundred and fifty soldiers, three hundred and odd pounds. I
@@ -7151,6 +7120,7 @@ Bald
 Prince
 Well,
 To the latter end of a fray and the beginning of a feast
+Fits a dull fighter and a keen guest.
 
 Hot
 0
@@ -7270,11 +7240,10 @@ In general journey-bated and brought low.
 The better part of ours are full of rest.
 
 Wor
-4
+3
 Hot
-Doug
 Ver
-Sir Walter Blunt
+Doug
 The number of the King exceedeth ours.
 For God's sake, cousin, stay till all come in.
 
@@ -7936,12 +7905,11 @@ England did never owe so sweet a hope,
 So much misconstrued in his wantonness.
 
 Hot
-5
+4
 Ver
+Doug
 Sir Richard Vernon
 Wor
-Messenger
-Doug
 Cousin, I think thou art enamoured
 Upon his follies. Never did I hear
 Of any prince so wild a libertine.
@@ -7964,13 +7932,12 @@ Doug
 My lord, here are letters for you.
 
 Hot
-6
+5
 Ver
+Doug
 Mess
 Sir Richard Vernon
 Wor
-Messenger
-Doug
 I cannot read them now.-
 O gentlemen, the time of life is short!
 To spend that shortness basely were too long
@@ -8108,10 +8075,9 @@ Up and away!
 Our soldiers stand full fairly for the day.
 
 Fal
-4
+3
 Hot
 Blunt
-Prince
 Doug
 Though I could scape shot-free at London, I fear the shot
 here. Here's no scoring but upon the pate. Soft! who are you?
@@ -8190,6 +8156,7 @@ Well, if Percy be alive, I'll pierce him. If he do come in my
 way, so; if he do not, if I come in his willingly, let him make a
 carbonado of me. I like not such grinning honour as Sir Walter
 hath. Give me life; which if I can save, so; if not, honour comes
+unlook'd for, and there's an end.
 
 King
 2
@@ -8270,6 +8237,7 @@ King
 John
 West
 O, this boy
+Lends mettle to us all!
 
 Doug
 3
@@ -8294,11 +8262,10 @@ But, seeing thou fall'st on me so luckily,
 I will assay thee. So defend thyself.
 
 Doug
-4
+3
+West
 King
 John
-Prince
-West
 I fear thou art another counterfeit;
 And yet, in faith, thou bearest thee like a king.
 But mine I am sure thou art, whoe'er thou be,
@@ -8486,15 +8453,14 @@ If I were much in love with vanity!
 Death hath not struck so fat a deer to-day,
 Though many dearer, in this bloody fray.
 Embowell'd will I see thee by-and-by;
+Till then in blood by noble Percy lie.
 
 Fal
-6
+4
 King
-West
 Hot
 Doug
-John
-Prince
+West
 Embowell'd? If thou embowel me to-day, I'll give you leave to
 powder me and eat me too to-morrow. 'Sblood, 'twas time to
 counterfeit, or that hot termagant Scot had paid me scot and lot

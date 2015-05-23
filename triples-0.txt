@@ -219,10 +219,10 @@ LAFEU
 1
 HELENA
 Farewell, pretty lady; you must hold the credit of your
+father.
 
 HELENA
-1
-PAROLLES
+0
 O, were that all! I think not on my father;
 And these great tears grace his remembrance more
 Than those I shed for him. What was he like?
@@ -397,9 +397,8 @@ HELENA
 What's pity?
 
 HELENA
-2
+1
 PAROLLES
-PAGE
 That wishing well had not a body in't
 Which might be felt; that we, the poorer born,
 Whose baser stars do shut us up in wishes,
@@ -487,6 +486,7 @@ counsel, and understand what advice shall thrust upon thee; else
 thou diest in thine unthankfulness, and thine ignorance makes
 thee away. Farewell. When thou hast leisure, say thy prayers;
 when thou hast none, remember thy friends. Get thee a good
+husband and use him as he uses thee. So, farewell.
 
 HELENA
 0
@@ -503,6 +503,7 @@ That weigh their pains in sense, and do suppose
 What hath been cannot be. Who ever strove
 To show her merit that did miss her love?
 The King's disease-my project may deceive me,
+But my intents are fix'd, and will not leave me.
 
 KING OF FRANCE
 0
@@ -550,11 +551,8 @@ A nursery to our gentry, who are sick
 For breathing and exploit.
 
 KING OF FRANCE
-5
+2
 FIRST LORD
-BERTRAM
-LAFEU
-PAROLLES
 SECOND LORD
 What's he comes here?
 
@@ -936,6 +934,7 @@ STEWARD
 That man should be at woman's command, and yet no hurt done!
 Though honesty be no puritan, yet it will do no hurt; it will
 wear the surplice of humility over the black gown of a big heart.
+I am going, forsooth. The business is for Helen to come hither.
 
 COUNTESS OF ROUSILLON
 1
@@ -980,6 +979,7 @@ Many likelihoods inform'd me of this before, which hung so
 tott'ring in the balance that I could neither believe nor
 misdoubt. Pray you leave me. Stall this in your bosom; and I
 thank you for your honest care. I will speak with you further
+anon.
 
 COUNTESS OF ROUSILLON
 2
@@ -1329,7 +1329,7 @@ KING OF FRANCE
 2
 FIRST LORD
 SECOND LORD
-[To ATTENDANTS]  Come hither to me.      Exeunt
+[To ATTENDANTS]  Come hither to me.
 
 FIRST LORD
 1
@@ -1437,12 +1437,11 @@ We shall, noble Captain.
 PAROLLES
 1
 BERTRAM
-Mars dote on you for his novices!       Exeunt
+Mars dote on you for his novices!
 
 PAROLLES
-2
+1
 BERTRAM
-KING OF FRANCE
  What will ye do?
 
 BERTRAM
@@ -1553,11 +1552,10 @@ LAFEU
 1
 KING OF FRANCE
 Nay, I'll fit you,
+And not be all day neither.
 
 KING OF FRANCE
-2
-HELENA
-LAFEU
+0
 Thus he his special nothing ever prologues.
 
 LAFEU
@@ -1580,6 +1578,7 @@ Nay, come your ways;
 This is his Majesty; say your mind to him.
 A traitor you do look like; but such traitors
 His Majesty seldom fears. I am Cressid's uncle,
+That dare leave two together. Fare you well.
 
 KING OF FRANCE
 1
@@ -2106,11 +2105,9 @@ which should, indeed, give us a further use to be made than alone
 the recov'ry of the King, as to be-
 
 LAFEU
-4
-BERTRAM
+2
 PAROLLES
-HELENA
-KING OF FRANCE
+BERTRAM
 Generally thankful.
 
 PAROLLES
@@ -2156,24 +2153,16 @@ HELENA
 Go, call before me all the lords in court.
 
 KING OF FRANCE
-7
-FIRST LORD
-FOURTH LORD
+4
 BERTRAM
 LAFEU
 PAROLLES
 HELENA
-SECOND LORD
 Sit, my preserver, by thy patient's side;
 And with this healthful hand, whose banish'd sense
 Thou has repeal'd, a second time receive
 The confirmation of my promis'd gift,
 Which but attends thy naming.
-Fair maid, send forth thine eye. This youthful parcel
-Of noble bachelors stand at my bestowing,
-O'er whom both sovereign power and father's voice
-I have to use. Thy frank election make;
-Thou hast power to choose, and they none to forsake.
 
 HELENA
 7
@@ -2994,15 +2983,15 @@ HELENA
 SECOND LORD
 I would it were hell pains for thy sake, and my poor doing
 eternal; for doing I am past, as I will by thee, in what motion
+age will give me leave.
 
 PAROLLES
-8
+7
 FIRST LORD
 ALL
 FOURTH LORD
 KING OF FRANCE
 BERTRAM
-LAFEU
 HELENA
 SECOND LORD
 Well, thou hast a son shall take this disgrace off me:
@@ -3107,6 +3096,7 @@ Go to, sir; you were beaten in Italy for picking a kernel
 out of a pomegranate; you are a vagabond, and no true traveller;
 you are more saucy with lords and honourable personages than the
 commission of your birth and virtue gives you heraldry. You are
+not worth another word, else I'd call you knave. I leave you.
 
 PAROLLES
 7
@@ -3304,8 +3294,7 @@ CLOWN
 What two things?
 
 CLOWN
-2
-PAROLLES
+1
 HELENA
 One, that she's not in heaven, whither God send her quickly!
 The other, that she's in earth, from whence God send her quickly!
@@ -3479,9 +3468,8 @@ I do assure you, my lord, he is very great in knowledge,
 and accordingly valiant.
 
 LAFEU
-2
+1
 BERTRAM
-PAROLLES
 I have then sinn'd against his experience and transgress'd
 against his valour; and my state that way is dangerous, since I
 cannot yet find in my heart to repent. Here he comes; I pray you
@@ -3591,6 +3579,7 @@ kernal in this light nut; the soul of this man is his clothes;
 trust him not in matter of heavy consequence; I have kept of them
 tame, and know their natures. Farewell, monsieur; I have spoken
 better of you than you have or will to deserve at my hand; but we
+must do good against evil.
 
 PAROLLES
 1
@@ -3608,9 +3597,8 @@ BERTRAM
 Why, do you not know him?
 
 BERTRAM
-2
+1
 PAROLLES
-HELENA
 Yes, I do know him well; and common speech
 Gives him a worthy pass. Here comes my clog.
 
@@ -3725,6 +3713,7 @@ BERTRAM
 PAROLLES
 HELENA
 Where are my other men, monsieur?
+Farewell!
 
 BERTRAM
 2
@@ -3735,9 +3724,8 @@ Whilst I can shake my sword or hear the drum.
 Away, and for our flight.
 
 PAROLLES
-3
+2
 BERTRAM
-DUKE OF FLORENCE
 HELENA
 Bravely, coragio!                             Exeunt
 
@@ -3808,14 +3796,12 @@ That surfeit on their ease, will day by day
 Come here for physic.
 
 DUKE OF FLORENCE
-7
+5
 FIRST LORD
 BERTRAM
-CLOWN
 PAROLLES
 HELENA
 SECOND LORD
-COUNTESS OF ROUSILLON
 Welcome shall they be
 And all the honours that can fly from us
 Shall on them settle. You know your places well;
@@ -3919,11 +3905,10 @@ COUNTESS OF ROUSILLON
 E'en that you have there.
 
 COUNTESS OF ROUSILLON
-7
+6
 FIRST LORD
 DUKE OF FLORENCE
 BERTRAM
-CLOWN
 PAROLLES
 HELENA
 SECOND LORD
@@ -3996,6 +3981,7 @@ COUNTESS OF ROUSILLON
 So say I, madam, if he run away, as I hear he does the
 danger is in standing to 't; that's the loss of men, though it be
 the getting of children. Here they come will tell you more. For my
+part, I only hear your son was run away.
 
 SECOND GENTLEMAN
 8
@@ -4354,6 +4340,7 @@ HELENA
 SECOND GENTLEMAN
 SECOND LORD
 Not so, but as we change our courtesies.
+Will you draw near?
 
 HELENA
 7
@@ -4394,6 +4381,7 @@ The air of paradise did fan the house,
 And angels offic'd all. I will be gone,
 That pitiful rumour may report my flight
 To consolate thine ear. Come, night; end, day.
+For with the dark, poor thief, I'll steal away.
 
 DUKE OF FLORENCE
 6
@@ -4433,15 +4421,13 @@ And Fortune play upon thy prosperous helm,
 As thy auspicious mistress!
 
 BERTRAM
-8
+6
 FIRST LORD
 DUKE OF FLORENCE
 FIRST GENTLEMAN
-STEWARD
 PAROLLES
 SECOND GENTLEMAN
 SECOND LORD
-COUNTESS OF ROUSILLON
 This very day,
 Great Mars, I put myself into thy file;
 Make me but like my thoughts, and I shall prove
@@ -4518,17 +4504,15 @@ She might have been o'er ta'en; and yet she writes
 Pursuit would be but vain.
 
 COUNTESS OF ROUSILLON
-10
+8
 FIRST LORD
 DUKE OF FLORENCE
 BERTRAM
 FIRST GENTLEMAN
 STEWARD
 PAROLLES
-DIANA
 SECOND GENTLEMAN
 SECOND LORD
-WIDOW
 What angel shall
 Bless this unworthy husband? He cannot thrive,
 Unless her prayers, whom heaven delights to hear
@@ -4653,11 +4637,10 @@ hope your own grace will keep you where you are, though there
 were no further danger known but the modesty which is so lost.
 
 DIANA
-12
+11
 FIRST LORD
 DUKE OF FLORENCE
 MARIANA
-HELENA
 BERTRAM
 FIRST GENTLEMAN
 STEWARD
@@ -5318,17 +5301,14 @@ There's four or five, to great Saint Jaques bound,
 Already at my house.
 
 HELENA
-12
-FIRST LORD
+9
 DUKE OF FLORENCE
 MARIANA
-BERTRAM
+DIANA
 FIRST GENTLEMAN
 STEWARD
 PAROLLES
-DIANA
 SECOND GENTLEMAN
-SECOND LORD
 COUNTESS OF ROUSILLON
 WIDOW
 I humbly thank you.
@@ -5501,15 +5481,14 @@ with the divine forfeit of his soul upon oath, never trust my
 judgment in anything.
 
 FIRST LORD
-12
+11
 DUKE OF FLORENCE
 MARIANA
-HELENA
 BERTRAM
+DIANA
 FIRST GENTLEMAN
 STEWARD
-PAROLLES
-DIANA
+HELENA
 SECOND GENTLEMAN
 SECOND LORD
 COUNTESS OF ROUSILLON
@@ -5995,17 +5974,15 @@ And this is all I have done. She's a fair creature;
 Will you go see her?
 
 FIRST LORD
-10
+8
 DUKE OF FLORENCE
 MARIANA
-HELENA
 BERTRAM
+DIANA
 FIRST GENTLEMAN
 STEWARD
-DIANA
 SECOND GENTLEMAN
 COUNTESS OF ROUSILLON
-WIDOW
 With all my heart, my lord.                 Exeunt
 
 HELENA
@@ -6219,8 +6196,7 @@ SECOND SOLDIER
 E'en such as you speak to me.
 
 SECOND LORD
-3
-PAROLLES
+2
 FIRST SOLDIER
 SECOND SOLDIER
 He must think us some band of strangers i' th'
@@ -6491,6 +6467,7 @@ SECOND LORD
 SECOND SOLDIER
 ALL
 Acordo linta.
+Come on; thou art granted space.
 
 SECOND LORD
 3
@@ -6693,6 +6670,7 @@ When his wife's dead; therefore I'll lie with him
 When I am buried. Since Frenchmen are so braid,
 Marry that will, I live and die a maid.
 Only, in this disguise, I think't no sin
+To cozen him that would unjustly win.
 
 SECOND LORD
 1
@@ -6883,13 +6861,11 @@ They shall be no more than needful there, if they were
 more than they can commend.
 
 FIRST LORD
-3
+2
 SERVANT
 SECOND LORD
-BERTRAM
 They cannot be too sweet for the King's tartness.
 Here's his lordship now.
-How now, my lord, is't not after midnight?
 
 BERTRAM
 3
@@ -6927,7 +6903,7 @@ SECOND LORD
 SERVANT
 FIRST LORD
 BERTRAM
-Bring him forth.  [Exeunt
+Bring him forth.  [
 
 BERTRAM
 3
@@ -6957,11 +6933,9 @@ SECOND LORD
 Nothing of me, has 'a?
 
 SECOND LORD
-5
+3
 FIRST LORD
-FIRST SOLDIER
 SERVANT
-PAROLLES
 BERTRAM
 His confession is taken, and it shall be read to his
 face; if your lordship be in't, as I believe you are, you must
@@ -7808,6 +7782,7 @@ BERTRAM
 If you could find out a country where but women were
 that had received so much shame, you might begin an impudent
 nation. Fare ye well, sir; I am for France too; we shall speak of
+you there.
 
 PAROLLES
 4
@@ -7825,6 +7800,7 @@ That every braggart shall be found an ass.
 Rust, sword; cool, blushes; and, Parolles, live
 Safest in shame. Being fool'd, by fool'ry thrive.
 There's place and means for every man alive.
+I'll after them.
 
 HELENA
 2
@@ -8057,6 +8033,7 @@ CLOWN
 LAFEU
 COUNTESS OF ROUSILLON
 If I put any tricks upon 'em, sir, they shall be jades'
+tricks, which are their own right by the law of nature.
 
 LAFEU
 1
@@ -8115,9 +8092,8 @@ LAFEU
 You need but plead your honourable privilege.
 
 LAFEU
-2
+1
 COUNTESS OF ROUSILLON
-CLOWN
 Lady, of that I have made a bold charter; but, I thank my
 God, it holds yet.
 
@@ -8158,9 +8134,8 @@ Faith, there's a dozen of 'em, with delicate fine hats, and
 most courteous feathers, which bow the head and nod at every man.
 
 HELENA
-3
+2
 DIANA
-GENTLEMAN
 WIDOW
 But this exceeding posting day and night
 Must wear your spirits low; we cannot help it.
@@ -8168,9 +8143,6 @@ But since you have made the days and nights as one,
 To wear your gentle limbs in my affairs,
 Be bold you do so grow in my requital
 As nothing can unroot you.
-In happy time!
-This man may help me to his Majesty's ear,
-If he would spend his power. God save you, sir.
 
 GENTLEMAN
 3
@@ -8290,11 +8262,9 @@ WIDOW
 This I'll do for you.
 
 HELENA
-5
+3
 DIANA
 GENTLEMAN
-CLOWN
-PAROLLES
 WIDOW
 And you shall find yourself to be well thank'd,
 Whate'er falls more. We must to horse again;
@@ -8354,12 +8324,11 @@ WIDOW
 Pray you, sir, deliver me this paper.
 
 CLOWN
-6
-DIANA
-LAFEU
-GENTLEMAN
+5
 PAROLLES
 HELENA
+DIANA
+GENTLEMAN
 WIDOW
 Foh! prithee stand away. A paper from Fortune's close-stool
 to give to a nobleman! Look here he comes himself.
@@ -8377,6 +8346,7 @@ a musk-cat, that has fall'n into the unclean fishpond of her
 displeasure, and, as he says, is muddied withal. Pray you, sir,
 use the carp as you may; for he looks like a poor, decayed,
 ingenious, foolish, rascally knave. I do pity his distress
+in my similes of comfort, and leave him to your lordship.
 
 PAROLLES
 5
@@ -8482,15 +8452,10 @@ talk of you last night. Though you are a fool and a knave, you
 shall eat. Go to; follow.
 
 PAROLLES
-9
-FIRST LORD
-KING OF FRANCE
+4
 DIANA
-LAFEU
 GENTLEMAN
 HELENA
-SECOND LORD
-COUNTESS OF ROUSILLON
 WIDOW
 I praise God for you.                         Exeunt
 
@@ -8623,13 +8588,12 @@ WIDOW
 All that he is hath reference to your Highness.
 
 KING OF FRANCE
-9
+8
 FIRST LORD
 DIANA
 LAFEU
-BERTRAM
-PAROLLES
 HELENA
+PAROLLES
 SECOND LORD
 COUNTESS OF ROUSILLON
 WIDOW
@@ -8958,13 +8922,13 @@ WIDOW
 If you shall prove
 This ring was ever hers, you shall as easy
 Prove that I husbanded her bed in Florence,
+Where she yet never was.
 
 KING OF FRANCE
-9
+8
 FIRST LORD
 DIANA
 LAFEU
-GENTLEMAN
 PAROLLES
 HELENA
 SECOND LORD
@@ -9046,35 +9010,31 @@ I am afeard the life of Helen, lady,
 Was foully snatch'd.
 
 COUNTESS OF ROUSILLON
-10
+9
 FIRST LORD
 KING OF FRANCE
 DIANA
 LAFEU
-GENTLEMAN
-BERTRAM
-PAROLLES
 HELENA
+GENTLEMAN
+PAROLLES
 SECOND LORD
 WIDOW
 Now, justice on the doers!
 
 KING OF FRANCE
-10
+8
 FIRST LORD
-DIANA
 LAFEU
-GENTLEMAN
-BERTRAM
-PAROLLES
 HELENA
+GENTLEMAN
+PAROLLES
+BERTRAM
 SECOND LORD
 COUNTESS OF ROUSILLON
-WIDOW
 I wonder, sir, sith wives are monsters to you.
 And that you fly them as you swear them lordship,
 Yet you desire to marry.
-What woman's that?
 
 DIANA
 10
@@ -9536,14 +9496,13 @@ The story, then, goes false you threw it him
 Out of a casement.
 
 DIANA
-10
+9
 FIRST LORD
 KING OF FRANCE
 LAFEU
+HELENA
 GENTLEMAN
 BERTRAM
-PAROLLES
-HELENA
 SECOND LORD
 COUNTESS OF ROUSILLON
 WIDOW
@@ -10148,17 +10107,15 @@ WIDOW
 Good mother, fetch my bail. Stay, royal sir;
 
 DIANA
-10
+8
 FIRST LORD
 KING OF FRANCE
 LAFEU
 GENTLEMAN
-BERTRAM
 PAROLLES
-HELENA
+BERTRAM
 SECOND LORD
 COUNTESS OF ROUSILLON
-WIDOW
  The jeweller that owes the ring is sent for,
 And he shall surety me. But for this lord
 Who hath abus'd me as he knows himself,

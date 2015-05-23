@@ -29,9 +29,7 @@ On some apparent danger seen in him
 Aim'd at your Highness-no inveterate malice.
 
 KING RICHARD
-3
-MOWBRAY
-BOLINGBROKE
+1
 GAUNT
 Then call them to our presence: face to face
 And frowning brow to brow, ourselves will hear
@@ -495,8 +493,7 @@ The Duke of Norfolk, spightfully and bold,
 Stays but the summons of the appelant's trumpet.
 
 AUMERLE
-2
-MOWBRAY
+1
 MARSHAL
 Why then, the champions are prepar'd, and stay
 For nothing but his Majesty's approach.
@@ -523,9 +520,8 @@ Speak truly on thy knighthood and thy oath;
 As so defend thee heaven and thy valour!
 
 MOWBRAY
-4
+3
 KING RICHARD
-BOLINGBROKE
 AUMERLE
 MARSHAL
 My name is Thomas Mowbray, Duke of Norfolk;
@@ -971,6 +967,7 @@ And I from heaven banish'd as from hence!
 But what thou art, God, thou, and I, do know;
 And all too soon, I fear, the King shall rue.
 Farewell, my liege. Now no way can I stray:
+Save back to England, an the world's my way.
 
 KING RICHARD
 6
@@ -1379,11 +1376,10 @@ Ere further leisure yicld them further means
 For their advantage and your Highness' loss.
 
 KING RICHARD
-4
-AUMERLE
-BAGOT
+3
 GREEN
-BUSHY
+BAGOT
+AUMERLE
 We will ourself in person to this war;
 And, for our coffers, with too great a court
 And liberal largess, are grown somewhat light,
@@ -1395,7 +1391,6 @@ Whereto, when they shall know what men are rich,
 They shall subscribe them for large sums of gold,
 And send them after to supply our wants;
 For we will make for Ireland presently.
-Bushy, what news?
 
 BUSHY
 4
@@ -1705,11 +1700,10 @@ He loves you, on my life, and holds you dear
 As Harry Duke of Hereford, were he here.
 
 KING RICHARD
-4
-NORTHUMBERLAND
-QUEEN
-YORK
+3
 GAUNT
+YORK
+QUEEN
 Right, you say true: as Hereford's love, so his;
 As theirs, so mine; and all be as it is.
 
@@ -1851,6 +1845,7 @@ QUEEN
 I'll not be by the while. My liege, farewell.
 What will ensue hereof there's none can tell;
 But by bad courses may be understood
+That their events can never fall out good.
 
 KING RICHARD
 3
@@ -2182,9 +2177,8 @@ QUEEN
 'Tis nothing but conceit, my gracious lady.
 
 QUEEN
-3
+2
 BAGOT
-GREEN
 BUSHY
 'Tis nothing less: conceit is still deriv'd
 From some forefather grief; mine is not so,
@@ -2277,10 +2271,9 @@ GREEN
 Despair not, madam.
 
 QUEEN
-4
+3
 BAGOT
 GREEN
-YORK
 BUSHY
 Who shall hinder me?
 I will despair, and be at enmity
@@ -2308,11 +2301,10 @@ O, full of careful business are his looks!
 Uncle, for God's sake, speak comfortable words.
 
 YORK
-5
-SERVINGMAN
-QUEEN
+4
 GREEN
 BAGOT
+QUEEN
 BUSHY
 Should I do so, I should belie my thoughts.
 Comfort's in heaven; and we are on the earth,
@@ -2559,8 +2551,7 @@ Shall make their way seem short, as mine hath done
 By sight of what I have, your noble company.
 
 BOLINGBROKE
-2
-PERCY
+1
 NORTHUMBERLAND
 Of much less value is my company
 Than your good words. But who comes here?
@@ -2659,8 +2650,7 @@ How far is it to Berkeley? And what stir
 Keeps good old York there with his men of war?
 
 PERCY
-3
-WILLOUGHBY
+2
 BOLINGBROKE
 NORTHUMBERLAND
 There stands the castle, by yon tuft of trees,
@@ -2703,11 +2693,10 @@ ROSS
 And far surmounts our labour to attain it.
 
 BOLINGBROKE
-5
+4
 WILLOUGHBY
-NORTHUMBERLAND
 PERCY
-BERKELEY
+NORTHUMBERLAND
 ROSS
 Evermore thanks, the exchequer of the poor;
 Which, till my infant fortune comes to years,
@@ -2744,12 +2733,11 @@ And I must find that title in your tongue
 Before I make reply to aught you say.
 
 BERKELEY
-6
+5
 WILLOUGHBY
-NORTHUMBERLAND
-BOLINGBROKE
 PERCY
-YORK
+BOLINGBROKE
+NORTHUMBERLAND
 ROSS
 Mistake me not, my lord; 'tis not my meaning
 To raze one title of your honour out.
@@ -3002,6 +2990,7 @@ The one in fear to lose what they enjoy,
 The other to enjoy by rage and war.
 These signs forerun the death or fall of kings.
 Farewell. Our countrymen are gone and fled,
+As well assur'd Richard their King is dead.
 
 SALISBURY
 0
@@ -3011,6 +3000,7 @@ Fall to the base earth from the firmament!
 The sun sets weeping in the lowly west,
 Witnessing storms to come, woe, and unrest;
 Thy friends are fled, to wait upon thy foes;
+And crossly to thy good all fortune goes.
 
 BOLINGBROKE
 5
@@ -3173,9 +3163,8 @@ Whilst Bolingbroke, through our security,
 Grows strong and great in substance and in power.
 
 KING RICHARD
-3
+2
 AUMERLE
-SALISBURY
 CARLISLE
 Discomfortable cousin! know'st thou not
 That when the searching eye of heaven is hid,
@@ -3204,7 +3193,6 @@ To lift shrewd steel against our golden crown,
 God for his Richard hath in heavenly pay
 A glorious angel. Then, if angels fight,
 Weak men must fall; for heaven still guards the right.
-Welcome, my lord. How far off lies your power?
 
 SALISBURY
 3
@@ -3250,8 +3238,7 @@ CARLISLE
 Comfort, my liege; remember who you are.
 
 KING RICHARD
-4
-SCROOP
+3
 AUMERLE
 SALISBURY
 CARLISLE
@@ -3570,13 +3557,11 @@ Take not, good cousin, further than you should,
 Lest you mistake. The heavens are over our heads.
 
 BOLINGBROKE
-3
-PERCY
+2
 NORTHUMBERLAND
 YORK
 I know it, uncle; and oppose not myself
 Against their will. But who comes here?
-Welcome, Harry. What, will not this castle yield?
 
 PIERCY
 4
@@ -3618,12 +3603,11 @@ YORK
 O, belike it is the Bishop of Carlisle.
 
 BOLINGBROKE
-5
-NORTHUMBERLAND
+4
 PERCY
 YORK
+NORTHUMBERLAND
 PIERCY
-CARLISLE
 [To NORTHUMBERLAND] Noble lord,
 Go to the rude ribs of that ancient castle;
 Through brazen trumpet send the breath of parley
@@ -3655,12 +3639,6 @@ Be he the fire, I'll be the yielding water;
 The rage be his, whilst on the earth I rain
 My waters-on the earth, and not on him.
 March on, and mark King Richard how he looks.
-See, see, King Richard doth himself appear,
-As doth the blushing discontented sun
-From out the fiery portal of the east,
-When he perceives the envious clouds are bent
-To dim his glory and to stain the track
-Of his bright passage to the occident.
 
 YORK
 5
@@ -4072,16 +4050,10 @@ QUEEN
 I could weep, madam, would it do you good.
 
 QUEEN
-2
+1
 LADY
-GARDENER
 And I could sing, would weeping do me good,
 And never borrow any tear of thee.
-But stay, here come the gardeners.
-Let's step into the shadow of these trees.
-My wretchedness unto a row of pins,
-They will talk of state, for every one doth so
-Against a change: woe is forerun with woe.
 
 GARDENER
 2
@@ -4520,13 +4492,12 @@ BAGOT
 As surely as I live, my lord.
 
 BOLINGBROKE
-8
+7
 SURREY
 ANOTHER LORD
 PERCY
 FITZWATER
 AUMERLE
-YORK
 BAGOT
 CARLISLE
 Sweet peace conduct his sweet soul to the bosom
@@ -4656,15 +4627,13 @@ CARLISLE
 I will be his conduct.
 
 BOLINGBROKE
-10
+8
 SURREY
-KING RICHARD
+PERCY
 NORTHUMBERLAND
 ANOTHER LORD
-PERCY
 FITZWATER
 AUMERLE
-YORK
 BAGOT
 CARLISLE
 Lords, you that here are under our arrest,
@@ -5348,23 +5317,13 @@ Come home with me to supper; I will lay
 A plot shall show us all a merry day.                 Exeunt
 
 QUEEN
-1
-KING RICHARD
+0
 This way the King will come; this is the way
 To Julius Caesar's ill-erected tower,
 To whose flint bosom my condemned lord
 Is doom'd a prisoner by proud Bolingbroke.
 Here let us rest, if this rebellious earth
 Have any resting for her true King's queen.
-But soft, but see, or rather do not see,
-My fair rose wither. Yet look up, behold,
-That you in pity may dissolve to dew,
-And wash him fresh again with true-love tears.
-Ah, thou, the model where old Troy did stand;
-Thou map of honour, thou King Richard's tomb,
-And not King Richard; thou most beauteous inn,
-Why should hard-favour'd grief be lodg'd in thee,
-When triumph is become an alehouse guest?
 
 KING RICHARD
 1
@@ -5394,9 +5353,8 @@ And fawn on rage with base humility,
 Which art a lion and the king of beasts?
 
 KING RICHARD
-2
+1
 QUEEN
-NORTHUMBERLAND
 A king of beasts, indeed! If aught but beasts,
 I had been still a happy king of men.
 Good sometimes queen, prepare thee hence for France.
@@ -5607,9 +5565,8 @@ YORK
 Here comes my son Aumerle.
 
 YORK
-2
+1
 DUCHESS
-AUMERLE
 Aumerle that was
 But that is lost for being Richard's friend,
 And madam, you must call him Rudand now.
@@ -5901,9 +5858,8 @@ And wear it as a favour; and with that
 He would unhorse the lustiest challenger.
 
 BOLINGBROKE
-2
+1
 PERCY
-AUMERLE
 As dissolute as desperate; yet through both
 I see some sparks of better hope, which elder years
 May happily bring forth. But who comes here?
@@ -5987,7 +5943,7 @@ YORK
 Stay thy revengeful hand; thou hast no cause to fear.
 
 YORK
-3
+2
 PERCY
 BOLINGBROKE
 AUMERLE
@@ -6097,9 +6053,8 @@ My dangerous cousin, let your mother in.
 I know she is come to pray for your foul sin.
 
 YORK
-4
+3
 PERCY
-DUCHESS
 BOLINGBROKE
 AUMERLE
 If thou do pardon whosoever pray,
@@ -6344,8 +6299,7 @@ Meaning the King at Pomfret. Come, let's go.
 I am the King's friend, and will rid his foe.         Exeunt
 
 KING RICHARD
-1
-GROOM
+0
 I have been studying how I may compare
 This prison where I live unto the world
 And, for because the world is populous
@@ -6453,8 +6407,7 @@ KING RICHARD
 So proudly as if he disdain'd the ground.
 
 KING RICHARD
-2
-KEEPER
+1
 GROOM
 So proud that Bolingbroke was on his back!
 That jade hath eat bread from my royal hand;
@@ -6545,14 +6498,12 @@ This dead King to the living King I'll bear.
 Take hence the rest, and give them burial here.       Exeunt
 
 BOLINGBROKE
-2
-NORTHUMBERLAND
+1
 YORK
 Kind uncle York, the latest news we hear
 Is that the rebels have consum'd with fire
 Our town of Ciceter in Gloucestershire;
 But whether they be ta'en or slain we hear not.
-Welcome, my lord. What is the news?
 
 NORTHUMBERLAND
 2
@@ -6565,10 +6516,9 @@ The manner of their taking may appear
 At large discoursed in this paper here.
 
 BOLINGBROKE
-3
+2
 NORTHUMBERLAND
 YORK
-FITZWATER
 We thank thee, gentle Percy, for thy pains;
 And to thy worth will add right worthy gains.
 
@@ -6583,12 +6533,10 @@ Two of the dangerous consorted traitors
 That sought at Oxford thy dire overthrow.
 
 BOLINGBROKE
-5
+3
 NORTHUMBERLAND
-PERCY
 FITZWATER
 YORK
-CARLISLE
 Thy pains, Fitzwater, shall not be forgot;
 Right noble is thy merit, well I wot.
 
@@ -6606,13 +6554,12 @@ But here is Carlisle living, to abide
 Thy kingly doom, and sentence of his pride.
 
 BOLINGBROKE
-6
-NORTHUMBERLAND
+5
 PERCY
+NORTHUMBERLAND
 FITZWATER
-YORK
-EXTON
 CARLISLE
+YORK
 Carlisle, this is your doom:
 Choose out some secret place, some reverend room,
 More than thou hast, and with it joy thy life;

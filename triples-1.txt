@@ -1190,6 +1190,7 @@ CHARMIAN
 See where he is, who's with him, what he does.
 I did not send you. If you find him sad,
 Say I am dancing; if in mirth, report
+That I am sudden sick. Quick, and return.
 
 CHARMIAN
 0
@@ -2951,7 +2952,7 @@ Good night, sir.
 CAESAR
 1
 ANTONY
-Good night.                  Exeunt
+Good night.
 
 ANTONY
 0
@@ -3409,6 +3410,7 @@ CHARMIAN
 ALL
 MARDIAN
 Nay, then I'll run.
+What mean you, madam? I have made no fault.
 
 CHARMIAN
 3
@@ -3540,6 +3542,7 @@ O, that his fault should make a knave of thee
 That art not what th'art sure of! Get thee hence.
 The merchandise which thou hast brought from Rome
 Are all too dear for me. Lie they upon thy hand,
+And be undone by 'em!
 
 CHARMIAN
 3
@@ -3941,7 +3944,7 @@ ALL
 CAESAR
 ANTONY
 LEPIDUS
-Come.               Exeunt
+Come.
 
 MENAS
 5
@@ -6615,6 +6618,7 @@ There's gold for thee.
 Thou must not take my former sharpness ill.
 I will employ thee back again; I find thee
 Most fit for business. Go make thee ready;
+Our letters are prepar'd.
 
 CHARMIAN
 15
@@ -10870,6 +10874,7 @@ THYREUS
 DOLABELLA
 What, no more ceremony? See, my women!
 Against the blown rose may they stop their nose
+That kneel'd unto the buds. Admit him, sir.
 
 ENOBARBUS
 26
@@ -11290,6 +11295,7 @@ DOLABELLA
 [Aside] To be sure of that,
 I will ask Antony. Sir, sir, thou art so leaky
 That we must leave thee to thy sinking, for
+Thy dearest quit thee.
 
 THYREUS
 26
@@ -11752,6 +11758,7 @@ MENAS
 DOLABELLA
 Tug him away. Being whipt,
 Bring him again: the Jack of Caesar's shall
+Bear us an errand to him.
 
 CLEOPATRA
 27
@@ -12099,6 +12106,7 @@ My speech and what is done, tell him he has
 Hipparchus, my enfranched bondman, whom
 He may at pleasure whip or hang or torture,
 As he shall like, to quit me. Urge it thou.
+Hence with thy stripes, be gone.
 
 CLEOPATRA
 26
@@ -12564,6 +12572,7 @@ Do so, we'll speak to them; and to-night I'll force
 The wine peep through their scars. Come on, my queen,
 There's sap in't yet. The next time I do fight
 I'll make death love me; for I will contend
+Even with his pestilent scythe.
 
 ENOBARBUS
 27
@@ -12600,6 +12609,7 @@ The dove will peck the estridge; and I see still
 A diminution in our captain's brain
 Restores his heart. When valour preys on reason,
 It eats the sword it fights with. I will seek
+Some way to leave him.
 
 CAESAR
 26
@@ -15329,6 +15339,7 @@ DOLABELLA
 Go charge Agrippa
 Plant those that have revolted in the vant,
 That Antony may seem to spend his fury
+Upon himself.
 
 ENOBARBUS
 32
@@ -15488,6 +15499,7 @@ Mock not, Enobarbus.
 I tell you true. Best you saf'd the bringer
 Out of the host. I must attend mine office,
 Or would have done't myself. Your emperor
+Continues still a Jove.
 
 ENOBARBUS
 31
@@ -15531,6 +15543,7 @@ If swift thought break it not, a swifter mean
 Shall outstrike thought; but thought will do't, I feel.
 I fight against thee? No! I will go seek
 Some ditch wherein to die; the foul'st best fits
+My latter part of life.
 
 AGRIPPA
 31
@@ -16999,6 +17012,7 @@ MENAS
 DOLABELLA
 Yet they are not join'd. Where yond pine does stand
 I shall discover all. I'll bring thee word
+Straight how 'tis like to go.
 
 SCARUS
 34
@@ -17089,6 +17103,7 @@ Like friends long lost. Triple-turn'd whore! 'tis thou
 Hast sold me to this novice; and my heart
 Makes only wars on thee. Bid them all fly;
 For when I am reveng'd upon my charm,
+I have done all. Bid them all fly; begone.
 
 CLEOPATRA
 34
@@ -17172,6 +17187,7 @@ Follow his chariot, like the greatest spot
 Of all thy sex; most monster-like, be shown
 For poor'st diminutives, for doits, and let
 Patient Octavia plough thy visage up
+With her prepared nails.
 
 CLEOPATRA
 34
@@ -17839,6 +17855,7 @@ MENAS
 DOLABELLA
 Unarm, Eros; the long day's task is done,
 And we must sleep. That thou depart'st hence safe
+Does pay thy labour richly. Go.
 
 ANTONY
 35
@@ -17886,6 +17903,7 @@ The battery from my heart. O, cleave, my sides!
 Heart, once be stronger than thy continent,
 Crack thy frail case. Apace, Eros, apace.-
 No more a soldier. Bruised pieces, go;
+You have been nobly borne.- From me awhile.
 
 EROS
 35
@@ -19021,7 +19039,7 @@ THIRD SOLDIER
 CAPTAIN
 MENAS
 DOLABELLA
-Nor any one.                         Exeunt
+Nor any one.
 
 DERCETAS
 37
@@ -19191,6 +19209,7 @@ CAPTAIN
 MENAS
 DOLABELLA
 Lives he?
+Wilt thou not answer, man?
 
 ANTONY
 37
@@ -22408,6 +22427,7 @@ THIRD SOLDIER
 CAPTAIN
 MENAS
 You see how easily she may be surpris'd.
+Guard her till Caesar come.
 
 IRAS
 39

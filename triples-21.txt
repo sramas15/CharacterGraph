@@ -27,6 +27,7 @@ Go, Philostrate,
 Stir up the Athenian youth to merriments;
 Awake the pert and nimble spirit of mirth;
 Turn melancholy forth to funerals;
+The pale companion is not for our pomp.
 
 EGEUS
 4
@@ -447,12 +448,11 @@ In that same place thou hast appointed me,
 To-morrow truly will I meet with thee.
 
 LYSANDER
-7
+6
 THESEUS
 HERMIA
 DEMETRIUS
 EGEUS
-HELENA
 HIPPOLYTA
 PHILOSTRATE
 Keep promise, love. Look, here comes Helena.
@@ -675,6 +675,7 @@ Then to the wood will he to-morrow night
 Pursue her; and for this intelligence
 If I have thanks, it is a dear expense.
 But herein mean I to enrich my pain,
+To have his sight thither and back again.
 
 QUINCE
 5
@@ -1165,10 +1166,8 @@ A merrier hour was never wasted there.
 But room, fairy, here comes Oberon.
 
 FAIRY
-3
-OBERON
+1
 PUCK
-TITANIA
 And here my mistress. Would that he were gone!
 
 OBERON
@@ -1384,12 +1383,11 @@ OBERON
 FAIRY
 TITANIA
 I'll put a girdle round about the earth
+In forty minutes.
 
 OBERON
-4
-HELENA
+2
 FAIRY
-DEMETRIUS
 TITANIA
 Having once this juice,
 I'll watch Titania when she is asleep,
@@ -1543,16 +1541,15 @@ Your wrongs do set a scandal on my sex.
 We cannot fight for love as men may do;
 We should be woo'd, and were not made to woo.
 I'll follow thee, and make a heaven of hell,
+To die upon the hand I love so well.
 
 OBERON
-4
-PUCK
-DEMETRIUS
+3
 TITANIA
 FAIRY
+DEMETRIUS
 Fare thee well, nymph; ere he do leave this grove,
 Thou shalt fly him, and he shall seek thy love.
-Hast thou the flower there? Welcome, wanderer.
 
 PUCK
 4
@@ -1634,11 +1631,9 @@ TITANIA
      Philomel with melody, etc.       [TITANIA Sleeps]
 
 FIRST FAIRY
-4
+2
 CHORUS
 SECOND FAIRY
-OBERON
-TITANIA
 Hence away; now all is well.
 
 OBERON
@@ -1654,6 +1649,7 @@ Be it ounce, or cat, or bear,
 Pard, or boar with bristled hair,
 In thy eye that shall appear
 When thou wak'st, it is thy dear.
+Wake when some vile thing is near.
 
 LYSANDER
 5
@@ -1742,24 +1738,21 @@ And then end life when I end loyalty!
 Here is my bed; sleep give thee all his rest!
 
 HERMIA
-6
-PUCK
-LYSANDER
-TITANIA
+5
 CHORUS
-FIRST FAIRY
+LYSANDER
 SECOND FAIRY
+FIRST FAIRY
+TITANIA
 With half that wish the wisher's eyes be press'd!
 
 PUCK
-8
-DEMETRIUS
+6
 HERMIA
-LYSANDER
+FIRST FAIRY
 TITANIA
 CHORUS
-HELENA
-FIRST FAIRY
+LYSANDER
 SECOND FAIRY
      Through the forest have I gone,
 
@@ -1906,6 +1899,7 @@ In such disdainful manner me to woo.
 But fare you well; perforce I must confess
 I thought you lord of more true gentleness.
 O, that a lady of one man refus'd
+Should of another therefore be abus'd!
 
 LYSANDER
 6
@@ -1924,6 +1918,7 @@ Are hated most of those they did deceive,
 So thou, my surfeit and my heresy,
 Of all be hated, but the most of me!
 And, all my powers, address your love and might
+To honour Helen, and to be her knight!
 
 HERMIA
 5
@@ -1943,6 +1938,7 @@ What, out of hearing gone? No sound, no word?
 Alack, where are you? Speak, an if you hear;
 Speak, of all loves! I swoon almost with fear.
 No? Then I well perceive you are not nigh.
+Either death or you I'll find immediately.
 
 BOTTOM
 10
@@ -2300,13 +2296,12 @@ wall; and let him hold his fingers thus, and through that cranny
 shall Pyramus and Thisby whisper.
 
 QUINCE
-10
-SNOUT
-FLUTE
-BOTTOM
-PUCK
-TITANIA
+9
 CHORUS
+BOTTOM
+FLUTE
+TITANIA
+SNOUT
 FIRST FAIRY
 SNUG
 STARVELING
@@ -2390,6 +2385,7 @@ QUINCE
 -odours savours sweet;
 So hath thy breath, my dearest Thisby dear.
 But hark, a voice! Stay thou but here awhile,
+And by and by I will to thee appear.
 
 PUCK
 9
@@ -2460,12 +2456,10 @@ you answer to Pyramus. You speak all your part at once, cues, and
 all. Pyramus enter: your cue is past; it is 'never tire.'
 
 FLUTE
-10
-SNOUT
-BOTTOM
-PUCK
-TITANIA
+8
 CHORUS
+TITANIA
+SNOUT
 FIRST FAIRY
 SNUG
 STARVELING
@@ -2522,12 +2516,11 @@ And neigh, and bark, and grunt, and roar, and burn,
 Like horse, hound, hog, bear, fire, at every turn.
 
 BOTTOM
-10
-SNOUT
-FLUTE
-PUCK
-TITANIA
+9
 CHORUS
+PUCK
+FLUTE
+TITANIA
 FIRST FAIRY
 SNUG
 STARVELING
@@ -2551,17 +2544,16 @@ QUINCE
 O Bottom, thou art chang'd! What do I see on thee?
 
 BOTTOM
-10
-SNOUT
-FLUTE
-PUCK
-TITANIA
+9
 CHORUS
+PUCK
+FLUTE
+TITANIA
+SNOUT
 FIRST FAIRY
 SNUG
 STARVELING
 SECOND FAIRY
-QUINCE
 What do you see? You see an ass-head of your own, do you?
 
 QUINCE
@@ -2691,18 +2683,14 @@ Not so, neither; but if I had wit enough to get out of this
 wood, I have enough to serve mine own turn.
 
 TITANIA
-14
-SNOUT
-FLUTE
-BOTTOM
-MOTH
-PEASEBLOSSOM
-PUCK
-MUSTARDSEED
+10
 CHORUS
+PUCK
+BOTTOM
+FLUTE
+SNOUT
 FIRST FAIRY
 SNUG
-COBWEB
 STARVELING
 SECOND FAIRY
 QUINCE
@@ -3081,13 +3069,10 @@ Lamenting some enforced chastity.
 Tie up my love's tongue, bring him silently.          Exeunt
 
 OBERON
-1
-PUCK
+0
 I wonder if Titania be awak'd;
 Then, what it was that next came in her eye,
 Which she must dote on in extremity.
-Here comes my messenger. How now, mad spirit!
-What night-rule now about this haunted grove?
 
 PUCK
 1
@@ -3130,10 +3115,8 @@ But hast thou yet latch'd the Athenian's eyes
 With the love-juice, as I did bid thee do?
 
 PUCK
-3
-HERMIA
+1
 OBERON
-DEMETRIUS
 I took him sleeping- that is finish'd too-
 And the Athenian woman by his side;
 That, when he wak'd, of force she must be ey'd.
@@ -3249,6 +3232,7 @@ PUCK
 DEMETRIUS
 A privilege never to see me more.
 And from thy hated presence part I so;
+See me no more whether he be dead or no.
 
 DEMETRIUS
 2
@@ -3293,10 +3277,10 @@ PUCK
 OBERON
 DEMETRIUS
 I go, I go; look how I go,
+Swifter than arrow from the Tartar's bow.
 
 OBERON
-2
-PUCK
+1
 DEMETRIUS
       Flower of this purple dye,
 
@@ -3313,9 +3297,7 @@ DEMETRIUS
       Stand aside. The noise they make
 
 PUCK
-4
-HELENA
-LYSANDER
+2
 OBERON
 DEMETRIUS
         Then will two at once woo one.
@@ -3451,12 +3433,11 @@ DEMETRIUS
 Helen, it is not so.
 
 DEMETRIUS
-5
-HERMIA
-PUCK
+4
+OBERON
 HELENA
 LYSANDER
-OBERON
+PUCK
 Disparage not the faith thou dost not know,
 Lest, to thy peril, thou aby it dear.
 Look where thy love comes; yonder is thy dear.
@@ -4047,6 +4028,7 @@ DEMETRIUS
 I will not trust you, I;
 Nor longer stay in your curst company.
 Your hands than mine are quicker for a fray;
+My legs are longer though, to run away.
 
 HERMIA
 4
@@ -4135,11 +4117,11 @@ Even till the eastern gate, all fiery red,
 Opening on Neptune with fair blessed beams,
 Turns into yellow gold his salt green streams.
 But, notwithstanding, haste, make no delay;
+We may effect this business yet ere day.
 
 PUCK
-2
+1
 DEMETRIUS
-LYSANDER
      Up and down, up and down,
 Here comes one.
 
@@ -4166,6 +4148,7 @@ PUCK
 LYSANDER
 DEMETRIUS
 Follow me, then,
+To plainer ground.
 
 DEMETRIUS
 1
@@ -4191,15 +4174,12 @@ LYSANDER
 Yea, art thou there?
 
 PUCK
-2
+1
 DEMETRIUS
-LYSANDER
 Follow my voice; we'll try no manhood here.       Exeunt
 
 LYSANDER
-2
-DEMETRIUS
-PUCK
+0
 He goes before me, and still dares me on;
 When I come where he calls, then he is gone.
 The villain is much lighter heel'd than I.
@@ -4231,9 +4211,8 @@ LYSANDER
 Come hither; I am here.
 
 DEMETRIUS
-3
+2
 PUCK
-HELENA
 LYSANDER
 Nay, then, thou mock'st me. Thou shalt buy this dear,
 If ever I thy face by daylight see;
@@ -4254,10 +4233,9 @@ And sleep, that sometimes shuts up sorrow's eye,
 Steal me awhile from mine own company.              [Sleeps]
 
 PUCK
-4
-DEMETRIUS
-HERMIA
+3
 HELENA
+DEMETRIUS
 LYSANDER
       Yet but three? Come one more;
 
@@ -4454,6 +4432,7 @@ MOTH
 PEASEBLOSSOM
 MUSTARDSEED
 Sleep thou, and I will wind thee in my arms.
+Fairies, be gone, and be all ways away.
 
 OBERON
 7
@@ -4602,15 +4581,13 @@ COBWEB
     Then, my Queen, in silence sad,
 
 TITANIA
-9
-THESEUS
+7
 BOTTOM
 MOTH
 PEASEBLOSSOM
 PUCK
 MUSTARDSEED
 COBWEB
-HIPPOLYTA
 OBERON
    Come, my lord; and in our flight,
 
@@ -4630,6 +4607,7 @@ For now our observation is perform'd,
 And since we have the vaward of the day,
 My love shall hear the music of my hounds.
 Uncouple in the western valley; let them go.
+Dispatch, I say, and find the forester.
 
 HIPPOLYTA
 8
@@ -5048,6 +5026,7 @@ will get Peter Quince to write a ballad of this dream. It shall
 be call'd 'Bottom's Dream,' because it hath no bottom; and I will
 sing it in the latter end of a play, before the Duke.
 Peradventure, to make it the more gracious, I shall sing it at
+her death.
 
 QUINCE
 3
@@ -5096,10 +5075,9 @@ Yea, and the best person too; and he is a very paramour for
 a sweet voice.
 
 FLUTE
-4
+3
 SNOUT
 QUINCE
-SNUG
 STARVELING
 You must say 'paragon.' A paramour is- God bless us!- A
 thing of naught.
@@ -5115,8 +5093,7 @@ or three lords and ladies more married. If our sport had gone
 forward, we had all been made men.
 
 FLUTE
-5
-BOTTOM
+4
 SNOUT
 SNUG
 STARVELING
@@ -5216,12 +5193,8 @@ Or in the night, imagining some fear,
 How easy is a bush suppos'd a bear?
 
 HIPPOLYTA
-6
+2
 THESEUS
-HERMIA
-DEMETRIUS
-HELENA
-LYSANDER
 PHILOSTRATE
 But all the story of the night told over,
 And all their minds transfigur'd so together,
@@ -5439,13 +5412,12 @@ PHILOSTRATE
 He says they can do nothing in this kind.
 
 THESEUS
-6
+5
+HELENA
+HIPPOLYTA
 HERMIA
 DEMETRIUS
-HELENA
 LYSANDER
-HIPPOLYTA
-PHILOSTRATE
 The kinder we, to give them thanks for nothing.
 Our sport shall be to take what they mistake;
 And what poor duty cannot do, noble respect
@@ -5475,14 +5447,12 @@ HIPPOLYTA
 SO please your Grace, the Prologue is address'd.
 
 THESEUS
-8
+6
 HERMIA
 DEMETRIUS
 HELENA
 LYSANDER
 HIPPOLYTA
-PROLOGUE
-QUINCE
 PHILOSTRATE
 Let him approach.              [Flourish of trumpets]
 
@@ -5655,8 +5625,7 @@ PHILOSTRATE
 Would you desire lime and hair to speak better?
 
 DEMETRIUS
-10
-PYRAMUS
+9
 THESEUS
 WALL
 HERMIA
@@ -5723,12 +5692,11 @@ PHILOSTRATE
 The wall, methinks, being sensible, should curse again.
 
 PYRAMUS
-11
+10
 THESEUS
 WALL
 HERMIA
 DEMETRIUS
-THISBY
 HELENA
 LYSANDER
 HIPPOLYTA
@@ -5924,6 +5892,7 @@ PROLOGUE
 QUINCE
 PHILOSTRATE
 Thus have I, Wall, my part discharged so;
+And, being done, thus Wall away doth go.
 
 THESEUS
 10
@@ -5998,15 +5967,13 @@ PHILOSTRATE
 It must be your imagination then, and not theirs.
 
 THESEUS
-12
+10
 PYRAMUS
-LION
-MOONSHINE
+LYSANDER
 HERMIA
 DEMETRIUS
 THISBY
 HELENA
-LYSANDER
 HIPPOLYTA
 PROLOGUE
 QUINCE
@@ -6307,16 +6274,15 @@ the moon; I, the Man i' th' Moon; this thorn-bush, my thorn-bush;
 and this dog, my dog.
 
 DEMETRIUS
-13
+12
 PYRAMUS
 THESEUS
-LION
+LYSANDER
 MOONSHINE
 HERMIA
-THISBY
 MOON
 HELENA
-LYSANDER
+LION
 HIPPOLYTA
 PROLOGUE
 QUINCE
@@ -6411,16 +6377,15 @@ Well shone, Moon. Truly, the moon shines with a good
 grace.            [The LION tears THISBY'S Mantle, and exit]
 
 THESEUS
-13
-PYRAMUS
-LION
+12
+LYSANDER
 MOONSHINE
 HERMIA
 DEMETRIUS
 THISBY
 MOON
 HELENA
-LYSANDER
+LION
 HIPPOLYTA
 PROLOGUE
 QUINCE
@@ -6589,17 +6554,16 @@ With the help of a surgeon he might yet recover and yet
 prove an ass.
 
 HIPPOLYTA
-13
+12
 PYRAMUS
 THESEUS
-LION
+LYSANDER
 MOONSHINE
 HERMIA
 DEMETRIUS
-THISBY
 MOON
 HELENA
-LYSANDER
+LION
 PROLOGUE
 QUINCE
 PHILOSTRATE
@@ -6767,18 +6731,17 @@ parted their fathers. Will it please you to see the Epilogue, or
 to hear a Bergomask dance between two of our company?
 
 THESEUS
-15
-PYRAMUS
-PUCK
-LION
-BOTTOM
+14
 MOONSHINE
+THISBY
+HELENA
+LION
+PYRAMUS
+BOTTOM
 HERMIA
 DEMETRIUS
-THISBY
-MOON
-HELENA
 LYSANDER
+MOON
 HIPPOLYTA
 PROLOGUE
 QUINCE
@@ -6799,24 +6762,22 @@ A fortnight hold we this solemnity,
 In nightly revels and new jollity.                    Exeunt
 
 PUCK
-17
-PYRAMUS
+15
 THESEUS
-LION
-TITANIA
-BOTTOM
 MOONSHINE
+THISBY
+HELENA
+LION
+PYRAMUS
+BOTTOM
 HERMIA
 DEMETRIUS
-THISBY
-MOON
-HELENA
 LYSANDER
+MOON
 HIPPOLYTA
 PROLOGUE
 QUINCE
 PHILOSTRATE
-OBERON
      Now the hungry lion roars,
 
 OBERON

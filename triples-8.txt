@@ -58,8 +58,7 @@ Tell thou the Earl
 That the Lord Bardolph doth attend him here.
 
 PORTER
-2
-NORTHUMBERLAND
+1
 LORD BARDOLPH
 His lordship is walk'd forth into the orchard.
 Please it your honour knock but at the gate,
@@ -117,8 +116,7 @@ How is this deriv'd?
 Saw you the field? Came you from Shrewsbury?
 
 LORD BARDOLPH
-3
-TRAVERS
+2
 NORTHUMBERLAND
 PORTER
 I spake with one, my lord, that came from thence;
@@ -537,8 +535,7 @@ FALSTAFF
 He's gone into Smithfield to buy your worship horse.
 
 FALSTAFF
-2
-SERVANT
+1
 PAGE
 I bought him in Paul's, and he'll buy me a horse in
 Smithfield. An I could get me but a wife in the stews, I were
@@ -1092,6 +1089,7 @@ is incurable. Go bear this letter to my Lord of Lancaster; this
 to the Prince; this to the Earl of Westmoreland; and this to old
 Mistress Ursula, whom I have weekly sworn to marry since I
 perceiv'd the first white hair of my chin. About it; you know
+where to find me.
 
 ARCHBISHOP
 2
@@ -1406,12 +1404,9 @@ HOSTESS
 An I but fist him once; an 'a come but within my vice!
 
 HOSTESS
-5
+2
 FANG
-BARDOLPH
-FALSTAFF
 SNARE
-PAGE
 I am undone by his going; I warrant you, he's an
 infinitive thing upon my score. Good Master Fang, hold him sure.
 Good Master Snare, let him not scape. 'A comes continuantly to
@@ -1425,9 +1420,6 @@ have been fubb'd off, and fubb'd off, and fubb'd off, from this
 day to that day, that it is a shame to be thought on. There is no
 honesty in such dealing; unless a woman should be made an ass and
 a beast, to bear every knave's wrong.
-Yonder he comes; and that arrant malmsey-nose knave, Bardolph,
-with him. Do your offices, do your offices, Master Fang and
-Master Snare; do me, do me, do me your offices.
 
 FALSTAFF
 5
@@ -1713,14 +1705,13 @@ You speak as having power to do wrong; but answer in
 th' effect of your reputation, and satisfy the poor woman.
 
 FALSTAFF
-7
+6
 CHIEF JUSTICE
-HOSTESS
 FANG
+HOSTESS
 BARDOLPH
-GOWER
-SNARE
 PAGE
+SNARE
 Come hither, hostess.
 
 CHIEF JUSTICE
@@ -2215,10 +2206,8 @@ POINS
 And to thee.
 
 POINS
-3
-BARDOLPH
+1
 PRINCE
-PAGE
 By this light, I am well spoke on; I can hear it with mine
 own ears. The worst that they can say of me is that I am a second
 brother and that I am a proper fellow of my hands; and those two
@@ -2562,7 +2551,7 @@ And for mine, sir, I will govern it.
 PRINCE
 1
 POINS
-Fare you well; go.            Exeunt
+Fare you well; go.
 
 POINS
 1
@@ -2744,11 +2733,9 @@ By the mass, here will be old uds; it will be an
 excellent stratagem.
 
 SECOND DRAWER
-4
+2
 THIRD DRAWER
 FRANCIS
-HOSTESS
-DOLL
 I'll see if I can find out Sneak.
 
 HOSTESS
@@ -2773,11 +2760,10 @@ SECOND DRAWER
 Better than I was- hem.
 
 HOSTESS
-5
+4
+SECOND DRAWER
 DOLL
 THIRD DRAWER
-FALSTAFF
-SECOND DRAWER
 FRANCIS
 Why, that's well said; a good heart's worth gold.
 Lo, here comes Sir John.
@@ -2790,6 +2776,7 @@ DOLL
 THIRD DRAWER
 FRANCIS
  [Singing]  'When Arthur first in court'- Empty the
+jordan.
 
 HOSTESS
 4
@@ -2894,12 +2881,11 @@ you. You are the weaker vessel, as as they say, the emptier
 vessel.
 
 DOLL
-5
-HOSTESS
-THIRD DRAWER
+4
 FALSTAFF
 SECOND DRAWER
-FRANCIS
+HOSTESS
+THIRD DRAWER
 Can a weak empty vessel bear such a huge full hogs-head?
 There's a whole merchant's venture of Bourdeaux stuff in him; you
 have not seen a hulk better stuff'd in the hold. Come, I'll be
@@ -3019,15 +3005,12 @@ FRANCIS
 So you do, hostess.
 
 HOSTESS
-8
-PISTOL
+5
+FRANCIS
 DOLL
-BARDOLPH
 THIRD DRAWER
 FALSTAFF
 SECOND DRAWER
-FRANCIS
-PAGE
 Do I? Yea, in very truth, do I, an 'twere an aspen leaf. I
 cannot abide swagg'rers.
 
@@ -3535,14 +3518,13 @@ I pray thee, Jack, be quiet; the rascal's gone. Ah, you
 whoreson little valiant villain, you!
 
 HOSTESS
-8
-PISTOL
+7
+FRANCIS
 DOLL
-BARDOLPH
 THIRD DRAWER
 FALSTAFF
 SECOND DRAWER
-FRANCIS
+PISTOL
 PAGE
 Are you not hurt i' th' groin? Methought 'a made a shrewd
 thrust at your belly.
@@ -4418,18 +4400,17 @@ PAGE
 His Grace says that which his flesh rebels against.
 
 HOSTESS
-11
+10
 POINS
-PISTOL
+FRANCIS
 DOLL
 BARDOLPH
 THIRD DRAWER
-PRINCE
 FALSTAFF
-PETO
 SECOND DRAWER
-FRANCIS
 PAGE
+PISTOL
+PRINCE
 Who knocks so loud at door? Look to th' door there,
 Francis.
 
@@ -4489,22 +4470,20 @@ And drop upon our bare unarmed heads.
 Give me my sword and cloak. Falstaff, good night.
 
 FALSTAFF
-11
+10
 POINS
-PISTOL
+FRANCIS
 HOSTESS
 DOLL
-BARDOLPH
 THIRD DRAWER
-PRINCE
 PETO
 SECOND DRAWER
-FRANCIS
 PAGE
+PISTOL
+PRINCE
 Now comes in the sweetest morsel of the night, and we
 must hence, and leave it unpick'd.  [Knocking within]  More
 knocking at the door!
-How now! What's the matter?
 
 BARDOLPH
 11
@@ -4635,19 +4614,18 @@ PAGE
  [ Within]  Bid Mistress Tearsheet come to my master.
 
 HOSTESS
-12
+11
 POINS
-KING
-PISTOL
+FRANCIS
 DOLL
 BARDOLPH
 THIRD DRAWER
-PRINCE
-FALSTAFF
 PETO
+FALSTAFF
 SECOND DRAWER
-FRANCIS
 PAGE
+PISTOL
+PRINCE
 O, run Doll, run, run, good Come.  [To BARDOLPH]  She
 comes blubber'd.- Yea, will you come, Doll?           Exeunt
 
@@ -4667,6 +4645,7 @@ PISTOL
 PRINCE
 Go call the Earls of Surrey and of Warwick;
 But, ere they come, bid them o'er-read these letters
+And well consider of them. Make good speed.
 
 WARWICK
 12
@@ -5146,8 +5125,7 @@ Thereafter as they be- a score of good ewes may be worth
 ten pounds.
 
 SHALLOW
-7
-BARDOLPH
+6
 WART
 BULLCALF
 MOULDY
@@ -5254,12 +5232,11 @@ phrases are surely, and ever were, very commendable.
 'Accommodated!' It comes of accommodo. Very good; a good phrase.
 
 BARDOLPH
-8
+7
 WART
 SHALLOW
 BULLCALF
 MOULDY
-FALSTAFF
 SHADOW
 FEEBLE
 SILENCE
@@ -6277,13 +6254,12 @@ SILENCE
 Well said; th'art a good fellow.
 
 FEEBLE
-8
+7
 BARDOLPH
 WART
 SHALLOW
 BULLCALF
 MOULDY
-FALSTAFF
 SHADOW
 SILENCE
 Faith, I'll bear no base mind.
@@ -6532,7 +6508,7 @@ MOULDY
 SHADOW
 FEEBLE
 SILENCE
-Fare you well, gentle gentlemen.  [Exeunt
+Fare you well, gentle gentlemen.  [
 
 FALSTAFF
 8
@@ -6544,7 +6520,8 @@ MOULDY
 SHADOW
 FEEBLE
 SILENCE
-Fare you well, gentle gentlemen.  [Exeunt
+Fare you well, gentle gentlemen.  [
+Bardolph; lead the men away.  [
 
 ARCHBISHOP
 2
@@ -6589,9 +6566,8 @@ That your attempts may overlive the hazard
 And fearful meeting of their opposite.
 
 MOWBRAY
-3
+2
 ARCHBISHOP
-MESSENGER
 HASTINGS
 Thus do the hopes we have in him touch ground
 And dash themselves to pieces.
@@ -6614,10 +6590,9 @@ And, by the ground they hide, I judge their number
 Upon or near the rate of thirty thousand.
 
 MOWBRAY
-4
+3
 ARCHBISHOP
 MESSENGER
-WESTMORELAND
 HASTINGS
 The just proportion that we gave them out.
 Let us sway on and face them in the field.
@@ -7019,10 +6994,9 @@ Our peace will, like a broken limb united,
 Grow stronger for the breaking.
 
 MOWBRAY
-4
+3
 ARCHBISHOP
 MESSENGER
-WESTMORELAND
 HASTINGS
 Be it so.
 Here is return'd my Lord of Westmoreland.
@@ -7311,13 +7285,11 @@ Go, good Lord Hastings,
 And, ere they be dismiss'd, let them march by.
 
 PRINCE JOHN
-4
+3
 MOWBRAY
-HASTINGS
-WESTMORELAND
 ARCHBISHOP
+HASTINGS
 I trust, lords, we shall lie to-night together.
-Now, cousin, wherefore stands our army still?
 
 WESTMORELAND
 4
@@ -7329,11 +7301,10 @@ The leaders, having charge from you to stand,
 Will not go off until they hear you speak.
 
 PRINCE JOHN
-4
+3
 MOWBRAY
-HASTINGS
-WESTMORELAND
 ARCHBISHOP
+WESTMORELAND
 They know their duties.
 
 HASTINGS
@@ -7440,10 +7411,8 @@ I think you are Sir John Falstaff, and in that thought
 yield me.
 
 FALSTAFF
-3
+1
 COLVILLE
-PRINCE
-WESTMORELAND
 I have a whole school of tongues in this belly of mine;
 and not a tongue of them all speaks any other word but my name.
 An I had but a belly of any indifferency, I were simply the most
@@ -7580,11 +7549,10 @@ That led me hither. Had they been rul'd by me,
 You should have won them dearer than you have.
 
 FALSTAFF
-4
+3
 PRINCE JOHN
 COLVILLE
 PRINCE
-WESTMORELAND
 I know not how they sold themselves; but thou, like a
 kind fellow, gavest thyself away gratis; and I thank thee for
 thee.
@@ -7640,11 +7608,10 @@ Fare you well, Falstaff. I, in my condition,
 Shall better speak of you than you deserve.
 
 FALSTAFF
-5
-BARDOLPH
+4
+WESTMORELAND
 PRINCE JOHN
 COLVILLE
-WESTMORELAND
 PRINCE
 I would you had but the wit; 'twere better than your
 dukedom. Good faith, this same young sober-blooded boy doth not
@@ -7679,7 +7646,6 @@ endeavour of drinking good and good store of fertile sherris,
 that he is become very hot and valiant. If I had a thousand sons,
 the first humane principle I would teach them should be to
 forswear thin potations and to addict themselves to sack.
-How now, Bardolph!
 
 BARDOLPH
 5
@@ -7898,15 +7864,13 @@ By which his Grace must mete the lives of other,
 Turning past evils to advantages.
 
 KING
-5
+4
 PRINCE HUMPHREY
 CLARENCE
-WESTMORELAND
 WARWICK
 PRINCE
 'Tis seldom when the bee doth leave her comb
 In the dead carrion.
-Who's here? Westmoreland?
 
 WESTMORELAND
 5
@@ -7927,17 +7891,15 @@ Here at more leisure may your Highness read,
 With every course in his particular.
 
 KING
-6
+5
 PRINCE HUMPHREY
 CLARENCE
-WESTMORELAND
 WARWICK
-HARCOURT
 PRINCE
+WESTMORELAND
 O Westmoreland, thou art a summer bird,
 Which ever in the haunch of winter sings
 The lifting up of day.
-Look here's more news.
 
 HARCOURT
 6
@@ -8110,10 +8072,9 @@ WARWICK
 His eye is hollow, and he changes much.
 
 WARWICK
-3
+2
 KING
 CLARENCE
-PRINCE
 Less noise! less noise!
 
 PRINCE
@@ -8228,12 +8189,11 @@ Derives itself to me.  [Putting on the crown]  Lo where it sits-
 Which God shall guard; and put the world's whole strength
 Into one giant arm, it shall not force
 This lineal honour from me. This from thee
+Will I to mine leave as 'tis left to me.
 
 KING
-3
+1
 PRINCE HUMPHREY
-CLARENCE
-WARWICK
 Warwick! Gloucester! Clarence!
 
 CLARENCE
@@ -8302,10 +8262,9 @@ CLARENCE
 When we withdrew, my liege, we left it here.
 
 KING
-3
+2
 PRINCE HUMPHREY
 CLARENCE
-WARWICK
 The Prince hath ta'en it hence. Go, seek him out.
 Is he so hasty that he doth suppose
 My sleep my death?
@@ -8327,8 +8286,6 @@ Our thighs with wax, our mouths with honey pack'd,
 We bring it to the hive, and, like the bees,
 Are murd'red for our pains. This bitter taste
 Yields his engrossments to the ending father.
-Now where is he that will not stay so long
-Till his friend sickness hath determin'd me?
 
 WARWICK
 3
@@ -8343,14 +8300,11 @@ Would, by beholding him, have wash'd his knife
 With gentle eye-drops. He is coming hither.
 
 KING
-4
+3
+WARWICK
 PRINCE HUMPHREY
 CLARENCE
-PRINCE
-WARWICK
 But wherefore did he take away the crown?
-Lo where he comes. Come hither to me, Harry.
-Depart the chamber, leave us here alone.
 
 PRINCE
 4
@@ -8510,11 +8464,10 @@ How I came by the crown, O God, forgive;
 And grant it may with thee in true peace live!
 
 PRINCE
-4
+2
 KING
 PRINCE HUMPHREY
 CLARENCE
-WARWICK
 My gracious liege,
 You won it, wore it, kept it, gave it me;
 Then plain and right must my possession be;
@@ -8609,11 +8562,10 @@ PAGE
 You must excuse me, Master Robert Shallow.
 
 SHALLOW
-4
+3
 BARDOLPH
 FALSTAFF
 PAGE
-DAVY
 I will not excuse you; you shall not be excus'd; excuses
 shall not be admitted; there is no excuse shall serve; you shall
 not be excus'd. Why, Davy!
@@ -8849,8 +8801,7 @@ CHIEF JUSTICE
 Indeed, I think the young king loves you not.
 
 CHIEF JUSTICE
-2
-CLARENCE
+1
 WARWICK
 I know he doth not, and do arm myself
 To welcome the condition of the time,
@@ -8953,11 +8904,10 @@ I'll to the King my master that is dead,
 And tell him who hath sent me after him.
 
 WARWICK
-5
+4
 CHIEF JUSTICE
 PRINCE HUMPHREY
 CLARENCE
-KING
 PRINCE JOHN
 Here comes the Prince.
 
@@ -9254,11 +9204,10 @@ I did not think Master Silence had been a man of this
 mettle.
 
 SILENCE
-5
+4
+FALSTAFF
 BARDOLPH
 SHALLOW
-DAVY
-FALSTAFF
 PAGE
 Who, I? I have been merry twice and once ere now.
 
@@ -9444,11 +9393,10 @@ SILENCE
 'Tis so.
 
 SILENCE
-5
+4
+FALSTAFF
 BARDOLPH
 SHALLOW
-DAVY
-FALSTAFF
 PAGE
 Is't so? Why then, say an old man can do somewhat.
 
@@ -9463,15 +9411,13 @@ An't please your worship, there's one Pistol come from the
 court with news.
 
 FALSTAFF
-6
+5
+SILENCE
 BARDOLPH
 SHALLOW
-DAVY
-PISTOL
 PAGE
-SILENCE
+DAVY
 From the court? Let him come in.
-How now, Pistol?
 
 PISTOL
 6
@@ -9853,10 +9799,8 @@ FIRST GROOM
 The trumpets have sounded twice.
 
 THIRD GROOM
-4
-FALSTAFF
+2
 FIRST GROOM
-SHALLOW
 SECOND GROOM
 'Twill be two o'clock ere they come from the
 coronation. Dispatch, dispatch.                       Exeunt
@@ -10013,13 +9957,12 @@ PISTOL
 I will deliver her.
 
 PISTOL
-6
-KING
-FIRST GROOM
+5
 SHALLOW
-THIRD GROOM
-FALSTAFF
 SECOND GROOM
+FALSTAFF
+FIRST GROOM
+THIRD GROOM
 There roar'd the sea, and trumpet-clangor sounds.
 
 FALSTAFF
@@ -10118,6 +10061,7 @@ And, as we hear you do reform yourselves,
 We will, according to your strengths and qualities,
 Give you advancement. Be it your charge, my lord,
 To see perform'd the tenour of our word.
+Set on.
 
 FALSTAFF
 6
@@ -10187,14 +10131,13 @@ PISTOL
 A colour that I fear you will die in, Sir John.
 
 FALSTAFF
-7
-FIRST GROOM
+6
 CHIEF JUSTICE
-PRINCE JOHN
+PISTOL
 SHALLOW
 THIRD GROOM
 SECOND GROOM
-PISTOL
+FIRST GROOM
 Fear no colours; go with me to dinner. Come, Lieutenant
 Pistol; come, Bardolph. I shall be sent for soon at night.
 

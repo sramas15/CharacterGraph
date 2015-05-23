@@ -1,6 +1,5 @@
 ORLANDO
-2
-OLIVER
+1
 ADAM
 As I remember, Adam, it was upon this fashion bequeathed
 me by will but poor a thousand crowns, and, as thou say'st,
@@ -187,8 +186,7 @@ your service. God be with my old master! He would not have spoke
 such a word.
 
 OLIVER
-3
-DENNIS
+2
 ORLANDO
 ADAM
 Is it even so? Begin you to grow upon me? I will physic
@@ -350,6 +348,7 @@ ADAM
 ORLANDO
 I am heartily glad I came hither to you. If he come
 to-morrow I'll give him his payment. If ever he go alone again,
+I'll never wrestle for prize more. And so, God keep your worship!
 
 OLIVER
 3
@@ -364,6 +363,7 @@ beloved; and, indeed, so much in the heart of the world, and
 especially of my own people, who best know him, that I am
 altogether misprised. But it shall not be so long; this wrestler
 shall clear all. Nothing remains but that I kindle the boy
+thither, which now I'll go about.
 
 CELIA
 1
@@ -443,8 +443,7 @@ honest; and those that she makes honest she makes very
 ill-favouredly.
 
 ROSALIND
-2
-TOUCHSTONE
+1
 CELIA
 Nay; now thou goest from Fortune's office to Nature's:
 Fortune reigns in gifts of the world, not in the lineaments of
@@ -571,9 +570,8 @@ The more pity that fools may not speak wisely what wise
 men do foolishly.
 
 CELIA
-3
+2
 ROSALIND
-LE BEAU
 TOUCHSTONE
 By my troth, thou sayest true; for since the little wit that
 fools have was silenced, the little foolery that wise men have
@@ -791,9 +789,7 @@ You must, if you stay here; for here is the place
 appointed for the wrestling, and they are ready to perform it.
 
 CELIA
-5
-FREDERICK
-ORLANDO
+3
 ROSALIND
 LE BEAU
 TOUCHSTONE
@@ -1294,12 +1290,11 @@ TOUCHSTONE
 Have with you. Fare you well.
 
 ORLANDO
-6
-FREDERICK
-CHARLES
+5
 ROSALIND
-LE BEAU
 CELIA
+CHARLES
+FREDERICK
 TOUCHSTONE
 What passion hangs these weights upon my tongue?
 I cannot speak to her, yet she urg'd conference.
@@ -1378,6 +1373,7 @@ CHARLES
 TOUCHSTONE
  Thus must I from the smoke into the smother;
 From tyrant Duke unto a tyrant brother.
+But heavenly Rosalind!
 
 CELIA
 1
@@ -1472,9 +1468,8 @@ CELIA
 No, faith, hate him not, for my sake.
 
 CELIA
-2
+1
 ROSALIND
-FREDERICK
 Why should I not? Doth he not deserve well?
 
 ROSALIND
@@ -2073,10 +2068,8 @@ CELIA
 Well,. this is the Forest of Arden.
 
 TOUCHSTONE
-4
-CORIN
+2
 ROSALIND
-SILVIUS
 CELIA
 Ay, now am I in Arden; the more fool I; when I was at
 home I was in a better place; but travellers must be content.
@@ -2152,6 +2145,7 @@ Thou hast not lov'd;
 Or if thou hast not broke from company
 Abruptly, as my passion now makes me,
 Thou hast not lov'd.
+O Phebe, Phebe, Phebe!
 
 ROSALIND
 3
@@ -2479,10 +2473,9 @@ My lord, he is but even now gone hence;
 Here was he merry, hearing of a song.
 
 DUKE SENIOR
-3
+2
 FIRST LORD
 AMIENS
-JAQUES
 If he, compact of jars, grow musical,
 We shall have shortly discord in the spheres.
 Go seek him; tell him I would speak with him.
@@ -2611,11 +2604,10 @@ That thou with license of free foot hast caught
 Wouldst thou disgorge into the general world.
 
 JAQUES
-4
+3
 FIRST LORD
 AMIENS
 DUKE SENIOR
-ORLANDO
 Why, who cries out on pride
 That can therein tax any private party?
 Doth it not flow as hugely as the sea,
@@ -2800,12 +2792,10 @@ Presents more woeful pageants than the scene
 Wherein we play in.
 
 JAQUES
-5
+3
 FIRST LORD
 DUKE SENIOR
 AMIENS
-ORLANDO
-ADAM
 All the world's a stage,
 And all the men and women merely players;
 They have their exits and their entrances;
@@ -2879,12 +2869,10 @@ Most friendship is feigning, most loving mere folly.
 Heigh-ho! sing, &c.
 
 DUKE SENIOR
-7
+5
 FIRST LORD
-OLIVER
-FREDERICK
-AMIENS
 ORLANDO
+AMIENS
 ADAM
 JAQUES
 If that you were the good Sir Rowland's son,
@@ -2957,6 +2945,7 @@ And in their barks my thoughts I'll character,
 That every eye which in this forest looks
 Shall see thy virtue witness'd every where.
 Run, run, Orlando; carve on every tree,
+The fair, the chaste, and unexpressive she.
 
 CORIN
 1
@@ -3111,8 +3100,7 @@ the devil himself will have no shepherds; I cannot see else how
 thou shouldst scape.
 
 CORIN
-2
-ROSALIND
+1
 TOUCHSTONE
 Here comes young Master Ganymede, my new mistress's brother.
 
@@ -3166,10 +3154,9 @@ you'll be rotten ere you be half ripe, and that's the right
 virtue of the medlar.
 
 TOUCHSTONE
-3
+2
 CORIN
 ROSALIND
-CELIA
 You have said; but whether wisely or no, let the forest
 judge.
 
@@ -3517,11 +3504,9 @@ Do you not know I am a woman? When I think, I must speak.
 Sweet, say on.
 
 CELIA
-5
-ORLANDO
+3
 CORIN
 ROSALIND
-JAQUES
 TOUCHSTONE
 You bring me out. Soft! comes he not here?
 
@@ -4349,9 +4334,8 @@ JAQUES
 Well, the gods give us joy!
 
 TOUCHSTONE
-3
+2
 AUDREY
-MARTEXT
 JAQUES
 Amen. A man may, if he were of a fearful heart, stagger
 in this attempt; for here we have no temple but the wood, no
@@ -4366,8 +4350,6 @@ is the forehead of a married man more honourable than the bare
 brow of a bachelor; and by how much defence is better than no
 skill, by so much is horn more precious than to want. Here comes
 Sir Oliver.
-Sir Oliver Martext, you are well met. Will you dispatch us here
-under this tree, or shall we go with you to your chapel?
 
 MARTEXT
 3
@@ -4467,6 +4449,7 @@ AUDREY
 TOUCHSTONE
 JAQUES
 'Tis no matter; ne'er a fantastical knave of them all
+shall flout me out of my calling.
 
 ROSALIND
 1
@@ -4578,8 +4561,7 @@ he; so he laugh'd and let me go. But what talk we of fathers when
 there is such a man as Orlando?
 
 CELIA
-2
-CORIN
+1
 ROSALIND
 O, that's a brave man! He writes brave verses, speaks brave
 words, swears brave oaths, and breaks them bravely, quite
@@ -4624,10 +4606,7 @@ Bring us to this sight, and you shall say
 I'll prove a busy actor in their play.                Exeunt
 
 SILVIUS
-4
-CORIN
-ROSALIND
-CELIA
+1
 PHEBE
 Sweet Phebe, do not scorn me; do not, Phebe.
 Say that you love me not; but say not so
@@ -4763,6 +4742,7 @@ Will you go, sister? Shepherd, ply her hard.
 Come, sister. Shepherdess, look on him better,
 And be not proud; though all the world could see,
 None could be so abus'd in sight as he.
+Come, to our flock.
 
 PHEBE
 1
@@ -4949,9 +4929,8 @@ to have seen much and to have nothing is to have rich eyes and
 poor hands.
 
 JAQUES
-3
+2
 ROSALIND
-ORLANDO
 CELIA
 Yes, I have gain'd my experience.
 
@@ -4987,6 +4966,7 @@ Farewell, Monsieur Traveller; look you lisp and wear
 strange suits, disable all the benefits of your own country, be
 out of love with your nativity, and almost chide God for making
 you that countenance you are; or I will scarce think you have
+swam in a gondola.
 
 ORLANDO
 2
@@ -5494,6 +5474,7 @@ CELIA
 ORLANDO
 JAQUES
 Well, Time is the old justice that examines all such
+offenders, and let Time try. Adieu.
 
 CELIA
 2
@@ -5574,9 +5555,8 @@ How say you now? Is it not past two o'clock?
 And here much Orlando!
 
 CELIA
-2
+1
 ROSALIND
-SILVIUS
 I warrant you, with pure love and troubled brain, he hath
 ta'en his bow and arrows, and is gone forth- to sleep. Look, who
 comes here.
@@ -5684,8 +5664,7 @@ SILVIUS
 Alas, poor shepherd!
 
 ROSALIND
-3
-OLIVER
+2
 SILVIUS
 CELIA
 Do you pity him? No, he deserves no pity. Wilt thou love
@@ -6029,8 +6008,7 @@ But, Audrey, there is a youth here in the forest lays claim to
 you.
 
 AUDREY
-2
-WILLIAM
+1
 TOUCHSTONE
 Ay, I know who 'tis; he hath no interest in me in the
 world; here comes the man you mean.
@@ -6228,8 +6206,7 @@ that was old Sir Rowland's will I estate upon you, and here live
 and die a shepherd.
 
 ORLANDO
-2
-ROSALIND
+1
 OLIVER
 You have my consent. Let your wedding be to-morrow.
 Thither will I invite the Duke and all's contented followers. Go
@@ -6339,15 +6316,12 @@ ROSALIND
 Speak'st thou in sober meanings?
 
 ROSALIND
-3
-SILVIUS
+1
 ORLANDO
-PHEBE
 By my life, I do; which I tender dearly, though I say I
 am a magician. Therefore put you in your best array, bid your
 friends; for if you will be married to-morrow, you shall; and to
 Rosalind, if you will.
-Look, here comes a lover of mine, and a lover of hers.
 
 PHEBE
 3
@@ -6545,9 +6519,7 @@ To-morrow is the joyful day, Audre'y; to-morrow will we
 be married.
 
 AUDREY
-3
-FIRST PAGE
-SECOND PAGE
+1
 TOUCHSTONE
 I do desire it with all my heart; and I hope it is no
 dishonest desire to desire to be a woman of the world. Here come
@@ -6627,15 +6599,12 @@ Dost thou believe, Orlando, that the boy
 Can do all this that he hath promised?
 
 ORLANDO
-8
+5
 OLIVER
 DUKE SENIOR
 AMIENS
-PHEBE
-ROSALIND
 CELIA
 JAQUES
-SILVIUS
 I sometimes do believe and sometimes do not:
 As those that fear they hope, and know they fear.
 
@@ -6795,17 +6764,15 @@ I do remember in this shepherd boy
 Some lively touches of my daughter's favour.
 
 ORLANDO
-10
+8
 OLIVER
 DUKE SENIOR
 AMIENS
 PHEBE
-AUDREY
 ROSALIND
 CELIA
 JAQUES
 SILVIUS
-TOUCHSTONE
 My lord, the first time that I ever saw him
 Methought he was a brother to your daughter.
 But, my good lord, this boy is forest-born,
@@ -7107,15 +7074,12 @@ Is not this a rare fellow, my lord?
 He's as good at any thing, and yet a fool.
 
 DUKE SENIOR
-11
+8
 OLIVER
-HYMEN
 AMIENS
 ORLANDO
 PHEBE
 AUDREY
-ROSALIND
-CELIA
 JAQUES
 SILVIUS
 TOUCHSTONE
@@ -7248,8 +7212,7 @@ O my dear niece, welcome thou art to me!
 Even daughter, welcome in no less degree.
 
 PHEBE
-12
-JAQUES DE BOYS
+11
 OLIVER
 DUKE SENIOR
 HYMEN
@@ -7414,6 +7377,7 @@ CELIA
 SILVIUS
 TOUCHSTONE
 To see no pastime I. What you would have
+I'll stay to know at your abandon'd cave.
 
 DUKE SENIOR
 11
