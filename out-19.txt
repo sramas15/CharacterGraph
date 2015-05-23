@@ -565,8 +565,7 @@ END_ACT
 ACT II. SCENE I.
 Belmont. PORTIA'S house
 
-Flourish of cornets. Enter the PRINCE OF MOROCCO, a tawny Moor all in white,
-and three or four FOLLOWERS accordingly, with PORTIA, NERISSA, and train
+Flourish of cornets. Enter the PRINCE OF MOROCCO, a tawny Moor all in white, and three or four FOLLOWERS accordingly, with PORTIA, NERISSA, and train
 
   PRINCE OF MOROCCO. Mislike me not for my complexion,
     The shadowed livery of the burnish'd sun,
@@ -1073,8 +1072,7 @@ Enter the maskers, GRATIANO and SALERIO
 SCENE VII.
 Belmont. PORTIA's house
 
-Flourish of cornets. Enter PORTIA, with the PRINCE OF MOROCCO,
-and their trains
+Flourish of cornets. Enter PORTIA, with the PRINCE OF MOROCCO, and their trains
 
   PORTIA. Go draw aside the curtains and discover
     The several caskets to this noble Prince.
@@ -1234,8 +1232,7 @@ Enter NERISSA, and a SERVITOR
     The Prince of Arragon hath ta'en his oath,
     And comes to his election presently.
 
-       Flourish of cornets. Enter the ARRAGON,
-                    PORTIA, and their trains
+       Flourish of cornets. Enter the ARRAGON,                    PORTIA, and their trains
 
   PORTIA. Behold, there stand the caskets, noble Prince.
     If you choose that wherein I am contain'd,
@@ -1707,8 +1704,7 @@ Enter BASSANIO, PORTIA, GRATIANO, NERISSA, and all their trains
     But who comes here? Lorenzo and his infidel?
     What, and my old Venetian friend, Salerio!
 
-          Enter LORENZO, JESSICA, and SALERIO, a messenger
-                           from Venice
+          Enter LORENZO, JESSICA, and SALERIO, a messenger                          from Venice
 
   BASSANIO. Lorenzo and Salerio, welcome hither,
     If that the youth of my new int'rest here
@@ -2067,8 +2063,7 @@ Enter LAUNCELOT and JESSICA
 ACT IV. SCENE I.
 Venice. The court of justice
 
-Enter the DUKE OF VENICE, the MAGNIFICOES, ANTONIO, BASSANIO, GRATIANO, SALERIO,
-and OTHERS
+Enter the DUKE OF VENICE, the MAGNIFICOES, ANTONIO, BASSANIO, GRATIANO, SALERIO, and OTHERS
 
   DUKE OF VENICE. What, is Antonio here?
   ANTONIO. Ready, so please your Grace.

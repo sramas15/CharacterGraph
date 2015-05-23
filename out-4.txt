@@ -291,8 +291,7 @@ Enter a company of mutinous citizens FIRST CITIZEN, SECOND CITIZEN, with staves,
   MARCIUS. I am glad on't; then we shall ha' means to vent
     Our musty superfluity. See, our best elders.
 
-         Enter COMINIUS, LARTIUS, with other FIRST SENATOR;
-                  BRUTUS and SICINIUS
+         Enter COMINIUS, LARTIUS, with other FIRST SENATOR;                  BRUTUS and SICINIUS
 
   FIRST SENATOR. Marcius, 'tis true that you have lately told us:
     The Volsces are in arms.
@@ -426,8 +425,7 @@ Enter AUFIDIUS with FIRST SENATOR, SECOND SENATOR
 SCENE III.
 Rome. MARCIUS' house
 
-Enter VOLUMNIA and VIRGILIA, mother and wife to MARCIUS;
-they set them down on two low stools and sew
+Enter VOLUMNIA and VIRGILIA, mother and wife to MARCIUS; they set them down on two low stools and sew
 
   VOLUMNIA. I pray you, daughter, sing, or express yourself in a more
     comfortable sort. If my son were my husband, I should freelier
@@ -544,8 +542,7 @@ they set them down on two low stools and sew
 SCENE IV.
 Before Corioli
 
-Enter MARCIUS, LARTIUS, with drum and colours,
-with CAPTAINS and soldiers. To them a MESSENGER
+Enter MARCIUS, LARTIUS, with drum and colours, with CAPTAINS and soldiers. To them a MESSENGER
 
   MARCIUS. Yonder comes news; a wager- they have met.
   LARTIUS. My horse to yours- no.
@@ -564,8 +561,7 @@ with CAPTAINS and soldiers. To them a MESSENGER
     That we with smoking swords may march from hence
     To help our fielded friends! Come, blow thy blast.
 
-          They sound a parley. Enter FIRST SENATOR, SECOND SENATOR with others,
-                      on the walls of Corioli
+          They sound a parley. Enter FIRST SENATOR, SECOND SENATOR with others,                      on the walls of Corioli
 
   MARCIUS.  Tullus Aufidius, is he within your walls?
   FIRST SENATOR. No, nor a man that fears you less than he:
@@ -612,8 +608,6 @@ with CAPTAINS and soldiers. To them a MESSENGER
   MARCIUS.  So, now the gates are ope; now prove good seconds;
     'Tis for the followers fortune widens them,
     Not for the fliers. Mark me, and do the like. Exit.
-
-                    [MARCIUS enters the gates]
 
                     Enter FIRST SOLDIER, SECOND SOLDIER.
 
@@ -1188,10 +1182,7 @@ Enter MENENIUS, with the two Tribunes BOTH TRIBUNES of the people, SICINIUS and 
     Death, that dark spirit, in's nervy arm doth lie,
     Which, being advanc'd, declines, and then men die.
 
-            A sennet. Trumpets sound. Enter COMINIUS the
-              GENERAL, and LARTIUS; between them,
-           MARCIUS, crown'd with an oaken garland; with
-                   CAPTAINS and soldiers and a HERALD
+            A sennet. Trumpets sound. Enter COMINIUS the              GENERAL, and LARTIUS; between them,           MARCIUS, crown'd with an oaken garland; with                   CAPTAINS and soldiers and a HERALD
 
   HERALD. Know, Rome, that all alone Marcius did fight
     Within Corioli gates, where he hath won,
@@ -1317,7 +1308,7 @@ Enter MENENIUS, with the two Tribunes BOTH TRIBUNES of the people, SICINIUS and 
     To kindle their dry stubble; and their blaze
     Shall darken him for ever.
 
-                           Enter A MESSENGER
+                           Enter a MESSENGER
 
   BRUTUS. What's the matter?
   MESSENGER. You are sent for to the Capitol. 'Tis thought
@@ -1375,11 +1366,7 @@ Enter FIRST OFFICER, SECOND OFFICER to lay cushions, as it were in the Capitol
   FIRST OFFICER. No more of him; he's a worthy man. Make way, they
     are coming.
 
-         A sennet. Enter the FIRST SENATOR PATRICIANS and the TRIBUNES
-         OF THE PEOPLE, LICTORS before them; MARCIUS,
-            MENENIUS, COMINIUS the Consul. SICINIUS and
-               BRUTUS take their places by themselves.
-                         MARCIUS stands
+         A sennet. Enter the FIRST SENATOR PATRICIANS and the TRIBUNES         OF THE PEOPLE, LICTORS before them; MARCIUS,            MENENIUS, COMINIUS the Consul. SICINIUS and               BRUTUS take their places by themselves.                        MARCIUS stands
 
   MENENIUS. Having determin'd of the Volsces, and
     To send for Titus Lartius, it remains,
@@ -1579,8 +1566,7 @@ Enter seven or eight citizens FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN
     no matter, the greater part carries it. I say, if he would
     incline to the people, there was never a worthier man.
 
-                Enter MARCIUS, in a gown of humility,
-                               with MENENIUS
+                Enter MARCIUS, in a gown of humility,                               with MENENIUS
 
   THIRD CITIZEN.  Here he comes, and in the gown of humility. Mark his behaviour.
     We are not to stay all together, but to come by him where he
@@ -1849,8 +1835,7 @@ Enter seven or eight citizens FIRST CITIZEN, SECOND CITIZEN, THIRD CITIZEN
 ACT III. SCENE I.
 Rome. A street
 
-Cornets. Enter MARCIUS, MENENIUS, all the GENTRY, COMINIUS,
-LARTIUS, and other FIRST SENATOR, SECOND SENATOR
+Cornets. Enter MARCIUS, MENENIUS, all the GENTRY, COMINIUS, LARTIUS, and other FIRST SENATOR, SECOND SENATOR
 
   MARCIUS. Tullus Aufidius, then, had made new head?
   LARTIUS. He had, my lord; and that it was which caus'd
@@ -2677,8 +2662,7 @@ END_ACT
 ACT IV. SCENE I.
 Rome. Before a gate of the city
 
-Enter MARCIUS, VOLUMNIA, VIRGILIA, MENENIUS, COMINIUS,
-with the young NOBILITY of Rome
+Enter MARCIUS, VOLUMNIA, VIRGILIA, MENENIUS, COMINIUS, with the young NOBILITY of Rome
 
   MARCIUS. Come, leave your tears; a brief farewell. The beast
     With many heads butts me away. Nay, mother,
@@ -4027,8 +4011,7 @@ Enter MENENIUS and SICINIUS
 SCENE V.
 Rome. A street near the gate
 
-Enter FIRST SENATOR With VOLUMNIA, VIRGILIA, VALERIA, passing over the stage,
-'With other LORDS
+Enter FIRST SENATOR With VOLUMNIA, VIRGILIA, VALERIA, passing over the stage,'With other LORDS
 
   FIRST SENATOR. Behold our patroness, the life of Rome!
     Call all your tribes together, praise the gods,
@@ -4139,8 +4122,7 @@ Enter AUFIDIUS with attendents
     There was a yielding- this admits no excuse.
   AUFIDIUS. He approaches; you shall hear him.
 
-            Enter MARCIUS, marching with drum and colours;
-                      the commoners being with him
+            Enter MARCIUS, marching with drum and colours;                      the commoners being with him
 
   MARCIUS. Hail, lords! I am return'd your soldier;
     No more infected with my country's love

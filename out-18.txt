@@ -67,8 +67,7 @@ Enter FIRST WITCH, SECOND WITCH, THIRD WITCH.
 SCENE II.
 A camp near Forres. Alarum within.
 
-Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, with Attendants,
-meeting a bleeding SERGEANT.
+Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, with Attendants, meeting a bleeding SERGEANT.
 
   DUNCAN. What bloody man is that? He can report,
     As seemeth by his plight, of the revolt
@@ -567,8 +566,7 @@ Enter DUNCAN, MALCOLM, DONALBAIN, BANQUO, LENNOX, MACDUFF, ROSS, ANGUS, Attendan
 SCENE VII
 MACBETH's castle.  Hautboys and torches.
 
-Enter a Sewer and divers Servants with dishes and service, who pass over
-the stage.  Then enter MACBETH.
+Then enter MACBETH.
 
   MACBETH. If it were done when 'tis done, then 'twere well
     It were done quickly. If the assassination
@@ -1150,8 +1148,7 @@ Enter BANQUO.
     May they not be my oracles as well
     And set me up in hope? But hush, no more.
 
-      Sennet sounds. Enter MACBETH as King, LADY MACBETH
-    as Queen, LENNOX, ROSS, Lords, Ladies, and ATTENDANT.
+      Sennet sounds. Enter MACBETH as King, LADY MACBETH    as Queen, LENNOX, ROSS, Lords, Ladies, and ATTENDANT.
 
   MACBETH. Here's our chief guest.
   LADY MACBETH. If he had been forgotten,
@@ -2559,8 +2556,7 @@ Enter MACBETH, DOCTOR, and Attendants.
 SCENE IV.
 Country near Birnam Wood. Drum and colors.
 
-Enter MALCOLM, old SIWARD and his Son, MACDUFF, MENTEITH, CAITHNESS,
-ANGUS, LENNOX, ROSS, and Soldiers, marching.
+Enter MALCOLM, old SIWARD and his Son, MACDUFF, MENTEITH, CAITHNESS, ANGUS, LENNOX, ROSS, and Soldiers, marching.
 
   MALCOLM. Cousins, I hope the days are near at hand
     That chambers will be safe.
@@ -2669,8 +2665,7 @@ Enter MACBETH, SEYTON, and Soldiers, with drum and colors.
 SCENE VI.
 Dunsinane.  Before the castle.
 
-Enter MALCOLM, old SIWARD, MACDUFF, and their Army, with boughs.
-Drum and colors.
+Enter MALCOLM, old SIWARD, MACDUFF, and their Army, with boughs. Drum and colors.
 
   MALCOLM. Now near enough; your leavy screens throw down,
     And show like those you are. You, worthy uncle,
@@ -2797,8 +2792,7 @@ Enter MACBETH.
 
 SCENE IX.
 
-Retreat. Flourish. Enter, with drum and colors, MALCOLM, old SIWARD, ROSS,
-the other Thanes, and Soldiers.
+Retreat. Flourish. Enter, with drum and colors, MALCOLM, old SIWARD, ROSS,the other Thanes, and Soldiers.
 
   MALCOLM. I would the friends we miss were safe arrived.
   SIWARD. Some must go off, and yet, by these I see,

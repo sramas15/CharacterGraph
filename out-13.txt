@@ -96,8 +96,7 @@ ACT I. SCENE 1.
 
 London. The palace
 
-Enter the NORFOLK at one door; at the other,
-the BUCKINGHAM and the ABERGAVENNY
+Enter the NORFOLK at one door; at the other, the BUCKINGHAM and the ABERGAVENNY
 
   BUCKINGHAM. Good morrow, and well met. How have ye done
     Since last we saw in France?
@@ -234,11 +233,7 @@ the BUCKINGHAM and the ABERGAVENNY
     You'll find it wholesome. Lo, where comes that rock
     That I advise your shunning.
 
-      Enter WOLSEY, the purse borne before
-      him, certain of the guard, and two SECRETARY
-      with papers. The CARDINAL in his passage fixeth his
-      eye on BUCKINGHAM, and BUCKINGHAM on him,
-      both full of disdain
+      Enter WOLSEY, the purse borne before      him, certain of the guard, and two SECRETARY      with papers. The CARDINAL in his passage fixeth his      eye on BUCKINGHAM, and BUCKINGHAM on him,      both full of disdain
 
   WOLSEY. The Duke of Buckingham's surveyor? Ha!
     Where's his examination?
@@ -338,8 +333,7 @@ the BUCKINGHAM and the ABERGAVENNY
     I do pronounce him in that very shape
     He shall appear in proof.
 
-       Enter BRANDON, a SERGEANT before him,
-              and two or three of the guard
+       Enter BRANDON, a SERGEANT before him,              and two or three of the guard
 
   BRANDON. Your office, sergeant: execute it.
   SERGEANT. Sir,
@@ -389,9 +383,7 @@ ACT I. SCENE 2.
 
 London. The Council Chamber
 
-Cornets. Enter KING, leaning on the WOLSEY'S shoulder, the NOBLES,
-and LOVELL, with others. The WOLSEY, SECRETARY places himself
-under the KING'S feet on his right side. QUEEN KATHARINE
+Cornets. Enter KING, leaning on the WOLSEY'S shoulder, the NOBLES,and LOVELL, with others. The WOLSEY, SECRETARY places himselfunder the KING'S feet on his right side. QUEEN KATHARINE
 
   KING. My life itself, and the best heart of it,
     Thanks you for this great care; I stood i' th' level
@@ -403,10 +395,7 @@ under the KING'S feet on his right side. QUEEN KATHARINE
     He shall again relate.
 
       A noise within, crying 'Room for the Queen!'
-      Enter the QUEEN, usher'd by the NORFOLK
-      and SUFFOLK; she kneels. The KING riseth
-      from his state, takes her up, kisses and placeth her
-      by him
+      Enter the QUEEN, usher'd by the NORFOLK      and SUFFOLK; she kneels. The KING riseth      from his state, takes her up, kisses and placeth her      by him
 
   QUEEN KATHARINE. Nay, we must longer kneel: I am suitor.
   KING. Arise, and take place by us. Half your suit
@@ -753,9 +742,7 @@ ACT I. SCENE 4.
 London. The Presence Chamber in York Place
 
 Hautboys. A small table under a state for the Cardinal,
-a longer table for the guests. Then enter ANNE,
-and divers other LADIES and GENTLEMEN, as guests, at one door;
-at another door enter  GUILDFORD
+a longer table for the guests. Then enter ANNE,and divers other LADIES and GENTLEMEN, as guests, at one door;at another door enter  GUILDFORD
 
   GUILDFORD. Ladies, a general welcome from his Grace
     Salutes ye all; this night he dedicates
@@ -804,8 +791,7 @@ at another door enter  GUILDFORD
   SANDYS. For my little cure,
     Let me alone.
 
-         Hautboys. Enter WOLSEY, attended SERVANT; and
-                         takes his state
+         Hautboys. Enter WOLSEY, attended SERVANT; and takes his state
 
   WOLSEY. Y'are welcome, my fair guests. That noble lady
     Or gentleman that is not freely merry
@@ -852,10 +838,7 @@ at another door enter  GUILDFORD
     A good digestion to you all; and once more
     I show'r a welcome on ye; welcome all.
 
-      Hautboys. Enter the KING, and others, as maskers,
-      habited like shepherds, usher'd by the CHAMBERLAIN.
-      They pass directly before the CARDINAL,
-      and gracefully salute him
+      Hautboys. Enter the KING, and others, as maskers,      habited like shepherds, usher'd by the CHAMBERLAIN.      They pass directly before the CARDINAL,      and gracefully salute him
 
   WOLSEY.  A noble company! What are their pleasures?
 
@@ -1001,11 +984,7 @@ Enter FIRST GENTLEMAN, SECOND GENTLEMAN, at several doors
     They love and dote on; call him bounteous Buckingham,
     The mirror of all courtesy-
 
-      Enter BUCKINGHAM from his arraignment, tip-staves
-      before him; the axe with the edge towards him; halberds
-      on each side; accompanied with
-      LOVELL, VAUX, SANDYS,
-      and common people, etc.
+      Enter BUCKINGHAM from his arraignment, tip-staves      before him; the axe with the edge towards him; halberds      on each side; accompanied with      LOVELL, VAUX, SANDYS,      and common people, etc.
 
   FIRST GENTLEMAN. Stay there, sir,
     And see the noble ruin'd man you speak of.
@@ -1474,22 +1453,7 @@ ACT II. SCENE 4.
 
 London. A hall in Blackfriars
 
-Trumpets, sennet, and cornets. Enter two VERGERS, with short silver wands;
-next them, two SCRIBE, in the habit of doctors; after them,
-the CRANMER, ARCHBISHOP OF CANTERBURY alone; after him, the LINCOLN, ELY,
-ROCHESTER, and SAINT ASAPH; next them, with some small distance,
-follows a GENTLEMAN bearing the purse, with the great seal,
-and a Cardinal's hat; then two PRIESTS, bearing each silver cross;
-then a GENTLEMAN USHER bareheaded, accompanied with a SERGEANT
-bearing a silver mace; then two GENTLEMEN bearing two great silver pillars;
-after them, side by side, the two CARDINALS, WOLSEY and CAMPEIUS;
-two NOBLEMEN with the sword and mace. Then enter the KING and QUEEN KATHARINE
-and their trains. The KING takes place under the cloth of state;
-the two CARDINALS sit under him as judges. The QUEEN takes place
-some distance from the KING. The BISHOPS place themselves on each side
-of the court, in manner of consistory; below them the SCRIBE.
-The LORDS sit next the BISHOPS. The rest of the attendants stand
-in convenient order about the stage
+Trumpets, sennet, and cornets. Enter two VERGERS, with short silver wands;next them, two SCRIBE, in the habit of doctors; after them,the CRANMER, ARCHBISHOP OF CANTERBURY alone; after him, the LINCOLN, ELY, ROCHESTER, and SAINT ASAPH; next them, with some small distance,follows a GENTLEMAN bearing the purse, with the great seal,and a Cardinal's hat; then two PRIESTS, bearing each silver cross; then a GENTLEMAN USHER bareheaded, accompanied with a SERGEANT bearing a silver mace; then two GENTLEMEN bearing two great silver pillars; after them, side by side, the two CARDINALS, WOLSEY and CAMPEIUS; two NOBLEMEN with the sword and mace. Then enter the KING and QUEEN KATHARINEand their trains. The KING takes place under the cloth of state; the two CARDINALS sit under him as judges. The QUEEN takes place some distance from the KING. The BISHOPS place themselves on each side of the court, in manner of consistory; below them the SCRIBE. The LORDS sit next the BISHOPS. The rest of the attendants stand in convenient order about the stage
 
   WOLSEY. Whilst our commission from Rome is read,
     Let silence be commanded.
@@ -1990,8 +1954,7 @@ ACT III.SCENE 2.
 
 London. The palace
 
-Enter the NORFOLK, the SUFFOLK, the SURREY,
-and the CHAMBERLAIN
+Enter the NORFOLK, the SUFFOLK, the SURREY,and the CHAMBERLAIN
 
   NORFOLK. If you will now unite in your complaints
     And force them with a constancy, the Cardinal
@@ -2281,9 +2244,7 @@ and the CHAMBERLAIN
     Like a bright exhalation in the evening,
     And no man see me more.
 
-        Enter to WOLSEY the NORFOLK and 
-        SUFFOLK, the SURREY, and the LORD
-        CHAMBERLAIN
+        Enter to WOLSEY the NORFOLK and         SUFFOLK, the SURREY, and the CHAMBERLAIN
 
   NORFOLK. Hear the King's pleasure, Cardinal, who commands you
     To render up the great seal presently
@@ -2846,8 +2807,6 @@ and PATIENCE, her woman
   GRIFFITH. She is asleep. Good wench, let's sit down quiet,
     For fear we wake her. Softly, gentle Patience.
 
-                 THE VISION.
-
       Enter, solemnly tripping one after another, six
       PERSONAGES clad in white robes, wearing on their
       heads garlands of bays, and golden vizards on their
@@ -2988,8 +2947,7 @@ ACT V. SCENE 1.
 
 London. A gallery in the palace
 
-Enter GARDINER, BISHOP OF WINCHESTER, a PAGE with a torch before him,
-met by LOVELL, BOY
+Enter GARDINER, BISHOP OF WINCHESTER, a PAGE with a torch before him, met by LOVELL, BOY
 
   GARDINER. It's one o'clock, boy, is't not?
   BOY. It hath struck.       Exit
@@ -3285,11 +3243,7 @@ ACT V. SCENE 3.
 The Council Chamber
 
 A Council table brought in, with chairs and stools, and placed
-under the state. Enter CHANCELLOR, places himself at the upper end
-of the table on the left band, a seat being left void above him,
-as for Canterbury's seat. SUFFOLK, NORFOLK, SURREY,
-CHAMBERLAIN, GARDINER, seat themselves in order on each side;
-CROMWELL at lower end, as secretary. KEEPER at the door
+under the state. Enter CHANCELLOR, places himself at the upper end of the table on the left band, a seat being left void above him, as for Canterbury's seat. SUFFOLK, NORFOLK, SURREY, CHAMBERLAIN, GARDINER, seat themselves in order on each side; CROMWELL at lower end, as secretary. KEEPER at the door
 
   CHANCELLOR. Speak to the business, master secretary;
     Why are we met in council?
@@ -3620,14 +3574,7 @@ ACT V. SCENE 5.
 
 The palace
 
-Enter TRUMPETS, sounding; then two ALDERMEN, LORD MAYOR, GARTER, CRANMER,
-NORFOLK, with his marshal's staff,  SUFFOLK,
-two Noblemen bearing great standing-bowls for the christening gifts;
-then four Noblemen bearing a canopy, under which the DUCHESS OF NORFOLK,
-godmother, bearing the CHILD richly habited in a mantle, etc.,
-train borne by a LADY; then follows the MARCHIONESS DORSET,
-the other godmother, and LADIES. The troop pass once about the stage,
-and GARTER speaks
+Enter TRUMPETS, sounding; then two ALDERMEN, LORD MAYOR, GARTER, CRANMER, NORFOLK, with his marshal's staff,  SUFFOLK, two Noblemen bearing great standing-bowls for the christening gifts; then four Noblemen bearing a canopy, under which the DUCHESS OF NORFOLK, godmother, bearing the CHILD richly habited in a mantle, etc., train borne by a LADY; then follows the MARCHIONESS DORSET, the other godmother, and LADIES. The troop pass once about the stage, and GARTER speaks
 
   GARTER. Heaven, from thy endless goodness, send prosperous
     life, long and ever-happy, to the high and mighty

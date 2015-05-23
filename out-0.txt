@@ -258,8 +258,7 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
 ACT I. SCENE 2.
 Paris. The KING'S palace
 
-Flourish of cornets. Enter the KING OF FRANCE, with letters,
-and divers ATTENDANTS
+Flourish of cornets. Enter the KING OF FRANCE, with letters, and divers ATTENDANTS
 
   KING OF FRANCE. The Florentines and Senoys are by th' ears;
     Have fought with equal fortune, and continue
@@ -618,8 +617,7 @@ END_ACT
 ACT II. SCENE 1.
 Paris. The KING'S palace
 
-Flourish of cornets. Enter the KING OF FRANCE with divers young FIRST LORD, SECOND LORD taking leave
-for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
+Flourish of cornets. Enter the KING OF FRANCE with divers young FIRST LORD, SECOND LORD taking leave for the Florentine war; BERTRAM and PAROLLES; ATTENDANTS
 
   KING OF FRANCE. Farewell, young lords; these war-like principles
     Do not throw from you. And you, my lords, farewell;
@@ -1421,8 +1419,7 @@ END_ACT
 ACT III. SCENE 1.
 Florence. The DUKE's palace
 
-        Flourish. Enter the DUKE OF FLORENCE, attended; two
-               FIRST LORD, SECOND LORD with a TROOP OF SOLDIERS
+        Flourish. Enter the DUKE OF FLORENCE, attended; two FIRST LORD, SECOND LORD with a TROOP OF SOLDIERS
 
   DUKE OF FLORENCE. So that, from point to point, now have you hear
     The fundamental reasons of this war;
@@ -1604,8 +1601,7 @@ Enter COUNTESS OF ROUSILLON and CLOWN
 ACT III. SCENE 3.
 Florence. Before the DUKE's palace
 
-Flourish. Enter the DUKE OF FLORENCE, BERTRAM, PAROLLES, SOLDIERS,
-drum and trumpets
+Flourish. Enter the DUKE OF FLORENCE, BERTRAM, PAROLLES, SOLDIERS, drum and trumpets
 
   DUKE OF FLORENCE. The General of our Horse thou art; and we,
     Great in our hope, lay our best love and credence
@@ -1681,8 +1677,8 @@ Enter COUNTESS OF ROUSILLON and STEWARD
 ACT III. SCENE 5.
 
 Without the walls of Florence
-A tucket afar off. Enter an old WIDOW, her daughter DIANA,
-VIOLENTA, and MARIANA, with other CITIZENS
+
+A tucket afar off. Enter an old WIDOW, her daughter DIANA, VIOLENTA, and MARIANA, with other CITIZENS
 
   WIDOW. Nay, come; for if they do approach the city we shall lose
     all the sight.
@@ -1766,8 +1762,7 @@ VIOLENTA, and MARIANA, with other CITIZENS
     But she is arm'd for him, and keeps her guard
     In honestest defence.
 
-    Enter, with drum and colours, BERTRAM, PAROLLES, and the
-                          whole ARMY
+    Enter, with drum and colours, BERTRAM, PAROLLES, and the whole ARMY
 
   MARIANA. The gods forbid else!
   WIDOW. So, now they come.

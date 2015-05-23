@@ -56,14 +56,12 @@ END_ACT
 
 
 
-SCENE:
 England and France
 
 ACT I. SCENE I.
 London. The Parliament House
 
-Alarum. Enter YORK, EDWARD, RICHARD, NORFOLK, MONTAGUE, WARWICK,
-and soldiers, with white roses in their hats
+Alarum. Enter YORK, EDWARD, RICHARD, NORFOLK, MONTAGUE, WARWICK, and soldiers, with white roses in their hats
 
   WARWICK. I wonder how the King escap'd our hands.
   YORK. While we pursu'd the horsemen of the north,
@@ -118,9 +116,7 @@ and soldiers, with white roses in their hats
     Resolve thee, Richard; claim the English crown.
                                       [YORK occupies the throne]
 
-       Flourish. Enter KING HENRY, CLIFFORD, NORTHUMBERLAND,
-        WESTMORELAND, EXETER, and others, with red roses in
-                            their hats
+       Flourish. Enter KING HENRY, CLIFFORD, NORTHUMBERLAND,        WESTMORELAND, EXETER, and others, with red roses in                            their hats
 
   KING HENRY. My lords, look where the sturdy rebel sits,
     Even in the chair of state! Belike he means,
@@ -558,8 +554,7 @@ Alarum. Enter the YORK
     The sands are numb'red that make up my life;
     Here must I stay, and here my life must end.
 
-         Enter QUEEN MARGARET, CLIFFORD, NORTHUMBERLAND,
-               the PRINCE OF WALES, and soldiers
+         Enter QUEEN MARGARET, CLIFFORD, NORTHUMBERLAND,               the PRINCE OF WALES, and soldiers
 
     Come, bloody Clifford, rough Northumberland,
     I dare your quenchless fury to more rage;
@@ -960,8 +955,7 @@ A march. Enter EDWARD, RICHARD, and their power
 SCENE II.
 Before York
 
-Flourish. Enter KING HENRY, QUEEN MARGARET, the PRINCE OF WALES, CLIFFORD,
-NORTHUMBERLAND, with drum and trumpets
+Flourish. Enter KING HENRY, QUEEN MARGARET, the PRINCE OF WALES, CLIFFORD, NORTHUMBERLAND, with drum and trumpets
 
   QUEEN MARGARET. Welcome, my lord, to this brave town of York.
     Yonder's the head of that arch-enemy
@@ -1047,8 +1041,7 @@ NORTHUMBERLAND, with drum and trumpets
     And hearten those that fight in your defence.
     Unsheathe your sword, good father; cry 'Saint George!'
 
-         March. Enter EDWARD, CLARENCE, RICHARD, WARWICK,
-                NORFOLK, MONTAGUE, and soldiers
+         March. Enter EDWARD, CLARENCE, RICHARD, WARWICK, NORFOLK, MONTAGUE, and soldiers
 
   EDWARD. Now, perjur'd Henry, wilt thou kneel for grace
     And set thy diadem upon my head,
@@ -1311,9 +1304,7 @@ Alarum. Enter KING HENRY alone
     His body couched in a curious bed,
     When care, mistrust, and treason waits on him.
 
-       Alarum. Enter a son that hath kill'd his Father, at
-       one door; and a FATHER that hath kill'd his Son, at
-                         another door
+       Alarum. Enter a SON that hath kill'd his Father, at one door; and a FATHER that hath kill'd his Son, at another door
 
   SON. Ill blows the wind that profits nobody.
     This man whom hand to hand I slew in fight
@@ -1391,8 +1382,7 @@ Alarum. Enter KING HENRY alone
   KING HENRY. Sad-hearted men, much overgone with care,
     Here sits a king more woeful than you are.
 
-           Alarums, excursions. Enter QUEEN MARGARET,
-                  PRINCE OF WALES, and EXETER
+           Alarums, excursions. Enter QUEEN MARGARET, PRINCE OF WALES, and EXETER
 
   PRINCE OF WALES. Fly, father, fly; for all your friends are fled,
     And Warwick rages like a chafed bull.
@@ -1450,8 +1440,7 @@ A loud alarum. Enter CLIFFORD, wounded
     I stabb'd your fathers' bosoms: split my breast.
                                                      [He faints]
 
-       Alarum and retreat. Enter EDWARD, CLARENCE, RICHARD
-               MONTAGUE, WARWICK, and soldiers
+       Alarum and retreat. Enter EDWARD, CLARENCE, RICHARD, MONTAGUE, WARWICK, and soldiers
 
   EDWARD. Now breathe we, lords. Good fortune bids us pause
     And smooth the frowns of war with peaceful looks.
@@ -1880,9 +1869,7 @@ Enter EDWARD, RICHARD, CLARENCE, and LADY GREY
 SCENE III.
 France.  The KING'S palace
 
-Flourish.  Enter LEWIS the French King, his sister BONA,
-his Admiral call'd BOURBON; PRINCE OF WALES, QUEEN MARGARET,
-and the OXFORD.  LEWIS sits, and riseth up again
+Flourish.  Enter LEWIS the French King, his sister BONA, his Admiral call'd BOURBON; PRINCE OF WALES, QUEEN MARGARET, and the OXFORD.  LEWIS sits, and riseth up again
 
   LEWIS. Fair Queen of England, worthy Margaret,
     Sit down with us. It ill befits thy state
@@ -2409,8 +2396,7 @@ Enter FIRST WATCHMAN, SECOND WATCHMAN, THIRD WATCHMAN, to guard the KING'S tent
   SECOND WATCHMAN. Ay, wherefore else guard we his royal tent
     But to defend his person from night-foes?
 
-             Enter WARWICK, CLARENCE, OXFORD, SOMERSET,
-                   and French soldiers, silent all
+             Enter WARWICK, CLARENCE, OXFORD, SOMERSET, and French soldiers, silent all
 
   WARWICK. This is his tent; and see where stand his guard.
     Courage, my masters! Honour now or never!
@@ -2422,9 +2408,7 @@ Enter FIRST WATCHMAN, SECOND WATCHMAN, THIRD WATCHMAN, to guard the KING'S tent
       set upon the guard, who fly, crying 'Arm! Arm!' WARWICK
                    and the rest following them
 
-      The drum playing and trumpet sounding, Enter WARWICK
-         and the rest, bringing the EDWARD out in his gown,
-   sitting in a chair. RICHARD and HASTINGS fly over the stage
+      The drum playing and trumpet sounding, Enter WARWICK and the rest, bringing the EDWARD out in his gown, sitting in a chair. RICHARD and HASTINGS fly over the stage
 
   SOMERSET. What are they that fly there?
   WARWICK. Richard and Hastings. Let them go; here is the Duke.
@@ -2558,8 +2542,7 @@ Enter RICHARD, HASTINGS, SIR WILLIAM STANLEY, and others
 SCENE VI.
 London. The Tower
 
-Flourish. Enter KING HENRY, CLARENCE, WARWICK, SOMERSET, young HENRY,
-EARL OF RICHMOND, OXFORD, MONTAGUE, LIEUTENANT OF THE TOWER, and attendants
+Flourish. Enter KING HENRY, CLARENCE, WARWICK, SOMERSET, young HENRY, EARL OF RICHMOND, OXFORD, MONTAGUE, LIEUTENANT OF THE TOWER, and attendants
 
   KING HENRY. Master Lieutenant, now that God and friends
     Have shaken Edward from the regal seat
@@ -2695,8 +2678,7 @@ Flourish. Enter EDWARD, RICHARD, HASTINGS, and soldiers
     For hither will our friends repair to us.
   HASTINGS. My liege, I'll knock once more to summon them.
 
-         Enter, on the walls, the MAYOR and
-                       his BRETHREN
+         Enter, on the walls, the MAYOR and his BRETHREN
 
   MAYOR. My lords, we were forewarned of your coming
     And shut the gates for safety of ourselves,
@@ -2871,8 +2853,7 @@ END_ACT
 ACT V. SCENE I.
 Coventry
 
-Enter WARWICK, the MAYOR OF COVENTRY, FIRST MESSENGER, SECOND MESSENGER,
-and others upon the walls
+Enter WARWICK, the MAYOR OF COVENTRY, FIRST MESSENGER, SECOND MESSENGER, and others upon the walls
 
   WARWICK. Where is the post that came from valiant Oxford?
     How far hence is thy lord, mine honest fellow?
@@ -2894,8 +2875,7 @@ and others upon the walls
   WARWICK. Who should that be? Belike unlook'd for friends.
   SOMERVILLE. They are at hand, and you shall quickly know.
 
-        March. Flourish. Enter EDWARD, RICHARD,
-                         and soldiers
+        March. Flourish. Enter EDWARD, RICHARD, and soldiers
 
   EDWARD. Go, trumpet, to the walls, and sound a parle.
   RICHARD. See how the surly Warwick mans the wall.
@@ -3122,8 +3102,7 @@ Flourish. Enter EDWARD in triumph; with RICHARD, CLARENCE, and the rest
 SCENE IV.
 Plains wear Tewksbury
 
-Flourish. March. Enter QUEEN MARGARET, PRINCE OF WALES, SOMERSET, OXFORD,
-and SOLDIERS
+Flourish. March. Enter QUEEN MARGARET, PRINCE OF WALES, SOMERSET, OXFORD, and SOLDIERS
 
   QUEEN MARGARET. Great lords, wise men ne'er sit and wail their
       loss,
@@ -3196,8 +3175,7 @@ and SOLDIERS
   QUEEN MARGARET. This cheers my heart, to see your forwardness.
   OXFORD. Here pitch our battle; hence we will not budge.
 
-      Flourish and march. Enter, at a distance, EDWARD,
-               RICHARD, CLARENCE, and soldiers
+      Flourish and march. Enter, at a distance, EDWARD, RICHARD, CLARENCE, and soldiers
 
   EDWARD. Brave followers, yonder stands the thorny wood
     Which, by the heavens' assistance and your strength,
@@ -3223,8 +3201,7 @@ and SOLDIERS
 SCENE V.
 Another part of the field
 
-Flourish. Enter EDWARD, RICHARD, CLARENCE, and forces,
-With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
+Flourish. Enter EDWARD, RICHARD, CLARENCE, and forces, With QUEEN MARGARET, OXFORD, and SOMERSET, prisoners
 
   EDWARD. Now here a period of tumultuous broils.
     Away with Oxford to Hames Castle straight;
@@ -3437,8 +3414,7 @@ Enter KING HENRY and RICHARD with the LIEUTENANT, on the walls
 SCENE VII.
 London. The palace
 
-Flourish. Enter EDWARD, QUEEN ELIZABETH, CLARENCE, RICHARD,
-HASTINGS, NURSE, with the Young PRINCE, and attendants
+Flourish. Enter EDWARD, QUEEN ELIZABETH, CLARENCE, RICHARD, HASTINGS, NURSE, with the Young PRINCE, and attendants
 
   EDWARD. Once more we sit in England's royal throne,
     Repurchas'd with the blood of enemies.

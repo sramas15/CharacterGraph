@@ -518,8 +518,7 @@ END_ACT
 ACT II. SCENE II.
 The park
 
-Enter the PRINCESS OF FRANCE, with three attending ladies,
-ROSALINE, MARIA, KATHARINE, BOYET, and two other FIRST LORD, SECOND LORD
+Enter the PRINCESS OF FRANCE, with three attending ladies, ROSALINE, MARIA, KATHARINE, BOYET, and two other FIRST LORD, SECOND LORD
 
   BOYET. Now, madam, summon up your dearest spirits.
     Consider who the King your father sends,
@@ -617,8 +616,7 @@ ROSALINE, MARIA, KATHARINE, BOYET, and two other FIRST LORD, SECOND LORD
     To let you enter his unpeopled house.
                                     [The LADIES-IN-WAITING mask]
 
-             Enter KING, LONGAVILLE, DUMAIN, BEROWNE,
-                         and ATTENDANTS
+             Enter KING, LONGAVILLE, DUMAIN, BEROWNE,                         and ATTENDANTS
 
     Here comes Navarre.
   KING. Fair Princess, welcome to the court of Navarre.
@@ -1023,8 +1021,7 @@ END_ACT
 ACT IV. SCENE I.
 The park
 
-Enter the PRINCESS, ROSALINE, MARIA, KATHARINE, BOYET, LORDS, ATTENDANTS,
-and a FORESTER
+Enter the PRINCESS, ROSALINE, MARIA, KATHARINE, BOYET, LORDS, ATTENDANTS, and a FORESTER
 
   PRINCESS OF FRANCE. Was that the King that spurr'd his horse so
       hard
@@ -2115,8 +2112,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
   BOYET. The trumpet sounds; be mask'd; the maskers come.
                                                [The LADIES mask]
 
-          Enter BLACKAMOORS music, MOTH as Prologue, the
-     KING and his LORDS as maskers, in the guise of Russians
+          Enter BLACKAMOORS music, MOTH as Prologue, the     KING and his LORDS as maskers, in the guise of Russians
 
   MOTH. All hail, the richest heauties on the earth!
   BOYET. Beauties no richer than rich taffeta.
@@ -2295,8 +2291,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
   PRINCESS OF FRANCE. Whip to our tents, as roes run o'er land.
                  Exeunt PRINCESS, ROSALINE, KATHARINE, and MARIA
 
-         Enter the KING, BEROWNE, LONGAVILLE, and DUMAIN,
-                        in their proper habits
+         Enter the KING, BEROWNE, LONGAVILLE, and DUMAIN,                        in their proper habits
 
   KING. Fair sir, God save you! Where's the Princess?
   BOYET. Gone to her tent. Please it your Majesty
@@ -2326,8 +2321,7 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
   KING. A blister on his sweet tongue, with my heart,
     That put Armado's page out of his part!
 
-        Enter the PRINCESS, ushered by BOYET; ROSALINE,
-                      MARIA, and KATHARINE
+        Enter the PRINCESS, ushered by BOYET; ROSALINE,                      MARIA, and KATHARINE
 
   BEROWNE. See where it comes! Behaviour, what wert thou
     Till this man show'd thee? And what art thou now?

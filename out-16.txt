@@ -47,11 +47,10 @@ Scene: - Britain.
 ACT I. Scene I.
 [King Lear's Palace.]
 
-Enter KENT, GLOUCESTER, and EDMUND. [KENT and GLOUCESTER converse.
-EDMUND stands back.]
+Enter KENT, GLOUCESTER, and EDMUND. [KENT and GLOUCESTER converse. EDMUND stands back.]
 
   KENT. I thought the King had more affected the Duke of ALBANY than
-     CORNWALL.
+     CORNWALL
   GLOUCESTER. It did always seem so to us; but now, in the division of the
      kingdom, it appears not which of the Dukes he values most, for
      equalities are so weigh'd that curiosity in neither can make
@@ -81,9 +80,7 @@ EDMUND stands back.]
                                                  Sound a sennet.
      The King is coming.
 
-      Enter one bearing a coronet; then LEAR; then the Dukes of
-      ALBANY and CORNWALL; next, GONERIL, REGAN, CORDELIA, with
-                              Followers.
+      Enter one bearing a coronet; then LEAR; then the Dukes of      ALBANY and CORNWALL; next, GONERIL, REGAN, CORDELIA, with Followers.
 
   LEAR. Attend the lords of France and BURGUNDY, GLOUCESTER.
   GLOUCESTER. I shall, my liege.
@@ -1270,8 +1267,7 @@ Enter KENT and [OSWALD the] Steward, severally.
      Strike!                                        [Beats him.]
   OSWALD. Help, ho! murther! murther!
 
-      Enter EDMUND, with his rapier drawn, GLOUCESTER, CORNWALL,
-                           REGAN, Servants.
+      Enter EDMUND, with his rapier drawn, GLOUCESTER, CORNWALL,                          REGAN, Servants.
 
   EDMUND. How now? What's the matter?                 Parts [them].
   KENT. With you, goodman boy, an you please! Come, I'll flesh ye!
@@ -3495,8 +3491,7 @@ Enter, with Drum and Colours, EDMUND, REGAN, GENTLEMAN, and Soldiers.
 Scene II.
 A field between the two camps.
 
-Alarum within. Enter, with Drum and Colours, the Powers of France
-over the stage, CORDELIA with her Father in her hand, and exeunt.
+Alarum within. Enter, with Drum and Colours, the Powers of France over the stage, CORDELIA with her Father in her hand, and exeunt.
 
 Enter EDGAR and GLOUCESTER.
 
@@ -3524,8 +3519,7 @@ Enter EDGAR and GLOUCESTER.
 Scene III.
 The British camp, near Dover.
 
-Enter, in conquest, with Drum and Colours, EDMUND; LEAR and CORDELIA
-as prisoners; Soldiers, CAPTAIN.
+Enter, in conquest, with Drum and Colours, EDMUND; LEAR and CORDELIA as prisoners; Soldiers, CAPTAIN.
 
   EDMUND. Some officers take them away. Good guard
      Until their greater pleasures first be known
@@ -3851,8 +3845,7 @@ as prisoners; Soldiers, CAPTAIN.
   ALBANY. The gods defend her! Bear him hence awhile.
                                           [EDMUND is borne off.]
 
-    Enter LEAR, with CORDELIA [dead] in his arms, [EDGAR, CAPTAIN,
-                        and others following].
+    Enter LEAR, with CORDELIA [dead] in his arms, [EDGAR, CAPTAIN,                        and others following].
 
   LEAR. Howl, howl, howl, howl! O, you are men of stone.
      Had I your tongues and eyes, I'ld use them so

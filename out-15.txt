@@ -137,9 +137,7 @@ Enter FLAVIUS, MARULLUS, and certain Commoners, FIRST COMMONER, SECOND COMMONER.
 SCENE II.
 A public place.
 
-Flourish. Enter CAESAR; ANTONY, for the course; CALPURNIA, PORTIA,
-DECIUS, CICERO, BRUTUS, CASSIUS, and CASCA; a great crowd follows,
-among them a SOOTHSAYER.
+Flourish. Enter CAESAR; ANTONY, for the course; CALPURNIA, PORTIA, DECIUS, CICERO, BRUTUS, CASSIUS, and CASCA; a great crowd follows, among them a SOOTHSAYER.
 
   CAESAR. Calpurnia!
   CASCA. Peace, ho! Caesar speaks.
@@ -773,8 +771,7 @@ Enter BRUTUS in his orchard LUCIUS.
     Not Erebus itself were dim enough
     To hide thee from prevention.
 
-    Enter the conspirators, CASSIUS, CASCA, DECIUS, CINNA,
-                METELLUS, CIMBER, and TREBONIUS.
+    Enter the conspirators, CASSIUS, CASCA, DECIUS, CINNA,                METELLUS, CIMBER, and TREBONIUS.
 
   CASSIUS. I think we are too bold upon your rest.
     Good morrow, Brutus, do we trouble you?
@@ -1178,8 +1175,7 @@ Enter CAESAR, in his nightgown.
     I am ashamed I did yield to them.
     Give me my robe, for I will go.
 
-         Enter PUBLIUS, BRUTUS, LIVARIUS, METELLUS, CASCA,
-                     TREBONIUS, and CINNA.
+         Enter PUBLIUS, BRUTUS, LIVARIUS, METELLUS, CASCA,                     TREBONIUS, and CINNA.
 
     And look where Publius is come to fetch me.
   PUBLIUS. Good morrow,Caesar.
@@ -2543,8 +2539,7 @@ Enter OCTAVIUS, ANTONY, and their Army.
   ANTONY. Why do you cross me in this exigent?
   OCTAVIUS. I do not cross you, but I will do so.
 
-      March. Drum. Enter BRUTUS, CASSIUS, and their Army;
-           LUCILIUS, TITINIUS, MESSALA, and others.
+      March. Drum. Enter BRUTUS, CASSIUS, and their Army;           LUCILIUS, TITINIUS, MESSALA, and others.
 
   BRUTUS. They stand, and would have parley.
   CASSIUS. Stand fast, Titinius; we must out and talk.
@@ -2825,7 +2820,7 @@ SCENE IV.
 Another part of the field.
 
 Alarum. Enter, fighting, Soldiers of both armies; then BRUTUS, young CATO,
-Lucilius, and others, FIRST SOLDIER, SECOND SOLDIER.
+LUCILIUS, and others, FIRST SOLDIER, SECOND SOLDIER.
 
   BRUTUS. Yet, countrymen, O, yet hold up your heads!
   CATO. What bastard doth not? Who will go with me?
