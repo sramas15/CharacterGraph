@@ -1,0 +1,216 @@
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+In delivering my son from me, I bury a second husband.
+
+BERTRAM
+3
+HELENA
+LAFEU
+COUNTESS OF ROUSILLON
+And I in going, madam, weep o'er my father's death anew;
+but I must attend his Majesty's command, to whom I am now in
+ward, evermore in subjection.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+You shall find of the King a husband, madam; you, sir, a
+father. He that so generally is at all times good must of
+necessity hold his virtue to you, whose worthiness would stir it
+up where it wanted, rather than lack it where there is such
+abundance.
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+What hope is there of his Majesty's amendment?
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+He hath abandon'd his physicians, madam; under whose
+practices he hath persecuted time with hope, and finds no other
+advantage in the process but only the losing of hope by time.
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+This young gentlewoman had a father- O, that 'had,' how
+sad a passage 'tis!-whose skill was almost as great as his
+honesty; had it stretch'd so far, would have made nature
+immortal, and death should have play for lack of work. Would, for
+the King's sake, he were living! I think it would be the death of
+the King's disease.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+How call'd you the man you speak of, madam?
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+He was famous, sir, in his profession, and it was his
+great right to be so- Gerard de Narbon.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+He was excellent indeed, madam; the King very lately spoke
+of him admiringly and mourningly; he was skilful enough to have
+liv'd still, if knowledge could be set up against mortality.
+
+BERTRAM
+3
+HELENA
+LAFEU
+COUNTESS OF ROUSILLON
+What is it, my good lord, the King languishes of?
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+A fistula, my lord.
+
+BERTRAM
+3
+HELENA
+LAFEU
+COUNTESS OF ROUSILLON
+I heard not of it before.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+I would it were not notorious. Was this gentlewoman the
+daughter of Gerard de Narbon?
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+His sole child, my lord, and bequeathed to my
+overlooking. I have those hopes of her good that her education
+promises; her dispositions she inherits, which makes fair gifts
+fairer; for where an unclean mind carries virtuous qualities,
+there commendations go with pity-they are virtues and traitors
+too. In her they are the better for their simpleness; she derives
+her honesty, and achieves her goodness.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+Your commendations, madam, get from her tears.
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+'Tis the best brine a maiden can season her praise in.
+The remembrance of her father never approaches her heart but the
+tyranny of her sorrows takes all livelihood from her cheek. No
+more of this, Helena; go to, no more, lest it be rather thought
+you affect a sorrow than to have-
+
+HELENA
+3
+BERTRAM
+LAFEU
+COUNTESS OF ROUSILLON
+I do affect a sorrow indeed, but I have it too.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+Moderate lamentation is the right of the dead: excessive
+grief the enemy to the living.
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+If the living be enemy to the grief, the excess makes it
+soon mortal.
+
+BERTRAM
+3
+HELENA
+LAFEU
+COUNTESS OF ROUSILLON
+Madam, I desire your holy wishes.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+How understand we that?
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+Be thou blest, Bertram, and succeed thy father
+In manners, as in shape! Thy blood and virtue
+Contend for empire in thee, and thy goodness
+Share with thy birthright! Love all, trust a few,
+Do wrong to none; be able for thine enemy
+Rather in power than use, and keep thy friend
+Under thy own life's key; be check'd for silence,
+But never tax'd for speech. What heaven more will,
+That thee may furnish, and my prayers pluck down,
+Fall on thy head! Farewell. My lord,
+'Tis an unseason'd courtier; good my lord,
+Advise him.
+
+LAFEU
+3
+BERTRAM
+HELENA
+COUNTESS OF ROUSILLON
+He cannot want the best
+That shall attend his love.
+
+COUNTESS OF ROUSILLON
+3
+BERTRAM
+HELENA
+LAFEU
+Heaven bless him! Farewell, Bertram.
+
+BERTRAM
+2
+HELENA
+LAFEU
+The best wishes that can be forg'd in your thoughts be
+servants to you!  [To HELENA]  Be comfortable to my mother, your
+mistress, and make much of her.
