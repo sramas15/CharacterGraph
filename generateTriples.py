@@ -1,15 +1,22 @@
 # Need to remove exit and 4 spaces from line before printing / before adding to currSpeech
 # If char speaks who's not in char list, add them to char list?
 
+# char lists changed:
+# char-18.txt
+	# modified:   char-19.txt
+	# modified:   char-20.txt
+	# modified:   char-23.txt
+	# modified:   char-27.txt
+	# modified:   char-5.txt
+
 import re
 
-NUM_PLAYS = 34
+NUM_PLAYS = 35
 
 # Returns whether a line starts a new scene
 def startsNewScene(line):
-	match = re.match(r'^(ACT [A-Z][A-Z]?. )?SCENE [A-Z][A-Z]?[A-Z]?.$', line)
-	if match:
-		return True
+	match = re.match(r'^(ACT [A-Z][A-Z]?. )?S(CENE|cene) ([A-Z][A-Z]?[A-Z]?|[0-9][0-9]?).$', line)
+	return match
 
 # Checks if a new character starts speaking, and if so
 # returns (newSpeaker, line with speaker's name removed)
@@ -104,10 +111,10 @@ for playNum in range(NUM_PLAYS):
 	# print '----------\n----------'
 	charNames = set()
 	with open(charFile, 'r') as f:
-		i = 0
+		playTitle = True
 		for line in f:
-			if i == 0: # First line is the play's title
-				i = 1
+			if playTitle: # First line is the play's title
+				playTitle = False
 			else:
 				charNames.add(line.strip())
 	f.close()
