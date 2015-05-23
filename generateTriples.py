@@ -1,5 +1,4 @@
-# Need to remove exit and 4 spaces from line before printing / before adding to currSpeech
-# If char speaks who's not in char list, add them to char list?
+# Need to deal with Exeunt at the end of the line with no names listed = all characters leave
 
 # char lists changed:
 # char-18.txt
@@ -30,7 +29,7 @@ def newCharacterSpeaking(line):
 	return None
 
 # Checks if a line contains characters entering the scene, 
-# and if so returns the updated currCharList
+# and if so updates currCharList
 # Will get wrong:
 # Re-enter WHITMORE with SUFFOLK'S body
 def checkEntryLine(line, currCharList):
@@ -38,7 +37,6 @@ def checkEntryLine(line, currCharList):
 	if ind != -1:
 		match = re.findall(r'([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[ind+6:])
 		for group in match:
-			# print 'Enter:', group
 			if group in charNames:
 				currCharList.add(group)
 			else:
@@ -48,28 +46,24 @@ def checkEntryLine(line, currCharList):
 						if word in charNames:
 							currCharList.add(word)
 				# else:
-					# print group
 				# 	for char in charNames: # Deals with abbreviated names
 				# 		if char.find(group) != -1:
-				# 			# print group, char
 				# 			currCharList.add(char)
-		return currCharList
-	return None
 
 # Checks if a line contains characters leaving the scene, 
 # and if so returns (updated currCharList, line with exit removed)
+# and if so returns line with exit removed
 # Will miss or get wrong
 # [Edmund is borne off.]
 # Exeunt all but the FIRST GENTLEMAN
 def checkExit(line, currSpeaker, currCharList):
 	# also catches "Exit running." and "[Exit.]"
-	match = re.search(r'\[?(?:(?:Exit\.)|(?:Exit (?:[a-z ]*)\.?))\]?', line)
+	match = re.search(r'\[?(?:(?:Exit\.?)|(?:Exit (?:[a-z ]*)\.?))\]?', line)
 	if match:
 		if currSpeaker in currCharList:
-			# print 'Exit:', currSpeaker
 			currCharList.remove(currSpeaker)
-			line = line[:match.start()].rstrip()
-			return (currCharList, line)
+			line = line[:match.start()].rstrip()+'\n'
+			return line
 	ind = line.find('Exit ')
 	if ind == -1:
 		ind = line.find('Exeunt ')
@@ -81,15 +75,14 @@ def checkExit(line, currSpeaker, currCharList):
 		moreChars = re.findall(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[ind:])
 		if moreChars:
 			for group in moreChars:
-				# print 'Exit:', group
 				if group in currCharList:
 					currCharList.remove(group)
-			return (currCharList, line[:ind])
+			return line[:ind].rstrip()+'\n'
 	return None
 
 # Checks if a line is speech continuation
 def checkSpeechContinuation(line):
-	match = re.search(r'^    (?:[A-Za-z]+)', line)
+	match = re.search(r'^    [\S]', line)
 	return match
 
 # Writes triple: currSpeaker \n len(currCharList) \n currCharList \n currSpeech \n
@@ -144,24 +137,23 @@ for playNum in range(NUM_PLAYS):
 						currCharList.add(currSpeaker)
 					line = tup[1]
 					needToWriteTriple = True
-					exitOutput = checkExit(line, currSpeaker, currCharList)
-					if exitOutput:
-						line = exitOutput[1]
-						writeToFile(currSpeaker, currCharList, currSpeech, outFile)
-						currCharList = exitOutput[0]
-						needToWriteTriple = False
 					currSpeech = line
+					exitLine = checkExit(line, currSpeaker, currCharList)
+					if exitLine:
+						line = exitLine
+						currSpeech = line
+						exitCharList = set([currSpeaker]).union(currCharList)
+						writeToFile(currSpeaker, exitCharList, currSpeech, outFile)
+						needToWriteTriple = False
 				else:
 					if checkSpeechContinuation(line):
-						exitOutput = checkExit(line, currSpeaker, currCharList)
-						if exitOutput:
-							line = exitOutput[1]
-							writeToFile(currSpeaker, currCharList, currSpeech, outFile)
+						exitLine = checkExit(line, currSpeaker, currCharList)
+						if exitLine:	
+							line = exitLine
+							exitCharList = set([currSpeaker]).union(currCharList)
+							writeToFile(currSpeaker, exitCharList, currSpeech, outFile)
 							needToWriteTriple = False
-							currCharList = exitOutput[0]
-						currSpeech += line
+						currSpeech += line.lstrip() # Remove leading 4 spaces
 					else:
-						newCharList = checkEntryLine(line, currCharList)
-						if newCharList:
-							currCharList = newCharList
+						checkEntryLine(line, currCharList)
 	f.close()
