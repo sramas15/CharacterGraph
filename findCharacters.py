@@ -8,7 +8,7 @@ def printCharSet(outF, characters):
 	for char in characters:
 		outF.write("%s\n" % char)
 
-def GetCharacters(num_files=35, inPtrn="out-%d.txt", outPtrn="char-%d.txt"):
+def GetCharacters(num_files=36, inPtrn="full_text/out-%d.txt", outPtrn="char_list/char-%d.txt"):
 	match = UPPERCASE_CNM.search("                          SCENE XIII.")
 	print match.group()[2] != " "
 	for i in range(num_files):
@@ -33,7 +33,7 @@ def GetCharacters(num_files=35, inPtrn="out-%d.txt", outPtrn="char-%d.txt"):
 			fOut.write("%s\n" % title)
 			printCharSet(fOut, characters)
 
-def GetCharactersSingleFile(inFNm="out-3.txt", outFNm = "char-3.txt"):
+def GetCharactersSingleFile(inFNm="full_text/out-3.txt", outFNm = "char_list/char-3.txt"):
 	title = None
 	characters = set()
 	with open(inFNm, "r") as fIn:
@@ -51,4 +51,4 @@ def GetCharactersSingleFile(inFNm="out-3.txt", outFNm = "char-3.txt"):
 
 
 if __name__ == "__main__":
-	GetCharactersSingleFile()
+	GetCharacters()
