@@ -651,7 +651,7 @@ END_ACT
 ACT II. SCENE I.
 Sicilia. The palace of LEONTES
 
-Enter HERMIONE, MAMILLIUS, and LADIES
+Enter HERMIONE, MAMILLIUS, and FIRST LADY and SECOND LADY
 
   HERMIONE. Take the boy to you; he so troubles me,
     'Tis past enduring.
@@ -697,7 +697,7 @@ Enter HERMIONE, MAMILLIUS, and LADIES
   HERMIONE. Come on then,
     And give't me in mine ear.
 
-             Enter LEONTES, ANTIGONUS, LORDS, and OTHERS
+             Enter LEONTES, ANTIGONUS, FIRST LORDS, and OTHERS
 
   LEONTES. he met there? his train? Camillo with him?
   FIRST LORD. Behind the tuft of pines I met them; never
@@ -993,7 +993,7 @@ Enter PAULINA, a GENTLEMAN, and ATTENDANTS
 SCENE III.
 Sicilia. The palace of LEONTES
 
-Enter LEONTES, ANTIGONUS, LORDS, and SERVANTS
+Enter LEONTES, ANTIGONUS, LORDS, and FIRST SERVANT, SECOND SERVANT
 
   LEONTES. Nor night nor day no rest! It is but weakness
     To bear the matter thus- mere weakness. If
@@ -1221,7 +1221,7 @@ Enter LEONTES, ANTIGONUS, LORDS, and SERVANTS
     Like offices of pity. Sir, be prosperous
     In more than this deed does require! And blessing
     Against this cruelty fight on thy side,
-    Poor thing, condemn'd to loss!           Exit with the child
+    Poor thing, condemn'd to loss!           Exit with the CHILD
   LEONTES. No, I'll not rear
     Another's issue.
 
@@ -1291,7 +1291,7 @@ Enter CLEOMENES and DION
 SCENE II.
 Sicilia. A court of justice
 
-Enter LEONTES, LORDS, and OFFICERS
+Enter LEONTES, FIRST LORD, LORDS, and OFFICER
 
   LEONTES. This sessions, to our great grief we pronounce,
     Even pushes 'gainst our heart- the party tried,
@@ -2015,8 +2015,7 @@ Enter FLORIZEL and PERDITA
     Address yourself to entertain them sprightly,
     And let's be red with mirth.
 
-        Enter SHEPHERD, with POLIXENES and CAMILLO, disguised;
-                 CLOWN, MOPSA, DORCAS, with OTHERS
+        Enter SHEPHERD, with POLIXENES and CAMILLO, disguised; CLOWN, MOPSA, DORCAS, with OTHERS
 
   SHEPHERD. Fie, daughter! When my old wife liv'd, upon
     This day she was both pantler, butler, cook;
@@ -2279,12 +2278,12 @@ Enter FLORIZEL and PERDITA
                         SONG
 
   AUTOLYCUS. Get you hence, for I must go
-             Where it fits not you to know.
+    Where it fits not you to know.
   DORCAS.    Whither?
   MOPSA.       O, whither?
   DORCAS.        Whither?
   MOPSA.     It becomes thy oath full well
-             Thou to me thy secrets tell.
+    Thou to me thy secrets tell.
   DORCAS.    Me too! Let me go thither
   MOPSA.     Or thou goest to th' grange or mill.
   DORCAS.    If to either, thou dost ill.
@@ -2293,7 +2292,7 @@ Enter FLORIZEL and PERDITA
   AUTOLYCUS. Neither.
   DORCAS.    Thou hast sworn my love to be.
   MOPSA.     Thou hast sworn it more to me.
-             Then whither goest? Say, whither?
+    Then whither goest? Say, whither?
 
   CLOWN. We'll have this song out anon by ourselves; my father and
     the gentlemen are in sad talk, and we'll not trouble them. Come,
@@ -2668,7 +2667,7 @@ Enter FLORIZEL and PERDITA
     scar'd my choughs from the chaff, I had not left a purse alive in
     the whole army.
 
-              CAMILLO, FLORIZEL, and PERDITA come forward
+              Enter CAMILLO, FLORIZEL, and PERDITA come forward
 
   CAMILLO. Nay, but my letters, by this means being there
     So soon as you arrive, shall clear that doubt.
@@ -3057,8 +3056,7 @@ Enter LEONTES, CLEOMENES, DION, PAULINA, and OTHERS
     Will bring me to consider that which may
     Unfurnish me of reason.
 
-         Enter CLEOMENES, with FLORIZEL, PERDITA, and
-                            ATTENDANTS
+         Enter CLEOMENES, with FLORIZEL, PERDITA, and ATTENDANTS
 
     They are come.
     Your mother was most true to wedlock, Prince;
@@ -3198,7 +3196,7 @@ Enter LEONTES, CLEOMENES, DION, PAULINA, and OTHERS
 SCENE II.
 Sicilia. Before the palace of LEONTES
 
-Enter AUTOLYCUS and a GENTLEMAN
+Enter AUTOLYCUS and a FIRST GENTLEMAN
 
   AUTOLYCUS. Beseech you, sir, were you present at this relation?
   FIRST GENTLEMAN. I was by at the opening of the fardel, heard the
@@ -3216,14 +3214,14 @@ Enter AUTOLYCUS and a GENTLEMAN
     seeing could not say if th' importance were joy or sorrow- but in
     the extremity of the one it must needs be.
 
-                    Enter another GENTLEMAN
+                    Enter another SECOND GENTLEMAN
 
     Here comes a gentleman that happily knows more. The news, Rogero?
   SECOND GENTLEMAN. Nothing but bonfires. The oracle is fulfill'd:
     the King's daughter is found. Such a deal of wonder is broken out
     within this hour that ballad-makers cannot be able to express it.
 
-                    Enter another GENTLEMAN
+                    Enter another THIRD GENTLEMAN
 
     Here comes the Lady Paulina's steward; he can deliver you more.
     How goes it now, sir? This news, which is call'd true, is so like
@@ -3298,7 +3296,7 @@ Enter AUTOLYCUS and a GENTLEMAN
   FIRST GENTLEMAN. Who would be thence that has the benefit of
     access? Every wink of an eye some new grace will be born. Our
     absence makes us unthrifty to our knowledge. Let's along.
-                                                Exeunt GENTLEMEN
+                                          Exeunt FIRST GENTLEMAN, SECOND GENTLEMAN, THIRD GENTLEMAN
   AUTOLYCUS. Now, had I not the dash of my former life in me, would
     preferment drop on my head. I brought the old man and his son
     aboard the Prince; told him I heard them talk of a fardel and I
@@ -3364,8 +3362,7 @@ Enter AUTOLYCUS and a GENTLEMAN
 SCENE III.
 Sicilia. A chapel in PAULINA's house
 
-Enter LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, PAULINA,
-LORDS and ATTENDANTS
+Enter LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, PAULINA, LORDS and ATTENDANTS
 
   LEONTES. O grave and good Paulina, the great comfort
     That I have had of thee!

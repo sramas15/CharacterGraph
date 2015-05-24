@@ -1682,7 +1682,7 @@ END_ACT
 ACT IV. SCENE I.
 The frontiers of Mantua. A forest
 
-Enter certain OUTLAWS
+Enter certain FIRST OUTLAW, SECOND OUTLAW, THIRD OUTLAW
 
   FIRST OUTLAW. Fellows, stand fast; I see a passenger.
   SECOND OUTLAW. If there be ten, shrink not, but down with 'em.
@@ -1816,23 +1816,21 @@ Enter PROTEUS
   HOST. Ay; but peace! let's hear 'em.
 
                    SONG
-         Who is Silvia? What is she,
-           That all our swains commend her?
-         Holy, fair, and wise is she;
-           The heaven such grace did lend her,
-         That she might admired be.
-
-         Is she kind as she is fair?
-           For beauty lives with kindness.
-         Love doth to her eyes repair,
-           To help him of his blindness;
-         And, being help'd, inhabits there.
-
-         Then to Silvia let us sing
-           That Silvia is excelling;
-         She excels each mortal thing
-           Upon the dull earth dwelling.
-         'To her let us garlands bring.
+    Who is Silvia? What is she,
+    That all our swains commend her?
+    Holy, fair, and wise is she;
+    The heaven such grace did lend her,
+    That she might admired be.
+    Is she kind as she is fair?
+    For beauty lives with kindness.
+    Love doth to her eyes repair,
+    To help him of his blindness;
+    And, being help'd, inhabits there.
+    Then to Silvia let us sing
+    That Silvia is excelling;
+    She excels each mortal thing
+    Upon the dull earth dwelling.
+    'To her let us garlands bring.
 
   HOST. How now, are you sadder than you were before?
     How do you, man? The music likes you not.
@@ -2237,7 +2235,7 @@ Enter EGLAMOUR
 SCENE II.
 Milan. The DUKE'S palace
 
-Enter THURIO, PROTEUS, and JULIA as SEBASTIAN
+Enter THURIO, PROTEUS, and JULIA as Sebastian
 
   THURIO. Sir Proteus, what says Silvia to my suit?
   PROTEUS. O, sir, I find her milder than she was;
@@ -2308,7 +2306,7 @@ Enter THURIO, PROTEUS, and JULIA as SEBASTIAN
 SCENE III.
 The frontiers of Mantua. The forest
 
-Enter OUTLAWS with SILVA
+Enter FIRST OUTLAW, SECOND OUTLAW with SILVA
 
   FIRST OUTLAW. Come, come.
     Be patient; we must bring you to our captain.
@@ -2465,7 +2463,7 @@ Enter VALENTINE
 
                 Enter OUTLAWS, with DUKE and THURIO
 
-  OUTLAW. A prize, a prize, a prize!
+  OUTLAWS. A prize, a prize, a prize!
   VALENTINE. Forbear, forbear, I say; it is my lord the Duke.
     Your Grace is welcome to a man disgrac'd,
     Banished Valentine.
