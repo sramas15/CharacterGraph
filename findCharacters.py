@@ -25,10 +25,10 @@ def GetCharacters(num_files=36, inPtrn="full_text/out-%d.txt", outPtrn="char_lis
 				if match and match.start() == 0 and match.group()[2] != " ":
 					char = match.group().strip(" .")
 					characters.add(char)
-				match = LOWERCASE_CNM.search(line)
-				if match and match.start() == 0 and match.group()[2] != " ":
-					char = match.group().strip(" .")
-					characters.add(char)
+				#match = LOWERCASE_CNM.search(line)
+				#if match and match.start() == 0 and match.group()[2] != " ":
+			#		char = match.group().strip(" .")
+			#		characters.add(char)
 		with open(outFNm, "w") as fOut:
 			fOut.write("%s\n" % title)
 			printCharSet(fOut, characters)
