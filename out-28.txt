@@ -66,8 +66,7 @@ Enter a SHIPMASTER and a BOATSWAIN
     yare, yare! Take in the topsail. Tend to th' master's
     whistle. Blow till thou burst thy wind, if room enough.
 
-          Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND
-                     GONZALO, and OTHERS
+          Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND,                     GONZALO, and OTHERS
 
   ALONSO. Good boatswain, have care. Where's the master?
     Play the men.
@@ -86,14 +85,13 @@ Enter a SHIPMASTER and a BOATSWAIN
     hand a rope more. Use your authority; if you cannot, give
     thanks you have liv'd so long, and make yourself ready
     in your cabin for the mischance of the hour, if it so
-    hap.-Cheerly, good hearts!-Out of our way, I say.
- Exit
+    hap.-Cheerly, good hearts!-Out of our way, I say.    Exit
   GONZALO. I have great comfort from this fellow. Methinks
     he hath no drowning mark upon him; his complexion is
     perfect gallows. Stand fast, good Fate, to his hanging;
     make the rope of his destiny our cable, for our own doth
     little advantage. If he be not born to be hang'd, our
-    case is miserable.                                    Exeunt
+    case is miserable.                                    Exeunt all
 
                      Enter BOATSWAIN
 
@@ -118,8 +116,7 @@ Enter a SHIPMASTER and a BOATSWAIN
     to sea again; lay her off.
 
                     Enter MARINERS, Wet
-  MARINERS. All lost! to prayers, to prayers! all lost!
-                                                          Exeunt
+  MARINERS. All lost! to prayers, to prayers! all lost! Exeunt
   BOATSWAIN. What, must our mouths be cold?
   GONZALO. The King and Prince at prayers!
     Let's assist them,
@@ -514,8 +511,7 @@ Enter PROSPERO and MIRANDA
   PROSPERO. Go make thyself like a nymph o' th' sea; be subject
     To no sight but thine and mine, invisible
     To every eyeball else. Go take this shape,
-    And hither come in 't. Go, hence with diligence!
-                                                      Exit ARIEL
+    And hither come in 't. Go, hence with diligence!    Exit ARIEL
     Awake, dear heart, awake; thou hast slept well;
     Awake.
   MIRANDA. The strangeness of your story put
@@ -605,23 +601,22 @@ Enter PROSPERO and MIRANDA
     And make a vassal of him.
   PROSPERO. So, slave; hence!                       Exit CALIBAN
 
-         Enter ARIEL invisible, playing ad singing;
-                     FERDINAND following
+         Enter ARIEL invisible, playing ad singing;                     FERDINAND following
 
-                          ARIEL'S SONG.
-            Come unto these yellow sands,
-              And then take hands;
-            Curtsied when you have and kiss'd,
-              The wild waves whist,
-            Foot it featly here and there,
-            And, sweet sprites, the burden bear.
-              Hark, hark!
-            [Burden dispersedly: Bow-wow.]
-              The watch dogs bark.
-            [Burden dispersedly: Bow-wow.]
-              Hark, hark! I hear
-            The strain of strutting chanticleer
-              Cry, Cock-a-diddle-dow.
+  ARIEL.
+    Come unto these yellow sands,
+    And then take hands;
+    Curtsied when you have and kiss'd,
+    The wild waves whist,
+    Foot it featly here and there,
+    And, sweet sprites, the burden bear.
+    Hark, hark!
+    [Burden dispersedly: Bow-wow.]
+    The watch dogs bark.
+    [Burden dispersedly: Bow-wow.]
+    Hark, hark! I hear
+    The strain of strutting chanticleer
+    Cry, Cock-a-diddle-dow.
   FERDINAND. Where should this music be? I' th' air or th'
     earth?
     It sounds no more; and sure it waits upon
@@ -633,16 +628,16 @@ Enter PROSPERO and MIRANDA
     Or it hath drawn me rather. But 'tis gone.
     No, it begins again.
 
-                   ARIEL'S SONG
-         Full fathom five thy father lies;
-           Of his bones are coral made;
-         Those are pearls that were his eyes;
-           Nothing of him that doth fade
-         But doth suffer a sea-change
-         Into something rich and strange.
-         Sea-nymphs hourly ring his knell:
-           [Burden: Ding-dong.]
-         Hark! now I hear them-Ding-dong bell.
+  ARIEL.
+    Full fathom five thy father lies;
+    Of his bones are coral made;
+    Those are pearls that were his eyes;
+    Nothing of him that doth fade
+    But doth suffer a sea-change
+    Into something rich and strange.
+    Sea-nymphs hourly ring his knell:
+    [Burden: Ding-dong.]
+    Hark! now I hear them-Ding-dong bell.
 
   FERDINAND. The ditty does remember my drown'd father.
     This is no mortal business, nor no sound
@@ -1644,7 +1639,6 @@ Enter CALIBAN, STEPHANO, and TRINCULO
     You taught me but while-ere?
   STEPHANO. At thy request, monster, I will do reason, any
     reason. Come on, Trinculo, let us sing.              [Sings]
-
     Flout 'em and scout 'em,
     And scout 'em and flout 'em;
     Thought is free.
@@ -1711,12 +1705,11 @@ Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and OTHERS
     Will not, nor cannot, use such vigilance
     As when they are fresh.
   SEBASTIAN.  [Aside to ANTONIO]  I say, to-night; no more.
-
-           Solemn and strange music; and PROSPERO on the
-           top, invisible. Enter several strange SHAPES,
-           bringing in a banquet; and dance about it with
-           gentle actions of salutations; and inviting the
-           KING, etc., to eat, they depart
+    Solemn and strange music; and PROSPERO on the
+    top, invisible. Enter several strange SHAPES,
+    bringing in a banquet; and dance about it with
+    gentle actions of salutations; and inviting the
+    KING, etc., to eat, they depart
 
   ALONSO. What harmony is this? My good friends, hark!
   GONZALO. Marvellous sweet music!
@@ -1762,9 +1755,7 @@ Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and OTHERS
     The best is past. Brother, my lord the Duke,
     Stand to, and do as we.
 
-       Thunder and lightning. Enter ARIEL, like a harpy;
-       claps his wings upon the table; and, with a quaint
-                device, the banquet vanishes
+       Thunder and lightning. Enter ARIEL, like a harpy;       claps his wings upon the table; and, with a quaint                device, the banquet vanishes
 
   ARIEL. You are three men of sin, whom Destiny,
     That hath to instrument this lower world
@@ -1799,9 +1790,7 @@ Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and OTHERS
     Upon your heads-is nothing but heart's sorrow,
     And a clear life ensuing.
 
-        He vanishes in thunder; then, to soft music, enter
-        the SHAPES again, and dance, with mocks and mows,
-                and carrying out the table
+        He vanishes in thunder; then, to soft music, Enter        the SHAPES again, and dance, with mocks and mows,                and carrying out the table
 
   PROSPERO. Bravely the figure of this harpy hast thou
     Perform'd, my Ariel; a grace it had, devouring.
@@ -1934,8 +1923,7 @@ Enter PROSPERO, FERDINAND, and MIRANDA
     Whose wat'ry arch and messenger am I,
     Bids thee leave these; and with her sovereign grace,
     Here on this grass-plot, in this very place,
-    To come and sport. Her peacocks fly amain.
-                                      [JUNO descends in her car]
+    To come and sport. Her peacocks fly amain. 
     Approach, rich Ceres, her to entertain.
 
                         Enter CERES
@@ -1967,7 +1955,7 @@ Enter PROSPERO, FERDINAND, and MIRANDA
     Mars's hot minion is return'd again;
     Her waspish-headed son has broke his arrows,
     Swears he will shoot no more, but play with sparrows,
-    And be a boy right out.                       [JUNO alights]
+    And be a boy right out.               
   CERES. Highest Queen of State,
     Great Juno, comes; I know her by her gait.
   JUNO. How does my bounteous sister? Go with me
@@ -2014,11 +2002,7 @@ Enter PROSPERO, FERDINAND, and MIRANDA
     And these fresh nymphs encounter every one
     In country footing.
 
-        Enter certain REAPERS, properly habited; they join
-         with the NYMPHS in a graceful dance; towards the
-         end whereof PROSPERO starts suddenly, and speaks,
-          after which, to a strange, hollow, and confused
-                  noise, they heavily vanish
+        Enter certain REAPERS, properly habited; they join         with the NYMPHS in a graceful dance; towards the         end whereof PROSPERO starts suddenly, and speaks,          after which, to a strange, hollow, and confused                  noise, they heavily vanish
 
   PROSPERO.  [Aside]  I had forgot that foul conspiracy
     Of the beast Caliban and his confederates
@@ -2047,7 +2031,8 @@ Enter PROSPERO, FERDINAND, and MIRANDA
     If you be pleas'd, retire into my cell
     And there repose; a turn or two I'll walk
     To still my beating mind.
-  FERDINAND, MIRANDA. We wish your peace.                 Exeunt
+  FERDINAND. We wish your peace.                 Exeunt
+  MIRANDA. We wish your peace.                 Exeunt
   PROSPERO. Come, with a thought. I thank thee, Ariel; come.
 
                        Enter ARIEL
@@ -2153,9 +2138,7 @@ Enter PROSPERO, FERDINAND, and MIRANDA
   TRINCULO. And this.
   STEPHANO. Ay, and this.
 
-          A noise of hunters beard. Enter divers SPIRITS, in
-             shape of dogs and hounds, bunting them about;
-                   PROSPERO and ARIEL setting them on
+          A noise of hunters beard. Enter divers SPIRITS, in            shape of dogs and hounds, bunting them about;                   PROSPERO and ARIEL setting them on
 
   PROSPERO. Hey, Mountain, hey!
   ARIEL. Silver! there it goes, Silver!
@@ -2249,14 +2232,9 @@ Enter PROSPERO in his magic robes, and ARIEL
     And deeper than did ever plummet sound
     I'll drown my book.                            [Solem music]
 
-            Here enters ARIEL before; then ALONSO, with
-          frantic gesture, attended by GONZALO; SEBASTIAN
-           and ANTONIO in like manner, attended by ADRIAN
-           and FRANCISCO. They all enter the circle which
-          PROSPERO had made, and there stand charm'd; which
-                    PROSPERO observing, speaks
+            Here enters ARIEL before; then ALONSO, with          frantic gesture, attended by GONZALO; SEBASTIAN           and ANTONIO in like manner, attended by ADRIAN           and FRANCISCO. They all enter the circle which          PROSPERO had made, and there stand charm'd; which                    PROSPERO observing, speaks
 
-    A solemn air, and the best comforter
+  PROSPERO.  A solemn air, and the best comforter
     To an unsettled fancy, cure thy brains,
     Now useless, boil'd within thy skull! There stand,
     For you are spell-stopp'd.
@@ -2287,7 +2265,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     As I was sometime Milan. Quickly, spirit
     Thou shalt ere long be free.
 
-        ARIEL, on returning, sings and helps to attire him
+        Enter ARIEL, on returning, sings and helps to attire him
 
     Where the bee sucks, there suck I;
     In a cowslip's bell I lie;
@@ -2388,8 +2366,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     At least bring forth a wonder, to content ye
     As much as me my dukedom.
 
-          Here PROSPERO discovers FERDINAND and MIRANDA,
-                      playing at chess
+          Here PROSPERO discovers Enter FERDINAND and MIRANDA,                      playing at chess
 
   MIRANDA. Sweet lord, you play me false.
   FERDINAND. No, my dearest love,
@@ -2450,8 +2427,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     That doth not wish you joy.
   GONZALO. Be it so. Amen!
 
-           Enter ARIEL, with the MASTER and BOATSWAIN
-                     amazedly following
+           Enter ARIEL, with the MASTER and BOATSWAIN                     amazedly following
 
     O look, sir; look, sir! Here is more of us!
     I prophesied, if a gallows were on land,
@@ -2496,13 +2472,12 @@ Enter PROSPERO in his magic robes, and ARIEL
     And think of each thing well.  [Aside to ARIEL]  Come
     hither, spirit;
     Set Caliban and his companions free;
-    Untie the spell.  [Exit ARIEL]  How fares my gracious sir?
+    Untie the spell.   How fares my gracious sir? [Exit ARIEL]
     There are yet missing of your company
     Some few odd lads that you remember not.
 
-         Enter ARIEL, driving in CALIBAN, STEPHANO, and
+         Enter ARIEL, driving in CALIBAN, STEPHANO, and TRINCULO, in their stolen apparel
 
-  TRINCULO, in their stolen apparel
   STEPHANO. Every man shift for all the rest, and let no man
     take care for himself; for all is but fortune. Coragio,
     bully-monster, coragio!
