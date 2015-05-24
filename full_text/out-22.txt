@@ -170,7 +170,7 @@ Enter LEONATO (Governor of Messina), HERO (his Daughter), and BEATRICE (his Niec
   JOHN. I thank you. I am not of many words, but I thank you.
   LEONATO. Please it your Grace lead on?
   PEDRO. Your hand, Leonato. We will go together.
-                            Exeunt all but Manent BENEDICK and CLAUDIO.
+                            Exeunt all but BENEDICK and CLAUDIO.
   CLAUDIO. Benedick, didst thou note the daughter of Signior Leonato?
   BENEDICK. I noted her not, but I look'd on her.
   CLAUDIO. Is she not a modest young lady?

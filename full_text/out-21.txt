@@ -286,7 +286,7 @@ Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and ATTENDANTS
     And good luck grant thee thy Demetrius!
     Keep word, Lysander; we must starve our sight
     From lovers' food till morrow deep midnight.
-  LYSANDER. I will, my Hermia. [Exit HERMIA] Helena, adieu;
+  LYSANDER. I will, my Hermia. Helena, adieu; [Exit HERMIA]
     As you on him, Demetrius dote on you.                   Exit
   HELENA. How happy some o'er other some can be!
     Through Athens I am thought as fair as she.
@@ -2220,7 +2220,7 @@ Enter THESEUS, HIPPOLYTA, PHILOSTRATE, LORDS, and ATTENDANTS
   DEMETRIUS. Well roar'd, Lion.
   THESEUS. Well run, Thisby.
   HIPPOLYTA. Well shone, Moon. Truly, the moon shines with a good
-    grace.            [The LION tears THISBY'S Mantle, and exit]
+    grace.            [The LION tears THISBY'S Mantle, and exit LION]
   THESEUS. Well mous'd, Lion.
 
                         Enter PYRAMUS

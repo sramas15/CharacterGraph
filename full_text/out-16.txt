@@ -3368,7 +3368,7 @@ Enter CORDELIA, KENT, DOCTOR, and GENTLEMAN.
   CORDELIA. Will't please your Highness walk?
   LEAR. You must bear with me.
      Pray you now, forget and forgive. I am old and foolish.
-                              Exeunt. Manent KENT and GENTLEMAN.
+                              Exeunt all but KENT and GENTLEMAN.
   GENTLEMAN. Holds it true, sir, that the Duke of CORNWALL was so slain?
   KENT. Most certain, sir.
   GENTLEMAN. Who is conductor of his people?

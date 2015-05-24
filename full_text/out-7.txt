@@ -1511,7 +1511,7 @@ Enter PRINCE, POINS.
   FALSTAFF. Both which I have had; but their date is out, and therefore
     I'll hide me.                                          Exit.
   PRINCE. Call in the sheriff.
-                            [Exeunt Manent the PRINCE and PETO.]
+                            [Exeunt all but the PRINCE and PETO.]
 
                     Enter SHERIFF and the CARRIER.
 
