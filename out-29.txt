@@ -179,11 +179,7 @@ Enter POET, PAINTER, JEWELLER, MERCHANT, and MERCER, at several doors
     To show Lord Timon that mean eyes have seen
     The foot above the head.
 
-         Trumpets sound. Enter TIMON, addressing himself
-          courteously to every suitor, a MESSENGER from
-         VENTIDIUS talking with him; LUCILIUS and other
-                       servants following
-
+         Enter TIMON, a MESSENGER and VENTIDIUS and LUCILIUS 
   TIMON. Imprison'd is he, say you?
   MESSENGER. Ay, my good lord. Five talents is his debt;
     His means most short, his creditors most strait.
@@ -347,7 +343,7 @@ Enter POET, PAINTER, JEWELLER, MERCHANT, and MERCER, at several doors
   MERCHANT. If traffic do it, the gods do it.
   APEMANTUS. Traffic's thy god, and thy god confound thee!
 
-                Trumpet sounds. Enter a MESSENGER
+                Enter a MESSENGER
 
   TIMON. What trumpet's that?
   MESSENGER. 'Tis Alcibiades, and some twenty horse,
@@ -373,7 +369,7 @@ Enter POET, PAINTER, JEWELLER, MERCHANT, and MERCER, at several doors
     In different pleasures. Pray you, let us in.
                                         Exeunt all but APEMANTUS
 
-                        Enter two LORDS
+                        Enter FIRST LORD and SECOND LORD
 
   FIRST LORD. What time o' day is't, Apemantus?
   APEMANTUS. Time to be honest.
@@ -414,6 +410,8 @@ Hautboys playing loud music. A great banquet serv'd in;
 FLAVIUS and others attending; and then enter LORD TIMON, the states,
 the ATHENIAN LORDS, VENTIDIUS, which TIMON redeem'd from prison.
 Then comes, dropping after all, APEMANTUS, discontentedly, like himself
+
+Enter FLAVIUS, TIMON, VENTIDIUS, FIRST LORD, and SECOND LORD, APEMANTUS
 
   VENTIDIUS. Most honoured Timon,
     It hath pleas'd the gods to remember my father's age,
@@ -545,7 +543,7 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
     Music, make their welcome.                        Exit CUPID
   FIRST LORD. You see, my lord, how ample y'are belov'd.
 
-      Music. Enter CUPID, witb a Masque of LADIES as Amazons,
+      Enter CUPID, with a Masque of FIRST LADY and LADIES as Amazons,
           with lutes in their hands, dancing and playing
 
   APEMANTUS. Hoy-day, what a sweep of vanity comes this way!
@@ -563,6 +561,8 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
     Would one day stamp upon me. 'T has been done:
     Men shut their doors against a setting sun.
 
+
+            Enter LORDS
          The LORDS rise from table, with much adoring of
         TIMON; and to show their loves, each single out an
           Amazon, and all dance, men witb women, a lofty
@@ -579,7 +579,7 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
     taking, I doubt me.
   TIMON. Ladies, there is an idle banquet attends you;
     Please you to dispose yourselves.
-  ALL LADIES. Most thankfully, my lord.
+  LADIES. Most thankfully, my lord.
                                          Exeunt CUPID and LADIES
   TIMON. Flavius!
   FLAVIUS. My lord?
@@ -615,22 +615,22 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
     be provided to show them entertainment.
   FLAVIUS. [Aside] I scarce know how.
 
-                     Enter another SERVANT
+                     Enter SECOND SERVANT
 
   SECOND SERVANT. May it please vour honour, Lord Lucius, out of his
     free love, hath presented to you four milk-white horses, trapp'd
     in silver.
   TIMON. I shall accept them fairly. Let the presents
-    Be worthily entertain'd.                        Exit SERVANT
+    Be worthily entertain'd.                        Exit SECOND SERVANT
 
-                      Enter a third SERVANT
+                      Enter a THIRD SERVANT
 
     How now! What news?
   THIRD SERVANT. Please you, my lord, that honourable gentleman, Lord
     Lucullus, entreats your company to-morrow to hunt with him and
     has sent your honour two brace of greyhounds.
   TIMON. I'll hunt with him; and let them be receiv'd,
-    Not without fair reward.                        Exit SERVANT
+    Not without fair reward.                        Exit THIRD SERVANT
   FLAVIUS. [Aside] What will this come to?
     He commands us to provide and give great gifts,
     And all out of an empty coffer;
@@ -658,7 +658,7 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
     Can justly praise but what he does affect.
     I weigh my friend's affection with mine own.
     I'll tell you true; I'll call to you.
-  ALL LORDS. O, none so welcome!
+  LORDS. O, none so welcome!
   TIMON. I take all and your several visitations
     So kind to heart 'tis not enough to give;
     Methinks I could deal kingdoms to my friends
@@ -690,8 +690,7 @@ Then comes, dropping after all, APEMANTUS, discontentedly, like himself
     away thyself in paper shortly. What needs these feasts, pomps,
     and vain-glories?
   TIMON. Nay, an you begin to rail on society once, I am sworn not to
-    give regard to you. Farewell; and come with better music.
- Exit
+    give regard to you. Farewell; and come with better music.           Exit
   APEMANTUS. So. Thou wilt not hear me now: thou shalt not then. I'll
     lock thy heaven from thee.
     O that men's ears should be
@@ -707,7 +706,7 @@ END_ACT
 ACT II. SCENE I.
 A SENATOR'S house
 
-Enter A SENATOR, with papers in his hand
+Enter SENATOR, with papers in his hand
 
   SENATOR. And late, five thousand. To Varro and to Isidore
     He owes nine thousand; besides my former sum,
@@ -757,7 +756,7 @@ Enter A SENATOR, with papers in his hand
 SCENE II.
 Before TIMON'S house
 
-Enter FLAVIUS, TIMON'S Steward, with many bills in his hand
+Enter FLAVIUS, with many bills in his hand
 
   FLAVIUS. No care, no stop! So senseless of expense
     That he will neither know how to maintain it
@@ -769,7 +768,7 @@ Enter FLAVIUS, TIMON'S Steward, with many bills in his hand
     I must be round with him. Now he comes from hunting.
     Fie, fie, fie, fie!
 
-       Enter CAPHIS, and the SERVANTS Of ISIDORE and VARRO
+       Enter CAPHIS, and the ISIDORE'S SERVANT and VARRO'S SERVANT and SERVANTS
 
   CAPHIS. Good even, Varro. What, you come for money?
   VARRO'S SERVANT. Is't not your business too?
@@ -853,7 +852,7 @@ Enter FLAVIUS, TIMON'S Steward, with many bills in his hand
                            Enter PAGE
 
   FOOL. Look you, here comes my mistress' page.
-  PAGE. [To the FOOL] Why, how now, Captain? What do you in this wise
+  PAGE. [To FOOL] Why, how now, Captain? What do you in this wise
     company? How dost thou, Apemantus?
   APEMANTUS. Would I had a rod in my mouth, that I might answer thee
     profitably!
@@ -874,7 +873,7 @@ Enter FLAVIUS, TIMON'S Steward, with many bills in his hand
   APEMANTUS. So would I- as good a trick as ever hangman serv'd
     thief.
   FOOL. Are you three usurers' men?
-  ALL SERVANTS. Ay, fool.
+  SERVANTS. Ay, fool.
   FOOL. I think no usurer but has a fool to his servant. My mistress
     is one, and I am her fool. When men come to borrow of your
     masters, they approach sadly and go away merry; but they enter my
@@ -974,7 +973,7 @@ Enter FLAVIUS, TIMON'S Steward, with many bills in his hand
     Mistake my fortunes; I am wealthy in my friends.
     Within there! Flaminius! Servilius!
 
-           Enter FLAMINIUS, SERVILIUS, and another SERVANT
+           Enter FLAMINIUS, SERVILIUS, and another SERVANTS
 
   SERVANTS. My lord! my lord!
   TIMON. I will dispatch you severally- you to Lord Lucius; to Lord
@@ -1037,7 +1036,7 @@ END_ACT
 ACT III. SCENE I.
 LUCULLUS' house
 
-FLAMINIUS waiting to speak with LUCULLUS. Enter SERVANT to him
+Enter FLAMINIUS waiting to speak and SERVANT to him
 
   SERVANT. I have told my lord of you; he is coming down to you.
   FLAMINIUS. I thank you, sir.
@@ -1084,8 +1083,7 @@ FLAMINIUS waiting to speak with LUCULLUS. Enter SERVANT to him
   FLAMINIUS. Is't possible the world should so much differ,
     And we alive that liv'd? Fly, damned baseness,
     To him that worships thee.         [Throwing the money back]
-  LUCULLUS. Ha! Now I see thou art a fool, and fit for thy master.
- Exit
+  LUCULLUS. Ha! Now I see thou art a fool, and fit for thy master.       Exit
   FLAMINIUS. May these add to the number that may scald thee!
     Let molten coin be thy damnation,
     Thou disease of a friend and not himself!
@@ -1106,7 +1104,7 @@ FLAMINIUS waiting to speak with LUCULLUS. Enter SERVANT to him
 SCENE II.
 A public place
 
-Enter Lucius, with three STRANGERS
+Enter LUCIUS, with three FIRST STRANGER, SECOND STRANGER, THIRD STRANGER
 
   LUCIUS. Who, the Lord Timon? He is my very good friend, and an
     honourable gentleman.
@@ -1202,7 +1200,7 @@ Enter Lucius, with three STRANGERS
 SCENE III.
 SEMPRONIUS' house
 
-Enter SEMPRONIUS and a SERVANT of TIMON'S
+Enter SEMPRONIUS and a SERVANT
 
   SEMPRONIUS. Must he needs trouble me in't? Hum! 'Bove all others?
     He might have tried Lord Lucius or Lucullus;
@@ -1253,9 +1251,9 @@ Enter SEMPRONIUS and a SERVANT of TIMON'S
 SCENE IV.
 A hall in TIMON'S house
 
-Enter two Of VARRO'S MEN, meeting LUCIUS' SERVANT, and others,
-all being servants of TIMON's creditors, to wait for his coming out.
-Then enter TITUS and HORTENSIUS
+Enter two Of FIRST VARRO'S MEN, SECOND VARRO'S MEN
+Enter LUCIUS' SERVANT
+Enter TITUS and HORTENSIUS
 
   FIRST VARRO'S SERVANT. Well met; good morrow, Titus and Hortensius.
   TITUS. The like to you, kind Varro.
@@ -1408,7 +1406,7 @@ Then enter TITUS and HORTENSIUS
 SCENE V.
 The Senate House
 
-Enter three SENATORS at one door, ALCIBIADES meeting them, with attendants
+Enter FIRST SENATOR, SECOND SENATOR, THIRD SENATOR, ALCIBIADES meeting them, with attendants
 
   FIRST SENATOR. My lord, you have my voice to't: the fault's bloody.
     'Tis necessary he should die:
@@ -1541,8 +1539,7 @@ Enter three SENATORS at one door, ALCIBIADES meeting them, with attendants
 SCENE VI.
 A banqueting hall in TIMON'S house
 
-Music. Tables set out; servants attending. Enter divers LORDS,
-friends of TIMON, at several doors
+Enter divers FIRST LORD, SECOND LORD, THIRD LORD
 
   FIRST LORD. The good time of day to you, sir.
   SECOND LORD. I also wish it to you. I think this honourable lord
@@ -1567,7 +1564,7 @@ friends of TIMON, at several doors
   FIRST LORD. What of you?
   SECOND LORD. He sent to me, sir- here he comes.
 
-                   Enter TIMON and attendants
+                   Enter TIMON and ATTENDANTS
 
   TIMON. With all my heart, gentlemen both! And how fare you?
   FIRST LORD. Ever at the best, hearing well of your lordship.
@@ -1625,8 +1622,8 @@ friends of TIMON, at several doors
 
     Uncover, dogs, and lap.        [The dishes are uncovered and
                                   seen to he full of warm water]
-  SOME SPEAK. What does his lordship mean?
-  SOME OTHER. I know not.
+  ATTENDANTS. What does his lordship mean?
+  ATTENDANTS. I know not.
   TIMON. May you a better feast never behold,
     You knot of mouth-friends! Smoke and lukewarm water
     Is your perfection. This is Timon's last;
@@ -1648,7 +1645,7 @@ friends of TIMON, at several doors
     Burn house! Sink Athens! Henceforth hated be
     Of Timon man and all humanity!                          Exit
 
-                           Enter the LORDS
+                           Enter the FIRST LORD, SECOND LORD, THIRD LORD, FOURTH LORD
 
   FIRST LORD. How now, my lords!
   SECOND LORD. Know you the quality of Lord Timon's fury?
@@ -1726,7 +1723,7 @@ Enter TIMON
 SCENE II.
 Athens. TIMON's house
 
-Enter FLAVIUS, with two or three SERVANTS
+Enter FLAVIUS, with FIRST SERVANT, SECOND SERVANT
 
   FIRST SERVANT. Hear you, Master Steward, where's our master?
     Are we undone, cast off, nothing remaining?
@@ -1746,7 +1743,7 @@ Enter FLAVIUS, with two or three SERVANTS
     With his disease of all-shunn'd poverty,
     Walks, like contempt, alone. More of our fellows.
 
-                     Enter other SERVANTS
+                     Enter THRID SERVANT
 
   FLAVIUS. All broken implements of a ruin'd house.
   THIRD SERVANT. Yet do our hearts wear Timon's livery;
@@ -1845,8 +1842,7 @@ Enter TIMON in the woods
     When gouty keepers of thee cannot stand.
     Nay, stay thou out for earnest.          [Keeping some gold]
 
-          Enter ALCIBIADES, with drum and fife, in warlike
-                  manner; and PHRYNIA and TIMANDRA
+          Enter ALCIBIADES, and PHRYNIA and TIMANDRA
 
   ALCIBIADES. What art thou there? Speak.
   TIMON. A beast, as thou art. The canker gnaw thy heart
@@ -1979,7 +1975,7 @@ Enter TIMON in the woods
     Do you damn others, and let this damn you,
     And ditches grave you all!
   PHRYNIA AND TIMANDRA. More counsel with more money, bounteous
-    Timon.
+    Timon.                    Exit PHRYNIA AND TIMANDRA
   TIMON. More whore, more mischief first; I have given you earnest.
   ALCIBIADES. Strike up the drum towards Athens. Farewell, Timon;
     If I thrive well, I'll visit thee again.
@@ -1990,7 +1986,7 @@ Enter TIMON in the woods
   TIMON. Men daily find it. Get thee away, and take
     Thy beagles with thee.
   ALCIBIADES. We but offend him. Strike.
-                                Drum beats. Exeunt all but TIMON
+                                Exeunt all but TIMON
   TIMON. That nature, being sick of man's unkindness,
     Should yet be hungry! Common mother, thou,         [Digging]
     Whose womb unmeasurable and infinite breast
@@ -2226,7 +2222,7 @@ Enter TIMON in the woods
   TIMON. Long live so, and so die! [Exit APEMANTUS] I am quit. More
     things like men? Eat, Timon, and abhor them.
 
-                       Enter the BANDITTI
+                       Enter the FIRST BANDIT, SECOND BANDIT, THIRD BANDIT, BANDITTI
 
   FIRST BANDIT. Where should he have this gold? It is some poor
     fragment, some slender ort of his remainder. The mere want of
@@ -2288,9 +2284,9 @@ Enter TIMON in the woods
   SECOND BANDIT. I'll believe him as an enemy, and give over my
     trade.
   FIRST BANDIT. Let us first see peace in Athens. There is no time so
-    miserable but a man may be true.              Exeunt THIEVES
+    miserable but a man may be true.              Exeunt FIRST BANDIT, SECOND BANDIT, THIRD BANDIT, BANDITTI
 
-                         Enter FLAVIUS, to TIMON
+                         Enter FLAVIUS
 
   FLAVIUS. O you gods!
     Is yond despis'd and ruinous man my lord?
@@ -2513,7 +2509,7 @@ Enter POET and PAINTER
     [To the POET] You are an alchemist; make gold of that.-
     Out, rascal dogs!                [Beats and drives them out]
 
-                    Enter FLAVIUS and two SENATORS
+                    Enter FLAVIUS and FIRST SENATOR, SECOND SENATOR
 
   FLAVIUS. It is vain that you would speak with Timon;
     For he is set so only to himself
@@ -2654,7 +2650,7 @@ Enter POET and PAINTER
 SCENE II.
 Before the walls of Athens
 
-Enter two other SENATORS with a MESSENGER
+Enter two FIRST SENATOR, SECOND SENATOR with a MESSENGER
 
   FIRST SENATOR. Thou hast painfully discover'd; are his files
     As full as thy report?
@@ -2671,7 +2667,7 @@ Enter two other SENATORS with a MESSENGER
     His fellowship i' th' cause against your city,
     In part for his sake mov'd.
 
-               Enter the other SENATORS, from TIMON
+               Enter the THRID SENATOR 
 
   FIRST SENATOR. Here come our brothers.
   THIRD SENATOR. No talk of Timon, nothing of him expect.
@@ -2685,7 +2681,7 @@ Enter two other SENATORS with a MESSENGER
 SCENE III.
 The TIMON's cave, and a rude tomb seen
 
-Enter a SOLDIER in the woods, seeking TIMON
+Enter a SOLDIER in the woods
 
   SOLDIER. By all description this should be the place.
     Who's here? Speak, ho! No answer? What is this?
@@ -2704,12 +2700,12 @@ Enter a SOLDIER in the woods, seeking TIMON
 SCENE IV.
 Before the walls of Athens
 
-Trumpets sound. Enter ALCIBIADES with his powers before Athens
+Enter ALCIBIADES with his powers before Athens
 
   ALCIBIADES. Sound to this coward and lascivious town
     Our terrible approach.
 
-       Sound a parley. The SENATORS appear upon the walls
+        Enter FIRST SENATOR, SECOND SENATOR, SENATORS
 
     Till now you have gone on and fill'd the time
     With all licentious measure, making your wills
@@ -2781,8 +2777,8 @@ Trumpets sound. Enter ALCIBIADES with his powers before Athens
     Of regular justice in your city's bounds,
     But shall be render'd to your public laws
     At heaviest answer.
-  BOTH. 'Tis most nobly spoken.
-  ALCIBIADES. Descend, and keep your words.
+  SENATORS. 'Tis most nobly spoken.      
+  ALCIBIADES. Descend, and keep your words.           Exit FIRST SENATOR, SECOND SENATOR, SENATORS
                        [The SENATORS descend and open the gates]
 
                  Enter a SOLDIER as a Messenger
