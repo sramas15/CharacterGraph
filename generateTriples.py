@@ -44,8 +44,8 @@ def checkEntryLine(line, currCharList):
 	return enteringChars
 
 # Checks if a line contains characters leaving the scene, 
-# and if so returns (updated currCharList, line with exit removed)
-# and if so returns line with exit removed
+# and if so updates currCharList, and returns 
+# line with exit removed, list of exiting characters
 # Will miss or get wrong
 # [Edmund is borne off.]
 def checkExit(line, currSpeaker, currCharList):
@@ -55,12 +55,13 @@ def checkExit(line, currSpeaker, currCharList):
 		if currSpeaker in currCharList:
 			currCharList.remove(currSpeaker)
 			line = line[:match.start()].rstrip()+'\n'
-			return line
+			return line, set([currSpeaker])
 	match = re.search(r'\[?(?:(?:Exeunt\.?)|(?:Exeunt (?:[a-z ]*)\.?))\]?$', line)
 	if match:
+		oldCharList = currCharList
 		currCharList.clear()
 		line = line[:match.start()].rstrip()+'\n'
-		return line
+		return line, oldCharList
 	ind = line.find('Exit ')
 	if ind == -1:
 		ind = line.find('Exeunt ')
@@ -72,19 +73,19 @@ def checkExit(line, currSpeaker, currCharList):
 		moreChars = re.findall(r'(?:[a-z ]*)([A-Z][A-Z]+(?: [A-Z][A-Z]+)*)', line[charInd:])
 		all_but = re.match(r'all but ', line[charInd:])
 		if moreChars:
-			to_remove = []
+			to_remove = set()
 			for group in moreChars:
 				if group in currCharList:
-					to_remove.append(group)
-			for char in currCharList:
-				if all_but:
-					if char not in to_remove:
-						currCharList.remove(char)
-				else:
-					if char in to_remove:
-						currCharList.remove(char)
-			return line[:ind].rstrip()+'\n'
-	return None
+					to_remove.add(group)
+			if all_but:
+				removed = currCharList.difference(to_remove)
+				currCharList.intersection_update(to_remove)
+				return line[:ind].rstrip()+'\n', removed
+			else:
+				currCharList.difference_update(to_remove)
+				return line[:ind].rstrip()+'\n', to_remove
+			# return line[:ind].rstrip()+'\n'
+	return None, None
 
 # Checks if a line is speech continuation
 def checkSpeechContinuation(line):
@@ -144,20 +145,20 @@ for playNum in range(NUM_PLAYS):
 					line = tup[1]
 					needToWriteTriple = True
 					currSpeech = line
-					exitLine = checkExit(line, currSpeaker, currCharList)
+					exitLine, removedChars = checkExit(line, currSpeaker, currCharList)
 					if exitLine:
 						line = exitLine
 						currSpeech = line
-						exitCharList = set([currSpeaker]).union(currCharList)
+						exitCharList = removedChars.union(currCharList)
 						writeToFile(currSpeaker, exitCharList, currSpeech, outFile)
 						needToWriteTriple = False
 				else:
 					if checkSpeechContinuation(line):
-						exitLine = checkExit(line, currSpeaker, currCharList)
+						exitLine, removedChars = checkExit(line, currSpeaker, currCharList)
 						if exitLine:	
 							line = exitLine
 							currSpeech += line.lstrip() # Remove leading 4 spaces
-							exitCharList = set([currSpeaker]).union(currCharList)
+							exitCharList = removedChars.union(currCharList)
 							writeToFile(currSpeaker, exitCharList, currSpeech, outFile)
 							needToWriteTriple = False
 						else:
