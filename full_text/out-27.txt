@@ -1634,7 +1634,7 @@ Enter BAPTISTA, GREMIO, TRANIO, KATHERINA, BIANCA, LUCENTIO, and ATTENDANTS
     We will persuade him, be it possible,
     To put on better ere he go to church.
   BAPTISTA. I'll after him and see the event of this.
-              Exeunt BAPTISTA, GREMIO, BIONDELLO, and ATTENDENTS
+              Exeunt BAPTISTA, GREMIO, BIONDELLO, and attendants
   TRANIO. But to her love concerneth us to ad
     Her father's liking; which to bring to pass,
     As I before imparted to your worship,

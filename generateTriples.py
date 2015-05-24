@@ -1,20 +1,9 @@
-# Need to deal with Exeunt at the end of the line with no names listed
 # Need to deal with [To NAME] in speech
 # Need to deal with [Within] in speech
-# Need to deal with Exeunt all but NAMES
-# Deal with "Kissing her. Exit QUEEN ELIZABETH" in 25
-
-# char lists changed:
-# char-18.txt
-	# modified:   char-19.txt
-	# modified:   char-20.txt
-	# modified:   char-23.txt
-	# modified:   char-27.txt
-	# modified:   char-5.txt
 
 import re
 
-NUM_PLAYS = 35
+NUM_PLAYS = 36
 
 # Returns whether a line starts a new scene
 def startsNewScene(line):
@@ -24,7 +13,7 @@ def startsNewScene(line):
 # Checks if a new character starts speaking, and if so
 # returns (newSpeaker, line with speaker's name removed)
 def newCharacterSpeaking(line):
-	match = re.match(r'^  ([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)\.', line)
+	match = re.match(r'^  ([A-Z][A-Z]+(?: [A-Z][A-Z]+)*)\.', line)
 	if match:
 		currSpeaker = match.group(1)
 		line = line.lstrip()
@@ -40,22 +29,18 @@ def checkEntryLine(line, currCharList):
 	enteringChars = []
 	ind = line.lower().find('enter ')
 	if ind != -1:
-		match = re.findall(r'([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[ind+6:])
+		match = re.findall(r'([A-Z][A-Z]+(?: [A-Z][A-Z]+)*)', line[ind+6:])
 		for group in match:
 			if group in charNames:
 				currCharList.add(group)
 				enteringChars.append(group)
-			else:
-				words = group.split()
-				if len(words) > 1: # Deals with different forms of names
-					for word in words:
-						if word in charNames:
-							currCharList.add(word)
-							enteringChars.append(word)
-				# else:
-				# 	for char in charNames: # Deals with abbreviated names
-				# 		if char.find(group) != -1:
-				# 			currCharList.add(char)
+			# else:
+			# 	words = group.split()
+			# 	if len(words) > 1: # Deals with different forms of names
+			# 		for word in words:
+			# 			if word in charNames:
+			# 				currCharList.add(word)
+			# 				enteringChars.append(word)
 	return enteringChars
 
 # Checks if a line contains characters leaving the scene, 
@@ -63,30 +48,41 @@ def checkEntryLine(line, currCharList):
 # and if so returns line with exit removed
 # Will miss or get wrong
 # [Edmund is borne off.]
-# Exeunt all but the FIRST GENTLEMAN
 def checkExit(line, currSpeaker, currCharList):
 	# also catches "Exit running." and "[Exit.]"
-	match = re.search(r'\[?(?:(?:Exit\.?)|(?:Exit (?:[a-z ]*)\.?))\]?', line)
+	match = re.search(r'\[?(?:(?:Exit\.?)|(?:Exit (?:[a-z ]*)\.?))\]?$', line)
 	if match:
 		if currSpeaker in currCharList:
 			currCharList.remove(currSpeaker)
 			line = line[:match.start()].rstrip()+'\n'
 			return line
+	match = re.search(r'\[?(?:(?:Exeunt\.?)|(?:Exeunt (?:[a-z ]*)\.?))\]?$', line)
+	if match:
+		currCharList.clear()
+		line = line[:match.start()].rstrip()+'\n'
+		return line
 	ind = line.find('Exit ')
 	if ind == -1:
 		ind = line.find('Exeunt ')
 		if ind != -1:
 			charInd = ind + 7
-			# print line
 	else:
 		charInd = ind + 5
 	if ind != -1:
-		moreChars = re.findall(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[charInd:])
+		moreChars = re.findall(r'(?:[a-z ]*)([A-Z][A-Z]+(?: [A-Z][A-Z]+)*)', line[charInd:])
+		all_but = re.match(r'all but ', line[charInd:])
 		if moreChars:
+			to_remove = []
 			for group in moreChars:
 				if group in currCharList:
-					currCharList.remove(group)
-			# print line[:ind].rstrip()+'\n'
+					to_remove.append(group)
+			for char in currCharList:
+				if all_but:
+					if char not in to_remove:
+						currCharList.remove(char)
+				else:
+					if char in to_remove:
+						currCharList.remove(char)
 			return line[:ind].rstrip()+'\n'
 	return None
 
@@ -107,9 +103,9 @@ def writeToFile(currSpeaker, currCharList, currSpeech, outFile):
 	f.close()
 
 for playNum in range(NUM_PLAYS):
-	playFile = 'out-' + str(playNum) + '.txt'
-	charFile = 'char-' + str(playNum) + '.txt'
-	outFile = 'triples-' + str(playNum) + '.txt'
+	playFile = 'full_text/out-' + str(playNum) + '.txt'
+	charFile = 'char_list/char-' + str(playNum) + '.txt'
+	outFile = 'triples/triples-' + str(playNum) + '.txt'
 
 	# print '----------\n----------'
 	charNames = set()
