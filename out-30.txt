@@ -60,9 +60,7 @@ END_ACT
 ACT 1. SCENE I.
 Rome. Before the Capitol
 
-Flourish. Enter the TRIBUNES and SENATORS aloft; and then enter below
-SATURNINUS and his followers at one door, and BASSIANUS and his followers
-at the other, with drums and trumpets
+Enter the TRIBUNES and SENATORS and SATURNINUS and BASSIANUS
 
   SATURNINUS. Noble patricians, patrons of my right,
     Defend the justice of my cause with arms;
@@ -82,7 +80,7 @@ at the other, with drums and trumpets
     But let desert in pure election shine;
     And, Romans, fight for freedom in your choice.
 
-        Enter MARCUS ANDRONICUS aloft, with the crown
+        Enter MARCUS aloft, with the crown
 
   MARCUS. Princes, that strive by factions and by friends
     Ambitiously for rule and empery,
@@ -125,12 +123,10 @@ at the other, with drums and trumpets
     That I will here dismiss my loving friends,
     And to my fortunes and the people's favour
     Commit my cause in balance to be weigh'd.
-                                Exeunt the soldiers of BASSIANUS
   SATURNINUS. Friends, that have been thus forward in my right,
     I thank you all and here dismiss you all,
     And to the love and favour of my country
     Commit myself, my person, and the cause.
-                               Exeunt the soldiers of SATURNINUS
     Rome, be as just and gracious unto me
     As I am confident and kind to thee.
     Open the gates and let me in.
@@ -145,6 +141,8 @@ at the other, with drums and trumpets
     With honour and with fortune is return'd
     From where he circumscribed with his sword
     And brought to yoke the enemies of Rome.
+
+                  Enter MARTIUS and MUTIUS and TITUS and LUCIUS and QUINTUS and TAMORA and ALARBUS and DEMETRIUS and CHIRON and AARON
 
         Sound drums and trumpets, and then enter MARTIUS
         and MUTIUS, two of TITUS' sons; and then two men
@@ -216,7 +214,7 @@ at the other, with drums and trumpets
   LUCIUS. Away with him, and make a fire straight;
     And with our swords, upon a pile of wood,
     Let's hew his limbs till they be clean consum'd.
-                                Exeunt TITUS' SONS, with ALARBUS
+                                Exeunt MARTIUS and MUTIUS and ALARBUS
   TAMORA. O cruel, irreligious piety!
   CHIRON. Was never Scythia half so barbarous!
   DEMETRIUS. Oppose not Scythia to ambitious Rome.
@@ -230,8 +228,7 @@ at the other, with drums and trumpets
     When Goths were Goths and Tamora was queen-
     To quit the bloody wrongs upon her foes.
 
-            Enter LUCIUS, QUINTUS, MARTIUS, and
-   MUTIUS, the sons of ANDRONICUS, with their swords bloody
+            Enter LUCIUS, QUINTUS, MARTIUS, MUTIUS
 
   LUCIUS. See, lord and father, how we have perform'd
     Our Roman rites: Alarbus' limbs are lopp'd,
@@ -265,8 +262,7 @@ at the other, with drums and trumpets
     Lavinia, live; outlive thy father's days,
     And fame's eternal date, for virtue's praise!
 
-          Enter, above, MARCUS ANDRONICUS and TRIBUNES;
-          Enter SATURNINUS, BASSIANUS, and attendants
+          Enter, above, MARCUS and TRIBUNES and SATURNINUS, BASSIANUS, and attendants
 
   MARCUS. Long live Lord Titus, my beloved brother,
     Gracious triumpher in the eyes of Rome!
@@ -400,18 +396,16 @@ at the other, with drums and trumpets
   TITUS. What, villain boy!
     Bar'st me my way in Rome?
   MUTIUS. Help, Lucius, help!
-            TITUS kills him. During the fray, exeunt SATURNINUS,
-                            TAMORA, DEMETRIUS, CHIRON, and AARON
+            Exeunt SATURNINUS, TAMORA, DEMETRIUS, CHIRON, and AARON
 
-                      Enter Lucius
+                      Enter LUCIUS
 
   LUCIUS. My lord, you are unjust, and more than so:
     In wrongful quarrel you have slain your son.
   TITUS. Nor thou nor he are any sons of mine;
     My sons would never so dishonour me.
 
-                 Enter aloft the EMPEROR
-      with TAMORA and her two Sons, and AARON the Moor
+                 Enter aloft the EMPEROR with TAMORA and her two Sons, and AARON the MOOR
 
     Traitor, restore Lavinia to the Emperor.
   LUCIUS. Dead, if you will; but not to be his wife,
@@ -457,11 +451,10 @@ at the other, with drums and trumpets
     There shall we consummate our spousal rites.
                                             Exeunt all but TITUS
   TITUS. I am not bid to wait upon this bride.
-  TITUS, when wert thou wont to walk alone,
+  TITUS. when wert thou wont to walk alone,
     Dishonoured thus, and challenged of wrongs?
 
-                      Enter MARCUS,
-        and TITUS' SONS, LUCIUS, QUINTUS, and MARTIUS
+                      Enter MARCUS, and MARTIUS and MUTIUS, LUCIUS, QUINTUS
 
   MARCUS. O Titus, see, O, see what thou hast done!
     In a bad quarrel slain a virtuous son.
@@ -525,9 +518,7 @@ at the other, with drums and trumpets
     That brought her for this high good turn so far?
   MARCUS. Yes, and will nobly him remunerate.
 
-           Flourish. Enter the EMPEROR, TAMORA
-        and her two SONS, with the MOOR, at one door;
-    at the other door, BASSIANUS and LAVINIA, with others
+           Enter the EMPEROR, TAMORA and MOOR and BASSIANUS and LAVINIA
 
   SATURNINUS. So, Bassianus, you have play'd your prize:
     God give you joy, sir, of your gallant bride!
@@ -573,7 +564,7 @@ at the other, with drums and trumpets
     Lose not so noble a friend on vain suppose,
     Nor with sour looks afflict his gentle heart.
     [Aside to SATURNINUS]  My lord, be rul'd by me,
-      be won at last;
+    be won at last;
     Dissemble all your griefs and discontents.
     You are but newly planted in your throne;
     Lest, then, the people, and patricians too,
@@ -794,8 +785,7 @@ Enter AARON
 SCENE II.
 A forest near Rome
 
-Enter TITUS ANDRONICUS, and his three sons, LUCIUS, QUINTUS, MARTIUS,
-making a noise with hounds and horns; and MARCUS
+Enter TITUS, and his three sons, LUCIUS, QUINTUS, MARTIUS and MARCUS
 
   TITUS. The hunt is up, the morn is bright and grey,
     The fields are fragrant, and the woods are green.
@@ -808,9 +798,8 @@ making a noise with hounds and horns; and MARCUS
     I have been troubled in my sleep this night,
     But dawning day new comfort hath inspir'd.
 
-         Here a cry of hounds, and wind horns in a peal.
-       Then enter SATURNINUS, TAMORA, BASSIANUS LAVINIA,
-            CHIRON, DEMETRIUS, and their attendants
+          Here a cry of hounds, and wind horns in a peal.
+       Enter SATURNINUS, TAMORA, BASSIANUS LAVINIA, CHIRON, DEMETRIUS
     Many good morrows to your Majesty!
     Madam, to you as many and as good!
     I promised your Grace a hunter's peal.
@@ -849,7 +838,7 @@ Enter AARON alone, with a bag of gold
                                                 [Hides the gold]
     That have their alms out of the Empress' chest.
 
-               Enter TAMORA alone, to the Moor
+               Enter TAMORA alone, to the moor
 
   TAMORA. My lovely Aaron, wherefore look'st thou sad
     When everything does make a gleeful boast?
@@ -1037,9 +1026,9 @@ Enter AARON alone, with a bag of gold
   CHIRON. Nay, then I'll stop your mouth. Bring thou her husband.
     This is the hole where Aaron bid us hide him.
 
-                 DEMETRIUS throws the body
-           of BASSIANUS into the pit; then exeunt
-         DEMETRIUS and CHIRON, dragging off LAVINIA
+                 DEMETRIUS
+                Exit BASSIANUS
+                Exeunt DEMETRIUS and CHIRON, dragging off LAVINIA
 
   TAMORA. Farewell, my sons; see that you make her sure.
     Ne'er let my heart know merry cheer indeed
@@ -1047,8 +1036,7 @@ Enter AARON alone, with a bag of gold
     Now will I hence to seek my lovely Moor,
     And let my spleenful sons this trull deflower.          Exit
 
-                  Enter AARON, with two
-             of TITUS' sons, QUINTUS and MARTIUS
+                  Enter AARON, QUINTUS and MARTIUS
 
   AARON. Come on, my lords, the better foot before;
     Straight will I bring you to the loathsome pit
@@ -1122,8 +1110,7 @@ Enter AARON alone, with a bag of gold
   MARTIUS. We know not where you left them all alive;
     But, out alas! here have we found him dead.
 
-                   Enter TAMORA, with
-         attendants; TITUS ANDRONICUS and Lucius
+                   Enter TAMORA, TITUS and LUCIUS
 
   TAMORA. Where is my lord the King?
   SATURNINUS. Here, Tamora; though griev'd with killing grief.
@@ -1149,7 +1136,7 @@ Enter AARON alone, with a bag of gold
     That should have murdered Bassianus here.
   AARON. My gracious lord, here is the bag of gold.
   SATURNINUS.  [To TITUS]  Two of thy whelps, fell curs of bloody
-      kind,
+    kind,
     Have here bereft my brother of his life.
     Sirs, drag them from the pit unto the prison;
     There let them bide until we have devis'd
@@ -1182,8 +1169,7 @@ Enter AARON alone, with a bag of gold
 SCENE IV.
 Another part of the forest
 
-Enter the Empress' sons, DEMETRIUS and CHIRON, with LAVINIA,
-her hands cut off, and her tongue cut out, and ravish'd
+Enter DEMETRIUS and CHIRON, and LAVINIA,
 
   DEMETRIUS. So, now go tell, an if thy tongue can speak,
     Who 'twas that cut thy tongue and ravish'd thee.
@@ -1197,7 +1183,7 @@ her hands cut off, and her tongue cut out, and ravish'd
   DEMETRIUS. If thou hadst hands to help thee knit the cord.
                                      Exeunt DEMETRIUS and CHIRON
 
-           Wind horns. Enter MARCUS, from hunting
+                    Enter MARCUS, from hunting
 
   MARCUS. Who is this?- my niece, that flies away so fast?
     Cousin, a word: where is your husband?
@@ -1257,9 +1243,7 @@ END_ACT
 ACT III. SCENE I.
 Rome. A street
 
-Enter the JUDGES, TRIBUNES, and SENATORS, with TITUS' two sons
-MARTIUS and QUINTUS bound, passing on the stage to the place of execution,
-and TITUS going before, pleading
+Enter the JUDGES, TRIBUNES, and SENATORS, MARTIUS and QUINTUS and TITUS
 
   TITUS. Hear me, grave fathers; noble Tribunes, stay!
     For pity of mine age, whose youth was spent
@@ -1286,7 +1270,7 @@ and TITUS going before, pleading
     And keep eternal spring-time on thy face,
     So thou refuse to drink my dear sons' blood.
 
-             Enter Lucius with his weapon drawn
+             Enter LUCIUS with his weapon drawn
 
     O reverend Tribunes! O gentle aged men!
     Unbind my sons, reverse the doom of death,
@@ -1594,7 +1578,7 @@ Rome. TITUS' house
 
 A banquet.
 
-Enter TITUS, MARCUS, LAVINIA, and the boy YOUNG LUCIUS
+Enter TITUS, MARCUS, LAVINIA, and the BOY
 
   TITUS. So so, now sit; and look you eat no more
     Than will preserve just so much strength in us
@@ -1693,8 +1677,7 @@ END_ACT
 ACT IV. SCENE I.
 Rome. TITUS' garden
 
-Enter YOUNG LUCIUS and LAVINIA running after him,
-and the boy flies from her with his books under his arm.
+Enter BOY and LAVINIA
 
 Enter TITUS and MARCUS
 
@@ -1826,7 +1809,7 @@ Enter TITUS and MARCUS
     Lavinia, come. Marcus, look to my house.
     Lucius and I'll go brave it at the court;
     Ay, marry, will we, sir! and we'll be waited on.
-                         Exeunt TITUS, LAVINIA, and YOUNG LUCIUS
+                         Exeunt TITUS, LAVINIA, and BOY
   MARCUS. O heavens, can you hear a good man groan
     And not relent, or not compassion him?
     Marcus, attend him in his ecstasy,
@@ -1841,8 +1824,7 @@ Enter TITUS and MARCUS
 SCENE II.
 Rome. The palace
 
-Enter AARON, DEMETRIUS and CHIRON, at one door; and at the other door,
-YOUNG LUCIUS and another with a bundle of weapons, and verses writ upon them
+Enter AARON, DEMETRIUS and CHIRON, and BOY
 
   CHIRON. Demetrius, here's the son of Lucius;
     He hath some message to deliver us.
@@ -1861,7 +1843,7 @@ YOUNG LUCIUS and another with a bundle of weapons, and verses writ upon them
     Your lordships, that, whenever you have need,
     You may be armed and appointed well.
     And so I leave you both-  [Aside]  like bloody villains.
-                               Exeunt YOUNG LUCIUS and attendant
+                               Exeunt BOY and attendant
   DEMETRIUS. What's here? A scroll, and written round about.
     Let's see:
     [Reads]  'Integer vitae, scelerisque purus,
@@ -2029,7 +2011,7 @@ YOUNG LUCIUS and another with a bundle of weapons, and verses writ upon them
   DEMETRIUS. For this care of Tamora,
     Herself and hers are highly bound to thee.
 
-         Exeunt DEMETRIUS and CHIRON, bearing off the dead NURSE
+         Exeunt DEMETRIUS and CHIRON, and NURSE
 
   AARON. Now to the Goths, as swift as swallow flies,
     There to dispose this treasure in mine arms,
@@ -2048,9 +2030,7 @@ YOUNG LUCIUS and another with a bundle of weapons, and verses writ upon them
 SCENE III.
 Rome. A public place
 
-Enter TITUS, bearing arrows with letters on the ends of them;
-with him MARCUS, YOUNG LUCIUS, and other gentlemen,
-PUBLIUS, SEMPRONIUS, and CAIUS, with bows
+Enter TITUS, and MARCUS, BOY, PUBLIUS, SEMPRONIUS, and CAIUS, with bows
 
   TITUS. Come, Marcus, come; kinsmen, this is the way.
     Sir boy, let me see your archery;
@@ -2130,7 +2110,7 @@ PUBLIUS, SEMPRONIUS, and CAIUS, with bows
     But give them to his master for a present.
   TITUS. Why, there it goes! God give his lordship joy!
 
-    Enter the CLOWN, with a basket and two pigeons in it
+            Enter the CLOWN, with a basket and two pigeons in it
 
     News, news from heaven! Marcus, the post is come.
     Sirrah, what tidings? Have you any letters?
@@ -2178,9 +2158,7 @@ PUBLIUS, SEMPRONIUS, and CAIUS, with bows
 SCENE IV.
 Rome. Before the palace
 
-Enter the EMPEROR, and the EMPRESS and her two sons, DEMETRIUS and CHIRON;
-LORDS and others. The EMPEROR brings the arrows in his hand that TITUS
-shot at him
+Enter the SATURNINUS, and the TAMORA and DEMETRIUS and CHIRON; LORDS and others
 
   SATURNINUS. Why, lords, what wrongs are these! Was ever seen
     An emperor in Rome thus overborne,
@@ -2246,7 +2224,7 @@ shot at him
     Sly frantic wretch, that holp'st to make me great,
     In hope thyself should govern Rome and me.
 
-                   Enter NUNTIUS AEMILIUS
+                   Enter AEMILIUS
 
     What news with thee, Aemilius?
   AEMILIUS. Arm, my lords! Rome never had more cause.
@@ -2313,7 +2291,7 @@ END_ACT
 ACT V. SCENE I.
 Plains near Rome
 
-Enter LUCIUS with an army of GOTHS with drums and colours
+Enter LUCIUS with an army of FIRST GOTH, SECOND GOTH, GOTHS with drums and colours
 
   LUCIUS. Approved warriors and my faithful friends,
     I have received letters from great Rome
@@ -2331,7 +2309,7 @@ Enter LUCIUS with an army of GOTHS with drums and colours
     Like stinging bees in hottest summer's day,
     Led by their master to the flow'red fields,
     And be aveng'd on cursed Tamora.
-  ALL THE GOTHS. And as he saith, so say we all with him.
+  GOTHS. And as he saith, so say we all with him.
   LUCIUS. I humbly thank him, and I thank you all.
     But who comes here, led by a lusty Goth?
 
@@ -2506,7 +2484,7 @@ Enter TAMORA, and her two sons, DEMETRIUS and CHIRON, disguised
     Tell him Revenge is come to join with him,
     And work confusion on his enemies.
 
-         They knock and TITUS opens his study door, above
+          Enter TITUS 
 
   TITUS. Who doth molest my contemplation?
     Is it your trick to make me ope the door,
@@ -2581,7 +2559,7 @@ Enter TAMORA, and her two sons, DEMETRIUS and CHIRON, disguised
     Or, at the least, make them his enemies.
     See, here he comes, and I must ply my theme.
 
-                 Enter TITUS, below
+                 Enter TITUS
 
   TITUS. Long have I been forlorn, and all for thee.
     Welcome, dread Fury, to my woeful house.
@@ -2678,8 +2656,7 @@ Enter TAMORA, and her two sons, DEMETRIUS and CHIRON, disguised
     Stop close their mouths, let them not speak a word.
     Is he sure bound? Look that you bind them fast.
 
-               Enter TITUS ANDRONICUS
-        with a knife, and LAVINIA, with a basin
+               Enter TITUS and LAVINIA, with a basin
 
   TITUS. Come, come, Lavinia; look, thy foes are bound.
     Sirs, stop their mouths, let them not speak to me;
@@ -2723,7 +2700,7 @@ Enter TAMORA, and her two sons, DEMETRIUS and CHIRON, disguised
     So.
     Now bring them in, for I will play the cook,
     And see them ready against their mother comes.
-                                 Exeunt, bearing the dead bodies
+                                 Exeunt bearing the dead bodies
 
 
 
@@ -2731,12 +2708,11 @@ Enter TAMORA, and her two sons, DEMETRIUS and CHIRON, disguised
 SCENE III.
 The court of TITUS' house
 
-Enter Lucius, MARCUS, and the GOTHS, with AARON prisoner,
-and his CHILD in the arms of an attendant
+Enter Lucius, MARCUS, and the FIRST GOTH, with AARON and CHILD
 
   LUCIUS. Uncle Marcus, since 'tis my father's mind
     That I repair to Rome, I am content.
-    FIRST GOTH. And ours with thine, befall what fortune will.
+  FIRST GOTH. And ours with thine, befall what fortune will.
   LUCIUS. Good uncle, take you in this barbarous Moor,
     This ravenous tiger, this accursed devil;
     Let him receive no sust'nance, fetter him,
@@ -2766,9 +2742,7 @@ and his CHILD in the arms of an attendant
   SATURNINUS. Marcus, we will.
                       [A table brought in. The company sit down]
 
-               Trumpets sounding, enter TITUS
-         like a cook, placing the dishes, and LAVINIA
-   with a veil over her face; also YOUNG LUCIUS, and others
+               Enter TITUS and LAVINIA and BOY and others
 
   TITUS. Welcome, my lord; welcome, dread Queen;
     Welcome, ye warlike Goths; welcome, Lucius;
@@ -2894,8 +2868,7 @@ and his CHILD in the arms of an attendant
   MARCUS. Go, go into old Titus' sorrowful house,
     And hither hale that misbelieving Moor
     To be adjudg'd some direful slaught'ring death,
-    As punishment for his most wicked life.          Exeunt some
-              attendants. LUCIUS, MARCUS, and the others descend
+    As punishment for his most wicked life.          Exeunt LUCIUS, MARCUS
   ALL. Lucius, all hail, Rome's gracious governor!
   LUCIUS. Thanks, gentle Romans! May I govern so
     To heal Rome's harms and wipe away her woe!
@@ -2927,9 +2900,9 @@ and his CHILD in the arms of an attendant
     O Lord, I cannot speak to him for weeping;
     My tears will choke me, if I ope my mouth.
 
-            Enter attendants with AARON
+            Enter ROMAN with AARON
 
-  A ROMAN. You sad Andronici, have done with woes;
+  ROMAN. You sad Andronici, have done with woes;
     Give sentence on the execrable wretch
     That hath been breeder of these dire events.
   LUCIUS. Set him breast-deep in earth, and famish him;

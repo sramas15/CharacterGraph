@@ -42,7 +42,7 @@ A city in Illyria; and the sea-coast near it
 ACT I. SCENE I.
 The DUKE'S palace
 
-Enter ORSINO, Duke of Illyria, CURIO, and other LORDS; MUSICIANS attending
+Enter ORSINO, DUKE of Illyria, CURIO, and other LORDS; MUSICIANS attending
 
   DUKE. If music be the food of love, play on,
     Give me excess of it, that, surfeiting,
@@ -173,7 +173,7 @@ Enter VIOLA, a CAPTAIN, and SAILORS
 SCENE III.
 OLIVIA'S house
 
-Enter SIR TOBY BELCH and MARIA
+Enter SIR TOBY and MARIA
 
   SIR TOBY. What a plague means my niece to take the death of her
     brother thus? I am sure care's an enemy to life.
@@ -211,7 +211,7 @@ Enter SIR TOBY BELCH and MARIA
     till his brains turn o' th' toe like a parish-top. What, wench!
     Castiliano vulgo! for here comes Sir Andrew Agueface.
 
-                    Enter SIR ANDREW AGUECHEEK
+                    Enter AGUECHEEK
 
   AGUECHEEK. Sir Toby Belch! How now, Sir Toby Belch!
   SIR TOBY. Sweet Sir Andrew!
@@ -563,7 +563,8 @@ Enter MARIA and CLOWN
     entertainment. What I am and what I would are as secret as
     maidenhead- to your cars, divinity; to any other's, profanation.
   OLIVIA. Give us the place alone; we will hear this divinity.
-    [Exeunt MARIA and ATTENDANTS] Now, sir, what is your text?
+    Now, sir, what is your text?
+                                            Exeunt MARIA and ATTENDANTS
   VIOLA. Most sweet lady-
   OLIVIA. A comfortable doctrine, and much may be said of it.
     Where lies your text?
@@ -704,8 +705,7 @@ Enter ANTONIO and SEBASTIAN
     him whom you have recover'd-desire it not. Fare ye well at once;
     my bosom is full of kindness, and I am yet so near the manners of
     my mother that, upon the least occasion more, mine eyes will tell
-    tales of me. I am bound to the Count Orsino's court. Farewell.
- Exit
+    tales of me. I am bound to the Count Orsino's court. Farewell.          Exit
   ANTONIO. The gentleness of all the gods go with thee!
     I have many cnemies in Orsino's court,
     Else would I very shortly see thee there.
@@ -732,8 +732,7 @@ Enter VIOLA and MALVOLIO at several doors
   VIOLA. She took the ring of me; I'll none of it.
   MALVOLIO. Come, sir, you peevishly threw it to her; and her will is
     it should be so return'd. If it be worth stooping for, there it
-    lies in your eye; if not, be it his that finds it.
- Exit
+    lies in your eye; if not, be it his that finds it.                 Exit
   VIOLA. I left no ring with her; what means this lady?
     Fortune forbid my outside have not charm'd her!
     She made good view of me; indeed, so much
@@ -766,7 +765,7 @@ Enter VIOLA and MALVOLIO at several doors
 SCENE III.
 OLIVIA'S house
 
-Enter SIR TOBY and SIR ANDREW
+Enter SIR TOBY and AGUECHEEK
 
   SIR TOBY. Approach, Sir Andrew. Not to be abed after midnight is to
     be up betimes; and 'diluculo surgere' thou know'st-
@@ -848,12 +847,10 @@ CLOWN. Would you have a love-song, or a song of good life?
     call'd up her steward Malvolio, and bid him turn you out of
     doors, never trust me.
   SIR TOBY. My lady's a Cataian, we are politicians, Malvolio's a
-    Peg-a-Ramsey, and                                    [Sings]
-                  Three merry men be we.
+    Peg-a-Ramsey, and three merry men be we.
     Am not I consanguineous? Am I not of her blood? Tilly-vally,
-    lady.                                                [Sings]
-              There dwelt a man in Babylon,
-              Lady, lady.
+    lady. There dwelt a man in Babylon,
+    Lady, lady.
   CLOWN. Beshrew me, the knight's in admirable fooling.
   AGUECHEEK. Ay, he does well enough if he be dispos'd, and so do I
     too; he does it with a better grace, but I do it more natural.
@@ -891,12 +888,11 @@ CLOWN. Would you have a love-song, or a song of good life?
     be no more cakes and ale?
   CLOWN. Yes, by Saint Anne; and ginger shall be hot i' th' mouth
     too.
- SIR TOBY. Th' art i' th' right. Go, sir, rub your chain with crumbs.
+  SIR TOBY. Th' art i' th' right. Go, sir, rub your chain with crumbs.
     A stoup of wine, Maria!
   MALVOLIO. Mistress Mary, if you priz'd my lady's favour at anything
     more than contempt, you would not give means for this uncivil
-    rule; she shall know of it, by this hand.
- Exit
+    rule; she shall know of it, by this hand.                 Exit
   MARIA. Go shake your ears.
   AGUECHEEK. 'Twere as good a deed as to drink when a man's ahungry,
     to challenge him the field, and then to break promise with him
@@ -1113,7 +1109,7 @@ Enter DUKE, VIOLA, CURIO, and OTHERS
 SCENE V.
 OLIVIA'S garden
 
-Enter SIR TOBY, SIR ANDREW, and FABIAN
+Enter SIR TOBY, AGUECHEEK, and FABIAN
 
   SIR TOBY. Come thy ways, Signior Fabian.
   FABIAN. Nay, I'll come; if I lose a scruple of this sport let me be
@@ -1136,8 +1132,7 @@ Enter SIR TOBY, SIR ANDREW, and FABIAN
     mockery, for I know this letter will make a contemplative idiot
     of him. Close, in the name of jesting! [As the men hide she drops
     a letter] Lie thou there; for here comes the trout that must be
-    caught with tickling.
- Exit
+    caught with tickling.                Exit
 
                       Enter MALVOLIO
 
@@ -1206,21 +1201,18 @@ Enter SIR TOBY, SIR ANDREW, and FABIAN
     To whom should this be?
   FABIAN. This wins him, liver and all.
   MALVOLIO. [Reads]
-
-                    Jove knows I love,
-                      But who?
-                    Lips, do not move;
-                    No man must know.'
-
+    Jove knows I love,
+    But who?
+    Lips, do not move;
+    'No man must know.'
     'No man must know.' What follows? The numbers alter'd!
     'No man must know.' If this should be thee, Malvolio?
   SIR TOBY. Marry, hang thee, brock!
   MALVOLIO. [Reads]
-
-             'I may command where I adore;
-               But silence, like a Lucrece knife,
-             With bloodless stroke my heart doth gore;
-               M. O. A. I. doth sway my life.'
+    'I may command where I adore;
+    But silence, like a Lucrece knife,
+    With bloodless stroke my heart doth gore;
+    M. O. A. I. doth sway my life.'
 
   FABIAN. A fustian riddle!
   SIR TOBY. Excellent wench, say I.
@@ -1249,8 +1241,8 @@ Enter SIR TOBY, SIR ANDREW, and FABIAN
   MALVOLIO. M. O. A. I. This simulation is not as the former; and
     yet, to crush this a little, it would bow to me, for every one of
     these letters are in my name. Soft! here follows prose.
-                                                         [Reads]
-      'If this fall into thy hand, revolve. In my stars I am above
+    [Reads]
+    'If this fall into thy hand, revolve. In my stars I am above
     thee; but be not afraid of greatness. Some are born great, some
     achieve greatness, and some have greatness thrust upon 'em. Thy
     Fates open their hands; let thy blood and spirit embrace them;
@@ -1263,8 +1255,7 @@ Enter SIR TOBY, SIR ANDREW, and FABIAN
     thou art made, if thou desir'st to be so; if not, let me see thee
     a steward still, the fellow of servants, and not worthy to touch
     Fortune's fingers. Farewell. She that would alter services with
-    thee,
-                                         THE FORTUNATE-UNHAPPY.'
+    thee, THE FORTUNATE-UNHAPPY.'
 
     Daylight and champain discovers not more. This is open. I will be
     proud, I will read politic authors, I will baffle Sir Toby, I
@@ -1390,7 +1381,7 @@ Enter VIOLA, and CLOWN with a tabor
     For folly that he wisely shows is fit;
     But wise men, folly-fall'n, quite taint their wit.
 
-                Enter SIR TOBY and SIR ANDREW
+                Enter SIR TOBY and AGUECHEEK
 
   SIR TOBY. Save you, gentleman!
   VIOLA. And you, sir.
@@ -1499,7 +1490,7 @@ Enter VIOLA, and CLOWN with a tabor
 SCENE II.
 OLIVIA'S house
 
-Enter SIR TOBY, SIR ANDREW and FABIAN
+Enter SIR TOBY, AGUECHEEK and FABIAN
 
   AGUECHEEK. No, faith, I'll not stay a jot longer.
   SIR TOBY. Thy reason, dear venom, give thy reason.
@@ -1544,7 +1535,7 @@ Enter SIR TOBY, SIR ANDREW and FABIAN
     matter. About it.
   AGUECHEEK. Where shall I find you?
   SIR TOBY. We'll call thee at the cubiculo. Go.
-                                                 Exit SIR ANDREW
+                                                 Exit AGUECHEEK
   FABIAN. This is a dear manakin to you, Sir Toby.
   SIR TOBY. I have been dear to him, lad- some two thousand strong,
     or so.
@@ -1782,7 +1773,7 @@ Enter OLIVIA and MARIA
     bring the device to the bar and crown thee for a finder of
     madmen. But see, but see.
 
-                     Enter SIR ANDREW
+                     Enter AGUECHEEK
 
   FABIAN. More matter for a May morning.
   AGUECHEEK. Here's the challenge; read it. I warrant there's vinegar
@@ -1808,7 +1799,7 @@ Enter OLIVIA and MARIA
     our souls! He may have mercy upon mine; but my hope is better,
     and so look to thyself. Thy friend, as thou usest him, and thy
     sworn enemy,
-                                              ANDREW AGUECHEEK.'
+    ANDREW AGUECHEEK.'
 
     If this letter move him not, his legs cannot. I'll give't him.
   MARIA. You may have very fit occasion for't; he is now in some
@@ -1908,7 +1899,7 @@ Enter OLIVIA and MARIA
     rather go with sir priest than sir knight. I care not who knows
     so much of my mettle.                                 Exeunt
 
-                Enter SIR TOBY With SIR ANDREW
+                Enter SIR TOBY with AGUECHEEK
 
   SIR TOBY. Why, man, he's a very devil; I have not seen such a
     firago. I had a pass with him, rapier, scabbard, and all, and he
@@ -1959,7 +1950,7 @@ Enter OLIVIA and MARIA
   SIR TOBY. Nay, if you be an undertaker, I am for you.
                                                      [They draw]
 
-                         Enter OFFICERS
+                         Enter FIRST OFFICER, SECOND OFFICER
 
   FABIAN. O good Sir Toby, hold! Here come the officers.
   SIR TOBY. [To ANTONIO] I'll be with you anon.
@@ -2074,7 +2065,7 @@ Enter SEBASTIAN and CLOWN
     give fools money get themselves a good report after fourteen
     years' purchase.
 
-             Enter SIR ANDREW, SIR TOBY, and FABIAN
+             Enter AGUECHEEK, SIR TOBY, and FABIAN
 
   AGUECHEEK. Now, sir, have I met you again?
     [Striking SEBASTIAN] There's for you.
@@ -2500,7 +2491,7 @@ Enter CLOWN and FABIAN
   OLIVIA. O, do not swear!
     Hold little faith, though thou has too much fear.
 
-                  Enter SIR ANDREW
+                  Enter AGUECHEEK
 
   AGUECHEEK. For the love of God, a surgeon!
     Send one presently to Sir Toby.
@@ -2645,7 +2636,7 @@ Enter CLOWN and FABIAN
     but to do myself much right or you much shame. Think of me as you
     please. I leave my duty a little unthought of, and speak out of
     my injury.
-                                        THE MADLY-US'D MALVOLIO'
+    THE MADLY-US'D MALVOLIO'
 
   OLIVIA. Did he write this?
   CLOWN. Ay, Madam.
@@ -2721,8 +2712,7 @@ Enter CLOWN and FABIAN
     fool, I am not mad!' But do you remember- 'Madam, why laugh you
     at such a barren rascal? An you smile not, he's gagg'd'? And thus
     the whirligig of time brings in his revenges.
-  MALVOLIO. I'll be reveng'd on the whole pack of you.
- Exit
+  MALVOLIO. I'll be reveng'd on the whole pack of you.             Exit
   OLIVIA. He hath been most notoriously abus'd.
   DUKE. Pursue him, and entreat him to a peace;
     He hath not told us of the captain yet.
