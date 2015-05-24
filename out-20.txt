@@ -53,7 +53,7 @@ ACT I. SCENE 1.
 
 Windsor. Before PAGE'S house
 
-Enter JUSTICE SHALLOW, SLENDER, and SIR HUGH EVANS
+Enter SHALLOW, SLENDER, and EVANS
 
   SHALLOW. Sir Hugh, persuade me not; I will make a Star
     Chamber matter of it; if he were twenty Sir John Falstaffs,
@@ -124,7 +124,7 @@ Enter JUSTICE SHALLOW, SLENDER, and SIR HUGH EVANS
                             Enter PAGE
 
   EVANS. Here is Got's plessing, and your friend, and Justice
-  Shallow; and here young Master Slender, that peradventures
+    Shallow; and here young Master Slender, that peradventures
     shall tell you another tale, if matters grow to your
     likings.
   PAGE. I am glad to see your worships well. I thank you for
@@ -156,7 +156,7 @@ Enter JUSTICE SHALLOW, SLENDER, and SIR HUGH EVANS
     he is wronged.
   PAGE. Here comes Sir John.
 
-      Enter SIR JOHN FALSTAFF, BARDOLPH, NYM, and PISTOL
+      Enter FALSTAFF, BARDOLPH, NYM, and PISTOL
 
   FALSTAFF. Now, Master Shallow, you'll complain of me to
     the King?
@@ -230,11 +230,10 @@ Enter JUSTICE SHALLOW, SLENDER, and SIR HUGH EVANS
   FALSTAFF. You hear all these matters deni'd, gentlemen; you
     hear it.
 
-          Enter MISTRESS ANNE PAGE with wine; MISTRESS
-               FORD and MISTRESS PAGE, following
+          Enter ANNE with wine; MRS FORD and MRS PAGE, following
 
   PAGE. Nay, daughter, carry the wine in; we'll drink within.
-                                                  Exit ANNE PAGE
+                                                  Exit ANNE
   SLENDER. O heaven! this is Mistress Anne Page.
   PAGE. How now, Mistress Ford!
   FALSTAFF. Mistress Ford, by my troth, you are very well
@@ -302,7 +301,7 @@ Enter JUSTICE SHALLOW, SLENDER, and SIR HUGH EVANS
   SHALLOW. Ay, I think my cousin meant well.
   SLENDER. Ay, or else I would I might be hang'd, la!
 
-                       Enter ANNE PAGE
+                       Enter ANNE
 
   SHALLOW. Here comes fair Mistress Anne. Would I were
     young for your sake, Mistress Anne!
@@ -367,7 +366,7 @@ SCENE 2.
 
 Before PAGE'S house
 
-Enter SIR HUGH EVANS and SIMPLE
+Enter EVANS and SIMPLE
 
   EVANS. Go your ways, and ask of Doctor Caius' house which
     is the way; and there dwells one Mistress Quickly, which
@@ -497,7 +496,7 @@ SCENE 4.
 
 DOCTOR CAIUS'S house
 
-Enter MISTRESS QUICKLY, SIMPLE, and RUGBY
+Enter QUICKLY, SIMPLE, and RUGBY
 
   QUICKLY. What, John Rugby! I pray thee go to the casement
     and see if you can see my master, Master Doctor
@@ -540,7 +539,7 @@ Enter MISTRESS QUICKLY, SIMPLE, and RUGBY
     not well that he comes not home.  [Singing]
     And down, down, adown-a, etc.
 
-                       Enter DOCTOR CAIUS
+                       Enter CAIUS
 
   CAIUS. Vat is you sing? I do not like des toys. Pray you, go
     and vetch me in my closet un boitier vert-a box, a green-a
@@ -669,9 +668,9 @@ ACT II. SCENE 1.
 
 Before PAGE'S house
 
-Enter MISTRESS PAGE, with a letter
+Enter MRS PAGE, with a letter
 
-  MRS. PAGE. What! have I scap'd love-letters in the holiday-time
+  MRS PAGE. What! have I scap'd love-letters in the holiday-time
     of my beauty, and am I now a subject for them? Let
     me see.                                              [Reads]
     'Ask me no reason why I love you; for though Love use
@@ -687,8 +686,7 @@ Enter MISTRESS PAGE, with a letter
     By day or night,
     Or any kind of light,
     With all his might,
-    For thee to fight,
-    JOHN FALSTAFF.'
+    For thee to fight,    JOHN FALSTAFF.'
     What a Herod of Jewry is this! O wicked, wicked world!
     One that is well-nigh worn to pieces with age to show
     himself a young gallant! What an unweighed behaviour
@@ -701,28 +699,28 @@ Enter MISTRESS PAGE, with a letter
     reveng'd on him? for reveng'd I will be, as sure as his guts
     are made of puddings.
 
-                       Enter MISTRESS FORD
+                       Enter MRS FORD
 
-  MRS. FORD. Mistress Page! trust me, I was going to your
+  MRS FORD. Mistress Page! trust me, I was going to your
     house.
-  MRS. PAGE. And, trust me, I was coming to you. You look
+  MRS PAGE. And, trust me, I was coming to you. You look
     very ill.
-  MRS. FORD. Nay, I'll ne'er believe that; I have to show to
+  MRS FORD. Nay, I'll ne'er believe that; I have to show to
     the contrary.
-  MRS. PAGE. Faith, but you do, in my mind.
-  MRS. FORD. Well, I do, then; yet, I say, I could show you to
+  MRS PAGE. Faith, but you do, in my mind.
+  MRS FORD. Well, I do, then; yet, I say, I could show you to
     the contrary. O Mistress Page, give me some counsel.
-  MRS. PAGE. What's the matter, woman?
-  MRS. FORD. O woman, if it were not for one trifling respect,
+  MRS PAGE. What's the matter, woman?
+  MRS FORD. O woman, if it were not for one trifling respect,
     I could come to such honour!
-  MRS. PAGE. Hang the trifle, woman; take the honour. What
+  MRS PAGE. Hang the trifle, woman; take the honour. What
     is it? Dispense with trifles; what is it?
-  MRS. FORD. If I would but go to hell for an eternal moment
+  MRS FORD. If I would but go to hell for an eternal moment
     or so, I could be knighted.
-  MRS. PAGE. What? Thou liest. Sir Alice Ford! These knights
+  MRS PAGE. What? Thou liest. Sir Alice Ford! These knights
     will hack; and so thou shouldst not alter the article of thy
     gentry.
-  MRS. FORD. We burn daylight. Here, read, read; perceive
+  MRS FORD. We burn daylight. Here, read, read; perceive
     how I might be knighted. I shall think the worse of fat
     men as long as I have an eye to make difference of men's
     liking. And yet he would not swear; prais'd women's
@@ -736,7 +734,7 @@ Enter MISTRESS PAGE, with a letter
     think the best way were to entertain him with hope, till
     the wicked fire of lust have melted him in his own grease.
     Did you ever hear the like?
-  MRS. PAGE. Letter for letter, but that the name of Page and
+  MRS PAGE. Letter for letter, but that the name of Page and
     Ford differs. To thy great comfort in this mystery of ill
     opinions, here's the twin-brother of thy letter; but let thine
     inherit first, for, I protest, mine never shall. I warrant he
@@ -747,32 +745,32 @@ Enter MISTRESS PAGE, with a letter
     had rather be a giantess and lie under Mount Pelion. Well,
     I will find you twenty lascivious turtles ere one chaste
     man.
-  MRS. FORD. Why, this is the very same; the very hand, the
+  MRS FORD. Why, this is the very same; the very hand, the
     very words. What doth he think of us?
-  MRS. PAGE. Nay, I know not; it makes me almost ready to
+  MRS PAGE. Nay, I know not; it makes me almost ready to
     wrangle with mine own honesty. I'll entertain myself like
     one that I am not acquainted withal; for, sure, unless he
     know some strain in me that I know not myself, he would
     never have boarded me in this fury.
-  MRS. FORD. 'Boarding' call you it? I'll be sure to keep him
+  MRS FORD. 'Boarding' call you it? I'll be sure to keep him
     above deck.
-  MRS. PAGE. So will I; if he come under my hatches, I'll never
+  MRS PAGE. So will I; if he come under my hatches, I'll never
     to sea again. Let's be reveng'd on him; let's appoint him a
     meeting, give him a show of comfort in his suit, and lead
     him on with a fine-baited delay, till he hath pawn'd his
     horses to mine host of the Garter.
-  MRS. FORD. Nay, I will consent to act any villainy against
+  MRS FORD. Nay, I will consent to act any villainy against
     him that may not sully the chariness of our honesty. O
     that my husband saw this letter! It would give eternal food
     to his jealousy.
-  MRS. PAGE. Why, look where he comes; and my good man
+  MRS PAGE. Why, look where he comes; and my good man
     too; he's as far from jealousy as I am from giving him
     cause; and that, I hope, is an unmeasurable distance.
-  MRS. FORD. You are the happier woman.
-  MRS. PAGE. Let's consult together against this greasy knight.
-    Come hither.                                   [They retire]
+  MRS FORD. You are the happier woman.
+  MRS PAGE. Let's consult together against this greasy knight.
+    Come hither.                                   Exeunt MRS FORD, MRS PAGE
 
-           Enter FORD with PISTOL, and PAGE with Nym
+           Enter FORD with PISTOL, and PAGE with NYM
 
   FORD. Well, I hope it be not so.
   PISTOL. Hope is a curtal dog in some affairs.
@@ -810,28 +808,27 @@ Enter MISTRESS PAGE, with a letter
     th' town commended him for a true man.
   FORD. 'Twas a good sensible fellow. Well.
 
-             MISTRESS PAGE and MISTRESS FORD come forward
+             MRS PAGE and MRS FORD come forward
 
   PAGE. How now, Meg!
-  MRS. PAGE. Whither go you, George? Hark you.
-  MRS. FORD. How now, sweet Frank, why art thou melancholy?
+  MRS PAGE. Whither go you, George? Hark you.
+  MRS FORD. How now, sweet Frank, why art thou melancholy?
   FORD. I melancholy! I am not melancholy. Get you home;
     go.
-  MRS. FORD. Faith, thou hast some crotchets in thy head now.
+  MRS FORD. Faith, thou hast some crotchets in thy head now.
     Will you go, Mistress Page?
 
-                     Enter MISTRESS QUICKLY
+                     Enter QUICKLY
 
-  MRS. PAGE. Have with you. You'll come to dinner, George?
-    [Aside to MRS. FORD]  Look who comes yonder; she shall
+  MRS PAGE. Have with you. You'll come to dinner, George?
+    [Aside to MRS FORD]  Look who comes yonder; she shall
     be our messenger to this paltry knight.
-  MRS. FORD.  [Aside to MRS. PAGE]  Trust me, I thought on
+  MRS FORD.  [Aside to MRS PAGE]  Trust me, I thought on
     her; she'll fit it.
-  MRS. PAGE. You are come to see my daughter Anne?
+  MRS PAGE. You are come to see my daughter Anne?
   QUICKLY. Ay, forsooth; and, I pray, how does good Mistress Anne?
-  MRS. PAGE. Go in with us and see; we have an hour's talk
-    with you.           Exeunt MISTRESS PAGE, MISTRESS FORD, and
-                                                MISTRESS QUICKLY
+  MRS PAGE. Go in with us and see; we have an hour's talk
+    with you.           Exeunt MRS PAGE, MRS FORD, and QUICKLY
   PAGE. How now, Master Ford!
   FORD. You heard what this knave told me, did you not?
   PAGE. Yes; and you heard what the other told me?
@@ -943,7 +940,7 @@ Enter FALSTAFF and PISTOL
   ROBIN. Sir, here's a woman would speak with you.
   FALSTAFF. Let her approach.
 
-                     Enter MISTRESS QUICKLY
+                     Enter QUICKLY
 
   QUICKLY. Give your worship good morrow.
   FALSTAFF. Good morrow, good wife.
@@ -1035,8 +1032,8 @@ Enter FALSTAFF and PISTOL
     know, have discretion, as they say, and know the world.
   FALSTAFF. Fare thee well; commend me to them both.
     There's my purse; I am yet thy debtor. Boy, go along with
-    this woman.  [Exeunt QUICKLY and ROBIN]  This news
-    distracts me.
+    this woman.  [Exeunt QUICKLY and ROBIN]  
+    This news  distracts me.
   PISTOL.  [Aside]  This punk is one of Cupid's carriers;
     Clap on more sails; pursue; up with your fights;
     Give fire; she is my prize, or ocean whelm them all!    Exit
@@ -1053,7 +1050,8 @@ Enter FALSTAFF and PISTOL
     sent your worship a moming's draught of sack.
   FALSTAFF. Brook is his name?
   BARDOLPH. Ay, sir.
-  FALSTAFF. Call him in.  [Exit BARDOLPH]  Such Brooks are
+  FALSTAFF. Call him in.  [Exit BARDOLPH]  
+    Such Brooks are
     welcome to me, that o'erflows such liquor. Ah, ha! Mistress
     Ford and Mistress Page, have I encompass'd you? Go to;
     via!
@@ -1311,7 +1309,7 @@ ACT III SCENE 1.
 
 A field near Frogmore
 
-Enter SIR HUGH EVANS and SIMPLE
+Enter EVANS and SIMPLE
 
   EVANS. I pray you now, good Master Slender's serving-man,
     and friend Simple by your name, which way have you
@@ -1446,36 +1444,36 @@ SCENE 2.
 
 The street in Windsor
 
-Enter MISTRESS PAGE and ROBIN
+Enter MRS PAGE and ROBIN
 
-  MRS. PAGE. Nay, keep your way, little gallant; you were
+  MRS PAGE. Nay, keep your way, little gallant; you were
     wont to be a follower, but now you are a leader. Whether
     had you rather lead mine eyes, or eye your master's heels?
   ROBIN. I had rather, forsooth, go before you like a man than
     follow him like a dwarf.
-  MRS. PAGE. O, you are a flattering boy; now I see you'll be a
+  MRS PAGE. O, you are a flattering boy; now I see you'll be a
     courtier.
 
                           Enter FORD
 
   FORD. Well met, Mistress Page. Whither go you?
-  MRS. PAGE. Truly, sir, to see your wife. Is she at home?
+  MRS PAGE. Truly, sir, to see your wife. Is she at home?
   FORD. Ay; and as idle as she may hang together, for want of
     company. I think, if your husbands were dead, you two
     would marry.
-  MRS. PAGE. Be sure of that-two other husbands.
+  MRS PAGE. Be sure of that-two other husbands.
   FORD. Where had you this pretty weathercock?
-  MRS. PAGE. I cannot tell what the dickens his name is my
+  MRS PAGE. I cannot tell what the dickens his name is my
     husband had him of. What do you call your knight's
     name, sirrah?
   ROBIN. Sir John Falstaff.
   FORD. Sir John Falstaff!
-  MRS. PAGE. He, he; I can never hit on's name. There is such
+  MRS PAGE. He, he; I can never hit on's name. There is such
     a league between my good man and he! Is your wife at
     home indeed?
   FORD. Indeed she is.
-  MRS. PAGE. By your leave, sir. I am sick till I see her.
-                                      Exeunt MRS. PAGE and ROBIN
+  MRS PAGE. By your leave, sir. I am sick till I see her.
+                                      Exeunt MRS PAGE and ROBIN
   FORD. Has Page any brains? Hath he any eyes? Hath he any
     thinking? Sure, they sleep; he hath no use of them. Why,
     this boy will carry a letter twenty mile as easy as a cannon
@@ -1494,8 +1492,7 @@ Enter MISTRESS PAGE and ROBIN
     for this than mock'd; for it is as positive as the earth is firm
     that Falstaff is there. I will go.
 
-     Enter PAGE, SHALLOW, SLENDER, HOST, SIR HUGH EVANS,
-                              CAIUS, and RUGBY
+     Enter PAGE, SHALLOW, SLENDER, HOST,  EVANS, CAIUS, and RUGBY
 
   SHALLOW, PAGE, &C. Well met, Master Ford.
   FORD. Trust me, a good knot; I have good cheer at home,
@@ -1547,48 +1544,48 @@ SCENE 3.
 
 FORD'S house
 
-Enter MISTRESS FORD and MISTRESS PAGE
+Enter MRS FORD and MRS PAGE
 
-  MRS. FORD. What, John! what, Robert!
-  MRS. PAGE. Quickly, quickly! Is the buck-basket-
-  MRS. FORD. I warrant. What, Robin, I say!
+  MRS FORD. What, John! what, Robert!
+  MRS PAGE. Quickly, quickly! Is the buck-basket-
+  MRS FORD. I warrant. What, Robin, I say!
 
                  Enter SERVANTS with a basket
 
-  MRS. PAGE. Come, come, come.
-  MRS. FORD. Here, set it down.
-  MRS. PAGE. Give your men the charge; we must be brief.
-  MRS. FORD. Marry, as I told you before, John and Robert, be
+  MRS PAGE. Come, come, come.
+  MRS FORD. Here, set it down.
+  MRS PAGE. Give your men the charge; we must be brief.
+  MRS FORD. Marry, as I told you before, John and Robert, be
     ready here hard by in the brew-house; and when I suddenly
     call you, come forth, and, without any pause or
     staggering, take this basket on your shoulders. That done,
     trudge with it in all haste, and carry it among the whitsters
     in Datchet Mead, and there empty it in the muddy ditch
     close by the Thames side.
-  Mrs. PAGE. You will do it?
-  MRS. FORD. I ha' told them over and over; they lack no
+  MRS PAGE. You will do it?
+  MRS FORD. I ha' told them over and over; they lack no
     direction. Be gone, and come when you are call'd.
                                                Exeunt SERVANTS
-  MRS. PAGE. Here comes little Robin.
+  MRS PAGE. Here comes little Robin.
 
                          Enter ROBIN
 
-  MRS. FORD. How now, my eyas-musket, what news with
+  MRS FORD. How now, my eyas-musket, what news with
     you?
   ROBIN. My Master Sir John is come in at your back-door,
     Mistress Ford, and requests your company.
-  MRS. PAGE. You little Jack-a-Lent, have you been true to us?
+  MRS PAGE. You little Jack-a-Lent, have you been true to us?
   ROBIN. Ay, I'll be sworn. My master knows not of your
     being here, and hath threat'ned to put me into everlasting
     liberty, if I tell you of it; for he swears he'll turn me away.
-  MRS. PAGE. Thou 'rt a good boy; this secrecy of thine shall
+  MRS PAGE. Thou 'rt a good boy; this secrecy of thine shall
     be a tailor to thee, and shall make thee a new doublet and
     hose. I'll go hide me.
-  MRS. FORD. Do so. Go tell thy master I am alone.  [Exit
+  MRS FORD. Do so. Go tell thy master I am alone.  [Exit
   ROBIN]  Mistress Page, remember you your cue.
-  MRS. PAGE. I warrant thee; if I do not act it, hiss me.
-                                                Exit MRS. PAGE
-  MRS. FORD. Go to, then; we'll use this unwholesome
+  MRS PAGE. I warrant thee; if I do not act it, hiss me.
+                                                Exit MRS PAGE
+  MRS FORD. Go to, then; we'll use this unwholesome
     humidity, this gross wat'ry pumpion; we'll teach him to
     know turtles from jays.
 
@@ -1597,18 +1594,18 @@ Enter MISTRESS FORD and MISTRESS PAGE
   FALSTAFF. Have I caught thee, my heavenly jewel?
     Why, now let me die, for I have liv'd long enough; this is
     the period of my ambition. O this blessed hour!
-  MRS. FORD. O sweet Sir John!
+  MRS FORD. O sweet Sir John!
   FALSTAFF. Mistress Ford, I cannot cog, I cannot prate,
     Mistress Ford. Now shall I sin in my wish; I would thy
     husband were dead; I'll speak it before the best lord, I
     would make thee my lady.
-  MRS. FORD. I your lady, Sir John? Alas, I should be a pitiful
+  MRS FORD. I your lady, Sir John? Alas, I should be a pitiful
     lady.
   FALSTAFF. Let the court of France show me such another. I
     see how thine eye would emulate the diamond; thou hast
     the right arched beauty of the brow that becomes the
     ship-tire, the tire-valiant, or any tire of Venetian admittance.
-  MRS. FORD. A plain kerchief, Sir John; my brows become
+  MRS FORD. A plain kerchief, Sir John; my brows become
     nothing else, nor that well neither.
   FALSTAFF. By the Lord, thou art a tyrant to say so; thou
     wouldst make an absolute courtier, and the firm fixture of
@@ -1616,49 +1613,49 @@ Enter MISTRESS FORD and MISTRESS PAGE
     semi-circled farthingale. I see what thou wert, if Fortune
     thy foe were, not Nature, thy friend. Come, thou canst not
     hide it.
-  MRS. FORD. Believe me, there's no such thing in me.
+  MRS FORD. Believe me, there's no such thing in me.
   FALSTAFF. What made me love thee? Let that persuade thee
     there's something extra-ordinary in thee. Come, I cannot
     cog, and say thou art this and that, like a many of these
     lisping hawthorn-buds that come like women in men's
     apparel, and smell like Bucklersbury in simple time; I
     cannot; but I love thee, none but thee; and thou deserv'st it.
-  MRS. FORD. Do not betray me, sir; I fear you love Mistress
+  MRS FORD. Do not betray me, sir; I fear you love Mistress
     Page.
   FALSTAFF. Thou mightst as well say I love to walk by the
     Counter-gate, which is as hateful to me as the reek of a
     lime-kiln.
-  MRS. FORD. Well, heaven knows how I love you; and you
+  MRS FORD. Well, heaven knows how I love you; and you
     shall one day find it.
   FALSTAFF. Keep in that mind; I'll deserve it.
-  MRS. FORD. Nay, I must tell you, so you do; or else I could
+  MRS FORD. Nay, I must tell you, so you do; or else I could
     not be in that mind.
   ROBIN.  [Within]  Mistress Ford, Mistress Ford! here's
     Mistress Page at the door, sweating and blowing and looking
     wildly, and would needs speak with you presently.
   FALSTAFF. She shall not see me; I will ensconce me behind
     the arras.
-  MRS. FORD. Pray you, do so; she's a very tattling woman.
+  MRS FORD. Pray you, do so; she's a very tattling woman.
                                       [FALSTAFF hides himself]
 
-               Enter MISTRESS PAGE and ROBIN
+               Enter MRS PAGE and ROBIN
 
     What's the matter? How now!
-  MRS. PAGE. O Mistress Ford, what have you done? You're
+  MRS PAGE. O Mistress Ford, what have you done? You're
     sham'd, y'are overthrown, y'are undone for ever.
-  MRS. FORD. What's the matter, good Mistress Page?
-  MRS. PAGE. O well-a-day, Mistress Ford, having an honest
+  MRS FORD. What's the matter, good Mistress Page?
+  MRS PAGE. O well-a-day, Mistress Ford, having an honest
     man to your husband, to give him such cause of suspicion!
-  MRS. FORD. What cause of suspicion?
-  MRS. PAGE. What cause of suspicion? Out upon you, how
+  MRS FORD. What cause of suspicion?
+  MRS PAGE. What cause of suspicion? Out upon you, how
     am I mistook in you!
-  MRS. FORD. Why, alas, what's the matter?
-  MRS. PAGE. Your husband's coming hither, woman, with all
+  MRS FORD. Why, alas, what's the matter?
+  MRS PAGE. Your husband's coming hither, woman, with all
     the officers in Windsor, to search for a gentleman that he
     says is here now in the house, by your consent, to take an
     ill advantage of his absence. You are undone.
-  MRS. FORD. 'Tis not so, I hope.
-  MRS. PAGE. Pray heaven it be not so that you have such a
+  MRS FORD. 'Tis not so, I hope.
+  MRS PAGE. Pray heaven it be not so that you have such a
     man here; but 'tis most certain your husband's coming,
     with half Windsor at his heels, to search for such a one. I
     come before to tell you. If you know yourself clear, why,
@@ -1666,11 +1663,11 @@ Enter MISTRESS FORD and MISTRESS PAGE
     convey him out. Be not amaz'd; call all your senses to you;
     defend your reputation, or bid farewell to your good life
     for ever.
-  MRS. FORD. What shall I do? There is a gentleman, my dear
+  MRS FORD. What shall I do? There is a gentleman, my dear
     friend; and I fear not mine own shame as much as his peril.
     I had rather than a thousand pound he were out of the
     house.
-  MRS. PAGE. For shame, never stand 'you had rather' and 'you
+  MRS PAGE. For shame, never stand 'you had rather' and 'you
     had rather'! Your husband's here at hand; bethink you of
     some conveyance; in the house you cannot hide him. O,
     how have you deceiv'd me! Look, here is a basket; if he be
@@ -1678,18 +1675,18 @@ Enter MISTRESS FORD and MISTRESS PAGE
     foul linen upon him, as if it were going to bucking, or-it is
     whiting-time-send him by your two men to Datchet
     Mead.
-  MRS. FORD. He's too big to go in there. What shall I do?
+  MRS FORD. He's too big to go in there. What shall I do?
   FALSTAFF.  [Coming forward]  Let me see 't, let me see 't. O,
     let me see 't! I'll in, I'll in; follow your friend's counsel;
     I'll in.
-  MRS. PAGE. What, Sir John Falstaff!      [Aside to FALSTAFF]
+  MRS PAGE. What, Sir John Falstaff!      [Aside to FALSTAFF]
     Are these your letters, knight?
-  FALSTAFF.  [Aside to MRS. PAGE]  I love thee and none but
+  FALSTAFF.  [Aside to MRS PAGE]  I love thee and none but
     thee; help me away.-Let me creep in here; I'll never-
     [Gets into the basket; they cover him with foul linen]
-  MRS. PAGE. Help to cover your master, boy. Call your men,
+  MRS PAGE. Help to cover your master, boy. Call your men,
     Mistress Ford. You dissembling knight!
-  MRS. FORD. What, John! Robert! John!                Exit ROBIN
+  MRS FORD. What, John! Robert! John!                Exit ROBIN
 
                  Enter SERVANTS
 
@@ -1697,13 +1694,13 @@ Enter MISTRESS FORD and MISTRESS PAGE
     cowl-staff? Look how you drumble. Carry them to the laundress
     in Datchet Mead; quickly, come.
 
-         Enter FORD, PAGE, CAIUS, and SIR HUGH EVANS
+         Enter FORD, PAGE, CAIUS, and EVANS
 
   FORD. Pray you come near. If I suspect without cause, why
     then make sport at me, then let me be your jest; I deserve
     it. How now, whither bear you this?
   SERVANT. To the laundress, forsooth.
-  MRS. FORD. Why, what have you to do whither they bear it?
+  MRS FORD. Why, what have you to do whither they bear it?
     You were best meddle with buck-washing.
   FORD. Buck? I would I could wash myself of the buck!
     Buck, buck, buck! ay, buck! I warrant you, buck; and of
@@ -1722,38 +1719,38 @@ Enter MISTRESS FORD and MISTRESS PAGE
     in France.
   PAGE. Nay, follow him, gentlemen; see the issue of his
     search.                        Exeunt EVANS, PAGE, and CAIUS
-  MRS. PAGE. Is there not a double excellency in this?
-  MRS. FORD. I know not which pleases me better, that my
+  MRS PAGE. Is there not a double excellency in this?
+  MRS FORD. I know not which pleases me better, that my
     husband is deceived, or Sir John.
-  MRS. PAGE. What a taking was he in when your husband
+  MRS PAGE. What a taking was he in when your husband
     ask'd who was in the basket!
-  MRS. FORD. I am half afraid he will have need of washing; so
+  MRS FORD. I am half afraid he will have need of washing; so
     throwing him into the water will do him a benefit.
-  MRS. PAGE. Hang him, dishonest rascal! I would all of the
+  MRS PAGE. Hang him, dishonest rascal! I would all of the
     same strain were in the same distress.
-  MRS. FORD. I think my husband hath some special suspicion
+  MRS FORD. I think my husband hath some special suspicion
     of Falstaff's being here, for I never saw him so gross in his
     jealousy till now.
-  MRS. PAGE. I Will lay a plot to try that, and we will yet have
+  MRS PAGE. I Will lay a plot to try that, and we will yet have
     more tricks with Falstaff. His dissolute disease will scarce
     obey this medicine.
-  MRS. FORD. Shall we send that foolish carrion, Mistress
+  MRS FORD. Shall we send that foolish carrion, Mistress
     Quickly, to him, and excuse his throwing into the water,
     and give him another hope, to betray him to another
     punishment?
-  MRS. PAGE. We will do it; let him be sent for to-morrow
+  MRS PAGE. We will do it; let him be sent for to-morrow
     eight o'clock, to have amends.
 
-       Enter FORD, PAGE, CAIUS, and SIR HUGH EVANS
+       Enter FORD, PAGE, CAIUS, and EVANS
 
   FORD. I cannot find him; may be the knave bragg'd of that
     he could not compass.
-  MRS. PAGE.  [Aside to MRS. FORD]  Heard you that?
-  MRS. FORD. You use me well, Master Ford, do you?
+  MRS PAGE.  [Aside to MRS FORD]  Heard you that?
+  MRS FORD. You use me well, Master Ford, do you?
   FORD. Ay, I do so.
-  MRS. FORD. Heaven make you better than your thoughts!
+  MRS FORD. Heaven make you better than your thoughts!
   FORD. Amen.
-  MRS. PAGE. You do yourself mighty wrong, Master Ford.
+  MRS PAGE. You do yourself mighty wrong, Master Ford.
   FORD. Ay, ay; I must bear it.
   EVANS. If there be any pody in the house, and in the
     chambers, and in the coffers, and in the presses, heaven forgive
@@ -1794,7 +1791,7 @@ SCENE 4.
 
 Before PAGE'S house
 
-Enter FENTON and ANNE PAGE
+Enter FENTON and ANNE
 
   FENTON. I see I cannot get thy father's love;
     Therefore no more turn me to him, sweet Nan.
@@ -1821,7 +1818,7 @@ Enter FENTON and ANNE PAGE
     Cannot attain it, why then-hark you hither.
                                            [They converse apart]
 
-        Enter SHALLOW, SLENDER, and MISTRESS QUICKLY
+        Enter SHALLOW, SLENDER, and QUICKLY
 
   SHALLOW. Break their talk, Mistress Quickly; my kinsman
     shall speak for himself.
@@ -1867,14 +1864,14 @@ Enter FENTON and ANNE PAGE
     can tell you how things go better than I can. You may ask
     your father; here he comes.
 
-            Enter PAGE and MISTRESS PAGE
+            Enter PAGE and MRS PAGE
 
   PAGE. Now, Master Slender! Love him, daughter Anne-
     Why, how now, what does Master Fenton here?
     You wrong me, sir, thus still to haunt my house.
     I told you, sir, my daughter is dispos'd of.
   FENTON. Nay, Master Page, be not impatient.
-  MRS. PAGE. Good Master Fenton, come not to my child.
+  MRS PAGE. Good Master Fenton, come not to my child.
   PAGE. She is no match for you.
   FENTON. Sir, will you hear me?
   PAGE. No, good Master Fenton.
@@ -1888,11 +1885,11 @@ Enter FENTON and ANNE PAGE
     I must advance the colours of my love,
     And not retire. Let me have your good will.
   ANNE. Good mother, do not marry me to yond fool.
-  MRS. PAGE. I mean it not; I seek you a better husband.
+  MRS PAGE. I mean it not; I seek you a better husband.
   QUICKLY. That's my master, Master Doctor.
   ANNE. Alas, I had rather be set quick i' th' earth.
     And bowl'd to death with turnips.
-  MRS. PAGE. Come, trouble not yourself. Good Master
+  MRS PAGE. Come, trouble not yourself. Good Master
     Fenton,
     I will not be your friend, nor enemy;
     My daughter will I question how she loves you,
@@ -1900,7 +1897,7 @@ Enter FENTON and ANNE PAGE
     Till then, farewell, sir; she must needs go in;
     Her father will be angry.
   FENTON. Farewell, gentle mistress; farewell, Nan.
-                                       Exeunt MRS. PAGE and ANNE
+                                       Exeunt MRS PAGE and ANNE
   QUICKLY. This is my doing now: 'Nay,' said I 'will you cast
     away your child on a fool, and a physician? Look on
     Master Fenton.' This is my doing.
@@ -1952,7 +1949,7 @@ Enter FALSTAFF and BARDOLPH
     snowballs for pills to cool the reins. Call her in.
   BARDOLPH. Come in, woman.
 
-                     Enter MISTRESS QUICKLY
+                     Enter QUICKLY
 
   QUICKLY. By your leave; I cry you mercy. Give your
     worship good morrow.
@@ -2081,26 +2078,26 @@ ACT IV. SCENE I.
 
 Windsor. A street
 
-Enter MISTRESS PAGE, MISTRESS QUICKLY, and WILLIAM
+Enter MRS PAGE, MISTRESS QUICKLY, and WILLIAM
 
-  MRS. PAGE. Is he at Master Ford's already, think'st thou?
+  MRS PAGE. Is he at Master Ford's already, think'st thou?
   QUICKLY. Sure he is by this; or will be presently; but truly
     he is very courageous mad about his throwing into the
     water. Mistress Ford desires you to come suddenly.
-  MRS. PAGE. I'll be with her by and by; I'll but bring my
+  MRS PAGE. I'll be with her by and by; I'll but bring my
     young man here to school. Look where his master comes;
     'tis a playing day, I see.
 
-                     Enter SIR HUGH EVANS
+                     Enter EVANS
 
     How now, Sir Hugh, no school to-day?
   EVANS. No; Master Slender is let the boys leave to play.
   QUICKLY. Blessing of his heart!
-  MRS. PAGE. Sir Hugh, my husband says my son profits
+  MRS PAGE. Sir Hugh, my husband says my son profits
     nothing in the world at his book; I pray you ask him some
     questions in his accidence.
   EVANS. Come hither, William; hold up your head; come.
-  MRS. PAGE. Come on, sirrah; hold up your head; answer your
+  MRS PAGE. Come on, sirrah; hold up your head; answer your
     master; be not afraid.
   EVANS. William, how many numbers is in nouns?
   WILLIAM. Two.
@@ -2133,7 +2130,7 @@ Enter MISTRESS PAGE, MISTRESS QUICKLY, and WILLIAM
   EVANS. Remember, William: focative is caret.
   QUICKLY. And that's a good root.
   EVANS. Oman, forbear.
-  MRS. PAGE. Peace.
+  MRS PAGE. Peace.
   EVANS. What is your genitive case plural, William?
   WILLIAM. Genitive case?
   EVANS. Ay.
@@ -2147,16 +2144,16 @@ Enter MISTRESS PAGE, MISTRESS QUICKLY, and WILLIAM
   EVANS. Oman, art thou lunatics? Hast thou no understandings
     for thy cases, and the numbers of the genders? Thou
     art as foolish Christian creatures as I would desires.
-  MRS. PAGE. Prithee hold thy peace.
+  MRS PAGE. Prithee hold thy peace.
   EVANS. Show me now, William, some declensions of your
     pronouns.
   WILLIAM. Forsooth, I have forgot.
   EVANS. It is qui, quae, quod; if you forget your qui's, your
     quae's, and your quod's, you must be preeches. Go your
     ways and play; go.
-  MRS. PAGE. He is a better scholar than I thought he was.
+  MRS PAGE. He is a better scholar than I thought he was.
   EVANS. He is a good sprag memory. Farewell, Mistress Page.
-  MRS. PAGE. Adieu, good Sir Hugh.                 Exit SIR HUGH
+  MRS PAGE. Adieu, good Sir Hugh.                 Exit EVANS
     Get you home, boy. Come, we stay too long.            Exeunt
 
 
@@ -2166,7 +2163,7 @@ SCENE 2.
 
 FORD'S house
 
-Enter FALSTAFF and MISTRESS FORD
+Enter FALSTAFF and MRS FORD
 
   FALSTAFF. Mistress Ford, your sorrow hath eaten up my
     sufferance. I see you are obsequious in your love, and I
@@ -2174,20 +2171,20 @@ Enter FALSTAFF and MISTRESS FORD
     the simple office of love, but in all the accoutrement,
     complement, and ceremony of it. But are you sure of your
     husband now?
-  MRS. FORD. He's a-birding, sweet Sir John.
-  MRS. PAGE.  [Within]  What hoa, gossip Ford, what hoa!
-  MRS. FORD. Step into th' chamber, Sir John.      Exit FALSTAFF
+  MRS FORD. He's a-birding, sweet Sir John.
+  MRS PAGE.  [Within]  What hoa, gossip Ford, what hoa!
+  MRS FORD. Step into th' chamber, Sir John.      Exit FALSTAFF
 
-                      Enter MISTRESS PAGE
+                      Enter MRS PAGE
 
-  MRS. PAGE. How now, sweetheart, who's at home besides
+  MRS PAGE. How now, sweetheart, who's at home besides
     yourself?
-  MRS. FORD. Why, none but mine own people.
-  MRS. PAGE. Indeed?
-  MRS. FORD. No, certainly.  [Aside to her]  Speak louder.
-  MRS. PAGE. Truly, I am so glad you have nobody here.
-  MRS. FORD. Why?
-  MRS. PAGE. Why, woman, your husband is in his old lunes
+  MRS FORD. Why, none but mine own people.
+  MRS PAGE. Indeed?
+  MRS FORD. No, certainly.  [Aside to her]  Speak louder.
+  MRS PAGE. Truly, I am so glad you have nobody here.
+  MRS FORD. Why?
+  MRS PAGE. Why, woman, your husband is in his old lunes
     again. He so takes on yonder with my husband; so rails
     against all married mankind; so curses an Eve's daughters,
     of what complexion soever; and so buffets himself on the
@@ -2195,89 +2192,89 @@ Enter FALSTAFF and MISTRESS FORD
     ever yet beheld seem'd but tameness, civility, and patience,
     to this his distemper he is in now. I am glad the fat knight
     is not here.
-  MRS. FORD. Why, does he talk of him?
-  MRS. PAGE. Of none but him; and swears he was carried out,
+  MRS FORD. Why, does he talk of him?
+  MRS PAGE. Of none but him; and swears he was carried out,
     the last time he search'd for him, in a basket; protests to
     my husband he is now here; and hath drawn him and the
     rest of their company from their sport, to make another
     experiment of his suspicion. But I am glad the knight is not
     here; now he shall see his own foolery.
-  MRS. FORD. How near is he, Mistress Page?
-  MRS. PAGE. Hard by, at street end; he will be here anon.
-  MRS. FORD. I am undone: the knight is here.
-  MRS. PAGE. Why, then, you are utterly sham'd, and he's but
+  MRS FORD. How near is he, Mistress Page?
+  MRS PAGE. Hard by, at street end; he will be here anon.
+  MRS FORD. I am undone: the knight is here.
+  MRS PAGE. Why, then, you are utterly sham'd, and he's but
     a dead man. What a woman are you! Away with him,
     away with him; better shame than murder.
-  MRS. FORD. Which way should he go? How should I bestow
+  MRS FORD. Which way should he go? How should I bestow
     him? Shall I put him into the basket again?
 
                   Enter FALSTAFF
 
   FALSTAFF. No, I'll come no more i' th' basket. May I not go
     out ere he come?
-  MRS. PAGE. Alas, three of Master Ford's brothers watch the
+  MRS PAGE. Alas, three of Master Ford's brothers watch the
     door with pistols, that none shall issue out; otherwise you
     might slip away ere he came. But what make you here?
   FALSTAFF. What shall I do? I'll creep up into the chimney.
-  MRS. FORD. There they always use to discharge their
+  MRS FORD. There they always use to discharge their
     birding-pieces.
-  MRS. PAGE. Creep into the kiln-hole.
+  MRS PAGE. Creep into the kiln-hole.
   FALSTAFF. Where is it?
-  MRS. FORD. He will seek there, on my word. Neither press,
+  MRS FORD. He will seek there, on my word. Neither press,
     coffer, chest, trunk, well, vault, but he hath an abstract for
     the remembrance of such places, and goes to them by his
     note. There is no hiding you in the house.
   FALSTAFF. I'll go out then.
-  MRS. PAGE. If you go out in your own semblance, you die,
+  MRS PAGE. If you go out in your own semblance, you die,
     Sir John. Unless you go out disguis'd.
-  MRS. FORD. How might we disguise him?
-  MRS. PAGE. Alas the day, I know not! There is no woman's
+  MRS FORD. How might we disguise him?
+  MRS PAGE. Alas the day, I know not! There is no woman's
     gown big enough for him; otherwise he might put on a
     hat, a muffler, and a kerchief, and so escape.
   FALSTAFF. Good hearts, devise something; any extremity
     rather than a mischief.
-  MRS. FORD. My Maid's aunt, the fat woman of Brainford, has
+  MRS FORD. My Maid's aunt, the fat woman of Brainford, has
     a gown above.
-  MRS. PAGE. On my word, it will serve him; she's as big as he
+  MRS PAGE. On my word, it will serve him; she's as big as he
     is; and there's her thrumm'd hat, and her muffler too. Run
     up, Sir John.
-  MRS. FORD. Go, go, sweet Sir John. Mistress Page and I will
+  MRS FORD. Go, go, sweet Sir John. Mistress Page and I will
     look some linen for your head.
-  MRS. PAGE. Quick, quick; we'll come dress you straight. Put
+  MRS PAGE. Quick, quick; we'll come dress you straight. Put
     on the gown the while.                         Exit FALSTAFF
-  MRS. FORD. I would my husband would meet him in this
+  MRS FORD. I would my husband would meet him in this
     shape; he cannot abide the old woman of Brainford; he
     swears she's a witch, forbade her my house, and hath
     threat'ned to beat her.
-  MRS. PAGE. Heaven guide him to thy husband's cudgel; and
+  MRS PAGE. Heaven guide him to thy husband's cudgel; and
     the devil guide his cudgel afterwards!
-  MRS. FORD. But is my husband coming?
-  MRS. PAGE. Ay, in good sadness is he; and talks of the basket
+  MRS FORD. But is my husband coming?
+  MRS PAGE. Ay, in good sadness is he; and talks of the basket
     too, howsoever he hath had intelligence.
-  MRS. FORD. We'll try that; for I'll appoint my men to carry
+  MRS FORD. We'll try that; for I'll appoint my men to carry
     the basket again, to meet him at the door with it as they
     did last time.
-  MRS. PAGE. Nay, but he'll be here presently; let's go dress
+  MRS PAGE. Nay, but he'll be here presently; let's go dress
     him like the witch of Brainford.
-  MRS. FORD. I'll first direct my men what they shall do with
+  MRS FORD. I'll first direct my men what they shall do with
     the basket. Go up; I'll bring linen for him straight.   Exit
-  MRS. PAGE. Hang him, dishonest varlet! we cannot misuse
+  MRS PAGE. Hang him, dishonest varlet! we cannot misuse
     him enough.
     We'll leave a proof, by that which we will do,
     Wives may be merry and yet honest too.
     We do not act that often jest and laugh;
     'Tis old but true: Still swine eats all the draff.      Exit
 
-            Enter MISTRESS FORD, with two SERVANTS
+            Enter MRS FORD, with two FIRST SERVANT, SECOND SERVANT
 
-  MRS. FORD. Go, sirs, take the basket again on your shoulders;
+  MRS FORD. Go, sirs, take the basket again on your shoulders;
     your master is hard at door; if he bid you set it down, obey
     him; quickly, dispatch.                                 Exit
   FIRST SERVANT. Come, come, take it up.
   SECOND SERVANT. Pray heaven it be not full of knight again.
   FIRST SERVANT. I hope not; I had lief as bear so much lead.
 
-    Enter FORD, PAGE, SHALLOW, CAIUS, and SIR HUGH EVANS
+    Enter FORD, PAGE, SHALLOW, CAIUS, and EVANS
 
   FORD. Ay, but if it prove true, Master Page, have you any
     way then to unfool me again? Set down the basket, villain!
@@ -2292,29 +2289,29 @@ Enter FALSTAFF and MISTRESS FORD
   SHALLOW. Indeed, Master Ford, this is not well, indeed.
   FORD. So say I too, sir.
 
-                     Enter MISTRESS FORD
+                     Enter MRS FORD
 
     Come hither, Mistress Ford; Mistress Ford, the honest
     woman, the modest wife, the virtuous creature, that hath
     the jealous fool to her husband! I suspect without cause,
     Mistress, do I?
-  MRS. FORD. Heaven be my witness, you do, if you suspect
+  MRS FORD. Heaven be my witness, you do, if you suspect
     me in any dishonesty.
   FORD. Well said, brazen-face; hold it out. Come forth, sirrah.
                            [Pulling clothes out of the basket]
   PAGE. This passes!
-  MRS. FORD. Are you not asham'd? Let the clothes alone.
+  MRS FORD. Are you not asham'd? Let the clothes alone.
   FORD. I shall find you anon.
   EVANS. 'Tis unreasonable. Will you take up your wife's
     clothes? Come away.
   FORD. Empty the basket, I say.
-  MRS. FORD. Why, man, why?
+  MRS FORD. Why, man, why?
   FORD. Master Page, as I am a man, there was one convey'd
     out of my house yesterday in this basket. Why may not
     he be there again? In my house I am sure he is; my
     intelligence is true; my jealousy is reasonable.
     Pluck me out all the linen.
-  MRS. FORD. If you find a man there, he shall die a flea's
+  MRS FORD. If you find a man there, he shall die a flea's
     death.
   PAGE. Here's no man.
   SHALLOW. By my fidelity, this is not well, Master Ford; this
@@ -2328,10 +2325,10 @@ Enter FALSTAFF and MISTRESS FORD
     ever be your table sport; let them say of me 'As jealous as
     Ford, that search'd a hollow walnut for his wife's leman.'
     Satisfy me once more; once more search with me.
-  MRS. FORD. What, hoa, Mistress Page! Come you and the old
+  MRS FORD. What, hoa, Mistress Page! Come you and the old
     woman down; my husband will come into the chamber.
   FORD. Old woman? what old woman's that?
-  MRS. FORD. Why, it is my maid's aunt of Brainford.
+  MRS FORD. Why, it is my maid's aunt of Brainford.
   FORD. A witch, a quean, an old cozening quean! Have I not
     forbid her my house? She comes of errands, does she? We
     are simple men; we do not know what's brought to pass
@@ -2339,19 +2336,19 @@ Enter FALSTAFF and MISTRESS FORD
     charms, by spells, by th' figure, and such daub'ry as this
     is, beyond our element. We know nothing. Come down, you
     witch, you hag you; come down, I say.
-  MRS. FORD. Nay, good sweet husband! Good gentlemen, let
+  MRS FORD. Nay, good sweet husband! Good gentlemen, let
     him not strike the old woman.
 
-   Enter FALSTAFF in woman's clothes, and MISTRESS PAGE
+   Enter FALSTAFF in woman's clothes, and MRS PAGE
 
-  MRS. PAGE. Come, Mother Prat; come. give me your hand.
+  MRS PAGE. Come, Mother Prat; come. give me your hand.
   FORD. I'll prat her.  [Beating him]  Out of my door, you
     witch, you hag, you. baggage, you polecat, you ronyon!
     Out, out! I'll conjure you, I'll fortune-tell you.
                                                    Exit FALSTAFF
-  MRS. PAGE. Are you not asham'd? I think you have kill'd the
+  MRS PAGE. Are you not asham'd? I think you have kill'd the
     poor woman.
-  MRS. FORD. Nay, he will do it. 'Tis a goodly credit for you.
+  MRS FORD. Nay, he will do it. 'Tis a goodly credit for you.
   FORD. Hang her, witch!
   EVANS. By yea and no, I think the oman is a witch indeed; I
     like not when a oman has a great peard; I spy a great peard
@@ -2360,29 +2357,29 @@ Enter FALSTAFF and MISTRESS FORD
     see but the issue of my jealousy; if I cry out thus upon no
     trail, never trust me when I open again.
   PAGE. Let's obey his humour a little further. Come,
-    gentlemen.            Exeunt all but MRS. FORD and MRS. PAGE
-  MRS. PAGE. Trust me, he beat him most pitifully.
-  MRS. FORD. Nay, by th' mass, that he did not; he beat him
+    gentlemen.            Exeunt all but MRS FORD and MRS PAGE
+  MRS PAGE. Trust me, he beat him most pitifully.
+  MRS FORD. Nay, by th' mass, that he did not; he beat him
     most unpitifully methought.
-  MRS. PAGE. I'll have the cudgel hallow'd and hung o'er the
+  MRS PAGE. I'll have the cudgel hallow'd and hung o'er the
     altar; it hath done meritorious service.
-  MRS. FORD. What think you? May we, with the warrant of
+  MRS FORD. What think you? May we, with the warrant of
     womanhood and the witness of a good conscience, pursue
     him with any further revenge?
-  MRS. PAGE. The spirit of wantonness is sure scar'd out of
+  MRS PAGE. The spirit of wantonness is sure scar'd out of
     him; if the devil have him not in fee-simple, with fine and
     recovery, he will never, I think, in the way of waste,
     attempt us again.
-  MRS. FORD. Shall we tell our husbands how we have serv'd
+  MRS FORD. Shall we tell our husbands how we have serv'd
     him?
-  MRS. PAGE. Yes, by all means; if it be but to scrape the
+  MRS PAGE. Yes, by all means; if it be but to scrape the
     figures out of your husband's brains. If they can find in their
     hearts the poor unvirtuous fat knight shall be any further
     afflicted, we two will still be the ministers.
-  MRS. FORD. I'll warrant they'll have him publicly sham'd;
+  MRS FORD. I'll warrant they'll have him publicly sham'd;
     and methinks there would be no period to the jest, should
     he not be publicly sham'd.
-  MRS. PAGE. Come, to the forge with it then; shape it. I
+  MRS PAGE. Come, to the forge with it then; shape it. I
     would not have things cool.                           Exeunt
 
 
@@ -2413,12 +2410,12 @@ SCENE 4
 
 FORD'S house
 
-Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS
+Enter PAGE, FORD, MRS PAGE, MRS FORD, and EVANS
 
   EVANS. 'Tis one of the best discretions of a oman as ever
     did look upon.
   PAGE. And did he send you both these letters at an instant?
-  MRS. PAGE. Within a quarter of an hour.
+  MRS PAGE. Within a quarter of an hour.
   FORD. Pardon me, wife. Henceforth, do what thou wilt;
     I rather will suspect the sun with cold
     Than thee with wantonness. Now doth thy honour stand,
@@ -2438,9 +2435,9 @@ Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS
     should be terrors in him, that he should not come;
     methinks his flesh is punish'd; he shall have no desires.
   PAGE. So think I too.
-  MRS. FORD. Devise but how you'll use him when he comes,
+  MRS FORD. Devise but how you'll use him when he comes,
     And let us two devise to bring him thither.
-  MRS. PAGE. There is an old tale goes that Heme the Hunter,
+  MRS PAGE. There is an old tale goes that Heme the Hunter,
     Sometime a keeper here in Windsor Forest,
     Doth all the winter-time, at still midnight,
     Walk round about an oak, with great ragg'd horns;
@@ -2454,13 +2451,13 @@ Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS
   PAGE. Why yet there want not many that do fear
     In deep of night to walk by this Herne's oak.
     But what of this?
-  MRS. FORD. Marry, this is our device-
+  MRS FORD. Marry, this is our device-
     That Falstaff at that oak shall meet with us,
     Disguis'd, like Heme, with huge horns on his head.
   PAGE. Well, let it not be doubted but he'll come,
     And in this shape. When you have brought him thither,
     What shall be done with him? What is your plot?
-  MRS. PAGE. That likewise have we thought upon, and
+  MRS PAGE. That likewise have we thought upon, and
     thus:
     Nan Page my daughter, and my little son,
     And three or four more of their growth, we'll dress
@@ -2476,10 +2473,10 @@ Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS
     And ask him why, that hour of fairy revel,
     In their so sacred paths he dares to tread
     In shape profane.
-  MRS. FORD. And till he tell the truth,
+  MRS FORD. And till he tell the truth,
     Let the supposed fairies pinch him sound,
     And burn him with their tapers.
-  MRS. PAGE. The truth being known,
+  MRS PAGE. The truth being known,
     We'll all present ourselves; dis-horn the spirit,
     And mock him home to Windsor.
   FORD. The children must
@@ -2488,20 +2485,20 @@ Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS
     be like a jack-an-apes also, to burn the knight with my
     taber.
   FORD. That will be excellent. I'll go buy them vizards.
-  MRS. PAGE. My Nan shall be the Queen of all the Fairies,
+  MRS PAGE. My Nan shall be the Queen of all the Fairies,
     Finely attired in a robe of white.
   PAGE. That silk will I go buy.  [Aside]  And in that time
     Shall Master Slender steal my Nan away,
     And marry her at Eton.-Go, send to Falstaff straight.
   FORD. Nay, I'll to him again, in name of Brook;
     He'll tell me all his purpose. Sure, he'll come.
-  MRS. PAGE. Fear not you that. Go get us properties
+  MRS PAGE. Fear not you that. Go get us properties
     And tricking for our fairies.
   EVANS. Let us about it. It is admirable pleasures, and fery
     honest knaveries.               Exeunt PAGE, FORD, and EVANS
-  MRS. PAGE. Go, Mistress Ford.
+  MRS PAGE. Go, Mistress Ford.
     Send Quickly to Sir John to know his mind.
-                                                  Exit MRS. FORD
+                                                  Exit MRS FORD
     I'll to the Doctor; he hath my good will,
     And none but he, to marry with Nan Page.
     That Slender, though well landed, is an idiot;
@@ -2589,7 +2586,7 @@ Enter HOST and SIMPLE
   HOST. They are gone but to meet the Duke, villain; do not
     say they be fled. Germans are honest men.
 
-                 Enter SIR HUGH EVANS
+                 Enter EVANS
 
   EVANS. Where is mine host?
   HOST. What is the matter, sir?
@@ -2601,7 +2598,7 @@ Enter HOST and SIMPLE
     vlouting-stogs, and 'tis not convenient you should be
     cozened. Fare you well.                                 Exit
 
-                  Enter DOCTOR CAIUS
+                  Enter CAIUS
 
   CAIUS. Vere is mine host de Jarteer?
   HOST. Here, Master Doctor, in perplexity and doubtful
@@ -2624,7 +2621,7 @@ Enter HOST and SIMPLE
     if my wind were but long enough to say my prayers,
     would repent.
 
-                Enter MISTRESS QUICKLY
+                Enter QUICKLY
 
     Now! whence come you?
   QUICKLY. From the two parties, forsooth.
@@ -2724,7 +2721,7 @@ ACT V. SCENE 1.
 
 The Garter Inn
 
-Enter FALSTAFF and MISTRESS QUICKLY
+Enter FALSTAFF and QUICKLY
 
   FALSTAFF. Prithee, no more prattling; go. I'll, hold. This is
     the third time; I hope good luck lies in odd numbers.
@@ -2733,7 +2730,7 @@ Enter FALSTAFF and MISTRESS QUICKLY
   QUICKLY. I'll provide you a chain, and I'll do what I can to
     get you a pair of horns.
   FALSTAFF. Away, I say; time wears; hold up your head, and
-    mince.                                     Exit MRS. QUICKLY
+    mince.                                     Exit QUICKLY
 
                  Enter FORD disguised
 
@@ -2787,31 +2784,31 @@ SCENE 3.
 
 A street leading to the Park
 
-Enter MISTRESS PAGE, MISTRESS FORD, and DOCTOR CAIUS
+Enter MRS PAGE, MRS FORD, and CAIUS
 
-  MRS. PAGE. Master Doctor, my daughter is in green; when
+  MRS PAGE. Master Doctor, my daughter is in green; when
     you see your time, take her by the hand, away with her to
     the deanery, and dispatch it quickly. Go before into the
     Park; we two must go together.
   CAIUS. I know vat I have to do; adieu.
-  MRS. PAGE. Fare you well, sir.  [Exit CAIUS]  My husband
+  MRS PAGE. Fare you well, sir.  [Exit CAIUS]  My husband
     will not rejoice so much at the abuse of Falstaff as he will
     chafe at the doctor's marrying my daughter; but 'tis no
     matter; better a little chiding than a great deal of
     heartbreak.
-  MRS. FORD. Where is Nan now, and her troop of fairies, and
+  MRS FORD. Where is Nan now, and her troop of fairies, and
     the Welsh devil, Hugh?
-  MRS. PAGE. They are all couch'd in a pit hard by Heme's
+  MRS PAGE. They are all couch'd in a pit hard by Heme's
     oak, with obscur'd lights; which, at the very instant of
     Falstaff's and our meeting, they will at once display to the
     night.
-  MRS. FORD. That cannot choose but amaze him.
-  MRS. PAGE. If he be not amaz'd, he will be mock'd; if he be
+  MRS FORD. That cannot choose but amaze him.
+  MRS PAGE. If he be not amaz'd, he will be mock'd; if he be
     amaz'd, he will every way be mock'd.
-  MRS. FORD. We'll betray him finely.
-  MRS. PAGE. Against such lewdsters and their lechery,
+  MRS FORD. We'll betray him finely.
+  MRS PAGE. Against such lewdsters and their lechery,
     Those that betray them do no treachery.
-  MRS. FORD. The hour draws on. To the oak, to the oak!
+  MRS FORD. The hour draws on. To the oak, to the oak!
                                                           Exeunt
 
 
@@ -2821,7 +2818,7 @@ SCENE 4.
 
 Windsor Park
 
-Enter SIR HUGH EVANS like a satyr, with OTHERS as fairies
+Enter EVANS like a satyr, with OTHERS as fairies
 
   EVANS. Trib, trib, fairies; come; and remember your parts.
     Be pold, I pray you; follow me into the pit; and when I
@@ -2852,32 +2849,30 @@ Enter FALSTAFF disguised as HERNE
     rut-time, Jove, or who can blame me to piss my tallow?
     Who comes here? my doe?
 
-        Enter MISTRESS FORD and MISTRESS PAGE
+        Enter MRS FORD and MRS PAGE
 
-  MRS. FORD. Sir John! Art thou there, my deer, my male deer.
+  MRS FORD. Sir John! Art thou there, my deer, my male deer.
   FALSTAFF. My doe with the black scut! Let the sky rain
     potatoes; let it thunder to the tune of Greensleeves, hail
     kissing-comfits, and snow eringoes; let there come a tempest
     of provocation, I will shelter me here.      [Embracing her]
-  MRS. FORD. Mistress Page is come with me, sweetheart.
+  MRS FORD. Mistress Page is come with me, sweetheart.
   FALSTAFF. Divide me like a brib'd buck, each a haunch; I
     will keep my sides to myself, my shoulders for the fellow
     of this walk, and my horns I bequeath your husbands. Am
     I a woodman, ha? Speak I like Heme the Hunter? Why,
     now is Cupid a child of conscience; he makes restitution.
     As I am a true spirit, welcome!           [A noise of horns]
-  MRS. PAGE. Alas, what noise?
-  MRS. FORD. Heaven forgive our sins!
+  MRS PAGE. Alas, what noise?
+  MRS FORD. Heaven forgive our sins!
   FALSTAFF. What should this be?
-  MRS. FORD. } Away, away.
-  MRS. PAGE. } Away, away.                        [They run off]
+  MRS FORD. } Away, away.
+  MRS PAGE. } Away, away.                        [They run off]
   FALSTAFF. I think the devil will not have me damn'd, lest the
     oil that's in me should set hell on fire; he would never else
     cross me thus.
 
-        Enter SIR HUGH EVANS like a satyr, ANNE PAGE as
-      a fairy, and OTHERS as the Fairy Queen, fairies, and
-               Hobgoblin; all with tapers
+        Enter EVANS like a satyr, ANNE PAGE as      a fairy, and OTHERS as the Fairy Queen, fairies, and              Hobgoblin; all with tapers
 
   FAIRY QUEEN. Fairies, black, grey, green, and white,
     You moonshine revellers, and shades of night,
@@ -2957,12 +2952,11 @@ Enter FALSTAFF disguised as HERNE
         of hunting is heard within. All the fairies run away.
         FALSTAFF pulls off his buck's head, and rises
 
-       Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and
-                        SIR HUGH EVANS
+       Enter PAGE, FORD, MRS PAGE, MRS FORD, and EVANS
 
   PAGE. Nay, do not fly; I think we have watch'd you now.
     Will none but Heme the Hunter serve your turn?
-  MRS. PAGE. I pray you, come, hold up the jest no higher.
+  MRS PAGE. I pray you, come, hold up the jest no higher.
     Now, good Sir John, how like you Windsor wives?
     See you these, husband? Do not these fair yokes
     Become the forest better than the town?
@@ -2972,7 +2966,7 @@ Enter FALSTAFF disguised as HERNE
     Ford's but his buck-basket, his cudgel, and twenty pounds
     of money, which must be paid to Master Brook; his horses
     are arrested for it, Master Brook.
-  MRS. FORD. Sir John, we have had ill luck; we could never
+  MRS FORD. Sir John, we have had ill luck; we could never
     meet. I will never take you for my love again; but I will
     always count you my deer.
   FALSTAFF. I do begin to perceive that I am made an ass.
@@ -3000,12 +2994,12 @@ Enter FALSTAFF disguised as HERNE
   FALSTAFF. 'Seese' and 'putter'! Have I liv'd to stand at the
     taunt of one that makes fritters of English? This is enough
     to be the decay of lust and late-walking through the realm.
-  MRS. PAGE. Why, Sir John, do you think, though we would
+  MRS PAGE. Why, Sir John, do you think, though we would
     have thrust virtue out of our hearts by the head and
     shoulders, and have given ourselves without scruple to hell,
     that ever the devil could have made you our delight?
   FORD. What, a hodge-pudding? a bag of flax?
-  MRS. PAGE. A puff'd man?
+  MRS PAGE. A puff'd man?
   PAGE. Old, cold, wither'd, and of intolerable entrails?
   FORD. And one that is as slanderous as Satan?
   PAGE. And as poor as Job?
@@ -3025,7 +3019,7 @@ Enter FALSTAFF disguised as HERNE
     tonight at my house, where I will desire thee to laugh at my
     wife, that now laughs at thee. Tell her Master Slender hath
     married her daughter.
-  MRS. PAGE.  [Aside]  Doctors doubt that; if Anne Page be
+  MRS PAGE.  [Aside]  Doctors doubt that; if Anne Page be
     my daughter, she is, by this, Doctor Caius' wife.
 
                         Enter SLENDER
@@ -3049,7 +3043,7 @@ Enter FALSTAFF disguised as HERNE
   SLENDER. I went to her in white and cried 'mum' and she
     cried 'budget' as Anne and I had appointed; and yet it was
     not Anne, but a postmaster's boy.
-  MRS. PAGE. Good George, be not angry. I knew of your
+  MRS PAGE. Good George, be not angry. I knew of your
     purpose; turn'd my daughter into green; and, indeed, she
     is now with the Doctor at the dean'ry, and there married.
 
@@ -3058,19 +3052,19 @@ Enter FALSTAFF disguised as HERNE
   CAIUS. Vere is Mistress Page? By gar, I am cozened; I ha'
     married un garcon, a boy; un paysan, by gar, a boy; it is
     not Anne Page; by gar, I am cozened.
-  MRS. PAGE. Why, did you take her in green?
+  MRS PAGE. Why, did you take her in green?
   CAIUS. Ay, be gar, and 'tis a boy; be gar, I'll raise all
     Windsor.                                          Exit CAIUS
   FORD. This is strange. Who hath got the right Anne?
   PAGE. My heart misgives me; here comes Master Fenton.
 
-                  Enter FENTON and ANNE PAGE
+                  Enter FENTON and ANNE
 
     How now, Master Fenton!
   ANNE. Pardon, good father. Good my mother, pardon.
   PAGE. Now, Mistress, how chance you went not with Master
     Slender?
-  MRS. PAGE. Why went you not with Master Doctor, maid?
+  MRS PAGE. Why went you not with Master Doctor, maid?
   FENTON. You do amaze her. Hear the truth of it.
     You would have married her most shamefully,
     Where there was no proportion held in love.
@@ -3090,7 +3084,7 @@ Enter FALSTAFF disguised as HERNE
   PAGE. Well, what remedy? Fenton, heaven give thee joy!
     What cannot be eschew'd must be embrac'd.
   FALSTAFF. When night-dogs run, all sorts of deer are chas'd.
-  MRS. PAGE. Well, I will muse no further. Master Fenton,
+  MRS PAGE. Well, I will muse no further. Master Fenton,
     Heaven give you many, many merry days!
     Good husband, let us every one go home,
     And laugh this sport o'er by a country fire;

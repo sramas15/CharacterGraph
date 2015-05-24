@@ -47,7 +47,7 @@ SCENE: Venice and Cyprus
 ACT I. SCENE I.
 Venice. A street.
 
-Enter Roderigo and Iago.
+Enter RODERIGO, IAGO.
 
   RODERIGO. Tush, never tell me! I take it much unkindly
     That thou, Iago, who hast had my purse
@@ -134,7 +134,7 @@ Enter Roderigo and Iago.
     Look to your house, your daughter, and your bags!
     Thieves! Thieves!
 
-                Brabantio appears above, at a window.
+               Enger BRABANTIO Brabantio appears above, at a window.
 
   BRABANTIO. What is the reason of this terrible summons?
     What is the matter there?
@@ -204,7 +204,7 @@ Enter Roderigo and Iago.
     Give me a taper! Call up all my people!
     This accident is not unlike my dream;
     Belief of it oppresses me already.
-    Light, I say, light!                                  Exit above.
+    Light, I say, light!                                  Exit.
   IAGO.                  Farewell, for I must leave you.
     It seems not meet, nor wholesome to my place,
     To be produced- as, if I stay, I shall-
@@ -222,8 +222,7 @@ Enter Roderigo and Iago.
     Lead to the Sagittary the raised search,
     And there will I be with him. So farewell.                  Exit.
 
-            Enter, below, Brabantio, in his nightgown, and
-                        Servants with torches.
+            Enter, below, BRABANTIO Brabantio, in his nightgown, and Servants with torches.
 
   BRABANTIO. It is too true an evil: gone she is,
     And what's to come of my despised time
@@ -257,7 +256,7 @@ Enter Roderigo and Iago.
 SCENE II.
 Another street.
 
-Enter Othello, Iago, and Attendants with torches.
+Enter OTHELLO, IAGO, Othello, Iago, and Attendants with torches.
 
   IAGO. Though in the trade of war I have slain men,
     Yet do I hold it very stuff o' the conscience
@@ -296,7 +295,7 @@ Enter Othello, Iago, and Attendants with torches.
     Shall manifest me rightly. Is it they?
   IAGO. By Janus, I think no.
 
-           Enter Cassio and certain Officers with torches.
+           Enter CASSIO, Cassio and certain Officers with torches.
 
   OTHELLO. The servants of the Duke? And my lieutenant?
     The goodness of the night upon you, friends!
@@ -324,7 +323,7 @@ Enter Othello, Iago, and Attendants with torches.
   IAGO.                        He's married.
   CASSIO.                                    To who?
 
-                          Enter Othello.
+                          Enter OTHELLO, Othello.
 
   IAGO. Marry, to- Come, captain, will you go?
   OTHELLO.                                     Have with you.
@@ -332,8 +331,7 @@ Enter Othello, Iago, and Attendants with torches.
   IAGO. It is Brabantio. General, be advised,
     He comes to bad intent.
 
-         Enter Brabantio, Roderigo, and Officers with torches
-                             and weapons.
+         Enter BRABANTIO, RODERIGO, FIRST OFFICER, and weapons.
 
   OTHELLO.                  Holla! Stand there!
   RODERIGO. Signior, it is the Moor.
@@ -391,8 +389,7 @@ Enter Othello, Iago, and Attendants with torches.
 
 
 SCENE III.
-A council chamber. The Duke and Senators sitting at a table;
-Officers attending.
+A council chamber. Enter DUKE, FIRST SENATOR, SECOND SENATOR, The Duke and Senators sitting at a table; Officers attending.
 
   DUKE. There is no composition in these news
     That gives them credit.
@@ -411,7 +408,7 @@ Officers attending.
   SAILOR. [Within.] What, ho! What, ho! What, ho!
   FIRST OFFICER. A messenger from the galleys.
 
-                            Enter Sailor.
+                            Enter SAILOR.
 
   DUKE.                                Now, what's the business?
   SAILOR. The Turkish preparation makes for Rhodes,
@@ -435,7 +432,7 @@ Officers attending.
   DUKE. Nay, in all confidence, he's not for Rhodes.
   FIRST OFFICER. Here is more news.
 
-                          Enter a Messenger.
+                          Enter a MESSENGER, Messenger.
 
   MESSENGER. The Ottomites, reverend and gracious,
     Steering with due course toward the isle of Rhodes,
@@ -453,7 +450,7 @@ Officers attending.
   DUKE. Write from us to him, post-post-haste dispatch.
   FIRST SENATOR. Here comes Brabantio and the valiant Moor.
 
-       Enter Brabantio, Othello, Iago, Roderigo, and Officers.
+       Enter BRABANTIO, OTHELLO, IAGO, RODERIGO .
 
   DUKE. Valiant Othello, we must straight employ you
     Against the general enemy Ottoman.
@@ -538,7 +535,7 @@ Officers attending.
     Even fall upon my life.
   DUKE.                     Fetch Desdemona hither.
   OTHELLO. Ancient, conduct them; you best know the place.
-                                          Exeunt Iago and Attendants.
+                                          Exeunt IAGO and Attendants.
     And till she come, as truly as to heaven
     I do confess the vices of my blood,
     So justly to your grave ears I'll present
@@ -589,7 +586,7 @@ Officers attending.
     This only is the witchcraft I have used.
     Here comes the lady; let her witness it.
 
-                Enter Desdemona, Iago, and Attendants.
+                Enter DESDEMONA, IAGO, Desdemona, Iago, and Attendants.
 
   DUKE. I think this tale would win my daughter too.
     Good Brabantio,
@@ -723,7 +720,7 @@ Officers attending.
   FIRST SENATOR. Adieu, brave Moor, use Desdemona well.
   BRABANTIO. Look to her, Moor, if thou hast eyes to see;
     She has deceived her father, and may thee.
-                                 Exeunt Duke, Senators, and Officers.
+                                 Exeunt DUKE, FIRST SENATOR, SECOND SENATOR, Duke, Senators, and Officers.
   OTHELLO. My life upon her faith! Honest Iago,
     My Desdemona must I leave to thee.
     I prithee, let thy wife attend on her,
@@ -731,7 +728,7 @@ Officers attending.
     Come, Desdemona, I have but an hour
     Of love, of worldly matters and direction,
     To spend with thee. We must obey the time.
-                                        Exeunt Othello and Desdemona.
+                                        Exeunt OTHELLO, DESDEMONA, Othello and Desdemona.
   RODERIGO. Iago!
   IAGO. What say'st thou, noble heart?
   RODERIGO. What will I do, thinkest thou?
@@ -833,7 +830,7 @@ END_ACT
 ACT II. SCENE I.
 A seaport in Cyprus. An open place near the quay.
 
-Enter Montano and two Gentlemen.
+Enter MONTANO, FIRST GENTLEMAN, SECOND GENTEMAN.
 
   MONTANO. What from the cape can you discern at sea?
   FIRST GENTLEMAN. Nothing at all. It is a high-wrought flood;
@@ -856,7 +853,7 @@ Enter Montano and two Gentlemen.
     Be not enshelter'd and embay'd, they are drown'd;
     It is impossible to bear it out.
 
-                       Enter a third Gentleman.
+                       Enter a THIRD GENTLEMAN.
 
   THIRD GENTLEMAN. News, lads! Our wars are done.
     The desperate tempest hath so bang'd the Turks,
@@ -885,7 +882,7 @@ Enter Montano and two Gentlemen.
     For every minute is expectancy
     Of more arrivance.
 
-                            Enter Cassio.
+                            Enter CASSIO.
 
   CASSIO. Thanks, you the valiant of this warlike isle,
     That so approve the Moor! O, let the heavens
@@ -898,7 +895,7 @@ Enter Montano and two Gentlemen.
     Stand in bold cure.
                               A cry within, "A sail, a sail, a sail!"
 
-                      Enter a fourth Gentleman.
+                      Enter a FOURTH GENTLEMAN.
 
                         What noise?
   FOURTH GENTLEMAN. The town is empty; on the brow o' the sea
@@ -917,7 +914,7 @@ Enter Montano and two Gentlemen.
     And in the essential vesture of creation
     Does tire the ingener.
 
-                      Enter second Gentleman.
+                      Enter SECOND GENTLEMAN.
 
                            How now! who has put in?
   SECOND GENTLEMAN. 'Tis one Iago, ancient to the general.
@@ -939,7 +936,7 @@ Enter Montano and two Gentlemen.
     Give renew'd fire to our extincted spirits,
     And bring all Cyprus comfort.
 
-       Enter Desdemona, Emilia Iago, Roderigo, and Attendants.
+       Enter DESDEMONA, EMILIA, IAGO, RODERIGO
 
                                   O, behold,
     The riches of the ship is come on shore!
@@ -958,7 +955,7 @@ Enter Montano and two Gentlemen.
   SECOND GENTLEMAN. They give their greeting to the citadel;
     This likewise is a friend.
   CASSIO.                      See for the news.
-                                                      Exit Gentleman.
+                                                      Exit FIRST GENTLEMAN, SECOND GENTLEMAN, THIRD GENTLEMAN, FOURTH GENTLEMAN.
     Good ancient, you are welcome. [To Emilia.] Welcome, mistress.
     Let it not gall your patience, good Iago,
     That I extend my manners; 'tis my breeding
@@ -1045,7 +1042,7 @@ Enter Montano and two Gentlemen.
   DESDEMONA. Let's meet him and receive him.
   CASSIO. Lo, where he comes!
 
-                    Enter Othello and Attendants.
+                    Enter OTHELLO, Othello and Attendants.
 
   OTHELLO. O my fair warrior!
   DESDEMONA.                  My dear Othello!
@@ -1083,7 +1080,7 @@ Enter Montano and two Gentlemen.
     He is a good one, and his worthiness
     Does challenge much respect. Come, Desdemona,
     Once more well met at Cyprus.
-                                    Exeunt all but Iago and Roderigo.
+                                    Exeunt all but IAGO, RODERIGO, Iago and Roderigo.
   IAGO. Do thou meet me presently at the harbor. Come hither. If thou
     be'st valiant- as they say base men being in love have then a
     nobility in their natures more than is native to them- list me.
@@ -1179,7 +1176,7 @@ Enter Montano and two Gentlemen.
 SCENE II.
 A street.
 
-Enter a Herald with a proclamation; people following.
+Enter a HERALD herald with a proclamation; people following.
 
   HERALD. It is Othello's pleasure, our noble and valiant general,
     that upon certain tidings now arrived, importing the mere
@@ -1198,7 +1195,7 @@ Enter a Herald with a proclamation; people following.
 SCENE III.
 A hall in the castle.
 
-Enter Othello, Desdemona, Cassio, and Attendants.
+Enter OTHELLO, DESDEMONA, CASSIO, Othello, Desdemona, Cassio, and Attendants.
 
   OTHELLO. Good Michael, look you to the guard tonight.
     Let's teach ourselves that honorable stop,
@@ -1212,9 +1209,9 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     The purchase made, the fruits are to ensue;
     That profit's yet to come 'tween me and you.
     Good night.
-                           Exeunt Othello, Desdemona, and Attendants.
+                           Exeunt OTHELLO, DESDEMONA, Othello, Desdemona, and Attendants.
 
-                             Enter Iago.
+                             Enter IAGO.
 
   CASSIO. Welcome, Iago; we must to the watch.
   IAGO. Not this hour, lieutenant; 'tis not yet ten o' the clock. Our
@@ -1261,7 +1258,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     If consequence do but approve my dream,
     My boat sails freely, both with wind and stream.
 
-           Enter Cassio; with him Montano and Gentlemen;
+           Enter CASSIO, MONTANO, Cassio; with him Montano and Gentlemen;
                     Servants following with wine.
 
   CASSIO. 'Fore God, they have given me a rouse already.
@@ -1336,10 +1333,10 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     Prizes the virtue that appears in Cassio
     And looks not on his evils. Is not this true?
 
-                           Enter Roderigo.
+                           Enter RODERIGO, Roderigo.
 
   IAGO. [Aside to him.] How now, Roderigo!
-    I pray you, after the lieutenant; go.              Exit Roderigo.
+    I pray you, after the lieutenant; go.              Exit RODERIGO, Roderigo.
   MONTANO. And 'tis great pity that the noble Moor
     Should hazard such a place as his own second
     With one of an ingraft infirmity.
@@ -1350,7 +1347,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     To cure him of this evil- But, hark! What noise?
                                           A cry within, "Help, help!"
 
-                Enter Cassio, driving in Roderigo.
+                Enter CASSIO, RODERIGO Cassio, driving in Roderigo.
 
   CASSIO. 'Zounds! You rogue! You rascal!
   MONTANO. What's the matter, lieutenant?
@@ -1363,7 +1360,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
   MONTANO. Come, come, you're drunk.
   CASSIO. Drunk?                                          They fight.
   IAGO. [Aside to Roderigo.] Away, I say; go out and cry a mutiny.
-                                                       Exit Roderigo.
+                                                       Exit RODERIGO, Roderigo.
     Nay, good lieutenant! God's will, gentlemen!
     Help, ho!- Lieutenant- sir- Montano- sir-
     Help, masters!- Here's a goodly watch indeed!
@@ -1372,7 +1369,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     The town will rise. God's will, lieutenant, hold!
     You will be shamed forever.
 
-                   Enter Othello and Attendants.
+                   Enter OTHELLO, Othello and Attendants.
 
   OTHELLO.                      What is the matter here?
   MONTANO. 'Zounds, I bleed still; I am hurt to the death.
@@ -1466,19 +1463,19 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     Making it light to Cassio. Cassio, I love thee,
     But never more be officer of mine.
 
-                    Enter Desdemona, attended.
+                    Enter DESDEMONA, Desdemona, attended.
 
     Look, if my gentle love be not raised up!
     I'll make thee an example.
   DESDEMONA.                   What's the matter?
   OTHELLO. All's well now, sweeting; come away to bed.
     Sir, for your hurts, myself will be your surgeon.
-    Lead him off.                             Exit Montano, attended.
+    Lead him off.                             Exit MONTANO, Montano, attended.
     Iago, look with care about the town,
     And silence those whom this vile brawl distracted.
     Come, Desdemona, 'tis the soldiers' life.
     To have their balmy slumbers waked with strife.
-                                      Exeunt all but Iago and Cassio.
+                                      Exeunt all but IAGO, CASSIO, Iago and Cassio.
   IAGO. What, are you hurt, lieutenant?
   CASSIO. Ay, past all surgery.
   IAGO. Marry, heaven forbid!
@@ -1574,9 +1571,9 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     And out of her own goodness make the net
     That shall enmesh them all.
 
-                           Enter Roderigo.
+                           Enter RODERIGO, Roderigo.
 
-                                How now, Roderigo!
+    How now, Roderigo!
   RODERIGO. I do follow here in the chase, not like a hound that
     hunts, but one that fills up the cry. My money is almost spent; I
     have been tonight exceedingly well cudgeled; and I think the
@@ -1595,7 +1592,7 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     Pleasure and action make the hours seem short.
     Retire thee; go where thou art billeted.
     Away, I say. Thou shalt know more hereafter.
-    Nay, get thee gone. [Exit Roderigo.] Two things are to be done:
+    Nay, get thee gone. Two things are to be done: Exit Roderigo.
     My wife must move for Cassio to her mistress-
     I'll set her on;
     Myself the while to draw the Moor apart,
@@ -1613,13 +1610,13 @@ END_ACT
 ACT III. SCENE I.
 Before the castle.
 
-Enter Cassio and some Musicians.
+Enter CASSIO, FIRST MUSICIAN, Cassio and some Musicians.
 
   CASSIO. Masters, play here, I will content your pains; Something
     that's brief; and bid "Good morrow, general."
     Music.
 
-                             Enter Clown.
+                             Enter CLOWN, Clown.
 
   CLOWN. Why, masters, have your instruments been in Naples, that
     they speak i' the nose thus?
@@ -1638,7 +1635,7 @@ Enter Cassio and some Musicians.
     care.
   FIRST MUSICIAN. We have none such, sir.
   CLOWN. Then put up your pipes in your bag, for I'll away.
-    Go, vanish into air, away!                      Exeunt Musicians.
+    Go, vanish into air, away!                      Exeunt FIRST MUSICIAN Musicians.
   CASSIO. Dost thou hear, my honest friend?
   CLOWN. No, I hear not your honest friend; I hear you.
   CASSIO. Prithee, keep up thy quillets. There's a poor piece of gold
@@ -1647,9 +1644,9 @@ Enter Cassio and some Musicians.
     of speech. Wilt thou do this?
   CLOWN. She is stirring, sir. If she will stir hither, I shall seem
     to notify unto her.
-  CASSIO. Do, good my friend.                             Exit Clown.
+  CASSIO. Do, good my friend.                             Exit CLOWN, Clown.
 
-                             Enter Iago.
+                             Enter IAGO, Iago.
 
                               In happy time, Iago.
   IAGO. You have not been abed, then?
@@ -1662,10 +1659,10 @@ Enter Cassio and some Musicians.
     And I'll devise a mean to draw the Moor
     Out of the way, that your converse and business
     May be more free.
-  CASSIO. I humbly thank you for't. [Exit Iago.] I never knew
+  CASSIO. I humbly thank you for't. I never knew Exit Iago.
     A Florentine more kind and honest.
 
-                            Enter Emilia.
+                            Enter EMILIA, Emilia.
 
   EMILIA. Good morrow, good lieutenant. I am sorry
     For your displeasure, but all will sure be well.
@@ -1693,7 +1690,7 @@ Enter Cassio and some Musicians.
 SCENE II.
 A room in the castle.
 
-Enter Othello, Iago, and Gentlemen.
+Enter OTHELLO, IAGO, GENTLEMEN. Othello, Iago, and Gentlemen.
 
   OTHELLO. These letters give, Iago, to the pilot,
     And by him do my duties to the Senate.
@@ -1709,7 +1706,7 @@ Enter Othello, Iago, and Gentlemen.
 SCENE III.
 The garden of the castle.
 
-Enter Desdemona, Cassio, and Emilia.
+Enter DESDEMONA, CASSIO, EMILIA, Desdemona, Cassio, and Emilia.
 
   DESDEMONA. Be thou assured, good Cassio, I will do
     All my abilities in thy behalf.
@@ -1742,14 +1739,14 @@ Enter Desdemona, Cassio, and Emilia.
     For thy solicitor shall rather die
     Than give thy cause away.
 
-                Enter Othello and Iago, at a distance.
+                Enter OTHELLO, IAGO, Othello and Iago, at a distance.
 
   EMILIA. Madam, here comes my lord.
   CASSIO. Madam, I'll take my leave.
   DESDEMONA. Nay, stay and hear me speak.
   CASSIO. Madam, not now. I am very ill at ease,
     Unfit for mine own purposes.
-  DESDEMONA. Well, do your discretion.                   Exit Cassio.
+  DESDEMONA. Well, do your discretion.                   Exit CASSIO, Cassio.
   IAGO. Ha! I like not that.
   OTHELLO. What dost thou say?
   IAGO. Nothing, my lord; or if- I know not what.
@@ -1813,7 +1810,7 @@ Enter Desdemona, Cassio, and Emilia.
   OTHELLO. Farewell, my Desdemona; I'll come to thee straight.
   DESDEMONA. Emilia, come. Be as your fancies teach you;
     Whate'er you be, I am obedient.
-                                         Exeunt Desdemona and Emilia.
+                                         Exeunt DESDEMONA, EMILIA, Desdemona and Emilia.
   OTHELLO. Excellent wretch! Perdition catch my soul,
     But I do love thee! and when I love thee not,
     Chaos is come again.
@@ -2023,7 +2020,7 @@ Enter Desdemona, Cassio, and Emilia.
     Even then this forked plague is fated to us
     When we do quicken. Desdemona comes:
 
-                    Enter Desdemona and Emilia.
+                    Enter DESDEMONA, EMILIA, Desdemona and Emilia.
 
     If she be false, O, then heaven mocks itself!
     I'll not believe't.
@@ -2041,7 +2038,7 @@ Enter Desdemona, Cassio, and Emilia.
             He puts the handkerchief from him, and she drops it.
     Let it alone. Come, I'll go in with you.
   DESDEMONA. I am very sorry that you are not well.
-                                        Exeunt Othello and Desdemona.
+                                        Exeunt OTHELLO, DESDEMONA, Othello and Desdemona.
   EMILIA. I am glad I have found this napkin;
     This was her first remembrance from the Moor.
     My wayward husband hath a hundred times
@@ -2053,7 +2050,7 @@ Enter Desdemona, Cassio, and Emilia.
     Heaven knows, not I;
     I nothing but to please his fantasy.
 
-                            Enter Iago.
+                            Enter IAGO, Iago.
 
   IAGO. How now, what do you here alone?
   EMILIA. Do not you chide; I have a thing for you.
@@ -2078,7 +2075,7 @@ Enter Desdemona, Cassio, and Emilia.
     Give't me again. Poor lady, she'll run mad
     When she shall lack it.
   IAGO. Be not acknown on't; I have use for it.
-    Go, leave me.                                        Exit Emilia.
+    Go, leave me.                                        Exit EMILIA, Emilia.
     I will in Cassio's lodging lose this napkin,
     And let him find it. Trifles light as air
     Are to the jealous confirmations strong
@@ -2090,9 +2087,9 @@ Enter Desdemona, Cassio, and Emilia.
     Burn like the mines of sulphur. I did say so.
     Look, where he comes!
 
-                          Enter Othello.
+                          Enter OTHELLO, Othello.
 
-                          Not poppy, nor mandragora,
+    Not poppy, nor mandragora,
     Nor all the drowsy syrups of the world,
     Shall ever medicine thee to that sweet sleep
     Which thou owedst yesterday.
@@ -2263,7 +2260,7 @@ Enter Desdemona, Cassio, and Emilia.
 SCENE IV.
 Before the castle.
 
-Enter Desdemona, Emilia, and Clown.
+Enter DESDEMONA, EMILIA, CLOWN, Desdemona, Emilia, and Clown.
 
   DESDEMONA. Do you know, sirrah, where Lieutenant Cassio lies?
   CLOWN. I dare not say he lies anywhere.
@@ -2297,7 +2294,7 @@ Enter Desdemona, Emilia, and Clown.
   DESDEMONA. I will not leave him now till Cassio
     Be call'd to him.
 
-                            Enter Othello.
+                            Enter OTHELLO, Othello.
 
                       How is't with you, my lord?
   OTHELLO. Well, my good lady. [Aside.] O, hardness to dissemble!
@@ -2384,7 +2381,7 @@ Enter Desdemona, Emilia, and Clown.
     They eat us hungerly, and when they are full
     They belch us. Look you! Cassio and my husband.
 
-                        Enter Cassio and Iago.
+                        Enter CASSIO, IAGO, Cassio and Iago.
 
   IAGO. There is no other way; 'tis she must do't.
     And, lo, the happiness! Go and importune her.
@@ -2421,7 +2418,7 @@ Enter Desdemona, Emilia, and Clown.
     Puff'd his own brother. And can he be angry?
     Something of moment then. I will go meet him.
     There's matter in't indeed if he be angry.
-  DESDEMONA. I prithee, do so.                             Exit Iago.
+  DESDEMONA. I prithee, do so.                             Exit IAGO, Iago.
                                Something sure of state,
     Either from Venice or some unhatch'd practice
     Made demonstrable here in Cyprus to him,
@@ -2451,9 +2448,9 @@ Enter Desdemona, Emilia, and Clown.
     If I do find him fit, I'll move your suit,
     And seek to effect it to my uttermost.
   CASSIO. I humbly thank your ladyship.
-                                         Exeunt Desdemona and Emilia.
+                                         Exeunt DESDEMONA, EMILIA, Desdemona and Emilia.
 
-                            Enter Bianca.
+                            Enter BIANCA, Bianca.
 
   BIANCA. Save you, friend Cassio!
   CASSIO.                          What make you from home?
@@ -2507,7 +2504,7 @@ END_ACT
 ACT IV. SCENE I.
 Cyprus. Before the castle.
 
-Enter Othello and Iago.
+Enter OTHELLO, IAGO, Othello and Iago.
 
   IAGO. Will you think so?
   OTHELLO.                 Think so, Iago?
@@ -2567,7 +2564,7 @@ Enter Othello and Iago.
     All guiltless, meet reproach. What, ho! My lord!
     My lord, I say! Othello!
 
-                            Enter Cassio.
+                            Enter CASSIO, Cassio.
 
                              How now, Cassio!
   CASSIO. What's the matter?
@@ -2580,7 +2577,7 @@ Enter Othello and Iago.
     Breaks out to savage madness. Look, he stirs.
     Do you withdraw yourself a little while,
     He will recover straight. When he is gone,
-    I would on great occasion speak with you.            Exit Cassio.
+    I would on great occasion speak with you.            Exit CASSIO, Cassio.
     How is it, general? Have you not hurt your head?
   OTHELLO. Dost thou mock me?
   IAGO.                       I mock you? No, by heaven.
@@ -2620,7 +2617,7 @@ Enter Othello and Iago.
     But (dost thou hear?) most bloody.
   IAGO.                                That's not amiss;
     But yet keep time in all. Will you withdraw?
-                                                     Othello retires.
+                                                     Exit OTHELLO.
     Now will I question Cassio of Bianca,
     A housewife that by selling her desires
     Buys herself bread and clothes. It is a creature
@@ -2629,7 +2626,7 @@ Enter Othello and Iago.
     He, when he hears of her, cannot refrain
     From the excess of laughter. Here he comes.
 
-                           Enter Cassio.
+                           Enter CASSIO, Cassio.
 
     As he shall smile, Othello shall go mad;
     And his unbookish jealousy must construe
@@ -2677,7 +2674,7 @@ Enter Othello and Iago.
   IAGO. Before me! look where she comes.
   CASSIO. 'Tis such another fitchew! marry, a perfumed one.
 
-                            Enter Bianca.
+                            Enter BIANCA, Bianca.
 
     What do you mean by this haunting of me?
   BIANCA. Let the devil and his dam haunt you! What did you mean by
@@ -2698,7 +2695,7 @@ Enter Othello and Iago.
   IAGO. Well, I may chance to see you, for I would very fain speak
     with you.
   CASSIO. Prithee, come; will you?
-  IAGO. Go to; say no more.                              Exit Cassio.
+  IAGO. Go to; say no more.                              Exit CASSIO, Cassio.
   OTHELLO. [Advancing.] How shall I murther him, Iago?
   IAGO. Did you perceive how he laughed at his vice?
   OTHELLO. O Iago!
@@ -2742,7 +2739,7 @@ Enter Othello and Iago.
   IAGO. Something from Venice, sure. 'Tis Lodovico
     Come from the Duke. And, see your wife is with him.
 
-              Enter Lodovico, Desdemona, and Attendants.
+              Enter LODOVICO, DESDEMONA, Lodovico, Desdemona, and Attendants.
 
   LODOVICO. God save the worthy general!
   OTHELLO.                               With all my heart, sir.
@@ -2801,11 +2798,10 @@ Enter Othello and Iago.
     I am commanded home. Get you away;
     I'll send for you anon. Sir, I obey the mandate,
     And will return to Venice. Hence, avaunt!
-                                                      Exit Desdemona.
+                                                      Exit DESDEMONA, Desdemona.
     Cassio shall have my place. And, sir, tonight,
     I do entreat that we may sup together.
-    You are welcome, sir, to Cyprus. Goats and monkeys!
-     Exit.
+    You are welcome, sir, to Cyprus. Goats and monkeys!     Exit.
   LODOVICO. Is this the noble Moor whom our full Senate
     Call all in all sufficient? This the nature
     Whom passion could not shake? whose solid virtue
@@ -2836,7 +2832,7 @@ Enter Othello and Iago.
 SCENE II.
 A room in the castle.
 
-Enter Othello and Emilia.
+Enter OTHELLO, EMILIA, Othello and Emilia.
 
   OTHELLO. You have seen nothing, then?
   EMILIA. Nor ever heard, nor ever did suspect.
@@ -2858,13 +2854,13 @@ Enter Othello and Emilia.
     For if she be not honest, chaste, and true,
     There's no man happy; the purest of their wives
     Is foul as slander.
-  OTHELLO.              Bid her come hither; go.         Exit Emilia.
+  OTHELLO.              Bid her come hither; go.         Exit EMILIA, Emilia.
     She says enough; yet she's a simple bawd
     That cannot say as much. This is a subtle whore,
     A closet lock and key of villainous secrets.
     And yet she'll kneel and pray; I have seen her do't.
 
-                     Enter Desdemona with Emilia.
+                     Enter DESDEMONA, EMILIA, Desdemona with Emilia.
 
   DESDEMONA. My lord, what is your will?
   OTHELLO.                               Pray, chuck, come hither.
@@ -2875,7 +2871,7 @@ Enter Othello and Emilia.
   OTHELLO. [To Emilia.] Some of your function, mistress,
     Leave procreants alone and shut the door;
     Cough, or cry "hem," if anybody come.
-    Your mystery, your mystery; nay, dispatch.           Exit Emilia.
+    Your mystery, your mystery; nay, dispatch.           Exit EMILIA, Emilia.
   DESDEMONA. Upon my knees, what doth your speech import?
     I understand a fury in your words,
     But not the words.
@@ -2946,7 +2942,7 @@ Enter Othello and Emilia.
     That have the office opposite to Saint Peter,
     And keep the gate of hell!
 
-                           Enter Emilia.
+                           Enter EMILIA, Emilia.
 
                                You, you, ay, you!
     We have done our course; there's money for your pains.
@@ -2964,13 +2960,12 @@ Enter Othello and Emilia.
     But what should go by water. Prithee, tonight
     Lay on my bed my wedding sheets. Remember,
     And call thy husband hither.
-  EMILIA.                        Here's a change indeed!
-     Exit.
+  EMILIA.                        Here's a change indeed!    Exit.
   DESDEMONA. 'Tis meet I should be used so, very meet.
     How have I been behaved, that he might stick
     The small'st opinion on my least misuse?
 
-                      Enter Emilia with Iago.
+                      Enter EMILIA, IAGO, Emilia with Iago.
 
   IAGO. What is your pleasure, madam? How is't with you?
   DESDEMONA. I cannot tell. Those that do teach young babes
@@ -3041,9 +3036,9 @@ Enter Othello and Emilia.
     Hark, how these instruments summon to supper!
     The messengers of Venice stay the meat.
     Go in, and weep not; all things shall be well.
-                                         Exeunt Desdemona and Emilia.
+                                         Exeunt DESDEMONA, EMILIA, desdemona and Emilia.
 
-                           Enter Roderigo.
+                           Enter RODERIGO, Roderigo.
 
     How now, Roderigo!
   RODERIGO. I do not find that thou dealest justly with me.
@@ -3118,7 +3113,7 @@ Enter Othello and Emilia.
 SCENE III.
 Another room in the castle.
 
-Enter Othello, Lodovico, Desdemona, Emilia, and Attendants.
+Enter OTHELLO, LODOVICO, DESDEMONA, EMILIA, Othello, Lodovico, Desdemona, Emilia, and Attendants.
 
   LODOVICO. I do beseech you, sir, trouble yourself no further.
   OTHELLO. O, pardon me; 'twill do me good to walk.
@@ -3130,7 +3125,7 @@ Enter Othello, Lodovico, Desdemona, Emilia, and Attendants.
   OTHELLO. Get you to bed on the instant; I will be returned
     forthwith. Dismiss your attendant there; look it be done.
   DESDEMONA. I will, my lord.
-                            Exeunt Othello, Lodovico, and Attendants.
+                            Exeunt OTHELLO, LODOVICO, Othello, Lodovico, and Attendants.
   EMILIA. How goes it now? He looks gentler than he did.
   DESDEMONA. He says he will return incontinent.
     He hath commanded me to go to bed,
@@ -3251,7 +3246,7 @@ END_ACT
 ACT V. SCENE I.
 Cyprus. A street.
 
-Enter Iago and Roderigo:
+Enter IAGO, RODERIGO, Iago and Roderigo:
 
   IAGO. Here, stand behind this bulk; straight will he come.
     Wear thy good rapier bare, and put it home.
@@ -3277,19 +3272,18 @@ Enter Iago and Roderigo:
     May unfold me to him; there stand I in much peril.
     No, he must die. Be't so. I hear him coming.
 
-                            Enter Cassio.
+                            Enter CASSIO, Cassio.
 
-  RODERIGO. I know his gait; 'tis he. Villain, thou diest!
-                                              Makes a pass at Cassio.
+  RODERIGO. I know his gait; 'tis he. Villain, thou diest! Makes a pass at Cassio.
   CASSIO. That thrust had been mine enemy indeed,
     But that my coat is better than thou know'st;
     I will make proof of thine.           Draws, and wounds Roderigo.
   RODERIGO.                     O, I am slain!
-            Iago from behind wounds Cassio in the leg, and exit.
+            Iago from behind wounds Cassio in the leg, and exit IAGO.
   CASSIO. I am maim'd forever. Help, ho! Murther! Murther!
     Falls.
 
-                            Enter Othello.
+                            Enter OTHELLO, Othello.
 
   OTHELLO. The voice of Cassio; Iago keeps his word.
   RODERIGO. O, villain that I am!
@@ -3300,10 +3294,9 @@ Enter Iago and Roderigo:
     Thou teachest me. Minion, your dear lies dead,
     And your unblest fate hies. Strumpet, I come!
     Forth of my heart those charms, thine eyes, are blotted;
-    Thy bed lust-stain'd shall with lust's blood be spotted.
-     Exit.
+    Thy bed lust-stain'd shall with lust's blood be spotted.     Exit.
 
-                     Enter Lodovico and Gratiano.
+                     Enter LODOVICO, GRATIANO, Lodovico and Gratiano.
 
   CASSIO. What, ho! No watch? No passage? Murther! Murther!
   GRATIANO. 'Tis some mischance; the cry is very direful.
@@ -3316,7 +3309,7 @@ Enter Iago and Roderigo:
   RODERIGO. Nobody come? Then shall I bleed to death.
   LODOVICO. Hark!
 
-                     Enter Iago, with a light.
+                     Enter IAGO, Iago, with a light.
 
   GRATIANO. Here's one comes in his shirt, with light and weapons.
   IAGO. Who's there? Whose noise is this that cries on murther?
@@ -3353,7 +3346,7 @@ Enter Iago and Roderigo:
   IAGO.                         Marry, heaven forbid!
     Light, gentlemen; I'll bind it with my shirt.
 
-                            Enter Bianca.
+                            Enter BIANCA, Bianca.
 
   BIANCA. What is the matter, ho? Who is't that cried?
   IAGO. Who is't that cried?
@@ -3382,14 +3375,14 @@ Enter Iago and Roderigo:
   IAGO. How do you, Cassio? O, a chair, a chair!
   GRATIANO. Roderigo!
   IAGO. He, he, 'tis he. [A chair brought in.] O, that's well said:
-      the chair.
+    the chair.
     Some good man bear him carefully from hence;
     I'll fetch the general's surgeon. [To Bianca.] For you, mistress,
     Save you your labor. He that lies slain here, Cassio,
     Was my dear friend; what malice was between you?
   CASSIO. None in the world; nor do I know the man.
   IAGO. [To Bianca.] What, look you pale? O, bear him out o' the air.
-                                   Cassio and Roderigo are borne off.
+    Cassio and Roderigo are borne off.
     Stay you, good gentlemen. Look you pale, mistress?
     Do you perceive the gastness of her eye?
     Nay, if you stare, we shall hear more anon.
@@ -3397,7 +3390,7 @@ Enter Iago and Roderigo:
     Do you see, gentlemen? Nay, guiltiness will speak,
     Though tongues were out of use.
 
-                            Enter Emilia.
+                            Enter EMILIA, Emilia.
 
   EMILIA. 'Las, what's the matter? What's the matter, husband?
   IAGO. Cassio hath here been set on in the dark
@@ -3426,7 +3419,7 @@ Enter Iago and Roderigo:
 SCENE II.
 A bedchamber in the castle. Desdemona in bed asleep; a light burning.
 
-Enter Othello.
+Enter OTHELLO, Othello.
 
   OTHELLO. It is the cause, it is the cause, my soul.
     Let me not name it to you, you chaste stars!
@@ -3553,7 +3546,7 @@ Enter Othello.
     Soft, by and by. Let me the curtains draw.
     Where art thou?                                 Unlocks the door.
 
-                            Enter Emilia.
+                            Enter EMILIA.
 
                     What's the matter with thee now?
   EMILIA. O, my good lord, yonder's foul murthers done!
@@ -3578,7 +3571,7 @@ Enter Othello.
   DESDEMONA. A guiltless death I die.
   EMILIA. O, who hath done this deed?
   DESDEMONA. Nobody; I myself. Farewell;
-    Commend me to my kind lord. O, farewell!                    Dies.
+    Commend me to my kind lord. O, farewell!                   Exit, Dies.
   OTHELLO. Why, how should she be murther'd?
   EMILIA.                                    Alas, who knows?
   OTHELLO. You heard her say herself, it was not I.
@@ -3629,7 +3622,7 @@ Enter Othello.
     Though I lost twenty lives. Help! help, ho! help!
     The Moor hath kill'd my mistress! Murther, murther!
 
-              Enter Montano, Gratiano, Iago, and others.
+              Enter MONTANO, GRATIANO, IAGO, Montano, Gratiano, Iago, and others.
 
   MONTANO. What is the matter? How now, general?
   EMILIA. O, are you come, Iago? You have done well,
@@ -3691,8 +3684,8 @@ Enter Othello.
     Let heaven and men and devils, let them all,
     All, all, cry shame against me, yet I'll speak.
   IAGO. Be wise, and get you home.
-  EMILIA.                          I will not.
-                                          Iago offers to stab Emilia.
+  EMILIA. I will not.
+    Iago offers to stab Emilia.
   GRATIANO.                                    Fie!
     Your sword upon a woman?
   EMILIA. O thou dull Moor! That handkerchief thou speak'st of
@@ -3712,13 +3705,13 @@ Enter Othello.
                                          He runs at Iago, but Montano
                                       disarms him. Iago stabs Emilia.
   GRATIANO. The woman falls; sure, he hath kill'd his wife.
-  EMILIA. Ay, ay! O, lay me by my mistress' side.          Exit Iago.
+  EMILIA. Ay, ay! O, lay me by my mistress' side.          Exit IAGO.
   GRATIANO. He's gone, but his wife's kill'd.
   MONTANO. 'Tis a notorious villain. Take you this weapon,
     Which I have here recover'd from the Moor.
     Come, guard the door without; let him not pass,
     But kill him rather. I'll after that same villain,
-    For 'tis a damned slave.       Exeunt all but Othello and Emilia.
+    For 'tis a damned slave.       Exeunt all but OTHELLO, EMILIA, Othello and Emilia.
   OTHELLO.                   I am not valiant neither,
     But every puny whipster gets my sword.
     But why should honor outlive honesty?
@@ -3728,7 +3721,7 @@ Enter Othello.
     And die in music. [Sings.] "Willow, willow, willow."
     Moor, she was chaste; she loved thee, cruel Moor;
     So come my soul to bliss, as I speak true;
-    So speaking as I think, I die, I die.                       Dies.
+    So speaking as I think, I die, I die.                       Exit.
   OTHELLO. I have another weapon in this chamber;
     It is a sword of Spain, the ice-brook's temper-
     O, here it is. Uncle, I must come forth.
@@ -3737,7 +3730,7 @@ Enter Othello.
   OTHELLO. Look in upon me then, and speak with me,
     Or, naked as I am, I will assault thee.
 
-                          Enter Gratiano.
+                          Enter GRATIANO, gratiano.
 
   GRATIANO. What is the matter?
   OTHELLO.                      Behold, I have a weapon;
@@ -3765,8 +3758,7 @@ Enter Othello.
     O Desdemon! dead, Desdemon! dead!
     O! O! O!
 
-         Enter Lodovico, Montano, Cassio carried in a chair,
-                  and Officers with Iago, prisoner.
+         Enter LODOVICO, MONTANO, CASSIO, Lodovico, Montano, Cassio carried in a chair,and Officers with Iago, prisoner.
 
   LODOVICO. Where is this rash and most unfortunate man?
   OTHELLO. That's he that was Othello. Here I am.

@@ -108,7 +108,7 @@ END_ACT
 ACT I. SCENE I.
 London. An ante-chamber in the KING'S palace
 
-Enter the ARCHBISHOP OF CANTERBURY and the BISHOP OF ELY
+Enter the CANTERBURY and the ELY
 
  CANTERBURY. My lord, I'll tell you: that self bill is urg'd
    Which in th' eleventh year of the last king's reign
@@ -219,8 +219,7 @@ Enter the ARCHBISHOP OF CANTERBURY and the BISHOP OF ELY
 SCENE II.
 London. The Presence Chamber in the KING'S palace
 
-Enter the KING, GLOUCESTER, BEDFORD, EXETER, WARWICK, WESTMORELAND,
-and attendants
+Enter the KING HENRY, GLOUCESTER, BEDFORD, EXETER, WARWICK, WESTMORELAND, and attendants
 
   KING HENRY. Where is my gracious Lord of Canterbury?
   EXETER. Not here in presence.
@@ -230,8 +229,8 @@ and attendants
     Before we hear him, of some things of weight
     That task our thoughts, concerning us and France.
 
-              Enter the ARCHBISHOP OF CANTERBURY and
-                       the BISHOP OF ELY
+              Enter the CANTERBURY and
+                       the  ELY
 
   CANTERBURY. God and his angels guard your sacred throne,
     And make you long become it!
@@ -466,7 +465,7 @@ and attendants
     Like Turkish mute, shall have a tongueless mouth,
     Not worshipp'd with a waxen epitaph.
 
-                  Enter AMBASSADORS of France
+                  Enter AMBASSADOR of France
 
     Now are we well prepar'd to know the pleasure
     Of our fair cousin Dauphin; for we hear
@@ -534,7 +533,7 @@ and attendants
     His jest will savour but of shallow wit,
     When thousands weep more than did laugh at it.
     Convey them with safe conduct. Fare you well.
-                                              Exeunt AMBASSADORS
+                                              Exeunt AMBASSADOR
   EXETER. This was a merry message.
   KING HENRY. We hope to make the sender blush at it.
     Therefore, my lords, omit no happy hour
@@ -556,7 +555,7 @@ END_ACT
 
 
 
-ACT II. PROLOGUE.
+ACT II. SCENE 0.
 
 Flourish. Enter CHORUS
 
@@ -609,7 +608,7 @@ Flourish. Enter CHORUS
 SCENE I.
 London. Before the Boar's Head Tavern, Eastcheap
 
-Enter CORPORAL NYM and LIEUTENANT BARDOLPH
+Enter NYM and BARDOLPH
 
   BARDOLPH. Well met, Corporal Nym.
   NYM. Good morrow, Lieutenant Bardolph.
@@ -689,7 +688,7 @@ Enter CORPORAL NYM and LIEUTENANT BARDOLPH
     For the only she; and- pauca, there's enough.
     Go to.
 
-                        Enter the Boy
+                        Enter the BOY
 
   BOY. Mine host Pistol, you must come to my master; and your
     hostess- he is very sick, and would to bed. Good Bardolph, put
@@ -760,8 +759,7 @@ Enter EXETER, BEDFORD, and WESTMORELAND
     That he should, for a foreign purse, so sell
     His sovereign's life to death and treachery!
 
-               Trumpets sound. Enter the KING, SCROOP,
-                  CAMBRIDGE, GREY, and attendants
+               Trumpets sound. Enter the KING HENRY, SCROOP,                  CAMBRIDGE, GREY, and attendants
 
   KING HENRY. Now sits the wind fair, and we will aboard.
     My Lord of Cambridge, and my kind Lord of Masham,
@@ -955,7 +953,7 @@ Enter EXETER, BEDFORD, and WESTMORELAND
 SCENE III.
 Eastcheap. Before the Boar's Head tavern
 
-Enter PISTOL, HOSTESS, NYM, BARDOLPH, and Boy
+Enter PISTOL, HOSTESS, NYM, BARDOLPH, and BOY
 
   HOSTESS. Prithee, honey-sweet husband, let me bring thee to
      Staines.
@@ -1018,8 +1016,7 @@ Enter PISTOL, HOSTESS, NYM, BARDOLPH, and Boy
 SCENE IV.
 France. The KING'S palace
 
-Flourish. Enter the FRENCH KING, the DAUPHIN, the DUKES OF BERRI
-and BRITAINE, the CONSTABLE, and others
+Flourish. Enter the FRENCH KING, the DAUPHIN, the BERRI and BRITAINE, the CONSTABLE, and others
 
   FRENCH KING. Thus comes the English with full power upon us;
     And more than carefully it us concerns
@@ -1187,7 +1184,7 @@ END_ACT
 
 
 
-ACT III. PROLOGUE.
+ACT III. SCENE 0.
 
 Flourish. Enter CHORUS
 
@@ -1238,10 +1235,9 @@ END_ACT
 SCENE I.
 France. Before Harfleur
 
-Alarum. Enter the KING, EXETER, BEDFORD, GLOUCESTER,
-and soldiers with scaling-ladders
+Alarum. Enter the KING HENRY, EXETER, BEDFORD, GLOUCESTER, and soldiers with scaling-ladders
 
-  KING. Once more unto the breach, dear friends, once more;
+  KING HENRY. Once more unto the breach, dear friends, once more;
     Or close the wall up with our English dead.
     In peace there's nothing so becomes a man
     As modest stillness and humility;
@@ -1361,7 +1357,7 @@ Enter NYM, BARDOLPH, PISTOL, and BOY
     disciplines of the wars, look you, of the Roman disciplines, than
     is a puppy-dog.
 
-                 Enter MACMORRIS and CAPTAIN JAMY
+                 Enter MACMORRIS and JAMY
 
   GOWER. Here 'a comes; and the Scots captain, Captain Jamy, with
     him.
@@ -1428,8 +1424,7 @@ Enter NYM, BARDOLPH, PISTOL, and BOY
 SCENE III.
 Before the gates of Harfleur
 
-Enter the GOVERNOR and some citizens on the walls.  Enter the KING
-and all his train before the gates
+Enter the GOVERNOR and some citizens on the walls.  Enter the KING HENRY and all his train before the gates
 
   KING HENRY. How yet resolves the Governor of the town?
     This is the latest parle we will admit;
@@ -1562,8 +1557,7 @@ Enter KATHERINE and ALICE
 SCENE V.
 The FRENCH KING'S palace
 
-Enter the KING OF FRANCE, the DAUPHIN, DUKE OF BRITAINE,
-the CONSTABLE OF FRANCE, and others
+Enter the FRENCH KING, the DAUPHIN, BRITAINE, the CONSTABLE, and others
 
   FRENCH KING. 'Tis certain he hath pass'd the river Somme.
   CONSTABLE. And if he be not fought withal, my lord,
@@ -1641,7 +1635,7 @@ the CONSTABLE OF FRANCE, and others
 SCENE VI.
 The English camp in Picardy
 
-Enter CAPTAINS, English and Welsh, GOWER and FLUELLEN
+Enter, English and Welsh, GOWER and FLUELLEN
 
   GOWER. How now, Captain Fluellen! Come you from the bridge?
   FLUELLEN. I assure you there is very excellent services committed
@@ -1724,8 +1718,7 @@ Enter CAPTAINS, English and Welsh, GOWER and FLUELLEN
     Hark you, the King is coming; and I must speak with him from the
     pridge.
 
-         Drum and colours. Enter the KING and his poor soldiers,
-                          and GLOUCESTER
+         Drum and colours. Enter the KING HENRY and his poor soldiers,                          and GLOUCESTER
 
     God pless your Majesty!
   KING HENRY. How now, Fluellen! Cam'st thou from the bridge?
@@ -1816,8 +1809,7 @@ Enter CAPTAINS, English and Welsh, GOWER and FLUELLEN
 SCENE VII.
 The French camp near Agincourt
 
-Enter the CONSTABLE OF FRANCE, the LORD RAMBURES, the DUKE OF ORLEANS,
-the DAUPHIN, with others
+Enter the CONSTABLE, the RAMBURES, the ORLEANS, the DAUPHIN, with others
 
   CONSTABLE. Tut! I have the best armour of the world.
     Would it were day!
@@ -1969,7 +1961,7 @@ END_ACT
 
 
 
-ACT IV. PROLOGUE.
+ACT IV. SCENE 0.
 
 Enter CHORUS
 
@@ -2033,7 +2025,7 @@ Enter CHORUS
 SCENE I.
 France. The English camp at Agincourt
 
-Enter the KING, BEDFORD, and GLOUCESTER
+Enter the KING HENRY, BEDFORD, and GLOUCESTER
 
   KING HENRY. Gloucester, 'tis true that we are in great danger;
     The greater therefore should our courage be.
@@ -2129,8 +2121,7 @@ Enter the KING, BEDFORD, and GLOUCESTER
   KING HENRY. Though it appear a little out of fashion,
     There is much care and valour in this Welshman.
 
-          Enter three soldiers: JOHN BATES, ALEXANDER COURT,
-                       and MICHAEL WILLIAMS
+          Enter three soldiers: BATES,  COURT, WILLIAMS
 
   COURT. Brother John Bates, is not that the morning which breaks
     yonder?
@@ -2254,7 +2245,7 @@ Enter the KING, BEDFORD, and GLOUCESTER
     they will beat us, for they bear them on their shoulders; but it
     is no English treason to cut French crowns, and to-morrow the
     King himself will be a clipper.
-                                                 Exeunt soldiers
+                                                 Exeunt BATES,  COURT, WILLIAMS
     Upon the King! Let us our lives, our souls,
     Our debts, our careful wives,
     Our children, and our sins, lay on the King!
@@ -2315,11 +2306,11 @@ Enter the KING, BEDFORD, and GLOUCESTER
 
   ERPINGHAM. My lord, your nobles, jealous of your absence,
     Seek through your camp to find you.
-  KING. Good old knight,
+  KING HENRY. Good old knight,
     Collect them all together at my tent:
     I'll be before thee.
   ERPINGHAM. I shall do't, my lord.                         Exit
-  KING. O God of battles, steel my soldiers' hearts,
+  KING HENRY. O God of battles, steel my soldiers' hearts,
     Possess them not with fear! Take from them now
     The sense of reck'ning, if th' opposed numbers
     Pluck their hearts from them! Not to-day, O Lord,
@@ -2431,8 +2422,7 @@ Enter the DAUPHIN, ORLEANS, RAMBURES, and others
 SCENE III.
 The English camp
 
-Enter GLOUCESTER, BEDFORD, EXETER, ERPINGHAM, with all his host;
-SALISBURY and WESTMORELAND
+Enter GLOUCESTER, BEDFORD, EXETER, ERPINGHAM, with all his host; SALISBURY and WESTMORELAND
 
   GLOUCESTER. Where is the King?
   BEDFORD. The King himself is rode to view their battle.
@@ -2452,12 +2442,12 @@ SALISBURY and WESTMORELAND
   BEDFORD. He is as full of valour as of kindness;
     Princely in both.
 
-                            Enter the KING
+                            Enter the KING HENRY
 
   WESTMORELAND. O that we now had here
     But one ten thousand of those men in England
     That do no work to-day!
-  KING. What's he that wishes so?
+  KING HENRY. What's he that wishes so?
     My cousin Westmoreland? No, my fair cousin;
     If we are mark'd to die, we are enow
     To do our country loss; and if to live,
@@ -2576,7 +2566,7 @@ SALISBURY and WESTMORELAND
     Thou never shalt hear herald any more.                  Exit
   KING HENRY. I fear thou wilt once more come again for a ransom.
 
-                    Enter the DUKE OF YORK
+                    Enter the YORK
 
   YORK. My lord, most humbly on my knee I beg
     The leading of the vaward.
@@ -2700,7 +2690,7 @@ Enter CONSTABLE, ORLEANS, BOURBON, DAUPHIN, and RAMBURES
 SCENE VI.
 Another part of the field
 
-Alarum. Enter the KING and his train, with prisoners; EXETER, and others
+Alarum. Enter the KING HENRY and his train, with prisoners; EXETER, and others
 
   KING HENRY. Well have we done, thrice-valiant countrymen;
     But all's not done- yet keep the French the field.
@@ -2795,8 +2785,7 @@ Enter FLUELLEN and GOWER
     Monmouth.
   GOWER. Here comes his Majesty.
 
-            Alarum. Enter the KING, WARWICK, GLOUCESTER,
-            EXETER, and others, with prisoners. Flourish
+            Alarum. Enter the KING HENRY, WARWICK, GLOUCESTER,            EXETER, and others, with prisoners. Flourish
 
   KING HENRY. I was not angry since I came to France
     Until this instant. Take a trumpet, herald,
@@ -2964,7 +2953,7 @@ Enter GOWER and WILLIAMS
     most contagious treason come to light, look you, as you shall
     desire in a summer's day. Here is his Majesty.
 
-                  Enter the KING and EXETER
+                  Enter the KING HENRY and EXETER
 
   KING HENRY. How now! what's the matter?
   FLUELLEN. My liege, here is a villain and a traitor, that, look
@@ -3011,7 +3000,7 @@ Enter GOWER and WILLIAMS
     Your shoes is not so good. 'Tis a good silling, I warrant you, or
     I will change it.
 
-                      Enter an ENGLISH HERALD
+                      Enter an HERALD
 
   KING HENRY. Now, herald, are the dead numb'red?
   HERALD. Here is the number of the slaught'red French.
@@ -3078,7 +3067,7 @@ END_ACT
 
 
 
-ACT V. PROLOGUE.
+ACT V. SCENE 0.
 
 Enter CHORUS
 
@@ -3226,10 +3215,7 @@ Enter FLUELLEN and GOWER
 SCENE II.
 France. The FRENCH KING'S palace
 
-Enter at one door, KING HENRY, EXETER, BEDFORD, GLOUCESTER, WARWICK,
-WESTMORELAND, and other LORDS; at another, the FRENCH KING, QUEEN ISABEL,
-the PRINCESS KATHERINE, ALICE, and other LADIES; the DUKE OF BURGUNDY,
-and his train
+Enter at one door, KING HENRY, EXETER, BEDFORD, GLOUCESTER, WARWICK, WESTMORELAND, and other LORDS; at another, the FRENCH KING, QUEEN ISABEL, the KATHERINE, ALICE, and other LADIES; the BURGUNDY, and his train
 
   KING HENRY. Peace to this meeting, wherefore we are met!
     Unto our brother France, and to our sister,
