@@ -1934,6 +1934,7 @@ MESSENGER
 YORK
 RICHARD
 Brother, I go; I'll win them, fear it not.
+And thus most humbly I do take my leave.
 
 YORK
 3
@@ -2128,6 +2129,7 @@ TUTOR
 Plantagenet, I come, Plantagenet;
 And this thy son's blood cleaving to my blade
 Shall rust upon my weapon, till thy blood,
+Congeal'd with this, do make me wipe off both.
 
 YORK
 0
@@ -5140,6 +5142,7 @@ I can add colours to the chameleon,
 Change shapes with Protheus for advantages,
 And set the murderous Machiavel to school.
 Can I do this, and cannot get a crown?
+Tut, were it farther off, I'll pluck it down.
 
 LEWIS
 0
@@ -5824,6 +5827,7 @@ QUEEN MARGARET
 POST
 Tell him from me that he hath done me wrong,
 And therefore I'll uncrown him ere't be long.
+There's thy reward; be gone.
 
 LEWIS
 5
@@ -5909,6 +5913,7 @@ Then none but I shall turn his jest to sorrow.
 I was the chief that rais'd him to the crown,
 And I'll be chief to bring him down again;
 Not that I pity Henry's misery,
+But seek revenge on Edward's mockery.
 
 RICHARD
 0
@@ -8254,6 +8259,7 @@ EDWARD
 So, lie thou there. Die thou, and die our fear;
 For Warwick was a bug that fear'd us all.
 Now, Montague, sit fast; I seek for thee,
+That Warwick's bones may keep thine company.
 
 WARWICK
 0

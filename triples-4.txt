@@ -132,10 +132,9 @@ FIRST CITIZEN
 Come, come.
 
 FIRST CITIZEN
-3
-MENENIUS
-SECOND CITIZEN
+2
 ALL
+SECOND CITIZEN
 Soft! who comes here?
 
 SECOND CITIZEN
@@ -403,11 +402,10 @@ ALL
 I the great toe? Why the great toe?
 
 MENENIUS
-4
-SECOND CITIZEN
-FIRST CITIZEN
-MARCIUS
+3
 ALL
+FIRST CITIZEN
+SECOND CITIZEN
 For that, being one o' th' lowest, basest, poorest,
 Of this most wise rebellion, thou goest foremost.
 Thou rascal, that art worst in blood to run,
@@ -415,7 +413,6 @@ Lead'st first to win some vantage.
 But make you ready your stiff bats and clubs.
 Rome and her rats are at the point of battle;
 The one side must have bale.
-Hail, noble Marcius!
 
 MARCIUS
 4
@@ -551,12 +548,11 @@ ALL
 This is strange.
 
 MARCIUS
-5
+4
 ALL
-MENENIUS
 FIRST CITIZEN
 SECOND CITIZEN
-MESSENGER
+MENENIUS
 Go get you home, you fragments.
 
 MESSENGER
@@ -587,15 +583,12 @@ SECOND CITIZEN
 The news is, sir, the Volsces are in arms.
 
 MARCIUS
-8
+5
 ALL
-MENENIUS
 FIRST CITIZEN
-LARTIUS
 SECOND CITIZEN
-COMINIUS
+MENENIUS
 MESSENGER
-FIRST SENATOR
 I am glad on't; then we shall ha' means to vent
 Our musty superfluity. See, our best elders.
 
@@ -1135,10 +1128,9 @@ VOLUMNIA
 But had he died in the business, madam, how then?
 
 VOLUMNIA
-3
-MARCIUS
+2
 VIRGILIA
-GENTLEWOMAN
+MARCIUS
 Then his good report should have been my son; I therein
 would have found issue. Hear me profess sincerely: had I a dozen
 sons, each in my love alike, and none less dear than thine and my
@@ -1192,6 +1184,7 @@ Than gilt his trophy. The breasts of Hecuba,
 When she did suckle Hector, look'd not lovelier
 Than Hector's forehead when it spit forth blood
 At Grecian sword, contemning. Tell Valeria
+We are fit to bid her welcome.
 
 VIRGILIA
 2
@@ -1200,11 +1193,9 @@ GENTLEWOMAN
 Heavens bless my lord from fell Aufidius!
 
 VOLUMNIA
-4
+2
 MARCIUS
-VALERIA
 VIRGILIA
-GENTLEWOMAN
 He'll beat Aufidius' head below his knee
 And tread upon his neck.
 
@@ -1548,10 +1539,8 @@ MARCIUS
 Within this mile and half.
 
 MARCIUS
-3
-SECOND SENATOR
+1
 LARTIUS
-FIRST SENATOR
 Then shall we hear their 'larum, and they ours.
 Now, Mars, I prithee, make us quick in work,
 That we with smoking swords may march from hence
@@ -1593,9 +1582,9 @@ FIRST SENATOR
 Their noise be our instruction. Ladders, ho!
 
 MARCIUS
-3
-SECOND SENATOR
+2
 LARTIUS
+SECOND SENATOR
 FIRST SENATOR
 They fear us not, but issue forth their city.
 Now put your shields before your hearts, and fight
@@ -1631,6 +1620,7 @@ SECOND SENATOR
 FIRST SENATOR
  So, now the gates are ope; now prove good seconds;
 'Tis for the followers fortune widens them,
+Not for the fliers. Mark me, and do the like.
 
 FIRST SOLDIER
 4
@@ -1657,10 +1647,9 @@ FIRST SENATOR
 See, they have shut him in.
 
 ALL
-5
+4
 FIRST SOLDIER
 SECOND SOLDIER
-LARTIUS
 SECOND SENATOR
 FIRST SENATOR
 To th' pot, I warrant him.             [Alarum continues]
@@ -1696,10 +1685,9 @@ Clapp'd to their gates. He is himself alone,
 To answer all the city.
 
 LARTIUS
-6
+5
 FIRST SOLDIER
 ALL
-MARCIUS
 SECOND SOLDIER
 SECOND SENATOR
 FIRST SENATOR
@@ -1752,7 +1740,7 @@ And I this.
 THIRD ROMAN
 1
 ROMAN
-A murrain on 't! I took this for silver. Exeunt
+A murrain on 't! I took this for silver.
 
 MARCIUS
 2
@@ -1819,8 +1807,7 @@ Call thither all the officers o' th' town,
 Where they shall know our mind. Away!                 Exeunt
 
 COMINIUS
-1
-MESSENGER
+0
 Breathe you, my friends. Well fought; we are come off
 Like Romans, neither foolish in our stands
 Nor cowardly in retire. Believe me, sirs,
@@ -1830,7 +1817,6 @@ The charges of our friends. The Roman gods,
 Lead their successes as we wish our own,
 That both our powers, with smiling fronts encount'ring,
 May give you thankful sacrifice!
-Thy news?
 
 MESSENGER
 1
@@ -1864,6 +1850,7 @@ COMINIUS
 Spies of the Volsces
 Held me in chase, that I was forc'd to wheel
 Three or four miles about; else had I, sir,
+Half an hour since brought my report.
 
 COMINIUS
 1
@@ -2036,10 +2023,8 @@ LARTIUS
 Fear not our care, sir.
 
 LARTIUS
-3
-MARCIUS
+1
 LIEUTENANT
-AUFIDIUS
 Hence, and shut your gates upon's.
 Our guider, come; to th' Roman camp conduct us.       Exeunt
 
@@ -2105,8 +2090,7 @@ LARTIUS
 In your condemned seconds.                            Exeunt
 
 COMINIUS
-1
-LARTIUS
+0
 If I should tell thee o'er this thy day's work,
 Thou't not believe thy deeds; but I'll report it
 Where senators shall mingle tears with smiles;
@@ -2651,12 +2635,9 @@ Come, come, you are well understood to be a perfecter giber
 for the table than a necessary bencher in the Capitol.
 
 MENENIUS
-7
+4
 BOTH TRIBUNES
 BOTH
-VALERIA
-VIRGILIA
-VOLUMNIA
 BRUTUS
 SICINIUS
 Our very priests must become mockers, if they shall
@@ -2984,11 +2965,10 @@ Now it's twenty-seven; every gash was an enemy's grave.
 [A shout and flourish]  Hark! the trumpets.
 
 VOLUMNIA
-8
+7
 BOTH TRIBUNES
 BOTH
 MENENIUS
-COMINIUS
 VALERIA
 VIRGILIA
 BRUTUS
@@ -3541,7 +3521,7 @@ Only for bearing burdens, and sore blows
 For sinking under them.
 
 SICINIUS
-12
+11
 BOTH TRIBUNES
 BOTH
 MENENIUS
@@ -3552,7 +3532,6 @@ MARCIUS
 ALL
 HERALD
 VOLUMNIA
-MESSENGER
 BRUTUS
 This, as you say, suggested
 At some time when his soaring insolence
@@ -3691,9 +3670,8 @@ were a malice that, giving itself the lie, would pluck reproof
 and rebuke from every car that heard it.
 
 FIRST OFFICER
-2
+1
 SECOND OFFICER
-PATRICIANS
 No more of him; he's a worthy man. Make way, they
 are coming.
 
@@ -3872,6 +3850,7 @@ BRUTUS
 SICINIUS
 I had rather have one scratch my head i' th' sun
 When the alarum were struck than idly sit
+To hear my nothings monster'd.
 
 MENENIUS
 6
@@ -3990,14 +3969,13 @@ He's right noble;
 Let him be call'd for.
 
 FIRST SENATOR
-8
+7
 MENENIUS
 COMINIUS
-MARCIUS
-BRUTUS
 FIRST OFFICER
 SECOND OFFICER
 PATRICIANS
+BRUTUS
 SICINIUS
 Call Coriolanus.
 OFFICER. He doth appear.
@@ -4279,8 +4257,7 @@ YOU are never without your tricks; you may, you
 may.
 
 THIRD CITIZEN
-3
-MARCIUS
+2
 SECOND CITIZEN
 FIRST CITIZEN
 Are you all resolv'd to give your voices? But that's
@@ -4302,7 +4279,7 @@ therefore follow me, and I'll direct you how you shall go by him.
 ALL
 1
 MARCIUS
-Content, content.                         Exeunt
+Content, content.
 
 MENENIUS
 2
@@ -4344,6 +4321,7 @@ MARCIUS
 ALL
 You'll mar all.
 I'll leave you. Pray you speak to 'em, I pray you,
+In wholesome manner.
 
 MARCIUS
 4
@@ -4465,13 +4443,11 @@ ALL
 But this is something odd.
 
 SECOND CITIZEN
-6
+4
 FIRST CITIZEN
-FIFTH CITIZEN
+THIRD CITIZEN
 MARCIUS
 ALL
-FOURTH CITIZEN
-THIRD CITIZEN
 An 'twere to give again- but 'tis no matter.
 
 MARCIUS
@@ -4580,15 +4556,12 @@ THIRD CITIZEN
 The gods give you joy, sir, heartily!
 
 MARCIUS
-10
+7
 SECOND CITIZEN
 FIRST CITIZEN
 FIFTH CITIZEN
-SIXTH CITIZEN
 ALL
 FOURTH CITIZEN
-SEVENTH CITIZEN
-CITIZEN
 BOTH CITIZENS
 THIRD CITIZEN
 Most sweet voices!
@@ -4670,20 +4643,17 @@ THIRD CITIZEN
 Amen, amen. God save thee, noble consul!
 
 MARCIUS
-13
+10
 SECOND CITIZEN
 FIRST CITIZEN
 FIFTH CITIZEN
 SIXTH CITIZEN
 ALL
 FOURTH CITIZEN
-BRUTUS
-MENENIUS
+BOTH CITIZENS
 SEVENTH CITIZEN
 CITIZEN
-BOTH CITIZENS
 THIRD CITIZEN
-SICINIUS
 Worthy voices!
 
 MENENIUS
@@ -4898,19 +4868,16 @@ THIRD CITIZEN
 'Tis warm at's heart.
 
 BRUTUS
-13
-SECOND CITIZEN
-FIRST CITIZEN
+10
 FIFTH CITIZEN
 SIXTH CITIZEN
 MARCIUS
 ALL
 FOURTH CITIZEN
+BOTH CITIZENS
 MENENIUS
 SEVENTH CITIZEN
 CITIZEN
-BOTH CITIZENS
-THIRD CITIZEN
 SICINIUS
 With a proud heart he wore
 His humble weeds. Will you dismiss the people?
@@ -5451,6 +5418,7 @@ SECOND CITIZENS
 BRUTUS
 SICINIUS
 will will so; almost all
+Repent in their election.
 
 BRUTUS
 11
@@ -5473,19 +5441,16 @@ With their refusal, both observe and answer
 The vantage of his anger.
 
 SICINIUS
-12
-COMINIUS
+9
+ALL
 FIFTH CITIZEN
 SIXTH CITIZEN
-MARCIUS
-ALL
 FOURTH CITIZEN
-BRUTUS
-MENENIUS
+BOTH CITIZENS
 SEVENTH CITIZEN
 CITIZEN
 SECOND CITIZENS
-BOTH CITIZENS
+BRUTUS
 To th' Capitol, come.
 We will be there before the stream o' th' people;
 And this shall seem, as partly 'tis, their own,
@@ -5706,20 +5671,18 @@ SICINIUS
 At Antium.
 
 MARCIUS
-13
+11
+ALL
 COMINIUS
-LARTIUS
 FIFTH CITIZEN
 SIXTH CITIZEN
-ALL
-FOURTH CITIZEN
-BRUTUS
+LARTIUS
 MENENIUS
+FOURTH CITIZEN
+BOTH CITIZENS
 SEVENTH CITIZEN
 CITIZEN
 SECOND CITIZENS
-BOTH CITIZENS
-SICINIUS
 I wish I had a cause to seek him there,
 To oppose his hatred fully. Welcome home.
 
@@ -6832,22 +6795,21 @@ BOTH CITIZENS
 This a consul? No.
 
 BRUTUS
-15
+14
+MARCIUS
+MENENIUS
 COMINIUS
 LARTIUS
-FIFTH CITIZEN
-SIXTH CITIZEN
-MARCIUS
-ALL
-FOURTH CITIZEN
-MENENIUS
-FIRST SENATOR
 SEVENTH CITIZEN
 CITIZEN
 SECOND CITIZENS
-AEDILE
-BOTH CITIZENS
 SICINIUS
+ALL
+FIFTH CITIZEN
+SIXTH CITIZEN
+FOURTH CITIZEN
+BOTH CITIZENS
+FIRST SENATOR
 The aediles, ho!
 
 BRUTUS
@@ -6965,24 +6927,23 @@ Hence, rotten thing! or I shall shake thy bones
 Out of thy garments.
 
 SICINIUS
-17
-COMINIUS
-LARTIUS
-FIFTH CITIZEN
-SIXTH CITIZEN
+16
 MARCIUS
-ALL
-FOURTH CITIZEN
-BRUTUS
 MENENIUS
-FIRST SENATOR
-AEDILES
+COMINIUS
+AEDILE
+LARTIUS
 SEVENTH CITIZEN
 CITIZEN
 SECOND CITIZENS
-AEDILE
-PATRICIANS
+BRUTUS
+ALL
+FIFTH CITIZEN
+SIXTH CITIZEN
+FOURTH CITIZEN
 BOTH CITIZENS
+PATRICIANS
+FIRST SENATOR
 Help, ye citizens!
 
 MENENIUS
@@ -8155,26 +8116,24 @@ FOURTH CITIZEN
 I would they were a-bed.
 
 MENENIUS
-19
+17
+MARCIUS
 AEDILE
 LARTIUS
-CITIZEN
-BRUTUS
-SICINIUS
-PLEBEIANS
-PATRICIANS
-SECOND SENATOR
-FIRST SENATOR
-MARCIUS
-COMINIUS
 AEDILES
+COMINIUS
 SEVENTH CITIZEN
+CITIZEN
 SECOND CITIZENS
-BOTH CITIZENS
 ALL
 FIFTH CITIZEN
 SIXTH CITIZEN
 FOURTH CITIZEN
+BOTH CITIZENS
+PLEBEIANS
+PATRICIANS
+SECOND SENATOR
+FIRST SENATOR
 I would they were in Tiber.
 What the vengeance, could he not speak 'em fair?
 
@@ -9043,9 +9002,8 @@ MARCIUS
 You do the nobler.
 
 MARCIUS
-2
+1
 FIRST PATRICIAN
-VOLUMNIA
 I muse my mother
 Does not approve me further, who was wont
 To call them woollen vassals, things created
@@ -9053,10 +9011,6 @@ To buy and sell with groats; to show bare heads
 In congregations, to yawn, be still, and wonder,
 When one but of my ordinance stood up
 To speak of peace or war.
-I talk of you:
-Why did you wish me milder? Would you have me
-False to my nature? Rather say I play
-The man I am.
 
 VOLUMNIA
 2
@@ -9089,11 +9043,9 @@ VOLUMNIA
 Let them hang.
 
 VOLUMNIA
-4
+2
 FIRST PATRICIAN
-MENENIUS
 MARCIUS
-FIRST SENATOR
 Ay, and burn too.
 
 MENENIUS
@@ -9300,17 +9252,15 @@ For they have pardons, being ask'd, as free
 As words to little purpose.
 
 VOLUMNIA
-5
+4
 MENENIUS
-COMINIUS
-MARCIUS
 FIRST PATRICIAN
+MARCIUS
 FIRST SENATOR
 Prithee now,
 Go, and be rul'd; although I know thou hadst rather
 Follow thine enemy in a fiery gulf
 Than flatter him in a bower.
-Here is Cominius.
 
 COMINIUS
 5
@@ -9490,15 +9440,13 @@ FIRST SENATOR
 Well, mildly be it then- mildly.            Exeunt
 
 BRUTUS
-2
-AEDILE
+1
 SICINIUS
 In this point charge him home, that he affects
 Tyrannical power. If he evade us there,
 Enforce him with his envy to the people,
 And that the spoil got on the Antiates
 Was ne'er distributed.
-What, will he come?
 
 AEDILE
 2
@@ -9630,9 +9578,8 @@ SICINIUS
 Amen, amen!
 
 MENENIUS
-5
+4
 COMINIUS
-AEDILE
 MARCIUS
 FIRST SENATOR
 SICINIUS
@@ -10567,6 +10514,7 @@ AEDILE
 VIRGILIA
 BRUTUS
 Why stay we to be baited
+With one that wants her wits?
 
 VOLUMNIA
 5
@@ -10734,15 +10682,13 @@ VOLSCE
 Well, let us go together.
 
 MARCIUS
-1
-CITIZEN
+0
 A goodly city is this Antium. City,
 'Tis I that made thy widows: many an heir
 Of these fair edifices fore my wars
 Have I heard groan and drop. Then know me not.
 Lest that thy wives with spits and boys with stones,
 In puny battle slay me.
-Save you, sir.
 
 CITIZEN
 1
@@ -10798,14 +10744,15 @@ I'll do his country service.
 FIRST SERVANT
 0
 Wine, wine, wine! What service is here! I think our
+fellows are asleep.
 
 SECOND SERVANT
 0
 here's Cotus? My master calls for him.
+Cotus!
 
 MARCIUS
-1
-FIRST SERVANT
+0
 A goodly house. The feast smells well, but I
 Appear not like a guest.
 
@@ -10813,10 +10760,10 @@ FIRST SERVANT
 1
 MARCIUS
 What would you have, friend?
+Whence are you? Here's no place for you: pray go to the door.
 
 MARCIUS
-1
-SECOND SERVANT
+0
 I have deserv'd no better entertainment
 In being Coriolanus.
 
@@ -10842,10 +10789,8 @@ SECOND SERVANT
 Now th' art troublesome.
 
 SECOND SERVANT
-3
-THIRD SERVANT
+1
 MARCIUS
-FIRST SERVANT
 Are you so brave? I'll have you talk'd with anon.
 
 THIRD SERVANT
@@ -10992,11 +10937,9 @@ FIRST SERVANT
 How, sir! Do you meddle with my master?
 
 MARCIUS
-4
-THIRD SERVANT
-AUFIDIUS
+2
 FIRST SERVANT
-SECOND SERVANT
+THIRD SERVANT
 Ay; 'tis an honester service than to meddle with thy
 mistress. Thou prat'st and prat'st; serve with thy trencher;
 hence!                                      [Beats him away]
@@ -11177,11 +11120,9 @@ SECOND SERVANT
 You bless me, gods!
 
 AUFIDIUS
-4
+2
 THIRD SERVANT
 MARCIUS
-FIRST SERVANT
-SECOND SERVANT
 Therefore, most. absolute sir, if thou wilt have
 The leading of thine own revenges, take
 Th' one half of my commission, and set down-
@@ -11302,10 +11243,9 @@ Faith, look you, one cannot tell how to say that;
 for the defence of a town our general is excellent.
 
 FIRST SERVANT
-4
-THIRD SERVANT
-AUFIDIUS
+3
 MARCIUS
+AUFIDIUS
 SECOND SERVANT
 Ay, and for an assault too.
 
@@ -11558,8 +11498,7 @@ AUFIDIUS
 In, in, in, in!                                   Exeunt
 
 SICINIUS
-2
-MENENIUS
+1
 BRUTUS
 We hear not of him, neither need we fear him.
 His remedies are tame. The present peace
@@ -11612,9 +11551,7 @@ BRUTUS
 Where is he, hear you?
 
 MENENIUS
-4
-CITIZENS
-FIRST CITIZEN
+2
 BRUTUS
 SICINIUS
 Nay, I hear nothing; his mother and his wife
@@ -11683,7 +11620,7 @@ BOTH TRIBUNES
 MENENIUS
 BRUTUS
 SICINIUS
-Farewell, farewell.             Exeunt
+Farewell, farewell.
 
 SICINIUS
 3
@@ -11728,10 +11665,9 @@ We should by this, to all our lamentation,
 If he had gone forth consul, found it so.
 
 BRUTUS
-4
+3
 BOTH TRIBUNES
 MENENIUS
-AEDILE
 SICINIUS
 The gods have well prevented it, and Rome
 Sits safe and still without him.
@@ -11803,11 +11739,10 @@ Tell not me.
 I know this cannot be.
 
 BRUTUS
-5
+4
 BOTH TRIBUNES
 MENENIUS
 AEDILE
-MESSENGER
 SICINIUS
 Not Possible.
 
@@ -11895,10 +11830,9 @@ BRUTUS
 The very trick on 't.
 
 MENENIUS
-6
+5
 BOTH TRIBUNES
 AEDILE
-SECOND MESSENGER
 MESSENGER
 BRUTUS
 SICINIUS
@@ -11907,10 +11841,9 @@ He and Aufidius can no more atone
 Than violent'st contrariety.
 
 SECOND MESSENGER
-7
+6
 BOTH TRIBUNES
 MENENIUS
-COMINIUS
 AEDILE
 MESSENGER
 BRUTUS
@@ -12158,16 +12091,13 @@ And cowardly nobles, gave way unto your clusters,
 Who did hoot him out o' th' city.
 
 COMINIUS
-10
+7
 BOTH TRIBUNES
 MENENIUS
 AEDILE
-SECOND CITIZEN
 SECOND MESSENGER
-FIRST CITIZEN
 MESSENGER
 BRUTUS
-THIRD CITIZEN
 SICINIUS
 But I fear
 They'll roar him in again. Tullus Aufidius,
@@ -12691,6 +12621,7 @@ BRUTUS
 SICINIUS
 Good faith, I'll prove him,
 Speed how it will. I shall ere long have knowledge
+Of my success.
 
 COMINIUS
 2
@@ -12885,11 +12816,9 @@ let forth your half pint of blood. Back- that's the utmost of
 your having. Back.
 
 MENENIUS
-4
+2
 FIRST WATCH
 SECOND WATCH
-MARCIUS
-AUFIDIUS
 Nay, but fellow, fellow-
 
 MARCIUS
@@ -13010,6 +12939,7 @@ things as you, I can scarce think there's any, y'are so slight.
 He that hath a will to die by himself fears it not from another.
 Let your general do his worst. For you, be that you are, long;
 and your misery increase with your age! I say to you, as I was
+said to: Away!
 
 FIRST WATCH
 3
@@ -13490,16 +13420,14 @@ MENENIUS
 The gods be good unto us!
 
 MENENIUS
-2
-MESSENGER
+1
 SICINIUS
 No, in such a case the gods will not be good unto us.
 When we banish'd him we respected not them; and, he returning to
 break our necks, they respect not us.
 
 MESSENGER
-3
-SECOND MESSENGER
+2
 MENENIUS
 SICINIUS
 Sir, if you'd save your life, fly to your house.
@@ -13617,10 +13545,7 @@ FIRST SENATOR
 Welcome, ladies, welcome!
 
 AUFIDIUS
-3
-SECOND CONSPIRATOR
-FIRST CONSPIRATOR
-THIRD CONSPIRATOR
+0
 Go tell the lords o' th' city I am here;
 Deliver them this paper' having read it,
 Bid them repair to th' market-place, where I,
@@ -13629,7 +13554,6 @@ Will vouch the truth of it. Him I accuse
 The city ports by this hath enter'd and
 Intends t' appear before the people, hoping
 To purge himself with words. Dispatch.
-Most welcome!
 
 FIRST CONSPIRATOR
 3
@@ -13769,14 +13693,10 @@ After your way his tale pronounc'd shall bury
 His reasons with his body.
 
 AUFIDIUS
-7
-LORDS
-FIRST LORD
-THIRD LORD
-THIRD CONSPIRATOR
+3
 SECOND CONSPIRATOR
+THIRD CONSPIRATOR
 FIRST CONSPIRATOR
-SECOND LORD
 Say no more:
 Here come the lords.
 
@@ -13833,13 +13753,12 @@ With our own charge, making a treaty where
 There was a yielding- this admits no excuse.
 
 AUFIDIUS
-8
+7
 LORDS
 FIRST LORD
 THIRD LORD
-MARCIUS
-THIRD CONSPIRATOR
 SECOND CONSPIRATOR
+THIRD CONSPIRATOR
 FIRST CONSPIRATOR
 SECOND LORD
 He approaches; you shall hear him.

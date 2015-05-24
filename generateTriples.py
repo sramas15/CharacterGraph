@@ -1,4 +1,8 @@
-# Need to deal with Exeunt at the end of the line with no names listed = all characters leave
+# Need to deal with Exeunt at the end of the line with no names listed
+# Need to deal with [To NAME] in speech
+# Need to deal with [Within] in speech
+# Need to deal with Exeunt all but NAMES
+# Deal with "Kissing her. Exit QUEEN ELIZABETH" in 25
 
 # char lists changed:
 # char-18.txt
@@ -29,26 +33,30 @@ def newCharacterSpeaking(line):
 	return None
 
 # Checks if a line contains characters entering the scene, 
-# and if so updates currCharList
+# and if so updates currCharList and returns list of entering characters
 # Will get wrong:
 # Re-enter WHITMORE with SUFFOLK'S body
 def checkEntryLine(line, currCharList):
+	enteringChars = []
 	ind = line.lower().find('enter ')
 	if ind != -1:
 		match = re.findall(r'([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[ind+6:])
 		for group in match:
 			if group in charNames:
 				currCharList.add(group)
+				enteringChars.append(group)
 			else:
 				words = group.split()
 				if len(words) > 1: # Deals with different forms of names
 					for word in words:
 						if word in charNames:
 							currCharList.add(word)
+							enteringChars.append(word)
 				# else:
 				# 	for char in charNames: # Deals with abbreviated names
 				# 		if char.find(group) != -1:
 				# 			currCharList.add(char)
+	return enteringChars
 
 # Checks if a line contains characters leaving the scene, 
 # and if so returns (updated currCharList, line with exit removed)
@@ -68,15 +76,17 @@ def checkExit(line, currSpeaker, currCharList):
 	if ind == -1:
 		ind = line.find('Exeunt ')
 		if ind != -1:
-			ind += 7
+			charInd = ind + 7
+			# print line
 	else:
-		ind += 5
+		charInd = ind + 5
 	if ind != -1:
-		moreChars = re.findall(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[ind:])
+		moreChars = re.findall(r'(?:[a-z ]*)([A-Z][A-Za-z]+(?: [A-Z][A-Za-z]+)*)', line[charInd:])
 		if moreChars:
 			for group in moreChars:
 				if group in currCharList:
 					currCharList.remove(group)
+			# print line[:ind].rstrip()+'\n'
 			return line[:ind].rstrip()+'\n'
 	return None
 
@@ -150,10 +160,17 @@ for playNum in range(NUM_PLAYS):
 						exitLine = checkExit(line, currSpeaker, currCharList)
 						if exitLine:	
 							line = exitLine
+							currSpeech += line.lstrip() # Remove leading 4 spaces
 							exitCharList = set([currSpeaker]).union(currCharList)
 							writeToFile(currSpeaker, exitCharList, currSpeech, outFile)
 							needToWriteTriple = False
-						currSpeech += line.lstrip() # Remove leading 4 spaces
+						else:
+							currSpeech += line.lstrip() # Remove leading 4 spaces
 					else:
-						checkEntryLine(line, currCharList)
+						enteringChars = checkEntryLine(line, currCharList)
+						if enteringChars:
+							if needToWriteTriple:
+								beforeChars = currCharList.difference(enteringChars)
+								writeToFile(currSpeaker, beforeChars, currSpeech, outFile)
+								needToWriteTriple = False
 	f.close()

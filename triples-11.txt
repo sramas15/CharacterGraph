@@ -304,6 +304,7 @@ Rancour will out: proud prelate, in thy face
 I see thy fury; if I longer stay
 We shall begin our ancient bickerings.
 Lordings, farewell; and say, when I am gone,
+I prophesied France will be lost ere long.
 
 CARDINAL
 7
@@ -360,6 +361,7 @@ WARWICK
 KING HENRY
 SALISBURY
 This weighty business will not brook delay;
+I'll to the Duke of Suffolk presently.
 
 SOMERSET
 8
@@ -535,6 +537,7 @@ With whose sweet smell the air shall be perfum'd,
 And in my standard bear the arms of York,
 To grapple with the house of Lancaster;
 And force perforce I'll make him yield the crown,
+Whose bookish rule hath pull'd fair England down.
 
 DUCHESS
 0
@@ -702,6 +705,7 @@ It is enough; I'll think upon the questions;
 When from Saint Albans we do make return
 We'll see these things effected to the full.
 Here, Hume, take this reward; make merry, man,
+With thy confederates in this weighty cause.
 
 HUME
 2
@@ -727,6 +731,7 @@ To call them both a pair of crafty knaves.
 Well, so its stands; and thus, I fear, at last
 Hume's knavery will be the Duchess' wreck,
 And her attainture will be Humphrey's fall
+Sort how it will, I shall have gold for all.
 
 FIRST PETITIONER
 0
@@ -1313,6 +1318,7 @@ GLOUCESTER
 Against her will, good King? Look to 't in time;
 She'll hamper thee and dandle thee like a baby.
 Though in this place most master wear no breeches,
+She shall not strike Dame Eleanor unreveng'd.
 
 BUCKINGHAM
 13
@@ -1332,6 +1338,7 @@ GLOUCESTER
 Lord Cardinal, I will follow Eleanor,
 And listen after Humphrey, how he proceeds.
 She's tickled now; her fume needs no spurs,
+She'll gallop far enough to her destruction.
 
 GLOUCESTER
 12
@@ -1747,6 +1754,7 @@ HUME
 I have heard her reported to be a woman of an
 invincible spirit; but it shall be convenient, Master Hume, that
 you be by her aloft while we be busy below; and so I pray you go,
+in God's name, and leave us.
 
 DUCHESS
 1
@@ -1852,6 +1860,7 @@ HUME
 SPIRIT
 MARGERY JOURDAIN
 Descend to darkness and the burning lake;
+False fiend, avoid!       Thunder and lightning.
 
 YORK
 4
@@ -3371,6 +3380,7 @@ As ere thy father Henry made it mine;
 And even as willingly at thy feet I leave it
 As others would ambitiously receive it.
 Farewell, good King; when I am dead and gone,
+May honourable peace attend thy throne!
 
 QUEEN
 2
@@ -3818,6 +3828,7 @@ GLOUCESTER
 DUCHESS
 HERALD
 And my consent ne'er ask'd herein before!
+This is close dealing. Well, I will be there.
 
 SHERIFF
 2
@@ -4573,6 +4584,7 @@ Before his legs be firm to bear his body!
 Thus is the shepherd beaten from thy side,
 And wolves are gnarling who shall gnaw thee first.
 Ah, that my fear were false! ah, that it were!
+For, good King Henry, thy decay I fear.
 
 KING HENRY
 10
@@ -4639,6 +4651,7 @@ With sad unhelpful tears, and with dimm'd eyes
 Look after him, and cannot do him good,
 So mighty are his vowed enemies.
 His fortunes I will weep, and 'twixt each groan
+Say 'Who's a traitor? Gloucester he is none.'
 
 QUEEN
 9
@@ -5188,6 +5201,7 @@ Say that he thrive, as 'tis great like he will,
 Why, then from Ireland come I with my strength,
 And reap the harvest which that rascal sow'd;
 For Humphrey being dead, as he shall be,
+And Henry put apart, the next for me.
 
 FIRST MURDERER
 0
@@ -5237,7 +5251,7 @@ SUFFOLK
 2
 FIRST MURDERER
 SECOND MURDERER
-Away! be gone.                       Exeunt
+Away! be gone.
 
 KING HENRY
 3
@@ -5538,6 +5552,7 @@ KING HENRY
 SOMERSET
 SECOND MURDERER
 That shall I do, my liege. Stay, Salisbury,
+With the rude multitude till I return.
 
 KING HENRY
 6
@@ -6869,6 +6884,7 @@ SECOND GENTLEMAN
 FIRST GENTLEMAN
 SUFFOLK
 There let his head and lifeless body lie,
+Until the Queen his mistress bury it.
 
 FIRST GENTLEMAN
 5
@@ -7322,6 +7338,7 @@ DICK
 SMITH
 GEORGE
 Away with him, I say! Hang him with his pen and inkhorn about
+his neck.
 
 MICHAEL
 6
@@ -8926,6 +8943,7 @@ Hence will I drag thee headlong by the heels
 Unto a dunghill, which shall be thy grave,
 And there cut off thy most ungracious head,
 Which I will bear in triumph to the King,
+Leaving thy trunk for crows to feed upon.
 
 YORK
 0
@@ -9179,6 +9197,7 @@ QUEEN
 KING HENRY
 Wouldst have me kneel? First let me ask of these,
 If they can brook I bow a knee to man.
+Sirrah, call in my sons to be my bail:
 
 QUEEN
 4
@@ -9728,6 +9747,7 @@ WARWICK
 YORK
 Then, nobly, York; 'tis for a crown thou fight'st.
 As I intend, Clifford, to thrive to-day,
+It grieves my soul to leave thee unassail'd.
 
 CLIFFORD
 1
@@ -9771,6 +9791,7 @@ YORK
 1
 CLIFFORD
 Thus war hath given thee peace, for thou art still.
+Peace with his soul, heaven, if it be thy will!
 
 YOUNG CLIFFORD
 1
@@ -9821,6 +9842,7 @@ For underneath an alehouse' paltry sign,
 The Castle in Saint Albans, Somerset
 Hath made the wizard famous in his death.
 Sword, hold thy temper; heart, be wrathful still:
+Priests pray for enemies, but princes kill.
 
 QUEEN
 2

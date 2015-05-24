@@ -11,8 +11,7 @@ Chorus
 An Apothecary
 
 An Officer
-3
-Chorus
+2
 An Apothecary
 Three Musicians
 Maskers, Torchbearers, Pages, Guards, Watchmen, Servants, and
@@ -294,12 +293,11 @@ I do but keep the peace. Put up thy sword,
 Or manage it to part these men with me.
 
 Tyb
-5
-Ben
-Citizens
+4
+Samp
 Abr
 Greg
-Samp
+Ben
 What, drawn, and talk of peace? I hate the word
 As I hate hell, all Montagues, and thee.
 Have at thee, coward!                            They fight.
@@ -315,9 +313,8 @@ Samp
 Clubs, bills, and partisans! Strike! beat them down!
 
 Citizens
-7
+6
 Ben
-Wife
 Tyb
 Abr
 Greg
@@ -350,10 +347,9 @@ Samp
 A crutch, a crutch! Why call you for a sword?
 
 Cap
-8
-Ben
-Wife
+7
 Citizens
+Ben
 Tyb
 Abr
 Greg
@@ -363,17 +359,16 @@ My sword, I say! Old Montague is come
 And flourishes his blade in spite of me.
 
 Mon
-10
-Cap
+9
+Citizens
 Ben
 Wife
-Citizens
+Cap
 Tyb
 Abr
 Greg
 Officer
 Samp
-Prince
 Thou villain Capulet!- Hold me not, let me go.
 
 Prince
@@ -1371,6 +1366,7 @@ Ben
 Rom
 Now I'll tell you without asking. My master is the great rich
 Capulet; and if you be not of the house of Montagues, I pray come
+and crush a cup of wine. Rest you merry!
 
 Ben
 3
@@ -2092,6 +2088,7 @@ Rom
 Patience perforce with wilful choler meeting
 Makes my flesh tremble in their different greeting.
 I will withdraw; but this intrusion shall,
+Now seeming sweet, convert to bitt'rest gall.
 
 Rom
 2
@@ -2238,6 +2235,7 @@ Nay, gentlemen, prepare not to be gone;
 We have a trifling foolish banquet towards.
 Is it e'en so? Why then, I thank you all.
 I thank you, honest gentlemen. Good night.
+More torches here! [
 
 Jul
 5
@@ -2345,13 +2343,12 @@ A rhyme I learnt even now
 Of one I danc'd withal.
 
 Nurse
-6
+5
 Serv
 Ben
 Rom
 Cap
 Jul
-Chorus
 Anon, anon!
 Come, let's away; the strangers all are gone.        Exeunt.
 
@@ -2740,6 +2737,7 @@ My love as deep; the more I give to thee,
 The more I have, for both are infinite.
 I hear some noise within. Dear love, adieu!
 Anon, good nurse! Sweet Montague, be true.
+Stay but a little, I will come again.
 
 Rom
 0
@@ -3367,12 +3365,9 @@ come to the whole depth of my tale, and meant indeed to occupy
 the argument no longer.
 
 Rom
-5
+2
 Ben
 Mer
-Nurse
-Peter
-Man
 Here's goodly gear!
 
 Mer
@@ -3856,9 +3851,7 @@ Man
 Peter, take my fan, and go before, and apace.
 
 Jul
-2
-Nurse
-Peter
+0
 The clock struck nine when I did send the nurse;
 In half an hour she 'promis'd to return.
 Perchance she cannot meet him. That's not so.
@@ -3876,8 +3869,6 @@ My words would bandy her to my sweet love,
 And his to me,
 But old folks, many feign as they were dead-
 Unwieldy, slow, heavy and pale as lead.
-O God, she comes! O honey nurse, what news?
-Hast thou met with him? Send thy man away.
 
 Nurse
 2
@@ -4602,13 +4593,12 @@ Friar
 O, I am fortune's fool!
 
 Ben
-6
-Rom
-Citizens
-Tyb
+5
 Jul
+Rom
 Mer
 Friar
+Tyb
 Why dost thou stay?
 
 Citizen
@@ -4635,15 +4625,14 @@ Friar
 There lies that Tybalt.
 
 Citizen
-8
+7
 Ben
 Rom
 Citizens
+Mer
 Tyb
 Jul
-Mer
 Friar
-Prince
 Up, sir, go with me.
 I charge thee in the Prince's name obey.
 
@@ -4814,8 +4803,7 @@ Bear hence this body, and attend our will.
 Mercy but murders, pardoning those that kill.
 
 Jul
-1
-Nurse
+0
 Gallop apace, you fiery-footed steeds,
 Towards Phoebus' lodging! Such a wagoner
 As Phaeton would whip you to the West
@@ -4847,10 +4835,6 @@ Not yet enjoy'd. So tedious is this day
 As is the night before some festival
 To an impatient child that hath new robes
 And may not wear them. O, here comes my nurse,
-And she brings news; and every tongue that speaks
-But Romeo's name speaks heavenly eloquence.
-Now, nurse, what news? What hast thou there? the cords
-That Romeo bid thee fetch?
 
 Nurse
 1
@@ -5222,8 +5206,7 @@ Rom
 I come from Lady Juliet.
 
 Friar
-2
-Nurse
+1
 Rom
 Welcome then.
 
@@ -5383,6 +5366,7 @@ Nurse
 Friar
 Rom
 Here is a ring she bid me give you, sir.
+Hie you, make haste, for it grows very late.
 
 Rom
 1
@@ -5544,8 +5528,7 @@ Hunting thee hence with hunt's-up to the day!
 O, now be gone! More light and light it grows.
 
 Rom
-2
-Nurse
+1
 Jul
 More light and light- more dark and dark our woes!
 
@@ -5645,11 +5628,10 @@ Jul
 [within] Ho, daughter! are you up?
 
 Jul
-4
+3
 Nurse
 Lady
 Rom
-Mother
 Who is't that calls? It is my lady mother.
 Is she not down so late, or up so early?
 What unaccustom'd cause procures her hither?
@@ -5854,8 +5836,7 @@ It shall be Romeo, whom you know I hate,
 Rather than Paris. These are news indeed!
 
 Lady
-4
-Nurse
+3
 Rom
 Jul
 Mother
@@ -6064,6 +6045,7 @@ An you be mine, I'll give you to my friend;
 An you be not, hang, beg, starve, die in the streets,
 For, by my soul, I'll ne'er acknowledge thee,
 Nor what is mine shall never do thee good.
+Trust to't. Bethink you. I'll not be forsworn.
 
 Jul
 4
@@ -6085,6 +6067,7 @@ Rom
 Jul
 Mother
 Talk not to me, for I'll not speak a word.
+Do as thou wilt, for I have done with thee.
 
 Jul
 3
@@ -6177,6 +6160,7 @@ Which she hath prais'd him with above compare
 So many thousand times? Go, counsellor!
 Thou and my bosom henceforth shall be twain.
 I'll to the friar to know his remedy.
+If all else fail, myself have power to die.
 
 Friar
 0
@@ -6333,6 +6317,7 @@ Friar
 Jul
 God shield I should disturb devotion!
 Juliet, on Thursday early will I rouse ye.
+Till then, adieu, and keep this holy kiss.
 
 Jul
 1
@@ -6636,9 +6621,8 @@ Against to-morrow. My heart is wondrous light,
 Since this same wayward girl is so reclaim'd.
 
 Jul
-2
+1
 Nurse
-Mother
 Ay, those attires are best; but, gentle nurse,
 I pray thee leave me to myself to-night;
 For I have need of many orisons
@@ -6795,10 +6779,10 @@ Nurse
 Lady
 Fellow
 Mass, and well said; a merry whoreson, ha!
+Thou shalt be loggerhead.
 
 Nurse
-1
-Mother
+0
 Mistress! what, mistress! Juliet! Fast, I warrant her, she.
 Why, lamb! why, lady! Fie, you slug-abed!
 Why, love, I say! madam! sweetheart! Why, bride!
@@ -6837,9 +6821,8 @@ Mother
 Look, look! O heavy day!
 
 Mother
-2
+1
 Nurse
-Father
 O me, O me! My child, my only life!
 Revive, look up, or I will die with thee!
 Help, help! Call help.
@@ -6888,8 +6871,7 @@ Father
 O woful time!
 
 Cap
-4
-Friar
+3
 Nurse
 Father
 Mother
@@ -7045,6 +7027,7 @@ Friar
 Cap
 Father
 Honest good fellows, ah, put up, put up!
+For well you know this is a pitiful case.
 
 Pet
 6
@@ -7157,8 +7140,7 @@ for sounding.
 mourners, and stay dinner.
 
 Rom
-1
-Man
+0
 If I may trust the flattering truth of sleep
 My dreams presage some joyful news at hand.
 My bosom's lord sits lightly in his throne,
@@ -7170,11 +7152,6 @@ And breath'd such life with kisses in my lips
 That I reviv'd and was an emperor.
 Ah me! how sweet is love itself possess'd,
 When but love's shadows are so rich in joy!
-News from Verona! How now, Balthasar?
-Dost thou not bring me letters from the friar?
-How doth my lady? Is my father well?
-How fares my Juliet? That I ask again,
-For nothing can be ill if she be well.
 
 Man
 1
@@ -7313,8 +7290,7 @@ Come, cordial and not poison, go with me
 To Juliet's grave; for there must I use thee.
 
 John
-1
-Friar
+0
 Holy Franciscan friar, brother, ho!
 
 Laur
@@ -7378,6 +7354,7 @@ She will beshrew me much that Romeo
 Hath had no notice of these accidents;
 But I will write again to Mantua,
 And keep her at my cell till Romeo come-
+Poor living corse, clos'd in a dead man's tomb!
 
 Par
 1
@@ -7750,8 +7727,7 @@ To make me die with a restorative.             [Kisses him.]
 Thy lips are warm!
 
 Chief Watch
-7
-Boy
+6
 Par
 Rom
 Jul
@@ -7774,7 +7750,7 @@ Page
 This is the place. There, where the torch doth burn.
 
 Chief Watch
-8
+7
 Boy
 Par
 Rom
@@ -7782,7 +7758,6 @@ Jul
 Friar
 Bal
 Page
-Man
 'the ground is bloody. Search about the churchyard.
 Go, some of you; whoe'er you find attach.
 Pitiful sight! here lies the County slain;
@@ -7795,43 +7770,38 @@ But the true ground of all these piteous woes
 We cannot without circumstance descry.
 
 Chief Watch
+7
+Boy
+Par
+Rom
+Jul
+Bal
+Page
+Man
+Hold him in safety till the Prince come hither.
+
+Chief Watch
 8
 Boy
 Par
 Rom
 Jul
+Page
 Friar
 Bal
-Page
-Man
-Hold him in safety till the Prince come hither.
-We took this mattock and this spade from him
-As he was coming from this churchyard side.
-
-Chief Watch
-9
-Boy
-Par
-Rom
-Jul
-Prince
-Friar
-Bal
-Page
 Man
 A great suspicion! Stay the friar too.
 
 Prince
-10
+9
 Boy
 Par
 Rom
-Wife
 Chief Watch
 Jul
+Page
 Friar
 Bal
-Page
 Man
 What misadventure is so early up,
 That calls our person from our morning rest?

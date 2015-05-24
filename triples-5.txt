@@ -148,11 +148,8 @@ FIRST GENTLEMAN
 I do well believe you.
 
 FIRST GENTLEMAN
-4
+1
 SECOND GENTLEMAN
-QUEEN
-IMOGEN
-POSTHUMUS
 We must forbear; here comes the gentleman,
 The Queen, and Princess.                              Exeunt
 
@@ -191,6 +188,7 @@ IMOGEN
 You know the peril.
 I'll fetch a turn about the garden, pitying
 The pangs of barr'd affections, though the King
+Hath charg'd you should not speak together.
 
 IMOGEN
 3
@@ -208,9 +206,8 @@ But that there is this jewel in the world
 That I may see again.
 
 POSTHUMUS
-4
+3
 SECOND GENTLEMAN
-QUEEN
 FIRST GENTLEMAN
 IMOGEN
 My queen! my mistress!
@@ -235,6 +232,7 @@ If the King come, I shall incur I know not
 How much of his displeasure. [Aside] Yet I'll move him
 To walk this way. I never do him wrong
 But he does buy my injuries, to be friends;
+Pays dear for my offences.
 
 POSTHUMUS
 3
@@ -280,11 +278,10 @@ It is a manacle of love; I'll place it
 Upon this fairest prisoner.     [Puts a bracelet on her arm]
 
 IMOGEN
-4
+3
 SECOND GENTLEMAN
-CYMBELINE
-FIRST GENTLEMAN
 POSTHUMUS
+FIRST GENTLEMAN
 O the gods!
 When shall we see again?
 
@@ -315,6 +312,7 @@ CYMBELINE
 SECOND GENTLEMAN
 The gods protect you,
 And bless the good remainders of the court!
+I am gone.
 
 IMOGEN
 3
@@ -414,11 +412,10 @@ IMOGEN
 What, art thou mad?
 
 IMOGEN
-4
-CYMBELINE
-QUEEN
-FIRST GENTLEMAN
+3
 SECOND GENTLEMAN
+FIRST GENTLEMAN
+CYMBELINE
 Almost, sir. Heaven restore me! Would I were
 A neat-herd's daughter, and my Leonatus
 Our neighbour shepherd's son!
@@ -453,6 +450,7 @@ FIRST GENTLEMAN
 IMOGEN
 Nay, let her languish
 A drop of blood a day and, being aged,
+Die of this folly.
 
 QUEEN
 4
@@ -769,9 +767,8 @@ Be assur'd, madam,
 With his next vantage.
 
 IMOGEN
-2
+1
 PISANIO
-LADY
 I did not take my leave of him, but had
 Most pretty things to say. Ere I could tell him
 How I would think on him at certain hours
@@ -856,18 +853,11 @@ flat, for taking a beggar, without less quality. But how comes it
 he is to sojourn with you? How creeps acquaintance?
 
 PHILARIO
-3
-POSTHUMUS
+2
 IACHIMO
 FRENCHMAN
 His father and I were soldiers together, to whom I have
 been often bound for no less than my life.
-Here comes the Briton. Let him be so entertained amongst you as
-suits with gentlemen of your knowing to a stranger of his
-quality. I beseech you all be better known to this gentleman,
-whom I commend to you as a noble friend of mine. How worthy he is
-I will leave to appear hereafter, rather than story him in his
-own hearing.
 
 FRENCHMAN
 3
@@ -1237,7 +1227,7 @@ POSTHUMUS
 2
 FRENCHMAN
 PHILARIO
-Agreed.                Exeunt
+Agreed.
 
 FRENCHMAN
 1
@@ -1265,7 +1255,7 @@ I, madam.
 QUEEN
 1
 CORNELIUS
-Dispatch.                                 Exeunt
+Dispatch.
 
 CORNELIUS
 1
@@ -1304,9 +1294,8 @@ Besides, the seeing these effects will be
 Both noisome and infectious.
 
 QUEEN
-2
+1
 CORNELIUS
-PISANIO
 O, content thee.
 
 QUEEN
@@ -1395,10 +1384,10 @@ To any shape of thy preferment, such
 As thou'lt desire; and then myself, I chiefly,
 That set thee on to this desert, am bound
 To load thy merit richly. Call my women.
+Think on my words.
 
 QUEEN
-1
-PISANIO
+0
  A sly and constant knave,
 Not to be shak'd; the agent for his master,
 And the remembrancer of her to hold
@@ -1414,16 +1403,16 @@ PISANIO
  So, so. Well done, well done.
 The violets, cowslips, and the primroses,
 Bear to my closet. Fare thee well, Pisanio;
+Think on my words.
 
 PISANIO
 0
 And shall do.
 But when to my good lord I prove untrue
+I'll choke myself- there's all I'll do for you.
 
 IMOGEN
-2
-PISANIO
-IACHIMO
+0
 A father cruel and a step-dame false;
 A foolish suitor to a wedded lady
 That hath her husband banish'd. O, that husband!
@@ -1554,6 +1543,7 @@ PISANIO
 IACHIMO
 IMOGEN
 I was going, sir,
+To give him welcome.
 
 IMOGEN
 1
@@ -2093,6 +2083,7 @@ Of thy dear husband, than that horrid act
 Of the divorce he'd make! The heavens hold firm
 The walls of thy dear honour, keep unshak'd
 That temple, thy fair mind, that thou mayst stand
+T' enjoy thy banish'd lord and this great land!
 
 IMOGEN
 1
@@ -2121,6 +2112,7 @@ I have read three hours then. Mine eyes are weak;
 Fold down the leaf where I have left. To bed.
 Take not away the taper, leave it burning;
 And if thou canst awake by four o' th' clock,
+I prithee call me. Sleep hath seiz'd me wholly.
 
 IMOGEN
 1
@@ -2173,6 +2165,7 @@ To th' trunk again, and shut the spring of it.
 Swift, swift, you dragons of the night, that dawning
 May bare the raven's eye! I lodge in fear;
 Though this a heavenly angel, hell is here.  [Clock strikes]
+One, two, three. Time, time!
 
 FIRST LORD
 2
@@ -2239,6 +2232,7 @@ SECOND LORD
  So, get you gone. If this penetrate, I will consider your music
 the better; if it do not, it is a vice in her ears which
 horsehairs and calves' guts, nor the voice of unpaved eunuch to
+boot, can never amend.
 
 SECOND LORD
 4
@@ -2305,12 +2299,11 @@ Save when command to your dismission tends,
 And therein you are senseless.
 
 CLOTEN
-5
+4
 FIRST LORD
 CYMBELINE
-QUEEN
-MESSENGER
 SECOND LORD
+QUEEN
 Senseless? Not so.
 
 MESSENGER
@@ -2341,13 +2334,12 @@ Attend the Queen and us; we shall have need
 T' employ you towards this Roman. Come, our queen.
 
 CLOTEN
-6
+5
 FIRST LORD
-CYMBELINE
-QUEEN
 MESSENGER
+CYMBELINE
 SECOND LORD
-LADY
+QUEEN
 If she be up, I'll speak with her; if not,
 Let her lie still and dream. By your leave, ho!     [Knocks]
 I know her women are about her; what
@@ -2446,11 +2438,10 @@ LADY
 There is gold for you; sell me your good report.
 
 LADY
-7
+6
 FIRST LORD
 CLOTEN
 CYMBELINE
-IMOGEN
 QUEEN
 MESSENGER
 SECOND LORD
@@ -2640,11 +2631,10 @@ LADY
 The south fog rot him!
 
 IMOGEN
-8
+7
 FIRST LORD
 CLOTEN
 CYMBELINE
-PISANIO
 QUEEN
 MESSENGER
 SECOND LORD
@@ -2786,6 +2776,7 @@ LADY
 Your mother too.
 She's my good lady and will conceive, I hope,
 But the worst of me. So I leave you, sir,
+To th' worst of discontent.
 
 CLOTEN
 7
@@ -2797,6 +2788,7 @@ MESSENGER
 SECOND LORD
 LADY
 I'll be reveng'd.
+'His mean'st garment'! Well.
 
 POSTHUMUS
 1
@@ -2831,8 +2823,7 @@ Or look upon our Romans, whose remembrance
 Is yet fresh in their grief.
 
 POSTHUMUS
-2
-IACHIMO
+1
 PHILARIO
 I do believe
 Statist though I am none, nor like to be,
@@ -3245,6 +3236,7 @@ IACHIMO
 PHILARIO
 O that I had her here to tear her limb-meal!
 I will go there and do't, i' th' court, before
+Her father. I'll do something-
 
 PHILARIO
 1
@@ -3295,6 +3287,7 @@ One vice but of a minute old for one
 Not half so old as that. I'll write against them,
 Detest them, curse them. Yet 'tis greater skill
 In a true hate to pray they have their will:
+The very devils cannot plague them better.
 
 CYMBELINE
 3
@@ -3505,8 +3498,7 @@ I know your master's pleasure, and he mine;
 All the remain is, welcome.                           Exeunt
 
 PISANIO
-1
-IMOGEN
+0
 How? of adultery? Wherefore write you not
 What monsters her accuse? Leonatus!
 O master, what a strange infection
@@ -3786,6 +3778,7 @@ Thou refts me of my lands. Euriphile,
 Thou wast their nurse; they took thee for their mother,
 And every day do honour to her grave.
 Myself, Belarius, that am Morgan call'd,
+They take for natural father. The game is up.
 
 IMOGEN
 1
@@ -4266,11 +4259,11 @@ Before the Roman, nor to us hath tender'd
 The duty of the day. She looks us like
 A thing more made of malice than of duty;
 We have noted it. Call her before us, for
+We have been too slight in sufferance.
 
 QUEEN
-3
+2
 CLOTEN
-MESSENGER
 LUCIUS
 Royal sir,
 Since the exile of Posthumus, most retir'd
@@ -4321,6 +4314,7 @@ QUEEN
 LUCIUS
 Her doors lock'd?
 Not seen of late? Grant, heavens, that which I fear
+Prove false!
 
 QUEEN
 3
@@ -4358,12 +4352,12 @@ MESSENGER
 CLOTEN
 LUCIUS
 All the better. May
+This night forestall him of the coming day!
 
 CLOTEN
-3
-PISANIO
-LUCIUS
+2
 MESSENGER
+LUCIUS
 I love and hate her; for she's fair and royal,
 And that she hath all courtly parts more exquisite
 Than lady, ladies, woman. From every one
@@ -4375,10 +4369,6 @@ That what's else rare is chok'd; and in that point
 I will conclude to hate her, nay, indeed,
 To be reveng'd upon her. For when fools
 Shall-
-Who is here? What, are you packing, sirrah?
-Come hither. Ah, you precious pander! Villain,
-Where is thy lady? In a word, or else
-Thou art straightway with the fiends.
 
 PISANIO
 3
@@ -4559,10 +4549,9 @@ LUCIUS
 I shall, my lord.
 
 CLOTEN
-3
-PISANIO
-LUCIUS
+2
 MESSENGER
+LUCIUS
 Meet thee at Milford Haven! I forgot to ask him one thing;
 I'll remember't anon. Even there, thou villain Posthumus, will I
 kill thee. I would these garments were come. She said upon a
@@ -4577,7 +4566,6 @@ which, as I say, to vex her I will execute in the clothes that
 she so prais'd- to the court I'll knock her back, foot her home
 again. She hath despis'd me rejoicingly, and I'll be merry in my
 revenge.
-Be those the garments?
 
 PISANIO
 3
@@ -4609,6 +4597,7 @@ Bring this apparel to my chamber; that is the second thing
 that I have commanded thee. The third is that thou wilt be a
 voluntary mute to my design. Be but duteous and true, preferment
 shall tender itself to thee. My revenge is now at Milford, would
+I had wings to follow it! Come, and be true.
 
 PISANIO
 2
@@ -4619,6 +4608,7 @@ Were to prove false, which I will never be,
 To him that is most true. To Milford go,
 And find not her whom thou pursuest. Flow, flow,
 You heavenly blessings, on her! This fool's speed
+Be cross'd with slowness! Labour be his meed!
 
 IMOGEN
 0
@@ -4648,6 +4638,7 @@ If anything that's civil, speak; if savage,
 Take or lend. Ho! No answer? Then I'll enter.
 Best draw my sword; and if mine enemy
 But fear the sword, like me, he'll scarcely look on't.
+Such a foe, good heavens!
 
 BELARIUS
 2
@@ -4697,9 +4688,8 @@ ARVIRAGUS
 What's the matter, sir?
 
 BELARIUS
-3
+2
 GUIDERIUS
-IMOGEN
 ARVIRAGUS
  By Jupiter, an angel! or, if not,
 An earthly paragon! Behold divineness
@@ -4971,6 +4961,7 @@ mother, having power of his testiness, shall turn all into my
 commendations. My horse is tied up safe. Out, sword, and to a
 sore purpose! Fortune, put them into my hand. This is the very
 description of their meeting-place; and the fellow dares not
+deceive me.
 
 BELARIUS
 0
@@ -5186,11 +5177,10 @@ And let the stinking elder, grief, untwine
 His perishing root with the increasing vine!
 
 BELARIUS
-4
+3
 GUIDERIUS
-IMOGEN
-CLOTEN
 ARVIRAGUS
+IMOGEN
 It is great morning. Come, away! Who's there?
 
 CLOTEN
@@ -5220,6 +5210,7 @@ CLOTEN
 IMOGEN
 He is but one; you and my brother search
 What companies are near. Pray you away;
+Let me alone with him.
 
 CLOTEN
 2
@@ -5340,11 +5331,9 @@ Those that I reverence, those I fear- the wise:
 At fools I laugh, not fear them.
 
 CLOTEN
-4
-BELARIUS
-GUIDERIUS
+2
 IMOGEN
-ARVIRAGUS
+GUIDERIUS
 Die the death.
 When I have slain thee with my proper hand,
 I'll follow those that even now fled hence,
@@ -5390,11 +5379,9 @@ I wish my brother make good time with him,
 You say he is so fell.
 
 BELARIUS
-4
-GUIDERIUS
-IMOGEN
-CLOTEN
+2
 ARVIRAGUS
+IMOGEN
 Being scarce made up,
 I mean to man, he had not apprehension
 Or roaring terrors; for defect of judgment
@@ -5517,6 +5504,7 @@ Which he did wave against my throat, I have ta'en
 His head from him. I'll throw't into the creek
 Behind our rock, and let it to the sea
 And tell the fishes he's the Queen's son, Cloten.
+That's all I reck.
 
 BELARIUS
 3
@@ -5559,12 +5547,12 @@ BELARIUS
 Poor sick Fidele!
 I'll willingly to him; to gain his colour
 I'd let a parish of such Cloten's blood,
+And praise myself for charity.
 
 BELARIUS
-3
-GUIDERIUS
-IMOGEN
+2
 CLOTEN
+IMOGEN
 O thou goddess,
 Thou divine Nature, thou thyself thou blazon'st
 In these two princely boys! They are as gentle
@@ -5615,11 +5603,9 @@ CLOTEN
 He went hence even now.
 
 GUIDERIUS
-4
-BELARIUS
-IMOGEN
+2
 CLOTEN
-ARVIRAGUS
+BELARIUS
 What does he mean? Since death of my dear'st mother
 It did not speak before. All solemn things
 Should answer solemn accidents. The matter?
@@ -5954,12 +5940,10 @@ GUIDERIUS
 Nothing ill come near thee!
 
 BOTH
-5
-CLOTEN
+3
 IMOGEN
-ARVIRAGUS
-BELARIUS
 GUIDERIUS
+ARVIRAGUS
      Quiet consummation have,
 
 GUIDERIUS
@@ -5988,12 +5972,10 @@ The ground that gave them first has them again.
 Their pleasures here are past, so is their pain.
 
 IMOGEN
-7
+5
 BOTH
 CLOTEN
-LUCIUS
 ARVIRAGUS
-SOOTHSAYER
 BELARIUS
 GUIDERIUS
 [Awaking] Yes, sir, to Milford Haven. Which is the way?
@@ -6395,6 +6377,7 @@ LORD
 I thank you. Let's withdraw,
 And meet the time as it seeks us. We fear not
 What can from Italy annoy us; but
+We grieve at chances here. Away!
 
 PISANIO
 2
@@ -6410,6 +6393,7 @@ Wherein I am false I am honest; not true, to be true.
 These present wars shall find I love my country,
 Even to the note o' th' King, or I'll fall in them.
 All other doubts, by time let them be clear'd:
+Fortune brings in some boats that are not steer'd.
 
 GUIDERIUS
 2
@@ -6574,6 +6558,7 @@ Myself I'll dedicate. Let me make men know
 More valour in me than my habits show.
 Gods, put the strength o' th' Leonati in me!
 To shame the guise o' th' world, I will begin
+The fashion- less without and more within.
 
 IACHIMO
 1
@@ -6587,6 +6572,7 @@ In my profession? Knighthoods and honours borne
 As I wear mine are titles but of scorn.
 If that thy gentry, Britain, go before
 This lout as he exceeds our lords, the odds
+Is that we scarce are men, and you are gods.
 
 BELARIUS
 1
@@ -6731,9 +6717,7 @@ POSTHUMUS
 Farewell; you're angry.
 
 POSTHUMUS
-2
-FIRST CAPTAIN
-SECOND CAPTAIN
+0
 Still going? This is a lord! O noble misery,
 To be i' th' field and ask 'What news?' of me!
 To-day how many would have given their honours
@@ -6785,13 +6769,8 @@ Who had not now been drooping here if seconds
 Had answer'd him.
 
 SECOND CAPTAIN
-7
-CYMBELINE
-ARVIRAGUS
-PISANIO
+2
 POSTHUMUS
-BELARIUS
-GUIDERIUS
 FIRST CAPTAIN
 Lay hands on him; a dog!
 A leg of Rome shall not return to tell
@@ -6808,7 +6787,7 @@ So graze as you find pasture.
 SECOND GAOLER
 1
 POSTHUMUS
-Ay, or a stomach.                Exeunt
+Ay, or a stomach.
 
 POSTHUMUS
 0
@@ -6919,12 +6898,11 @@ MOTHER
 Peep through thy marble mansion. Help!
 
 BROTHERS
-6
+5
+POSTHUMUS
+MOTHER
 SECOND BROTHER
 FIRST BROTHER
-POSTHUMUS
-JUPITER
-MOTHER
 SICILIUS
 Help, Jupiter! or we appeal,
 
@@ -6998,14 +6976,13 @@ His radiant roof. Away! and, to be blest,
 Let us with care perform his great behest.   [GHOSTS vanish]
 
 POSTHUMUS
-8
+7
 ALL
 BROTHERS
 SECOND BROTHER
 FIRST BROTHER
 JUPITER
 MOTHER
-GAOLER
 SICILIUS
 [Waking] Sleep, thou has been a grandsire and begot
 A father to me; and thou hast created
@@ -7178,7 +7155,7 @@ I tell thee, fellow, there are none want eyes to direct
 them the way I am going, but such as wink and will not use them.
 
 GAOLER
-9
+8
 ALL
 BROTHERS
 SECOND BROTHER
@@ -7186,7 +7163,6 @@ FIRST BROTHER
 POSTHUMUS
 JUPITER
 MOTHER
-MESSENGER
 SICILIUS
 What an infinite mock is this, that a man should have the
 best use of eyes to see the way of blindness! I am sure hanging's
@@ -7242,6 +7218,7 @@ MOTHER
 GAOLER
 SICILIUS
 Thou shalt be then freer than a gaoler; no bolts for the
+dead.
 
 GAOLER
 7
@@ -7258,6 +7235,7 @@ knaves desire to live, for all he be a Roman; and there be some
 of them too that die against their wills; so should I, if I were
 one. I would we were all of one mind, and one mind good. O, there
 were desolation of gaolers and gallowses! I speak against my
+present profit, but my wish hath a preferment in't.
 
 CYMBELINE
 4
@@ -7325,12 +7303,11 @@ Further to boast were neither true nor modest,
 Unless I add we are honest.
 
 CYMBELINE
-5
-PISANIO
+4
 ARVIRAGUS
 BELARIUS
+PISANIO
 GUIDERIUS
-CORNELIUS
 Bow your knees.
 Arise my knights o' th' battle; I create you
 Companions to our person, and will fit you
@@ -7480,12 +7457,9 @@ CORNELIUS
 We did, so please your Highness.
 
 CYMBELINE
-9
+6
 PISANIO
-IACHIMO
-LUCIUS
 ARVIRAGUS
-SOOTHSAYER
 BELARIUS
 GUIDERIUS
 CORNELIUS

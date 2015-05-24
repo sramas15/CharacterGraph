@@ -82,12 +82,9 @@ SALERIO
 Fie, fie!
 
 SOLANIO
-5
-GRATIANO
-LORENZO
-BASSANIO
-ANTONIO
+2
 SALERIO
+ANTONIO
 Not in love neither? Then let us say you are sad
 Because you are not merry; and 'twere as easy
 For you to laugh and leap and say you are merry,
@@ -98,9 +95,6 @@ And laugh like parrots at a bag-piper;
 And other of such vinegar aspect
 That they'll not show their teeth in way of smile
 Though Nestor swear the jest be laughable.
-Here comes Bassanio, your most noble kinsman,
-Gratiano and Lorenzo. Fare ye well;
-We leave you now with better company.
 
 SALERIO
 5
@@ -614,12 +608,10 @@ True, madam; he, of all the men that ever my foolish eyes
 look'd upon, was the best deserving a fair lady.
 
 PORTIA
-2
-SERVINGMAN
+1
 NERISSA
 I remember him well, and I remember him worthy of thy
 praise.
-How now! what news?
 
 SERVINGMAN
 2
@@ -723,9 +715,8 @@ SHYLOCK
 If it please you to dine with us.
 
 SHYLOCK
-2
+1
 BASSANIO
-ANTONIO
 Yes, to smell pork, to eat of the habitation which your
 prophet, the Nazarite, conjured the devil into! I will buy with
 you, sell with you, talk with you, walk with you, and so
@@ -1118,8 +1109,7 @@ Good fortune then,
 To make me blest or cursed'st among men!
 
 LAUNCELOT
-1
-GOBBO
+0
 Certainly my conscience will serve me to run from this
 Jew my master. The fiend is at mine elbow and tempts me, saying
 to me 'Gobbo, Launcelot Gobbo, good Launcelot' or 'good Gobbo' or
@@ -1309,10 +1299,8 @@ Lord, how art thou chang'd! How dost thou and thy master
 agree? I have brought him a present. How 'gree you now?
 
 LAUNCELOT
-3
+1
 GOBBO
-BASSANIO
-LEONARDO
 Well, well; but, for mine own part, as I have set up my
 rest to run away, so I will not rest till I have run some ground.
 My master's a very Jew. Give him a present! Give him a halter. I
@@ -1331,6 +1319,7 @@ LEONARDO
 You may do so; but let it be so hasted that supper be
 ready at the farthest by five of the clock. See these letters
 delivered, put the liveries to making, and desire Gratiano to
+come anon to my lodging.
 
 LAUNCELOT
 2
@@ -1493,11 +1482,10 @@ Return in haste, for I do feast to-night
 My best esteem'd acquaintance; hie thee, go.
 
 LEONARDO
-4
+3
 LAUNCELOT
 GOBBO
 BASSANIO
-GRATIANO
 My best endeavours shall be done herein.
 
 GRATIANO
@@ -1674,14 +1662,12 @@ GRATIANO
 And better in my mind not undertook.
 
 LORENZO
-4
-LAUNCELOT
+3
 SOLANIO
 SALERIO
 GRATIANO
 'Tis now but four o'clock; we have two hours
 To furnish us.
-Friend Launcelot, what's the news?
 
 LAUNCELOT
 4
@@ -1743,6 +1729,7 @@ SALERIO
 GRATIANO
 Hold, here, take this. Tell gentle Jessica
 I will not fail her; speak it privately.
+Go, gentlemen,
 
 SALERIO
 3
@@ -1772,7 +1759,7 @@ SALERIO
 LAUNCELOT
 LORENZO
 GRATIANO
-'Tis good we do so.        Exeunt
+'Tis good we do so.
 
 GRATIANO
 2
@@ -1817,9 +1804,8 @@ LAUNCELOT
 Who bids thee call? I do not bid thee call.
 
 LAUNCELOT
-2
+1
 SHYLOCK
-JESSICA
 Your worship was wont to tell me I could do nothing
 without bidding.
 
@@ -1889,6 +1875,7 @@ JESSICA
 I will go before, sir. Mistress, look out at window for
 all this.
 There will come a Christian by
+Will be worth a Jewess' eye.
 
 SHYLOCK
 1
@@ -1912,10 +1899,12 @@ His borrowed purse. Well, Jessica, go in;
 Perhaps I will return immediately.
 Do as I bid you, shut doors after you.
 Fast bind, fast find-
+A proverb never stale in thrifty mind.
 
 JESSICA
 0
 Farewell; and if my fortune be not crost,
+I have a father, you a daughter, lost.
 
 GRATIANO
 1
@@ -1942,8 +1931,7 @@ To seal love's bonds new made than they are wont
 To keep obliged faith unforfeited!
 
 GRATIANO
-2
-LORENZO
+1
 SALERIO
 That ever holds: who riseth from a feast
 With that keen appetite that he sits down?
@@ -1965,8 +1953,7 @@ GRATIANO
 Here comes Lorenzo; more of this hereafter.
 
 LORENZO
-3
-JESSICA
+2
 SALERIO
 GRATIANO
 Sweet friends, your patience for my long abode!
@@ -2053,12 +2040,24 @@ LORENZO
 SALERIO
 GRATIANO
 I will make fast the doors, and gild myself
+With some moe ducats, and be with you straight.
 
 GRATIANO
 2
 LORENZO
 SALERIO
 Now, by my hood, a gentle, and no Jew.
+
+LORENZO
+2
+SALERIO
+GRATIANO
+Beshrew me, but I love her heartily,
+For she is wise, if I can judge of her,
+And fair she is, if that mine eyes be true,
+And true she is, as she hath prov'd herself;
+And therefore, like herself, wise, fair, and true,
+Shall she be placed in my constant soul.
 
 LORENZO
 1
@@ -2069,6 +2068,7 @@ And fair she is, if that mine eyes be true,
 And true she is, as she hath prov'd herself;
 And therefore, like herself, wise, fair, and true,
 Shall she be placed in my constant soul.
+Our masquing mates by this time for us stay.
 
 ANTONIO
 1
@@ -2187,9 +2187,7 @@ Portia, adieu! I have too griev'd a heart
 To take a tedious leave; thus losers part.
 
 PORTIA
-3
-SOLANIO
-SALERIO
+1
 PRINCE OF MOROCCO
 A gentle riddance. Draw the curtains, go.
 Let all of his complexion choose me so.               Exeunt
@@ -2316,8 +2314,7 @@ PRINCE OF MOROCCO
 Do we so.                                      Exeunt
 
 NERISSA
-1
-ARRAGON
+0
 Quick, quick, I pray thee, draw the curtain straight;
 The Prince of Arragon hath ta'en his oath,
 And comes to his election presently.
@@ -2438,8 +2435,7 @@ The ancient saying is no heresy:
 Hanging and wiving goes by destiny.
 
 PORTIA
-3
-SERVANT
+2
 NERISSA
 ARRAGON
 Come, draw the curtain, Nerissa.
@@ -2486,12 +2482,10 @@ Come, come, Nerissa, for I long to see
 Quick Cupid's post that comes so mannerly.
 
 NERISSA
-5
+3
 PORTIA
-SOLANIO
 SERVANT
 ARRAGON
-SALERIO
 Bassanio, Lord Love, if thy will it be!        Exeunt
 
 SOLANIO
@@ -2559,16 +2553,14 @@ NERISSA
 I would it might prove the end of his losses.
 
 SOLANIO
-6
+5
 PORTIA
 SERVANT
-ARRAGON
-SHYLOCK
 NERISSA
+ARRAGON
 SALERIO
 Let me say amen betimes, lest the devil cross my prayer,
 for here he comes in the likeness of a Jew.
-How now, Shylock? What news among the merchants?
 
 SHYLOCK
 6
@@ -2692,14 +2684,13 @@ Why, I am sure, if he forfeit, thou wilt not take his
 flesh. What's that good for?
 
 SHYLOCK
-7
+6
 PORTIA
 SOLANIO
 SERVANT
 ARRAGON
 NERISSA
 SALERIO
-MAN
 To bait fish withal. If it will feed nothing else, it will
 feed my revenge. He hath disgrac'd me and hind'red me half a
 million; laugh'd at my losses, mock'd at my gains, scorned my
@@ -2731,13 +2722,12 @@ Gentlemen, my master Antonio is at his house, and desires to
 speak with you both.
 
 SALERIO
-8
+7
 PORTIA
 SOLANIO
 SERVANT
 ARRAGON
 SHYLOCK
-TUBAL
 NERISSA
 MAN
 We have been up and down to seek him.
@@ -3359,14 +3349,11 @@ GRATIANO
 What, and stake down?
 
 GRATIANO
-7
+4
 PORTIA
 ALL
-JESSICA
-LORENZO
 BASSANIO
 NERISSA
-SALERIO
 No; we shall ne'er win at that sport, and stake down-
 But who comes here? Lorenzo and his infidel?
 What, and my old Venetian friend, Salerio!
@@ -3724,6 +3711,7 @@ I'll have my bond; and therefore speak no more.
 I'll not be made a soft and dull-ey'd fool,
 To shake the head, relent, and sigh, and yield,
 To Christian intercessors. Follow not;
+I'll have no speaking; I will have my bond.
 
 SOLANIO
 1
@@ -3982,8 +3970,7 @@ I shall be sav'd by my husband; he hath made me a
 Christian.
 
 LAUNCELOT
-2
-LORENZO
+1
 JESSICA
 Truly, the more to blame he; we were Christians enow
 before, e'en as many as could well live one by another. This
@@ -4086,6 +4073,7 @@ LORENZO
 JESSICA
 For the table, sir, it shall be serv'd in; for the meat,
 sir, it shall be cover'd; for your coming in to dinner, sir, why,
+let it be as humours and conceits shall govern.
 
 LORENZO
 1
@@ -4198,12 +4186,11 @@ ANTONIO
 Go one, and call the Jew into the court.
 
 SALERIO
-5
-DUKE OF VENICE
-GRATIANO
-SHYLOCK
+4
 BASSANIO
+DUKE OF VENICE
 ANTONIO
+GRATIANO
 He is ready at the door; he comes, my lord.
 
 DUKE OF VENICE
@@ -4442,13 +4429,12 @@ The Jew shall have my flesh, blood, bones, and all,
 Ere thou shalt lose for me one drop of blood.
 
 ANTONIO
-6
-DUKE OF VENICE
-GRATIANO
+5
 SHYLOCK
 BASSANIO
-NERISSA
+DUKE OF VENICE
 SALERIO
+GRATIANO
 I am a tainted wether of the flock,
 Meetest for death; the weakest kind of fruit
 Drops earliest to the ground, and so let me.
@@ -4587,8 +4573,7 @@ Go give him courteous conduct to this place.
 Meantime, the court shall hear Bellario's letter.
 
 CLERK
-8
-PORTIA
+7
 DUKE OF VENICE
 GRATIANO
 SHYLOCK
@@ -5987,11 +5972,11 @@ CLERK
 SALERIO
 Go, Gratiano, run and overtake him;
 Give him the ring, and bring him, if thou canst,
+Unto Antonio's house. Away, make haste.
 
 PORTIA
-2
+1
 NERISSA
-GRATIANO
 Inquire the Jew's house out, give him this deed,
 And let him sign it; we'll away tonight,
 And be a day before our husbands home.
@@ -6096,9 +6081,8 @@ Did pretty Jessica, like a little shrew,
 Slander her love, and he forgave it her.
 
 JESSICA
-2
+1
 LORENZO
-STEPHANO
 I would out-night you, did no body come;
 But, hark, I hear the footing of a man.
 
@@ -6144,8 +6128,7 @@ None but a holy hermit and her maid.
 I pray you, is my master yet return'd?
 
 LORENZO
-3
-LAUNCELOT
+2
 JESSICA
 STEPHANO
 He is not, nor we have not heard from him.
@@ -6213,6 +6196,7 @@ Sweet soul, let's in, and there expect their coming.
 And yet no matter- why should we go in?
 My friend Stephano, signify, I pray you,
 Within the house, your mistress is at hand;
+And bring your music forth into the air.
 
 LORENZO
 3
@@ -6243,11 +6227,9 @@ STEPHANO
 I am never merry when I hear sweet music.
 
 LORENZO
-5
-PORTIA
+3
 JESSICA
 LAUNCELOT
-NERISSA
 STEPHANO
 The reason is your spirits are attentive;
 For do but note a wild and wanton herd,
@@ -6421,13 +6403,10 @@ Your husband is at hand; I hear his trumpet.
 We are no tell-tales, madam, fear you not.
 
 PORTIA
-8
+5
 JESSICA
-ANTONIO
 LORENZO
 LAUNCELOT
-BASSANIO
-GRATIANO
 NERISSA
 STEPHANO
 This night methinks is but the daylight sick;

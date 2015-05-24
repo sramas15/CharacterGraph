@@ -323,11 +323,10 @@ Even on their knees and hands, let him slip down,
 Not one accompanying his declining foot.
 
 PAINTER
-4
+3
 POET
 MERCHANT
 JEWELLER
-TIMON
 'Tis common.
 A thousand moral paintings I can show
 That shall demonstrate these quick blows of Fortune's
@@ -757,11 +756,10 @@ Are prized by their masters. Believe't, dear lord,
 You mend the jewel by the wearing it.
 
 TIMON
-7
+6
 MERCHANT
-APEMANTUS
-LUCILIUS
 POET
+LUCILIUS
 JEWELLER
 OLD ATHENIAN
 PAINTER
@@ -1359,12 +1357,11 @@ PAINTER
 If traffic do it, the gods do it.
 
 APEMANTUS
-8
+7
 MERCHANT
 TIMON
-LUCILIUS
-MESSENGER
 POET
+LUCILIUS
 JEWELLER
 OLD ATHENIAN
 PAINTER
@@ -1396,13 +1393,12 @@ PAINTER
 All of companionship.
 
 TIMON
-9
+8
 MERCHANT
-APEMANTUS
-LUCILIUS
-MESSENGER
-ALCIBIADES
 POET
+APEMANTUS
+MESSENGER
+LUCILIUS
 JEWELLER
 OLD ATHENIAN
 PAINTER
@@ -1410,7 +1406,6 @@ Pray entertain them; give them guide to us.
 You must needs dine with me. Go not you hence
 Till I have thank'd you. When dinner's done
 Show me this piece. I am joyful of your sights.
-Most welcome, sir!                             [They salute]
 
 APEMANTUS
 9
@@ -2017,16 +2012,14 @@ SECOND LORD
 Much!                                [Sound tucket]
 
 TIMON
-7
+6
 FIRST LORD
 VENTIDIUS
 ALCIBIADES
-SERVANT
 THIRD LORD
 APEMANTUS
 SECOND LORD
 What means that trump?
-How now?
 
 SERVANT
 7
@@ -2064,13 +2057,12 @@ There comes with them a forerunner, my lord, which bears
 that office to signify their pleasures.
 
 TIMON
-8
+7
 FIRST LORD
 VENTIDIUS
 ALCIBIADES
 SERVANT
 THIRD LORD
-CUPID
 APEMANTUS
 SECOND LORD
 I pray let them be admitted.
@@ -2103,14 +2095,14 @@ CUPID
 APEMANTUS
 SECOND LORD
 They're welcome all; let 'em have kind admittance.
+Music, make their welcome.
 
 FIRST LORD
-7
+6
 VENTIDIUS
 ALCIBIADES
 SERVANT
 THIRD LORD
-CUPID
 APEMANTUS
 SECOND LORD
 You see, my lord, how ample y'are belov'd.
@@ -2273,6 +2265,7 @@ There is no crossing him in's humour,
 Else I should tell him- well i' faith, I should-
 When all's spent, he'd be cross'd then, an he could.
 'Tis pity bounty had not eyes behind,
+That man might ne'er be wretched for his mind.
 
 FIRST LORD
 10
@@ -2303,7 +2296,7 @@ ALL LADIES
 Here, my lord, in readiness.
 
 SECOND LORD
-11
+10
 TIMON
 FIRST LORD
 FIRST LADY
@@ -2313,7 +2306,6 @@ SERVANT
 THIRD LORD
 CUPID
 APEMANTUS
-FLAVIUS
 ALL LADIES
 Our horses!
 
@@ -2352,13 +2344,12 @@ ALL LADIES
 I am so far already in your gifts-
 
 ALL
-12
+11
 TIMON
 FIRST LORD
 FIRST LADY
 VENTIDIUS
 ALCIBIADES
-SERVANT
 THIRD LORD
 CUPID
 APEMANTUS
@@ -2434,14 +2425,13 @@ Near! Why then, another time I'll hear thee. I prithee let's
 be provided to show them entertainment.
 
 FLAVIUS
-12
+11
 TIMON
 FIRST LORD
 ALL
 FIRST LADY
 VENTIDIUS
 ALCIBIADES
-SERVANT
 THIRD LORD
 CUPID
 APEMANTUS
@@ -2484,6 +2474,7 @@ FLAVIUS
 SECOND LORD
 ALL LADIES
 I shall accept them fairly. Let the presents
+Be worthily entertain'd.
 
 THIRD SERVANT
 13
@@ -2521,6 +2512,7 @@ FLAVIUS
 SECOND LORD
 ALL LADIES
 I'll hunt with him; and let them be receiv'd,
+Not without fair reward.
 
 FLAVIUS
 13
@@ -2551,6 +2543,7 @@ Well, would I were gently put out of office
 Before I were forc'd out!
 Happier is he that has no friend to feed
 Than such that do e'en enemies exceed.
+I bleed inwardly for my lord.
 
 TIMON
 13
@@ -2932,10 +2925,10 @@ ALL LADIES
 So. Thou wilt not hear me now: thou shalt not then. I'll
 lock thy heaven from thee.
 O that men's ears should be
+To counsel deaf, but not to flattery!
 
 SENATOR
-1
-CAPHIS
+0
 And late, five thousand. To Varro and to Isidore
 He owes nine thousand; besides my former sum,
 Which makes it five and twenty. Still in motion
@@ -3000,10 +2993,8 @@ CAPHIS
 Go.                                            Exeunt
 
 FLAVIUS
-3
+1
 TIMON
-SERVANTS
-CAPHIS
 No care, no stop! So senseless of expense
 That he will neither know how to maintain it
 Nor cease his flow of riot; takes no account
@@ -3036,9 +3027,7 @@ FLAVIUS
 Would we were all discharg'd!
 
 CAPHIS
-4
-TIMON
-ALCIBIADES
+2
 SERVANTS
 FLAVIUS
 Here comes the lord.
@@ -3167,6 +3156,7 @@ CAPHIS
 SERVANTS
 FLAVIUS
 Do so, my friends.
+See them well entertain'd.
 
 FLAVIUS
 3
@@ -3292,12 +3282,11 @@ She's e'en setting on water to scald such chickens as you
 are. Would we could see you at Corinth!
 
 APEMANTUS
-6
+5
 FOOL
 ALCIBIADES
-ALL SERVANTS
 SERVANTS
-PAGE
+ALL SERVANTS
 CAPHIS
 Good! gramercy.
 
@@ -3385,6 +3374,7 @@ SERVANTS
 ALL SERVANTS
 CAPHIS
 Thou wast whelp'd a dog, and thou shalt famish dog's death.
+Answer not: I am gone.
 
 APEMANTUS
 5
@@ -3498,13 +3488,11 @@ Nor thou altogether a wise man.
 As much foolery as I have, so much wit thou lack'st.
 
 APEMANTUS
-7
+5
 FOOL
 ALCIBIADES
 ALL SERVANTS
 SERVANTS
-FLAVIUS
-TIMON
 CAPHIS
 That answer might have become Apemantus.
 
@@ -3748,13 +3736,10 @@ CAPHIS
 Assurance bless your thoughts!
 
 TIMON
-10
+7
 FOOL
 ALCIBIADES
-FLAMINIUS
-SERVILIUS
 ALL SERVANTS
-SERVANT
 APEMANTUS
 SERVANTS
 FLAVIUS
@@ -3808,7 +3793,7 @@ APEMANTUS
 FLAVIUS
 TIMON
 CAPHIS
-As you have said, my lord.          Exeunt
+As you have said, my lord.
 
 FLAVIUS
 9
@@ -3923,13 +3908,12 @@ To whom 'tis instant due. Nev'r speak or think
 That Timon's fortunes 'mong his friends can sink.
 
 FLAVIUS
-9
+8
 FOOL
 ALCIBIADES
 FLAMINIUS
 SERVILIUS
 ALL SERVANTS
-SERVANT
 APEMANTUS
 TIMON
 CAPHIS
@@ -3951,14 +3935,13 @@ CAPHIS
 I have told my lord of you; he is coming down to you.
 
 FLAMINIUS
-10
+9
 FOOL
 ALCIBIADES
 SERVILIUS
 ALL SERVANTS
 SERVANT
 APEMANTUS
-LUCULLUS
 FLAVIUS
 TIMON
 CAPHIS
@@ -3993,6 +3976,7 @@ CAPHIS
 [Aside] One of Lord Timon's men? A gift, I warrant. Why,
 this hits right; I dreamt of a silver basin and ewer to-night-
 Flaminius, honest Flaminius, you are very respectively welcome,
+sir. Fill me some wine.
 
 FLAMINIUS
 9
@@ -4041,13 +4025,12 @@ your lordship to furnish him, nothing doubting your present
 assistance therein.
 
 LUCULLIUS
-11
+10
 FOOL
 ALCIBIADES
 FLAMINIUS
 SERVILIUS
 ALL SERVANTS
-SERVANT
 APEMANTUS
 LUCULLUS
 FLAVIUS
@@ -4122,6 +4105,7 @@ CAPHIS
 I have observed thee always for a towardly prompt spirit,
 give thee thy due, and one that knows what belongs to reason, and
 canst use the time well, if the time use thee well. Good parts in
+thee. [To SERVANT] Get you gone, sirrah.
 
 FLAMINIUS
 10
@@ -4179,6 +4163,7 @@ When he is turn'd to poison?
 O, may diseases only work upon't!
 And when he's sick to death, let not that part of nature
 Which my lord paid for be of any power
+To expel sickness, but prolong his hour!
 
 LUCIUS
 0
@@ -4219,10 +4204,9 @@ LUCIUS
 I tell you, denied, my lord.
 
 LUCIUS
-3
-SERVILIUS
-SECOND STRANGER
+2
 FIRST STRANGER
+SECOND STRANGER
 What a strange case was that! Now, before the gods, I am
 asham'd on't. Denied that honourable man! There was very little
 honour show'd in't. For my own part, I must needs confess I have
@@ -4336,6 +4320,7 @@ SERVILIUS
 FIRST STRANGER
 I'll look you out a good turn, Servilius.
 True, as you said, Timon is shrunk indeed;
+And he that's once denied will hardly speed.
 
 FIRST STRANGER
 2
@@ -4432,6 +4417,7 @@ I'd rather than the worth of thrice the sum
 Had sent to me first, but for my mind's sake;
 I'd such a courage to do him good. But now return,
 And with their faint reply this answer join:
+Who bates mine honour shall not know my coin.
 
 SERVANT
 1
@@ -4449,6 +4435,7 @@ Doors that were ne'er acquainted with their wards
 Many a bounteous year must be employ'd
 Now to guard sure their master.
 And this is all a liberal course allows:
+Who cannot keep his wealth must keep his house.
 
 TITUS
 3
@@ -4466,11 +4453,10 @@ Lucius! What, do we meet together?
 for mine is money.
 
 TITUS
-4
+3
 SERVANT
-PHILOTUS
-HORTENSIUS
 LUCIUS
+HORTENSIUS
 So is theirs and ours.
 
 PHILOTUS
@@ -4557,12 +4543,11 @@ And e'en as if your lord should wear rich jewels
 And send for money for 'em.
 
 HORTENSIUS
-5
-FLAMINIUS
+4
+PHILOTUS
 SERVANT
 TITUS
 LUCIUS
-PHILOTUS
 I'm weary of this charge, the gods can witness;
 I know my lord hath spent of Timon's wealth,
 And now ingratitude makes it worse than stealth.
@@ -4599,15 +4584,13 @@ HORTENSIUS
 We attend his lordship; pray signify so much.
 
 FLAMINIUS
-6
+5
+PHILOTUS
 SERVANT
 TITUS
-LUCIUS
-PHILOTUS
-FLAVIUS
 HORTENSIUS
+LUCIUS
 I need not tell him that; he knows you are to diligent.
-He goes away in a cloud. Call him, call him.
 
 TITUS
 6
@@ -4668,6 +4651,7 @@ TITUS
 HORTENSIUS
 LUCIUS
 If 'twill not serve, 'tis not so base as you,
+For you serve knaves.
 
 TITUS
 6
@@ -4716,8 +4700,7 @@ HORTENSIUS
 We cannot take this for answer, sir.
 
 FLAMINIUS
-7
-TIMON
+5
 SERVILIUS
 SERVANT
 TITUS
@@ -4841,15 +4824,13 @@ HORTENSIUS
 Tear me, take me, and the gods fall upon you!
 
 HORTENSIUS
-8
-TIMON
+6
 FLAMINIUS
 SERVILIUS
 SERVANT
 TITUS
 LUCIUS
 PHILOTUS
-FLAVIUS
 Faith, I perceive our masters may throw their caps at
 their money. These debts may well be call'd desperate ones, for a
 madman owes 'em.                                      Exeunt
@@ -5207,6 +5188,7 @@ SECOND SENATOR
 THIRD SENATOR
 If after two days' shine Athens contain thee,
 Attend our weightier judgment. And, not to swell our spirit,
+He shall be executed presently.
 
 ALCIBIADES
 3
@@ -5226,6 +5208,7 @@ It is a cause worthy my spleen and fury,
 That I may strike at Athens. I'll cheer up
 My discontented troops, and lay for hearts.
 'Tis honour with most lands to be at odds;
+Soldiers should brook as little wrongs as gods.
 
 FIRST LORD
 0
@@ -5292,8 +5275,7 @@ SECOND LORD
 What of you?
 
 SECOND LORD
-2
-TIMON
+1
 FIRST LORD
 He sent to me, sir- here he comes.
 
@@ -5559,6 +5541,7 @@ Stay, I will lend thee money, borrow none.       [Throws the
 What, all in motion? Henceforth be no feast
 Whereat a villain's not a welcome guest.
 Burn house! Sink Athens! Henceforth hated be
+Of Timon man and all humanity!
 
 FIRST LORD
 5
@@ -5721,6 +5704,7 @@ The gods confound- hear me, you good gods all-
 The Athenians both within and out that wall!
 And grant, as Timon grows, his hate may grow
 To the whole race of mankind, high and low!
+Amen.
 
 FIRST SERVANT
 2
@@ -5747,9 +5731,8 @@ One friend to take his fortune by the arm
 And go along with him?
 
 SECOND SERVANT
-3
+2
 FIRST SERVANT
-SERVANTS
 FLAVIUS
 As we do turn our backs
 From our companion, thrown into his grave,
@@ -5814,10 +5797,10 @@ Of monstrous friends; nor has he with him to
 Supply his life, or that which can command it.
 I'll follow and enquire him out.
 I'll ever serve his mind with my best will;
+Whilst I have gold, I'll be his steward still.
 
 TIMON
-1
-ALCIBIADES
+0
 O blessed breeding sun, draw from the earth
 Rotten humidity; below thy sister's orb
 Infect the air! Twinn'd brothers of one womb-
@@ -6299,12 +6282,11 @@ PHRYNIA
 We but offend him. Strike.
 
 TIMON
-5
+4
 ALCIBIADES
-PHRYNIA AND TIMANDRA
-APEMANTUS
-PHRYNIA
 TIMANDRA
+PHRYNIA AND TIMANDRA
+PHRYNIA
 That nature, being sick of man's unkindness,
 Should yet be hungry! Common mother, thou,         [Digging]
 Whose womb unmeasurable and infinite breast
@@ -6326,7 +6308,6 @@ Dry up thy marrows, vines, and plough-torn leas,
 Whereof ingrateful man, with liquorish draughts
 And morsels unctuous, greases his pure mind,
 That from it all consideration slips-
-More man? Plague, plague!
 
 APEMANTUS
 5
@@ -7414,6 +7395,7 @@ SECOND BANDIT
 TIMON
 PHRYNIA
 Let us first see peace in Athens. There is no time so
+miserable but a man may be true.
 
 FLAVIUS
 10
@@ -7732,9 +7714,8 @@ I must serve him so too, tell him of an intent that's coming
 toward him.
 
 PAINTER
-2
+1
 POET
-TIMON
 Good as the best. Promising is the very air o' th' time;
 it opens the eyes of expectation. Performance is ever the duller
 for his act, and but in the plainer and simpler kind of people
@@ -8011,11 +7992,10 @@ PAINTER
 Name them, my lord; let's know them.
 
 TIMON
-4
+3
 POET
-FLAVIUS
-PAINTER
 BOTH
+PAINTER
 You that way, and you this- but two in company;
 Each man apart, all single and alone,
 Yet an arch-villain keeps him company.
@@ -8065,8 +8045,7 @@ The former man may make him. Bring us to him,
 And chance it as it may.
 
 FLAVIUS
-6
-TIMON
+5
 BOTH
 POET
 SECOND SENATOR
@@ -8460,8 +8439,7 @@ FIRST SENATOR
 We stand much hazard if they bring not Timon.
 
 MESSENGER
-3
-TIMON
+2
 SECOND SENATOR
 FIRST SENATOR
 I met a courier, one mine ancient friend,
@@ -8503,6 +8481,7 @@ I cannot read; the character I'll take with wax.
 Our captain hath in every figure skill,
 An ag'd interpreter, though young in days;
 Before proud Athens he's set down by this,
+Whose fall the mark of his ambition is.
 
 ALCIBIADES
 0
@@ -8631,10 +8610,9 @@ FIRST SENATOR
 'Tis most nobly spoken.
 
 ALCIBIADES
-4
-SOLDIER
+3
+BOTH
 SECOND SENATOR
 FIRST SENATOR
-BOTH
 Descend, and keep your words.
 

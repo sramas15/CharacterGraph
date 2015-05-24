@@ -370,6 +370,7 @@ THIRD MESSENGER
 EXETER
 GLOUCESTER
 I do remember it, and here take my leave
+To go about my preparation.
 
 GLOUCESTER
 5
@@ -380,6 +381,7 @@ THIRD MESSENGER
 EXETER
 I'll to the Tower with all the haste I can
 To view th' artillery and munition;
+And then I will proclaim young Henry king.
 
 EXETER
 4
@@ -389,6 +391,7 @@ SECOND MESSENGER
 WINCHESTER
 To Eltham will I, where the young King is,
 Being ordain'd his special governor;
+And for his safety there I'll best devise.
 
 WINCHESTER
 3
@@ -1621,6 +1624,7 @@ And even these three days have I watch'd
 If I could see them. Now do thou watch,
 For I can stay no longer.
 If thou spy'st any, run and bring me word;
+And thou shalt find me at the Governor's.
 
 BOY
 16
@@ -1641,6 +1645,7 @@ MAYOR
 SECOND WARDER
 OFFICER
 Father, I warrant you; take you no care;
+I'll never trouble you, if I may spy them.
 
 SALISBURY
 16
@@ -2110,6 +2115,7 @@ I must go victual Orleans forthwith.
 O'ertake me if thou canst; I scorn thy strength.
 Go, go, cheer up thy hungry starved men;
 Help Salisbury to make his testament.
+This day is ours, as many more shall be.
 
 TALBOT
 18
@@ -2643,6 +2649,7 @@ SERGEANT
 I'll be so bold to take what they have left.
 The cry of Talbot serves me for a sword;
 For I have loaden me with many spoils,
+Using no other weapon but his name.
 
 BEDFORD
 9
@@ -4314,6 +4321,7 @@ CAPTAIN
 COUNTESS
 PORTER
 Go forward, and be chok'd with thy ambition!
+And so farewell until I meet thee next.
 
 SOMERSET
 18
@@ -4336,6 +4344,7 @@ CAPTAIN
 COUNTESS
 PORTER
 Have with thee, Pole. Farewell, ambitious
+Richard.
 
 PLANTAGENET
 17
@@ -5001,6 +5010,7 @@ Which Somerset hath offer'd to my house,
 I doubt not but with honour to redress;
 And therefore haste I to the Parliament,
 Either to be restored to my blood,
+Or make my ill th' advantage of my good.
 
 WINCHESTER
 19
@@ -6022,6 +6032,7 @@ O loving uncle, kind Duke of Gloucester,
 How joyful am I made by this contract!
 Away, my masters! trouble us no more;
 But join in friendship, as your lords have done.
+affords.
 
 WARWICK
 23
@@ -6474,6 +6485,7 @@ Was in the mouth of every sucking babe:
 That Henry born at Monmouth should win all,
 And Henry born at Windsor should lose all.
 Which is so plain that Exeter doth wish
+His days may finish ere that hapless time.
 
 PUCELLE
 24
@@ -6821,6 +6833,7 @@ PORTER
 GLOUCESTER
 Behold, this is the happy wedding torch
 That joineth Rouen unto her countrymen,
+But burning fatal to the Talbotites.
 
 BASTARD
 25
@@ -6943,6 +6956,7 @@ GLOUCESTER
 France, thou shalt rue this treason with thy tears,
 If Talbot but survive thy treachery.
 Hath wrought this hellish mischief unawares,
+That hardly we escap'd the pride of France.
 
 PUCELLE
 25
@@ -7706,6 +7720,7 @@ COUNTESS
 PORTER
 GLOUCESTER
 Ay,
+All the Talbots in the world, to save my life.
 
 CAPTAIN
 26
@@ -9253,6 +9268,7 @@ FASTOLFE
 WINCHESTER
 GLOUCESTER
 I go, my lord, in heart desiring still
+You may behold confusion of your foes.
 
 VERNON
 4
@@ -9635,6 +9651,7 @@ This factious bandying of their favourites,
 But that it doth presage some ill event.
 'Tis much when sceptres are in children's hands;
 But more when envy breeds unkind division:
+There comes the ruin, there begins confusion.
 
 TALBOT
 9
@@ -9701,6 +9718,7 @@ These eyes that see thee now well coloured
 Shall see thee withered, bloody, pale, and dead.
 Hark! hark! The Dauphin's drum, a warning bell,
 Sings heavy music to thy timorous soul;
+And mine shall ring thy dire departure out.
 
 TALBOT
 9
@@ -9896,6 +9914,7 @@ That sund'red friends greet in the hour of death.
 Lucy, farewell; no more my fortune can
 But curse the cause I cannot aid the man.
 Maine, Blois, Poictiers, and Tours, are won away
+Long all of Somerset and his delay.
 
 LUCY
 10
@@ -9915,6 +9934,7 @@ Sleeping neglection doth betray to loss
 The conquest of our scarce cold conqueror,
 That ever-living man of memory,
 Henry the Fifth. Whiles they each other cross,
+Lives, honours, lands, and all, hurry to loss.
 
 SOMERSET
 9
@@ -11377,6 +11397,7 @@ That France must vail her lofty-plumed crest
 And let her head fall into England's lap.
 My ancient incantations are too weak,
 And hell too strong for me to buckle with.
+Now, France, thy glory droopeth to the dust.
 
 PLANTAGENET
 9
@@ -12566,6 +12587,7 @@ Bethink thee on her virtues that surmount,
 And natural graces that extinguish art;
 Repeat their semblance often on the seas,
 That, when thou com'st to kneel at Henry's feet,
+Thou mayst bereave him of his wits with wonder.
 
 PLANTAGENET
 12
@@ -12746,6 +12768,7 @@ Had been a little ratsbane for thy sake.
 Or else, when thou didst keep my lambs afield,
 I wish some ravenous wolf had eaten thee.
 Dost thou deny thy father, cursed drab?
+O, burn her, burn her! Hanging is too good.
 
 PLANTAGENET
 13
@@ -13690,6 +13713,7 @@ If you do censure me by what you were,
 Not what you are, I know it will excuse
 This sudden execution of my will.
 And so conduct me where, from company,
+I may revolve and ruminate my grief.
 
 GLOUCESTER
 13
@@ -13728,4 +13752,5 @@ As did the youthful Paris once to Greece,
 With hope to find the like event in love
 But prosper better than the Troyan did.
 Margaret shall now be Queen, and rule the King;
+But I will rule both her, the King, and realm.
 

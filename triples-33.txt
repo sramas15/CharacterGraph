@@ -146,8 +146,7 @@ PROTEUS
 As much to you at home; and so farewell!
 
 PROTEUS
-2
-SPEED
+1
 VALENTINE
 He after honour hunts, I after love;
 He leaves his friends to dignify them more:
@@ -444,6 +443,7 @@ SPEED
 VALENTINE
 Go, go, be gone, to save your ship from wreck,
 Which cannot perish, having thee aboard,
+Being destin'd to a drier death on shore.
 
 JULIA
 1
@@ -632,8 +632,7 @@ JULIA
 That you may ruminate.
 
 JULIA
-1
-LUCETTA
+0
 And yet, I would I had o'erlook'd the letter.
 It were a shame to call her back again,
 And pray her to a fault for which I chid her.
@@ -808,10 +807,10 @@ LUCETTA
 1
 JULIA
 She makes it strange; but she would be best pleas'd
+To be so ang'red with another letter.
 
 JULIA
-1
-LUCETTA
+0
 Nay, would I were so ang'red with the same!
 O hateful hands, to tear such loving words!
 Injurious wasps, to feed on such sweet honey
@@ -966,11 +965,9 @@ Are journeying to salute the Emperor,
 And to commend their service to his will.
 
 ANTONIO
-2
-PROTEUS
+1
 PANTHINO
 Good company; with them shall Proteus go.
-And- in good time!- now will we break with him.
 
 PROTEUS
 2
@@ -1056,8 +1053,7 @@ Come on, Panthino; you shall be employ'd
 To hasten on his expedition.
 
 PROTEUS
-2
-PANTHINO
+1
 ANTONIO
 Thus have I shunn'd the fire for fear of burning,
 And drench'd me in the sea, where I am drown'd.
@@ -1370,11 +1366,9 @@ VALENTINE
 Are they not lamely writ?
 
 VALENTINE
-2
-SILVIA
+1
 SPEED
 No, boy, but as well as I can do them.
-Peace! here she comes.
 
 SPEED
 2
@@ -1512,6 +1506,7 @@ SILVIA
 SPEED
 VALENTINE
 Why, if it please you, take it for your labour.
+And so good morrow, servant.
 
 SPEED
 1
@@ -1675,6 +1670,7 @@ Torment me for my love's forgetfulness!
 My father stays my coming; answer not;
 The tide is now- nay, not thy tide of tears:
 That tide will stay me longer than I should.
+Julia, farewell!
 
 PANTHINO
 1
@@ -1689,8 +1685,7 @@ Go; I come, I come.
 Alas! this parting strikes poor lovers dumb.          Exeunt
 
 LAUNCE
-1
-PANTHINO
+0
 Nay, 'twill be this hour ere I have done weeping; all the
 kind of the Launces have this very fault. I have receiv'd my
 proportion, like the Prodigious Son, and am going with Sir
@@ -2009,8 +2004,7 @@ Sir, if you spend word for word with me, I shall make your
 wit bankrupt.
 
 VALENTINE
-3
-DUKE
+2
 SILVIA
 THURIO
 I know it well, sir; you have an exchequer of words,
@@ -2127,6 +2121,7 @@ THURIO
 Welcome him, then, according to his worth-
 Silvia, I speak to you, and you, Sir Thurio;
 For Valentine, I need not cite him to it.
+I will send him hither to you presently.
 
 VALENTINE
 2
@@ -2173,6 +2168,7 @@ VALENTINE
 SILVIA
 THURIO
 To see such lovers, Thurio, as yourself;
+Upon a homely object Love can wink.
 
 SILVIA
 2
@@ -2257,9 +2253,8 @@ VALENTINE
 That you are welcome?
 
 PROTEUS
-3
+2
 SILVIA
-THURIO
 VALENTINE
 That you are worthless.
 
@@ -2754,6 +2749,7 @@ For Thurio, he intends, shall wed his daughter;
 But, Valentine being gone, I'll quickly cross
 By some sly trick blunt Thurio's dull proceeding.
 Love, lend me wings to make my purpose swift,
+As thou hast lent me wit to plot this drift.
 
 JULIA
 1
@@ -2931,11 +2927,8 @@ JULIA
 Pray heav'n he prove so when you come to him.
 
 JULIA
-4
+1
 LUCETTA
-THURIO
-PROTEUS
-DUKE
 Now, as thou lov'st me, do him not that wrong
 To bear a hard opinion of his truth;
 Only deserve my love by loving him.
@@ -2955,6 +2948,7 @@ PROTEUS
 JULIA
 LUCETTA
 Sir Thurio, give us leave, I pray, awhile;
+We have some secrets to confer about.
 
 PROTEUS
 3
@@ -3347,14 +3341,13 @@ Will give thee time to leave our royal court,
 By heaven! my wrath shall far exceed the love
 I ever bore my daughter or thyself.
 Be gone; I will not hear thy vain excuse,
+But, as thou lov'st thy life, make speed from hence.
 
 VALENTINE
-5
-LAUNCE
-JULIA
-PROTEUS
+3
 LUCETTA
 THURIO
+JULIA
 And why not death rather than living torment?
 To die is to be banish'd from myself,
 And Silvia is myself; banish'd from her
@@ -3704,13 +3697,12 @@ THURIO
 O my dear Silvia! Hapless Valentine!
 
 LAUNCE
-6
-JULIA
-VALENTINE
+5
 PROTEUS
 LUCETTA
-SPEED
 THURIO
+JULIA
+VALENTINE
 I am but a fool, look you, and yet I have the wit to think
 my master is a kind of a knave; but that's all one if he be but
 one knave. He lives not now that knows me to be in love; yet I am
@@ -4391,6 +4383,7 @@ JULIA
 VALENTINE
 Now will he be swing'd for reading my letter. An unmannerly
 slave that will thrust himself into secrets! I'll after, to
+rejoice in the boy's correction.
 
 DUKE
 1
@@ -4406,16 +4399,13 @@ Forsworn my company and rail'd at me,
 That I am desperate of obtaining her.
 
 DUKE
-2
-PROTEUS
+1
 THURIO
 This weak impress of love is as a figure
 Trenched in ice, which with an hour's heat
 Dissolves to water and doth lose his form.
 A little time will melt her frozen thoughts,
 And worthless Valentine shall be forgot.
-How now, Sir Proteus! Is your countryman,
-According to our proclamation, gone?
 
 PROTEUS
 2
@@ -4643,10 +4633,8 @@ FIRST OUTLAW
 Fellows, stand fast; I see a passenger.
 
 SECOND OUTLAW
-3
-SPEED
+1
 FIRST OUTLAW
-VALENTINE
 If there be ten, shrink not, but down with 'em.
 
 THIRD OUTLAW
@@ -4975,8 +4963,7 @@ And show thee all the treasure we have got;
 Which, with ourselves, all rest at thy dispose.       Exeunt
 
 PROTEUS
-1
-THURIO
+0
 Already have I been false to Valentine,
 And now I must be as unjust to Thurio.
 Under the colour of commending him
@@ -4992,8 +4979,6 @@ And notwithstanding all her sudden quips,
 The least whereof would quell a lover's hope,
 Yet, spaniel-like, the more she spurns my love
 The more it grows and fawneth on her still.
-But here comes Thurio. Now must we to her window,
-And give some evening music to her ear.
 
 THURIO
 1
@@ -5256,7 +5241,7 @@ THURIO
 HOST
 PROTEUS
 JULIA
-Farewell.                  Exeunt
+Farewell.
 
 PROTEUS
 3
@@ -5467,8 +5452,7 @@ Not so; but it hath been the longest night
 That e'er I watch'd, and the most heaviest.           Exeunt
 
 EGLAMOUR
-1
-SILVIA
+0
 This is the hour that Madam Silvia
 Entreated me to call and know her mind;
 There's some great matter she'd employ me in.
@@ -5565,9 +5549,7 @@ EGLAMOUR
 Good morrow, kind Sir Eglamour.                 Exeunt
 
 LAUNCE
-2
-PROTEUS
-JULIA
+0
 When a man's servant shall play the cur with him, look you,
 it goes hard- one that I brought up of a puppy; one that I sav'd
 from drowning, when three or four of his blind brothers and
@@ -5674,6 +5656,7 @@ LAUNCE
 JULIA
 Go, get thee hence and find my dog again,
 Or ne'er return again into my sight.
+Away, I say. Stayest thou to vex me here?
 
 JULIA
 1
@@ -5731,11 +5714,11 @@ Well, give her that ring, and therewithal
 This letter. That's her chamber. Tell my lady
 I claim the promise for her heavenly picture.
 Your message done, hie home unto my chamber,
+Where thou shalt find me sad and solitary.
 
 JULIA
-2
+1
 LAUNCE
-SILVIA
 How many women would do such a message?
 Alas, poor Proteus, thou hast entertain'd
 A fox to be the shepherd of thy lambs.
@@ -5754,8 +5737,6 @@ But cannot be true servant to my master
 Unless I prove false traitor to myself.
 Yet will I woo for him, but yet so coldly
 As, heaven it knows, I would not have him speed.
-Gentlewoman, good day! I pray you be my mean
-To bring me where to speak with Madam Silvia.
 
 SILVIA
 2
@@ -5949,6 +5930,7 @@ Alas, poor lady, desolate and left!
 I weep myself, to think upon thy words.
 Here, youth, there is my purse; I give thee this
 For thy sweet mistress' sake, because thou lov'st her.
+Farewell.
 
 JULIA
 1
@@ -5979,17 +5961,16 @@ My substance should be statue in thy stead.
 I'll use thee kindly for thy mistress' sake,
 That us'd me so; or else, by Jove I vow,
 I should have scratch'd out your unseeing eyes,
+To make my master out of love with thee.
 
 EGLAMOUR
-1
-SILVIA
+0
 The sun begins to gild the western sky,
 And now it is about the very hour
 That Silvia at Friar Patrick's cell should meet me.
 She will not fail, for lovers break not hours
 Unless it be to come before their time,
 So much they spur their expedition.
-See where she comes. Lady, a happy evening!
 
 SILVIA
 1
@@ -6164,8 +6145,7 @@ THURIO
 That they are out by lease.
 
 JULIA
-3
-DUKE
+2
 PROTEUS
 THURIO
 Here comes the Duke.
@@ -6225,6 +6205,7 @@ Therefore, I pray you, stand not to discourse,
 But mount you presently, and meet with me
 Upon the rising of the mountain foot
 That leads toward Mantua, whither they are fled.
+Dispatch, sweet gentlemen, and follow me.
 
 THURIO
 2
@@ -6233,15 +6214,18 @@ JULIA
 Why, this it is to be a peevish girl
 That flies her fortune when it follows her.
 I'll after, more to be reveng'd on Eglamour
+Than for the love of reckless Silvia.
 
 PROTEUS
 1
 JULIA
 And I will follow, more for Silvia's love
+Than hate of Eglamour, that goes with her.
 
 JULIA
 0
 And I will follow, more to cross that love
+Than hate for Silvia, that is gone for love.
 
 FIRST OUTLAW
 0
@@ -6291,10 +6275,7 @@ FIRST OUTLAW
 O Valentine, this I endure for thee!            Exeunt
 
 VALENTINE
-3
-SILVIA
-PROTEUS
-JULIA
+0
 How use doth breed a habit in a man!
 This shadowy desert, unfrequented woods,
 I better brook than flourishing peopled towns.
@@ -6624,12 +6605,10 @@ VALENTINE
 Bear witness, heaven, I have my wish for ever.
 
 JULIA
-5
-DUKE
+3
+PROTEUS
 SILVIA
 VALENTINE
-PROTEUS
-THURIO
 And I mine.
 
 OUTLAW

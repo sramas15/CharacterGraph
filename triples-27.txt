@@ -32,8 +32,7 @@ SLY
 I know my remedy; I must go fetch the third-borough.
 
 SLY
-2
-LORD
+1
 HOSTESS
 Third, or fourth, or fifth borough, I'll answer him by law.
 I'll not budge an inch, boy; let him come, and kindly.
@@ -190,15 +189,13 @@ An't please your honour, players
 That offer service to your lordship.
 
 LORD
-6
+5
+FIRST HUNTSMAN
 SLY
 HOSTESS
 SERVANT
 SECOND HUNTSMAN
-PLAYERS
-FIRST HUNTSMAN
 Bid them come near.
-Now, fellows, you are welcome.
 
 PLAYERS
 6
@@ -327,6 +324,7 @@ An onion will do well for such a shift,
 Which, in a napkin being close convey'd,
 Shall in despite enforce a watery eye.
 See this dispatch'd with all the haste thou canst;
+Anon I'll give thee more instructions.
 
 SLY
 0
@@ -573,13 +571,12 @@ SECOND SERVANT
 Now, Lord be thanked for my good amends!
 
 ALL
-6
+5
 FIRST SERVANT
 SLY
+LORD
 THIRD SERVANT
 SECOND SERVANT
-LORD
-PAGE
 Amen.
 
 SLY
@@ -735,12 +732,11 @@ That I should yet absent me from your bed.
 I hope this reason stands for my excuse.
 
 SLY
-7
+6
 ALL
 FIRST SERVANT
 THIRD SERVANT
 SECOND SERVANT
-MESSENGER
 LORD
 PAGE
 Ay, it stands so that I may hardly tarry so long. But I would
@@ -871,16 +867,13 @@ No profit grows where is no pleasure ta'en;
 In brief, sir, study what you most affect.
 
 LUCENTIO
-3
-KATHERINA
+1
 TRANIO
-BAPTISTA
 Gramercies, Tranio, well dost thou advise.
 If, Biondello, thou wert come ashore,
 We could at once put us in readiness,
 And take a lodging fit to entertain
 Such friends as time in Padua shall beget.
-But stay awhile; what company is this?
 
 TRANIO
 3
@@ -1069,6 +1062,7 @@ LUCENTIO
 TRANIO
 GREMIO
 Gentlemen, content ye; I am resolv'd.
+Go in, Bianca.
 
 KATHERINA
 5
@@ -1079,6 +1073,7 @@ TRANIO
 GREMIO
 Why, and I trust I may go too, may I not?
 What! shall I be appointed hours, as though, belike,
+I knew not what to take and what to leave? Ha!
 
 GREMIO
 4
@@ -1400,16 +1395,14 @@ I am content to be Lucentio,
 Because so well I love Lucentio.
 
 LUCENTIO
-5
+4
 BIANCA
 HORTENSIO
 TRANIO
-BIONDELLO
 GREMIO
 Tranio, be so because Lucentio loves;
 And let me be a slave t' achieve that maid
 Whose sudden sight hath thrall'd my wounded eye.
-Here comes the rogue. Sirrah, where have you been?
 
 BIONDELLO
 5
@@ -1587,8 +1580,7 @@ PETRUCHIO
 Help, masters, help! My master is mad.
 
 PETRUCHIO
-2
-HORTENSIO
+1
 GRUMIO
 Now knock when I bid you, sirrah villain!
 
@@ -1792,11 +1784,9 @@ Katherine the curst!
 A title for a maid of all titles the worst.
 
 HORTENSIO
-4
-LUCENTIO
+2
 GRUMIO
 PETRUCHIO
-GREMIO
 Now shall my friend Petruchio do me grace,
 And offer me disguis'd in sober robes
 To old Baptista as a schoolmaster
@@ -2393,11 +2383,9 @@ And do as adversaries do in law-
 Strive mightily, but eat and drink as friends.
 
 HORTENSIO
-8
-BIANCA
+6
 GRUMIO
 TRANIO
-KATHERINA
 LUCENTIO
 BIONDELLO
 GREMIO
@@ -2504,12 +2492,11 @@ You have but jested with me all this while.
 I prithee, sister Kate, untie my hands.
 
 KATHERINA
-9
-BIANCA
+8
 HORTENSIO
 GRUMIO
 TRANIO
-BAPTISTA
+BIANCA
 LUCENTIO
 BIONDELLO
 GREMIO
@@ -2576,20 +2563,18 @@ She is your treasure, she must have a husband;
 I must dance bare-foot on her wedding-day,
 And for your love to her lead apes in hell.
 Talk not to me; I will go sit and weep,
+Till I can find occasion of revenge.
 
 BAPTISTA
-8
-BIANCA
+6
 HORTENSIO
 GRUMIO
 TRANIO
-LUCENTIO
+BIANCA
 BIONDELLO
-GREMIO
 PETRUCHIO
 Was ever gentleman thus griev'd as I?
 But who comes here?
-as LUCENTIO, with his boy, BIONDELLO, bearing a lute and books
 
 GREMIO
 8
@@ -2853,12 +2838,11 @@ PETRUCHIO
 Of Pisa, sir; son to Vincentio.
 
 BAPTISTA
-9
-BIANCA
+8
 HORTENSIO
 GRUMIO
 TRANIO
-SERVANT
+BIANCA
 LUCENTIO
 BIONDELLO
 GREMIO
@@ -2868,12 +2852,6 @@ I know him well. You are very welcome, sir.
 Take you the lute, and you the set of books;
 You shall go see your pupils presently.
 Holla, within!
-Sirrah, lead these gentlemen
-To my daughters; and tell them both
-These are their tutors. Bid them use them well.
-We will go walk a little in the orchard,
-And then to dinner. You are passing welcome,
-And so I pray you all to think yourselves.
 
 PETRUCHIO
 9
@@ -2974,13 +2952,12 @@ Well mayst thou woo, and happy be thy speed
 But be thou arm'd for some unhappy words.
 
 PETRUCHIO
-9
-BIANCA
-HORTENSIO
+8
 GRUMIO
 TRANIO
 BAPTISTA
 SERVANT
+BIANCA
 LUCENTIO
 BIONDELLO
 GREMIO
@@ -3120,7 +3097,7 @@ BIANCA
 LUCENTIO
 BIONDELLO
 GREMIO
-I pray you do.             Exeunt
+I pray you do.
 
 KATHERINA
 9
@@ -3899,17 +3876,14 @@ PETRUCHIO
 Yes, keep you warm.
 
 PETRUCHIO
-10
-BIANCA
+7
+KATHERINA
 HORTENSIO
 GRUMIO
-TRANIO
-BAPTISTA
 SERVANT
-KATHERINA
+BIANCA
 LUCENTIO
 BIONDELLO
-GREMIO
 Marry, so I mean, sweet Katherine, in thy bed.
 And therefore, setting all this chat aside,
 Thus in plain terms: your father hath consented
@@ -3922,8 +3896,6 @@ Thou must be married to no man but me;
 For I am he am born to tame you, Kate,
 And bring you from a wild Kate to a Kate
 Conformable as other household Kates.
-Here comes your father. Never make denial;
-I must and will have Katherine to my wife.
 
 BAPTISTA
 10
@@ -4474,14 +4446,11 @@ PETRUCHIO
 Adieu, good neighbour.
 
 TRANIO
-9
-BIANCA
-HORTENSIO
+6
+KATHERINA
 GRUMIO
 BAPTISTA
 SERVANT
-KATHERINA
-LUCENTIO
 BIONDELLO
 PETRUCHIO
 A vengeance on your crafty withered hide!
@@ -4875,13 +4844,12 @@ PETRUCHIO
 Yet read the gamut of Hortensio.
 
 BIANCA
-9
+8
+KATHERINA
 HORTENSIO
 GRUMIO
 TRANIO
 BAPTISTA
-SERVANT
-KATHERINA
 LUCENTIO
 BIONDELLO
 PETRUCHIO
@@ -5007,17 +4975,15 @@ LUCENTIO
 Would Katherine had never seen him though!
 
 BAPTISTA
-6
+5
 BIANCA
-TRANIO
 KATHERINA
 GREMIO
-BIONDELLO
+TRANIO
 LUCENTIO
 Go, girl, I cannot blame thee now to weep,
 For such an injury would vex a very saint;
 Much more a shrew of thy impatient humour.
-Master, master! News, and such old news as you never heard of!
 
 BAPTISTA
 6
@@ -5242,15 +5208,13 @@ LUCENTIO
 Why, that's all one.
 
 BIONDELLO
-8
-BIANCA
-GRUMIO
+6
+KATHERINA
 TRANIO
 BAPTISTA
-KATHERINA
+BIANCA
 GREMIO
 LUCENTIO
-PETRUCHIO
 Nay, by Saint Jamy,
 
 PETRUCHIO
@@ -5499,12 +5463,11 @@ Which once perform'd, let all the world say no,
 I'll keep mine own despite of all the world.
 
 TRANIO
-8
-BIANCA
+7
+KATHERINA
 GRUMIO
 BAPTISTA
-KATHERINA
-GREMIO
+BIANCA
 BIONDELLO
 LUCENTIO
 PETRUCHIO
@@ -5514,7 +5477,6 @@ We'll over-reach the greybeard, Gremio,
 The narrow-prying father, Minola,
 The quaint musician, amorous Licio-
 All for my master's sake, Lucentio.
-Signior Gremio, came you from the church?
 
 GREMIO
 8
@@ -5622,16 +5584,11 @@ PETRUCHIO
 What said the wench, when he rose again?
 
 GREMIO
-9
-BIANCA
-HORTENSIO
+4
 GRUMIO
 TRANIO
-BAPTISTA
-KATHERINA
 BIONDELLO
 LUCENTIO
-PETRUCHIO
 Trembled and shook, for why he stamp'd and swore
 As if the vicar meant to cozen him.
 But after many ceremonies done
@@ -6071,8 +6028,7 @@ PETRUCHIO
 She shall, Lucentio. Come, gentlemen, let's go.
 
 GRUMIO
-1
-CURTIS
+0
 Fie, fie on all tired jades, on all mad masters, and all
 foul ways! Was ever man so beaten? Was ever man so ray'd? Was
 ever man so weary? I am sent before to make a fire, and they are
@@ -6370,13 +6326,11 @@ NICHOLAS
 All things is ready. How near is our master?
 
 GRUMIO
-7
+5
 CURTIS
-KATHERINA
 JOSEPH
 PHILIP
 NICHOLAS
-PETRUCHIO
 NATHANIEL
 E'en at hand, alighted by this; and therefore be not-
 
@@ -6629,15 +6583,14 @@ PETRUCHIO
 Peter, didst ever see the like?
 
 PETER
-10
+9
 ALL SERVANTS
 GRUMIO
-CURTIS
 KATHERINA
 JOSEPH
+NICHOLAS
 FIRST SERVANT
 PHILIP
-NICHOLAS
 PETRUCHIO
 NATHANIEL
 He kills her in her own humour.
@@ -6657,16 +6610,15 @@ NATHANIEL
 Where is he?
 
 CURTIS
-10
+9
 ALL SERVANTS
 GRUMIO
-PETER
 KATHERINA
 JOSEPH
+NICHOLAS
 FIRST SERVANT
 PHILIP
-NICHOLAS
-PETRUCHIO
+PETER
 NATHANIEL
 In her chamber. Making a sermon of continency to her,
 And rails, and swears, and rates, that she, poor soul,
@@ -6709,6 +6661,7 @@ And with the clamour keep her still awake.
 This is a way to kill a wife with kindness,
 And thus I'll curb her mad and headstrong humour.
 He that knows better how to tame a shrew,
+Now let him speak; 'tis charity to show.
 
 TRANIO
 2
@@ -6719,9 +6672,7 @@ Doth fancy any other but Lucentio?
 I tell you, sir, she bears me fair in hand.
 
 HORTENSIO
-3
-BIANCA
-LUCENTIO
+1
 TRANIO
 Sir, to satisfy you in what I have said,
 Stand by and mark the manner of his teaching.
@@ -6834,6 +6785,7 @@ As I have lov'd this proud disdainful haggard.
 And so farewell, Signior Lucentio.
 Kindness in women, not their beauteous looks,
 Shall win my love; and so I take my leave,
+In resolution as I swore before.
 
 TRANIO
 2
@@ -6900,10 +6852,9 @@ TRANIO
 The taming-school! What, is there such a place?
 
 TRANIO
-3
+2
 BIANCA
 LUCENTIO
-BIONDELLO
 Ay, mistress; and Petruchio is the master,
 That teacheth tricks eleven and twenty long,
 To tame a shrew and charm her chattering tongue.
@@ -6942,8 +6893,7 @@ BIONDELLO
 And what of him, Tranio?
 
 TRANIO
-4
-PEDANT
+3
 BIANCA
 LUCENTIO
 BIONDELLO
@@ -7214,10 +7164,8 @@ KATHERINA
 Why then the mustard without the beef.
 
 KATHERINA
-3
-HORTENSIO
+1
 GRUMIO
-PETRUCHIO
 Go, get thee gone, thou false deluding slave,
 That feed'st me with the very name of meat.
 Sorrow on thee and all the pack of you
@@ -7289,12 +7237,10 @@ Signior Petruchio, fie! you are to blame.
 Come, Mistress Kate, I'll bear you company.
 
 PETRUCHIO
-5
+3
+KATHERINA
 HORTENSIO
 GRUMIO
-KATHERINA
-TAILOR
-HABERDASHER
  [Aside]  Eat it up all, Hortensio, if thou lovest me.-
 Much good do it unto thy gentle heart!
 Kate, eat apace. And now, my honey love,
@@ -7306,9 +7252,6 @@ With scarfs and fans and double change of brav'ry.
 With amber bracelets, beads, and all this knav'ry.
 What, hast thou din'd? The tailor stays thy leisure,
 To deck thy body with his ruffling treasure.
-Come, tailor, let us see these ornaments;
-Lay forth the gown.
-What news with you, sir?
 
 HABERDASHER
 5
@@ -7396,6 +7339,7 @@ TAILOR
 HABERDASHER
 PETRUCHIO
 Love me or love me not, I like the cap;
+And it I will have, or I will have none.
 
 PETRUCHIO
 4
@@ -7788,6 +7732,7 @@ HABERDASHER
 PETRUCHIO
 Tailor, I'll pay thee for thy gown to-morrow;
 Take no unkindness of his hasty words.
+Away, I say; commend me to thy master.
 
 PETRUCHIO
 4
@@ -7864,11 +7809,10 @@ Near twenty years ago in Genoa,
 Where we were lodgers at the Pegasus.
 
 TRANIO
-4
+3
 PEDANT
 LUCENTIO
 VINCENTIO
-BIONDELLO
 'Tis well; and hold your own, in any case,
 With such austerity as longeth to a father.
 
@@ -7917,18 +7861,12 @@ I told him that your father was at Venice,
 And that you look'd for him this day in Padua.
 
 TRANIO
-5
-BAPTISTA
+3
 PEDANT
-LUCENTIO
-BIONDELLO
 VINCENTIO
+BIONDELLO
 Th'art a tall fellow; hold thee that to drink.
 Here comes Baptista. Set your countenance, sir.
-Signior Baptista, you are happily met.
-[To To the PEDANT] Sir, this is the gentleman I told you of;
-I pray you stand good father to me now;
-Give me Bianca for my patrimony.
 
 PEDANT
 5
@@ -8020,6 +7958,7 @@ It likes me well. Cambio, hie you home,
 And bid Bianca make her ready straight;
 And, if you will, tell what hath happened-
 Lucentio's father is arriv'd in Padua,
+And how she's like to be Lucentio's wife.
 
 BIONDELLO
 4
@@ -8041,11 +7980,9 @@ Welcome! One mess is like to be your cheer;
 Come, sir; we will better it in Pisa.
 
 BAPTISTA
-5
+3
 TRANIO
 PEDANT
-LUCENTIO
-BIONDELLO
 VINCENTIO
 I follow you.                                 Exeunt
 
@@ -8206,6 +8143,7 @@ BIONDELLO
 I may and will, if she be so contented.
 She will be pleas'd; then wherefore should I doubt?
 Hap what hap may, I'll roundly go about her;
+It shall go hard if Cambio go without her.
 
 PETRUCHIO
 2
@@ -8292,21 +8230,12 @@ PETRUCHIO
 Petruchio, go thy ways, the field is won.
 
 PETRUCHIO
-3
+2
 KATHERINA
-VINCENTIO
 HORTENSIO
 Well, forward, forward! thus the bowl should run,
 And not unluckily against the bias.
 But, soft! Company is coming here.
-[To VINCENTIO]  Good-morrow, gentle mistress; where away?-
-Tell me, sweet Kate, and tell me truly too,
-Hast thou beheld a fresher gentlewoman?
-Such war of white and red within her cheeks!
-What stars do spangle heaven with such beauty
-As those two eyes become that heavenly face?
-Fair lovely maid, once more good day to thee.
-Sweet Kate, embrace her for her beauty's sake.
 
 HORTENSIO
 3
@@ -8429,6 +8358,7 @@ PETRUCHIO
 VINCENTIO
 Well, Petruchio, this has put me in heart.
 Have to my widow; and if she be froward,
+Then hast thou taught Hortensio to be untoward.
 
 BIONDELLO
 3
@@ -8454,14 +8384,10 @@ Nay, faith, I'll see the church a your back, and then
 come back to my master's as soon as I can.
 
 GREMIO
-7
-KATHERINA
-GRUMIO
-VINCENTIO
+3
 BIANCA
 LUCENTIO
 BIONDELLO
-PETRUCHIO
 I marvel Cambio comes not all this while.
 
 PETRUCHIO
@@ -8629,15 +8555,14 @@ GREMIO
 Why, this is flat knavery to take upon you another man's name.
 
 PEDANT
-8
-KATHERINA
-GRUMIO
-VINCENTIO
+7
 BIANCA
-LUCENTIO
-BIONDELLO
-GREMIO
+GRUMIO
 PETRUCHIO
+KATHERINA
+LUCENTIO
+GREMIO
+VINCENTIO
 Lay hands on the villain; I believe 'a means to cozen
 somebody in this city under my countenance.
 
@@ -8767,17 +8692,14 @@ VINCENTIO
 Help, son! help, Signior Baptista!
 
 PETRUCHIO
-10
-KATHERINA
-GRUMIO
-TRANIO
-BAPTISTA
-PEDANT
-VINCENTIO
+7
 BIANCA
+GRUMIO
+KATHERINA
 LUCENTIO
 BIONDELLO
 GREMIO
+VINCENTIO
 Prithee, Kate, let's stand aside and see the end of this
 controversy.                              [They stand aside]
 
@@ -9077,17 +8999,14 @@ PETRUCHIO
 Away with the dotard; to the gaol with him!
 
 VINCENTIO
-10
-KATHERINA
+7
 GRUMIO
 TRANIO
 BAPTISTA
 PEDANT
-BIANCA
-LUCENTIO
-BIONDELLO
-GREMIO
 PETRUCHIO
+KATHERINA
+GREMIO
 Thus strangers may be hal'd and abus'd. O monstrous
 villain!
 
@@ -9300,6 +9219,7 @@ LUCENTIO
 BIONDELLO
 GREMIO
 Fear not, Baptista; we will content you, go to; but I
+will in to be revenged for this villainy.
 
 BAPTISTA
 9
@@ -9337,6 +9257,7 @@ BIONDELLO
 LUCENTIO
 PETRUCHIO
 My cake is dough, but I'll in among the rest;
+Out of hope of all but my share of the feast.
 
 KATHERINA
 7
@@ -10135,20 +10056,18 @@ WIDOW
 Son, I'll be your half Bianca comes.
 
 LUCENTIO
-11
-KATHERINA
+10
+BIANCA
 HORTENSIO
 TRANIO
 BAPTISTA
 PEDANT
-PETRUCHIO
-BIANCA
-GREMIO
-BIONDELLO
 VINCENTIO
+KATHERINA
+GREMIO
+PETRUCHIO
 WIDOW
 I'll have no halves; I'll bear it all myself.
-How now! what news?
 
 BIONDELLO
 11
@@ -10227,6 +10146,7 @@ LUCENTIO
 PETRUCHIO
 WIDOW
 Sirrah Biondello, go and entreat my wife
+To come to me forthwith.
 
 PETRUCHIO
 10
@@ -10244,21 +10164,19 @@ O, ho! entreat her!
 Nay, then she must needs come.
 
 HORTENSIO
-11
-KATHERINA
+10
+BIANCA
 TRANIO
 BAPTISTA
 PEDANT
-PETRUCHIO
-BIANCA
-GREMIO
-BIONDELLO
-LUCENTIO
 VINCENTIO
+KATHERINA
+GREMIO
+LUCENTIO
+PETRUCHIO
 WIDOW
 I am afraid, sir,
 Do what you can, yours will not be entreated.
-Now, where's my wife?
 
 BIONDELLO
 11
@@ -10292,6 +10210,7 @@ WIDOW
 Worse and worse; she will not come! O vile,
 Intolerable, not to be endur'd!
 Sirrah Grumio, go to your mistress;
+Say I command her come to me.
 
 HORTENSIO
 10
@@ -10338,17 +10257,16 @@ WIDOW
 She will not.
 
 PETRUCHIO
-11
-KATHERINA
+10
+BIANCA
 HORTENSIO
 TRANIO
 BAPTISTA
 PEDANT
-BIANCA
+VINCENTIO
 GREMIO
 BIONDELLO
 LUCENTIO
-VINCENTIO
 WIDOW
 The fouler fortune mine, and there an end.
 
@@ -10496,25 +10414,18 @@ Another dowry to another daughter,
 For she is chang'd, as she had never been.
 
 PETRUCHIO
-11
-KATHERINA
+8
 HORTENSIO
 TRANIO
 BAPTISTA
 PEDANT
-BIANCA
+VINCENTIO
 GREMIO
 BIONDELLO
 LUCENTIO
-VINCENTIO
-WIDOW
 Nay, I will win my wager better yet,
 And show more sign of her obedience,
 Her new-built virtue and obedience.
-See where she comes, and brings your froward wives
-As prisoners to her womanly persuasion.
-Katherine, that cap of yours becomes you not:
-Off with that bauble, throw it underfoot.
 
 WIDOW
 11

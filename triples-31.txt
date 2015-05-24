@@ -191,10 +191,10 @@ PANDARUS
 1
 TROILUS
 Pray you, speak no more to me: I will leave all
+as I found it, and there an end.
 
 TROILUS
-1
-AENEAS
+0
 Peace, you ungracious clamours! Peace, rude sounds!
 Fools on both sides! Helen must needs be fair,
 When with your blood you daily paint her thus.
@@ -344,8 +344,7 @@ ALEXANDER
 But how should this man, that makes me smile, make Hector
 
 ALEXANDER
-2
-PANDARUS
+1
 CRESSIDA
 They say he yesterday cop'd Hector in the battle and
 struck him down, the disdain and shame whereof hath ever since
@@ -1150,9 +1149,7 @@ I can watch you for telling how I took the blow; unless it swell
 past hiding, and then it's past watching
 
 PANDARUS
-4
-TROILUS
-BOY
+2
 CRESSIDA
 ALEXANDER
 You are such another!
@@ -1240,6 +1237,7 @@ Love got so sweet as when desire did sue;
 Therefore this maxim out of love I teach:
 Achievement is command; ungain'd, beseech.
 Then though my heart's content firm love doth bear,
+Nothing of that shall from mine eyes appear.
 
 AGAMEMNON
 4
@@ -1540,11 +1538,10 @@ ULYSSES
 What trumpet? Look, Menelaus.
 
 MENELAUS
-5
-AENEAS
+4
+DIOMEDES
 AGAMEMNON
 ULYSSES
-DIOMEDES
 NESTOR
 From Troy.
 
@@ -2189,10 +2186,8 @@ THERSITES
 You cur!                                        [Strikes him]
 
 THERSITES
-3
-ACHILLES
+1
 AJAX
-PATROCLUS
 Mars his idiot! Do, rudeness; do, camel; do, do.
 
 ACHILLES
@@ -2501,6 +2496,7 @@ AJAX
 PATROCLUS
 I will see you hang'd like clotpoles ere I come any more
 to your tents. I will keep where there is wit stirring, and leave
+the faction of fools.
 
 PATROCLUS
 2
@@ -2736,12 +2732,11 @@ HELENUS
 [Within] Cry, Troyans.
 
 HECTOR
-5
+4
 PARIS
-PRIAM
 TROILUS
+PRIAM
 HELENUS
-CASSANDRA
 It is Cassandra.
 
 CASSANDRA
@@ -2778,6 +2773,7 @@ Cry, Troyans, cry. Practise your eyes with tears.
 Troy must not be, nor goodly Ilion stand;
 Our firebrand brother, Paris, burns us all.
 Cry, Troyans, cry, A Helen and a woe!
+Cry, cry. Troy burns, or else let Helen go.
 
 HECTOR
 4
@@ -2940,8 +2936,7 @@ Whilst emulation in the army crept.
 This, I presume, will wake him.                            Exeunt
 
 THERSITES
-1
-PATROCLUS
+0
 How now, Thersites! What, lost in the labyrinth of thy
 fury? Shall the elephant Ajax carry it thus? He beats me, and I
 rail at him. O worthy satisfaction! Would it were otherwise: that
@@ -2990,8 +2985,7 @@ PATROCLUS
 Ay, the heavens hear me!
 
 PATROCLUS
-2
-ACHILLES
+1
 THERSITES
 Amen.
 
@@ -3113,6 +3107,7 @@ ACHILLES
 THERSITES
 PATROCLUS
 Come, Patroclus, I'll speak with nobody. Come in with me,
+Thersites.
 
 THERSITES
 1
@@ -3120,6 +3115,7 @@ PATROCLUS
 Here is such patchery, such juggling, and such knavery.
 All the argument is a whore and a cuckold-a good quarrel to draw
 emulous factions and bleed to death upon. Now the dry serpigo on
+the subject, and war and lechery confound all!
 
 AGAMEMNON
 4
@@ -3235,14 +3231,12 @@ All the better; their fraction is more our wish than their
 faction. But it was a strong composure a fool could disunite!
 
 ULYSSES
-5
-AGAMEMNON
-PATROCLUS
+4
 AJAX
-DIOMEDES
+AGAMEMNON
 NESTOR
+DIOMEDES
 The amity that wisdom knits not, folly may easily untie.
-Here comes Patroclus.
 
 NESTOR
 5
@@ -3390,11 +3384,10 @@ Why should a man be proud? How doth pride grow? I know not
 what pride is.
 
 AGAMEMNON
-4
-ULYSSES
+3
+NESTOR
 AJAX
 DIOMEDES
-NESTOR
 Your mind is the clearer, Ajax, and your virtues the
 fairer. He that is proud eats up himself. Pride is his own glass,
 his own trumpet, his own chronicle; and whatever praises itself
@@ -3825,13 +3818,11 @@ And here's a lord-come knights from east to west
 And cull their flower, Ajax shall cope the best.
 
 AGAMEMNON
-6
-ULYSSES
-SERVANT
-PANDARUS
+4
 AJAX
-DIOMEDES
+ULYSSES
 NESTOR
+DIOMEDES
 Go we to council. Let Achilles sleep.
 Light boats sail swift, though greater hulks draw deep.
 Exeunt
@@ -4117,14 +4108,12 @@ will make a complimental assault upon him, for my business
 seethes.
 
 SERVANT
-8
+6
 AGAMEMNON
 ULYSSES
 PANDARUS
-AJAX
-PARIS
 DIOMEDES
-HELEN
+AJAX
 NESTOR
 Sodden business! There's a stew'd phrase indeed!
 
@@ -4819,16 +4808,13 @@ Gives us more palm in beauty than we have,
 Yea, overshines ourself.
 
 PARIS
-10
-BOY
+7
 AGAMEMNON
 ULYSSES
 SERVANT
-PANDARUS
-AJAX
 DIOMEDES
+AJAX
 HELEN
-TROILUS
 NESTOR
 Sweet, above thought I love thee.                     Exeunt
 
@@ -4847,16 +4833,15 @@ NESTOR
 How now! Where's thy master? At my cousin Cressida's?
 
 BOY
-10
+9
 AGAMEMNON
 ULYSSES
 SERVANT
 PANDARUS
-AJAX
-PARIS
 DIOMEDES
+PARIS
+AJAX
 HELEN
-TROILUS
 NESTOR
 No, sir; he stays for you to conduct him thither.
 
@@ -4937,15 +4922,14 @@ NESTOR
 Walk here i' th' orchard, I'll bring her straight.
 
 TROILUS
-10
+9
 BOY
 AGAMEMNON
 ULYSSES
 SERVANT
-PANDARUS
-AJAX
-PARIS
 DIOMEDES
+PARIS
+AJAX
 HELEN
 NESTOR
 I am giddy; expectation whirls me round.
@@ -4977,20 +4961,19 @@ She's making her ready, she'll come straight; you must be
 witty now. She does so blush, and fetches her wind so short, as
 if she were fray'd with a sprite. I'll fetch her. It is the
 prettiest villain; she fetches her breath as short as a new-ta'en
+sparrow.
 
 TROILUS
-11
+9
 BOY
 AGAMEMNON
 ULYSSES
 SERVANT
-PANDARUS
-AJAX
-PARIS
 DIOMEDES
+PARIS
+AJAX
 HELEN
 NESTOR
-CRESSIDA
 Even such a passion doth embrace my bosom.
 My heart beats thicker than a feverous pulse,
 And all my powers do their bestowing lose,
@@ -5258,15 +5241,14 @@ be a mock for his truth; and what truth can speak truest not
 truer than Troilus.
 
 CRESSIDA
-11
+10
 BOY
 AGAMEMNON
 ULYSSES
 SERVANT
-PANDARUS
-AJAX
-PARIS
 DIOMEDES
+PARIS
+AJAX
 HELEN
 TROILUS
 NESTOR
@@ -5755,18 +5737,12 @@ NESTOR
 Amen.
 
 PANDARUS
-12
+6
 BOY
-AGAMEMNON
-ULYSSES
 SERVANT
-AJAX
 PARIS
-DIOMEDES
-MENELAUS
 HELEN
 TROILUS
-NESTOR
 CRESSIDA
 Amen. Whereupon I will show you a chamber
 and a bed; which bed, because it shall not speak of your
@@ -6562,6 +6538,7 @@ And all the Greekish girls shall tripping sing
 'Great Hector's sister did Achilles win;
 But our great Ajax bravely beat down him.'
 Farewell, my lord. I as your lover speak.
+The fool slides o'er the ice that you should break.
 
 PATROCLUS
 12
@@ -6659,18 +6636,17 @@ And danger, like an ague, subtly taints
 Even then when they sit idly in the sun.
 
 ACHILLES
-13
+12
 BOY
 AGAMEMNON
 PATROCLUS
 SERVANT
 PANDARUS
 CALCHAS
+TROILUS
 PARIS
 DIOMEDES
 HELEN
-TROILUS
-THERSITES
 NESTOR
 CRESSIDA
 Go call Thersites hither, sweet Patroclus.
@@ -6681,7 +6657,6 @@ An appetite that I am sick withal,
 To see great Hector in his weeds of peace;
 To talk with him, and to behold his visage,
 Even to my full of view.
-A labour sav'd!
 
 THERSITES
 13
@@ -7256,6 +7231,7 @@ NESTOR
 CRESSIDA
 Would the fountain of your mind were clear again, that I
 might water an ass at it. I had rather be a tick in a sheep than
+such a valiant ignorance.
 
 PARIS
 0
@@ -7532,8 +7508,7 @@ CRESSIDA
 [Within] What's all the doors open here?
 
 TROILUS
-2
-PANDARUS
+1
 CRESSIDA
 It is your uncle.
 
@@ -7604,9 +7579,8 @@ How earnestly they knock! Pray you come in:
 I would not for half Troy have you seen here.
 
 PANDARUS
-3
+2
 TROILUS
-AENEAS
 CRESSIDA
 Who's there? What's the matter? Will you beat down the
 door? How now? What's the matter?
@@ -7657,8 +7631,7 @@ Is he here, say you? It's more than I know, I'll be
 sworn. For my own part, I came in late. What should he do here?
 
 AENEAS
-3
-TROILUS
+2
 PANDARUS
 CRESSIDA
 Who!-nay, then. Come, come, you'll do him wrong ere you are
@@ -7719,10 +7692,9 @@ Good, good, my lord, the secrets of neighbour Pandar
 Have not more gift in taciturnity.
 
 PANDARUS
-3
+2
 TROILUS
 AENEAS
-CRESSIDA
 Is't possible? No sooner got but lost? The devil take
 Antenor! The young prince will go mad. A plague upon Antenor! I
 would they had broke's neck.
@@ -7859,6 +7831,7 @@ Walk into her house.
 I'll bring her to the Grecian presently;
 And to his hand when I deliver her,
 Think it an altar, and thy brother Troilus
+A priest, there off'ring to it his own heart.
 
 PARIS
 3
@@ -7875,8 +7848,7 @@ CRESSIDA
 Be moderate, be moderate.
 
 CRESSIDA
-2
-TROILUS
+1
 PANDARUS
 Why tell you me of moderation?
 The grief is fine, full, perfect, that I taste,
@@ -8005,6 +7977,7 @@ TROILUS
 AENEAS
 CRESSIDA
 Where are my tears? Rain, to lay this wind, or my heart
+will be blown up by th' root?
 
 CRESSIDA
 2
@@ -8167,27 +8140,13 @@ AENEAS
 My lord, will you be true?
 
 TROILUS
-5
-AENEAS
-PARIS
-DIOMEDES
-DEIPHOBUS
+1
 CRESSIDA
 Who, I? Alas, it is my vice, my fault!
 Whiles others fish with craft for great opinion,
 I with great truth catch mere simplicity;
 Whilst some with cunning gild their copper crowns,
 With truth and plainness I do wear mine bare.
-Fear not my truth: the moral of my wit
-Is 'plain and true'; there's all the reach of it.
-Welcome, Sir Diomed! Here is the lady
-Which for Antenor we deliver you;
-At the port, lord, I'll give her to thy hand,
-And by the way possess thee what she is.
-Entreat her fair; and, by my soul, fair Greek,
-If e'er thou stand at mercy of my sword,
-Name Cressid, and thy life shall be as safe
-As Priam is in Ilion.
 
 DIOMEDES
 5
@@ -8334,14 +8293,12 @@ ACHILLES
 No trumpet answers.
 
 ACHILLES
-7
+5
 AGAMEMNON
 ULYSSES
 PATROCLUS
-DIOMEDES
 AJAX
 MENELAUS
-CRESSIDA
 'Tis but early days.
 
 AGAMEMNON
@@ -8783,20 +8740,15 @@ For sluttish spoils of opportunity,
 And daughters of the game.                       [Trumpet within]
 
 ALL
-14
-AENEAS
+9
 AGAMEMNON
 ULYSSES
 PATROCLUS
-PARIS
-DIOMEDES
-HECTOR
 AJAX
+DIOMEDES
 MENELAUS
-TROILUS
 ACHILLES
 NESTOR
-HELENUS
 CRESSIDA
 The Troyans' trumpet.
 
@@ -8963,16 +8915,15 @@ Half heart, half hand, half Hector comes to seek
 This blended knight, half Troyan and half Greek.
 
 ACHILLES
-14
+13
 ALL
 AENEAS
 AGAMEMNON
 ULYSSES
 PATROCLUS
 PARIS
-DIOMEDES
-HECTOR
 AJAX
+HECTOR
 MENELAUS
 TROILUS
 NESTOR
@@ -10297,9 +10248,8 @@ Which with my scimitar I'll cool to-morrow.
 Patroclus, let us feast him to the height.
 
 PATROCLUS
-2
+1
 ACHILLES
-THERSITES
 Here comes Thersites.
 
 ACHILLES
@@ -10426,15 +10376,11 @@ Fall Greeks; fail fame; honour or go or stay;
 My major vow lies here, this I'll obey.
 Come, come, Thersites, help to trim my tent;
 This night in banqueting must all be spent.
+Away, Patroclus!
 
 THERSITES
-6
-AGAMEMNON
-ULYSSES
+1
 PATROCLUS
-HECTOR
-AJAX
-TROILUS
 With too much blood and too little brain these two may
 run mad; but, if with too much brain and to little blood they do,
 I'll be a curer of madmen. Here's Agamemnon, an honest fellow
@@ -10484,12 +10430,11 @@ THERSITES
 I trouble you.
 
 AJAX
-7
+6
 AGAMEMNON
 ULYSSES
 PATROCLUS
 HECTOR
-ACHILLES
 TROILUS
 THERSITES
 No, not a whit.
@@ -10713,6 +10658,7 @@ it: it is prodigious, there will come some change; the sun
 borrows of the moon when Diomed keeps his word. I will rather
 leave to see Hector than not to dog him. They say he keeps a
 Troyan drab, and uses the traitor Calchas' tent. I'll after.
+Nothing but lechery! All incontinent varlets!
 
 DIOMEDES
 0
@@ -10729,18 +10675,15 @@ CALCHAS
 Diomed. Calchas, I think. Where's your daughter?
 
 CALCHAS
-3
-TROILUS
+1
 DIOMEDES
-ULYSSES
 [Within] She comes to you.
 
 ULYSSES
-4
+3
+CALCHAS
 TROILUS
 DIOMEDES
-CRESSIDA
-CALCHAS
 Stand where the torch may not discover us.
 
 TROILUS
@@ -11218,12 +11161,11 @@ THERSITES
 You have sworn patience.
 
 TROILUS
-5
-ULYSSES
-CALCHAS
+4
 DIOMEDES
+ULYSSES
 THERSITES
-CRESSIDA
+CALCHAS
 Fear me not, my lord;
 I will not be myself, nor have cognition
 Of what I feel. I am all patience.
@@ -11748,12 +11690,11 @@ Let all untruths stand by thy stained name,
 And they'll seem glorious.
 
 ULYSSES
-5
-AENEAS
-CALCHAS
+4
 DIOMEDES
 TROILUS
 THERSITES
+CALCHAS
 O, contain yourself;
 Your passion draws ears hither.
 
@@ -11809,6 +11750,7 @@ a raven; I would bode, I would bode. Patroclus will give me
 anything for the intelligence of this whore; the parrot will not
 do more for an almond than he for a commodious drab. Lechery,
 lechery! Still wars and lechery! Nothing else holds fashion. A
+burning devil take them!
 
 ANDROMACHE
 1
@@ -11829,9 +11771,8 @@ HECTOR
 My dreams will, sure, prove ominous to the day.
 
 HECTOR
-2
+1
 ANDROMACHE
-CASSANDRA
 No more, I say.
 
 CASSANDRA
@@ -11900,15 +11841,13 @@ But vows to every purpose must not hold.
 Unarm, sweet Hector.
 
 HECTOR
-3
+2
 ANDROMACHE
-TROILUS
 CASSANDRA
 Hold you still, I say.
 Mine honour keeps the weather of my fate.
 Life every man holds dear; but the dear man
 Holds honour far more precious dear than life.
-How now, young man! Mean'st thou to fight to-day?
 
 ANDROMACHE
 3
@@ -12008,11 +11947,9 @@ CASSANDRA
 Troilus, I would not have you fight to-day.
 
 TROILUS
-4
+2
 ANDROMACHE
 HECTOR
-PRIAM
-CASSANDRA
 Who should withhold me?
 Not fate, obedience, nor the hand of Mars
 Beck'ning with fiery truncheon my retire;
@@ -12141,6 +12078,7 @@ HECTOR
 TROILUS
 PRIAM
 Farewell!-yet, soft! Hector, I take my leave.
+Thou dost thyself and all our Troy deceive.
 
 HECTOR
 3
@@ -12159,11 +12097,10 @@ TROILUS
 Farewell. The gods with safety stand about thee!
 
 TROILUS
-4
+3
 ANDROMACHE
-PANDARUS
-PRIAM
 HECTOR
+PRIAM
 They are at it, hark! Proud Diomed, believe,
 I come to lose my arm or win my sleeve.
 
@@ -12225,9 +12162,7 @@ My love with words and errors still she feeds,
 But edifies another with her deeds.              Exeunt severally
 
 THERSITES
-2
-TROILUS
-DIOMEDES
+0
 Now they are clapper-clawing one another; I'll go look
 on. That dissembling abominable varlet, Diomed, has got that same
 scurvy doting foolish young knave's sleeve of Troy there in his
@@ -12242,7 +12177,6 @@ against that dog of as bad a kind, Achilles; and now is the cur,
 Ajax prouder than the cur Achilles, and will not arm to-day;
 whereupon the Grecians begin to proclaim barbarism, and policy
 grows into an ill opinion.
-Soft! here comes sleeve, and t'other.
 
 TROILUS
 2
@@ -12261,10 +12195,9 @@ Withdrew me from the odds of multitude.
 Have at thee.
 
 THERSITES
-3
+2
 TROILUS
 DIOMEDES
-HECTOR
 Hold thy whore, Grecian; now for thy whore,
 Troyan-now the sleeve, now the sleeve!
 
@@ -12299,6 +12232,7 @@ God-a-mercy, that thou wilt believe me; but a plague
 break thy neck for frighting me! What's become of the wenching
 rogues? I think they have swallowed one another. I would laugh at
 that miracle. Yet, in a sort, lechery eats itself. I'll seek
+them.
 
 DIOMEDES
 1
@@ -12315,9 +12249,8 @@ DIOMEDES
 I go, my lord.
 
 AGAMEMNON
-2
+1
 DIOMEDES
-NESTOR
 Renew, renew! The fierce Polydamus
 Hath beat down enon; bastard Margarelon
 Hath Doreus prisoner,
@@ -12331,10 +12264,9 @@ Appals our numbers. Haste we, Diomed,
 To reinforcement, or we perish all.
 
 NESTOR
-3
+2
 DIOMEDES
 AGAMEMNON
-ULYSSES
 Go, bear Patroclus' body to Achilles,
 And bid the snail-pac'd Ajax arm for shame.
 There is a thousand Hectors in the field;
@@ -12350,11 +12282,10 @@ That what he will he does, and does so much
 That proof is call'd impossibility.
 
 ULYSSES
-4
-AJAX
-DIOMEDES
+3
 NESTOR
 AGAMEMNON
+DIOMEDES
 O, courage, courage, courage, Princes! Great
 Achilles Is arming, weeping, cursing, vowing vengeance.
 Patroclus' wounds have rous'd his drowsy blood,
@@ -12402,8 +12333,7 @@ Know what it is to meet Achilles angry.
 Hector! where's Hector? I will none but Hector.            Exeunt
 
 AJAX
-1
-DIOMEDES
+0
 Troilus, thou coward Troilus, show thy head.
 
 DIOMEDES
@@ -12422,8 +12352,7 @@ AJAX
 I would correct him.
 
 AJAX
-2
-TROILUS
+1
 DIOMEDES
 Were I the general, thou shouldst have my office
 Ere that correction. Troilus, I say! What, Troilus!
@@ -12454,18 +12383,16 @@ AJAX
 He is my prize. I will not look upon.
 
 TROILUS
-3
+2
 AJAX
 DIOMEDES
-HECTOR
 Come, both, you cogging Greeks; have at you
 
 HECTOR
-4
+3
 TROILUS
 AJAX
 DIOMEDES
-ACHILLES
 Yea, Troilus? O, well fought, my youngest brother!
 
 ACHILLES
@@ -12494,16 +12421,15 @@ I do disdain thy courtesy, proud Troyan.
 Be happy that my arms are out of use;
 My rest and negligence befriends thee now,
 But thou anon shalt hear of me again;
+Till when, go seek thy fortune.
 
 HECTOR
-3
-TROILUS
+2
 AJAX
 DIOMEDES
 Fare thee well.
 I would have been much more a fresher man,
 Had I expected thee.
-How now, my brother!
 
 TROILUS
 3
@@ -12514,6 +12440,7 @@ Ajax hath ta'en Aeneas. Shall it be?
 No, by the flame of yonder glorious heaven,
 He shall not carry him; I'll be ta'en too,
 Or bring him off. Fate, hear me what I say:
+I reck not though thou end my life to-day.
 
 HECTOR
 2
@@ -12526,10 +12453,7 @@ But I'll be master of it. Wilt thou not, beast, abide?
 Why then, fly on; I'll hunt thee for thy hide.             Exeunt
 
 ACHILLES
-3
-PARIS
-THERSITES
-MENELAUS
+0
 Come here about me, you my Myrmidons;
 Mark what I say. Attend me where I wheel;
 Strike not a stroke, but keep yourselves in breath;
@@ -12540,11 +12464,10 @@ Follow me, sirs, and my proceedings eye.
 It is decreed Hector the great must die.                   Exeunt
 
 THERSITES
-4
+3
 PARIS
 ACHILLES
 MENELAUS
-MARGARELON
 The cuckold and the cuckold-maker are at it. Now, bull!
 now, dog! 'Loo, Paris, 'loo! now my double-horn'd Spartan! 'loo,
 Paris, 'loo! The bull has the game. Ware horns, ho!
@@ -12595,8 +12518,7 @@ ACHILLES
 The devil take thee, coward!
 
 HECTOR
-1
-ACHILLES
+0
 Most putrified core so fair without,
 Thy goodly armour thus hath cost thy life.
 Now is my day's work done; I'll take good breath:
@@ -12700,10 +12622,9 @@ Great Troy is ours, and our sharp wars are ended.
 Exeunt
 
 AENEAS
-3
+2
 PARIS
 DEIPHOBUS
-TROILUS
 Stand, ho! yet are we masters of the field.
 Never go home; here starve we out the night.
 
@@ -12744,12 +12665,11 @@ TROILUS
 My lord, you do discomfort all the host.
 
 TROILUS
-5
+4
+DEIPHOBUS
 ALL
 AENEAS
 PARIS
-PANDARUS
-DEIPHOBUS
 You understand me not that tell me so.
 I do not speak of flight, of fear of death,
 But dare all imminence that gods and men
@@ -12813,4 +12733,5 @@ Some two months hence my will shall here be made.
 It should be now, but that my fear is this,
 Some galled goose of Winchester would hiss.
 Till then I'll sweat and seek about for eases,
+And at that time bequeath you my diseases.
 

@@ -155,12 +155,11 @@ So well thy words become thee as thy wounds;
 They smack of honor both. Go get him surgeons.
 
 DUNCAN
-5
+4
 LENNOX
 DONALBAIN
-MALCOLM
 SERGEANT
-ROSS
+MALCOLM
 Who comes here?
 
 LENNOX
@@ -348,12 +347,10 @@ A drum, a drum!
 MACBETH doth come.
 
 ALL
-5
-THIRD WITCH
-MACBETH
-BANQUO
+3
 FIRST WITCH
 SECOND WITCH
+THIRD WITCH
 The weird sisters, hand in hand,
 Posters of the sea and land,
 Thus do go about, about,
@@ -582,14 +579,12 @@ SECOND WITCH
 And Thane of Cawdor too. Went it not so?
 
 BANQUO
-7
+5
 ALL
-ANGUS
 THIRD WITCH
 MACBETH
 FIRST WITCH
 SECOND WITCH
-ROSS
 To the selfsame tune and words. Who's here?
 
 ROSS
@@ -865,14 +860,10 @@ To throw away the dearest thing he owed
 As 'twere a careless trifle.
 
 DUNCAN
-7
+3
 LENNOX
 DONALBAIN
-ANGUS
 MALCOLM
-MACBETH
-BANQUO
-ROSS
 There's no art
 To find the mind's construction in the face:
 He was a gentleman on whom I built
@@ -1000,6 +991,7 @@ On which I must fall down, or else o'erleap,
 For in my way it lies. Stars, hide your fires;
 Let not light see my black and deep desires.
 The eye wink at the hand; yet let that be
+Which the eye fears, when it is done, to see.
 
 DUNCAN
 6
@@ -1016,8 +1008,7 @@ Whose care is gone before to bid us welcome.
 It is a peerless kinsman.                  Flourish. Exeunt.
 
 LADY MACBETH
-1
-MESSENGER
+0
 "They met me in the day of success, and I have
 learned by the perfectest report they have more in them than
 mortal knowledge. When I burned in desire to question them
@@ -1046,7 +1037,6 @@ And chastise with the valor of my tongue
 All that impedes thee from the golden round,
 Which fate and metaphysical aid doth seem
 To have thee crown'd withal.
-What is your tidings?
 
 MESSENGER
 1
@@ -1072,11 +1062,11 @@ LADY MACBETH
 1
 MESSENGER
 Give him tending;
+He brings great news.
 
 LADY MACBETH
-2
+1
 MESSENGER
-MACBETH
  The raven himself is hoarse
 That croaks the fatal entrance of Duncan
 Under my battlements. Come, you spirits
@@ -1168,13 +1158,12 @@ Nimbly and sweetly recommends itself
 Unto our gentle senses.
 
 BANQUO
-8
+7
 LENNOX
 DONALBAIN
 DUNCAN
 ANGUS
 MALCOLM
-LADY MACBETH
 MACDUFF
 ROSS
 This guest of summer,
@@ -1268,8 +1257,7 @@ And shall continue our graces towards him.
 By your leave, hostess.                              Exeunt.
 
 MACBETH
-1
-LADY MACBETH
+0
 If it were done when 'tis done, then 'twere well
 It were done quickly. If the assassination
 Could trammel up the consequence, and catch,
@@ -1298,7 +1286,6 @@ That tears shall drown the wind. I have no spur
 To prick the sides of my intent, but only
 Vaulting ambition, which o'erleaps itself
 And falls on the other.
-How now, what news?
 
 LADY MACBETH
 1
@@ -1432,18 +1419,14 @@ BANQUO
 I take't 'tis later, sir.
 
 BANQUO
-3
-SERVANT
+1
 FLEANCE
-MACBETH
 Hold, take my sword. There's husbandry in heaven,
 Their candles are all out. Take thee that too.
 A heavy summons lies like lead upon me,
 And yet I would not sleep. Merciful powers,
 Restrain in me the cursed thoughts that nature
 Gives way to in repose!
-Give me my sword.
-Who's there?
 
 MACBETH
 3
@@ -1537,6 +1520,7 @@ SERVANT
 BANQUO
 FLEANCE
 Go bid thy mistress, when my drink is ready,
+She strike upon the bell. Get thee to bed.
 
 MACBETH
 3
@@ -1574,6 +1558,7 @@ Which now suits with it. Whiles I threat, he lives;
 Words to the heat of deeds too cold breath gives.
 I go, and it is done; the bell invites me.
 Hear it not, Duncan, for it is a knell
+That summons thee to heaven, or to hell.
 
 LADY MACBETH
 0
@@ -1592,8 +1577,7 @@ LADY MACBETH
 [Within.] Who's there' what, ho!
 
 LADY MACBETH
-1
-MACBETH
+0
 Alack, I am afraid they have awaked
 And 'tis not done. The attempt and not the deed
 Confounds us. Hark! I laid their daggers ready;
@@ -1745,10 +1729,10 @@ Give me the daggers. The sleeping and the dead
 Are but as pictures; 'tis the eye of childhood
 That fears a painted devil. If he do bleed,
 I'll gild the faces of the grooms withal,
+For it must seem their guilt.
 
 MACBETH
-1
-LADY MACBETH
+0
 Whence is that knocking?
 How is't with me, when every noise appals me?
 What hands are here? Ha, they pluck out mine eyes!
@@ -1777,9 +1761,7 @@ To know my deed, 'twere best not know myself.
 Wake Duncan with thy knocking! I would thou couldst!
 
 PORTER
-2
-LENNOX
-MACDUFF
+0
 Here's a knocking indeed! If a man were porter of Hell
 Gate, he should have old turning the key. [Knocking within.]
 Knock, knock, knock! Who's there, i' the name of Belzebub? Here's
@@ -1846,12 +1828,10 @@ him for his lie, and, I think, being too strong for him, though
 he took up my legs sometime, yet I made shift to cast him.
 
 MACDUFF
-3
+2
 LENNOX
-MACBETH
 PORTER
 Is thy master stirring?
-Our knocking has awaked him; here he comes.
 
 LENNOX
 3
@@ -1911,6 +1891,7 @@ MACDUFF
 PORTER
 The labor we delight in physics pain.
 This is the door.
+For 'tis my limited service.
 
 LENNOX
 2
@@ -1947,8 +1928,7 @@ PORTER
 'Twas a rough fight.
 
 LENNOX
-3
-MACDUFF
+2
 MACBETH
 PORTER
 My young remembrance cannot parallel
@@ -1994,11 +1974,10 @@ PORTER
 Mean you his Majesty?
 
 MACDUFF
-4
+3
 LENNOX
 MACBETH
 PORTER
-LADY MACBETH
 Approach the chamber, and destroy your sight
 With a new Gorgon. Do not bid me speak;
 See, and then speak yourselves.
@@ -2022,12 +2001,11 @@ That such a hideous trumpet calls to parley
 The sleepers of the house? Speak, speak!
 
 MACDUFF
-5
+4
 LENNOX
+PORTER
 MACBETH
 LADY MACBETH
-BANQUO
-PORTER
 O gentle lady,
 'Tis not for you to hear what I can speak:
 The repetition in a woman's ear
@@ -2054,24 +2032,19 @@ Woe, alas!
 What, in our house?
 
 BANQUO
-6
-LENNOX
+3
 MACDUFF
-MACBETH
 LADY MACBETH
 PORTER
-ROSS
 Too cruel anywhere.
 Dear Duff, I prithee, contradict thyself,
 And say it is not so.
 
 MACBETH
-8
+6
 LENNOX
 MACDUFF
-MALCOLM
 LADY MACBETH
-DONALBAIN
 BANQUO
 PORTER
 ROSS
@@ -2411,13 +2384,10 @@ ROSS
 'Tis said they eat each other.
 
 ROSS
-2
-MACDUFF
+1
 OLD MAN
 They did so, to the amazement of mine eyes
 That look'd upon't.
-Here comes the good MACDUFF.
-How goes the world, sir, now?
 
 MACDUFF
 2
@@ -2516,19 +2486,16 @@ OLD MAN
 Farewell, father.
 
 OLD MAN
-3
+2
 MACDUFF
-BANQUO
 ROSS
 God's benison go with you and with those
 That would make good of bad and friends of foes!
 
 BANQUO
-5
+3
 MACDUFF
 OLD MAN
-MACBETH
-LADY MACBETH
 ROSS
 Thou hast it now: King, Cawdor, Glamis, all,
 As the weird women promised, and I fear
@@ -2540,7 +2507,6 @@ Of many kings. If there come truth from them
 Why, by the verities on thee made good,
 May they not be my oracles as well
 And set me up in hope? But hush, no more.
-as Queen, LENNOX, ROSS, Lords, Ladies, and ATTENDANT.
 
 MACBETH
 5
@@ -2677,6 +2643,7 @@ LADY MACBETH
 ROSS
 I wish your horses swift and sure of foot,
 And so I do commend you to their backs.
+Farewell.
 
 ATTENDANT
 5
@@ -2960,6 +2927,7 @@ ATTENDANT
 ROSS
 I'll call upon you straight. Abide within.
 It is concluded: BANQUO, thy soul's flight,
+If it find heaven, must find it out tonight.
 
 LADY MACBETH
 1
@@ -2983,17 +2951,11 @@ LADY MACBETH
 Madam, I will.
 
 LADY MACBETH
-1
-MACBETH
+0
 Nought's had, all's spent,
 Where our desire is got without content.
 'Tis safer to be that which we destroy
 Than by destruction dwell in doubtful joy.
-How now, my lord? Why do you keep alone,
-Of sorriest fancies your companions making,
-Using those thoughts which should indeed have died
-With them they think on? Things without all remedy
-Should be without regard. What's done is done.
 
 MACBETH
 1
@@ -3147,11 +3109,9 @@ So all men do -from hence to the palace gate
 Make it their walk.
 
 SECOND MURTHERER
-4
+2
 THIRD MURTHERER
 FIRST MURTHERER
-BANQUO
-FLEANCE
 A light, a light!
 
 THIRD MURTHERER
@@ -3193,6 +3153,7 @@ THIRD MURTHERER
 FIRST MURTHERER
 FLEANCE
 O, treachery! Fly, good FLEANCE, fly, fly, fly!
+Thou mayst revenge. O slave!          Dies.
 
 THIRD MURTHERER
 3
@@ -3259,11 +3220,10 @@ Our hostess keeps her state, but in best time
 We will require her welcome.
 
 LADY MACBETH
-5
+4
 LORDS
 LENNOX
 MACBETH
-FIRST MURTHERER
 ROSS
 Pronounce it for me, sir, to all our friends,
 For my heart speaks they are welcome.
@@ -3566,6 +3526,7 @@ Prithee, see there! Behold! Look! Lo! How say you?
 Why, what care I? If thou canst nod, speak too.
 If charnel houses and our graves must send
 Those that we bury back, our monuments
+Shall be the maws of kites.
 
 LADY MACBETH
 5
@@ -3694,6 +3655,7 @@ Shall never tremble. Or be alive again,
 And dare me to the desert with thy sword.
 If trembling I inhabit then, protest me
 The baby of a girl. Hence, horrible shadow!
+Unreal mockery, hence!
 
 LADY MACBETH
 5
@@ -3897,6 +3859,7 @@ His hopes 'bove wisdom, grace, and fear.
 And you all know security
 Is mortals' chiefest enemy.
 Hark! I am call'd; my little spirit, see,
+Sits in a foggy cloud and stays for me.
 
 FIRST WITCH
 2
@@ -4068,11 +4031,10 @@ Double, double, toil and trouble;
 Fire burn and cauldron bubble.
 
 SECOND WITCH
-4
+3
 FIRST WITCH
 ALL
 THIRD WITCH
-HECATE
 Cool it with a baboon's blood,
 Then the charm is firm and good.
 
@@ -4089,12 +4051,11 @@ Like elves and fairies in a ring,
 Enchanting all that you put in.
 
 SECOND WITCH
-5
+4
 ALL
-HECATE
-MACBETH
-THIRD WITCH
 FIRST WITCH
+HECATE
+THIRD WITCH
 By the pricking of my thumbs,
 Something wicked this way comes.
 Open, locks,
@@ -4235,6 +4196,7 @@ HECATE
 THIRD WITCH
 MACBETH
 Macbeth! Macbeth! Macbeth! Beware Macduff,
+Beware the Thane of Fife. Dismiss me. Enough.
 
 MACBETH
 5
@@ -4286,6 +4248,7 @@ MACBETH
 THIRD WITCH
 Be bloody, bold, and resolute: laugh to scorn
 The power of man, for none of woman born
+Shall harm Macbeth.
 
 MACBETH
 5
@@ -4336,6 +4299,7 @@ Be lion-mettled, proud, and take no care
 Who chafes, who frets, or where conspirers are.
 MACBETH shall never vanquish'd be until
 Great Birnam Wood to high Dunsinane Hill
+Shall come against him.
 
 MACBETH
 6
@@ -4461,15 +4425,15 @@ And show the best of our delights.
 I'll charm the air to give a sound,
 While you perform your antic round,
 That this great King may kindly say
+Our duties did his welcome pay.
 
 MACBETH
-7
+6
 ALL
-LENNOX
 THIRD
 HECATE
-THIRD WITCH
 SECOND WITCH
+THIRD WITCH
 Macbeth
 are they? Gone? Let this pernicious hour
 Stand ay accursed in the calendar!
@@ -4671,6 +4635,7 @@ LADY MACDUFF
 SON
 I am so much a fool, should I stay longer,
 It would be my disgrace and your discomfort.
+I take my leave at once.
 
 LADY MACDUFF
 1
@@ -4800,8 +4765,7 @@ If he were dead, you'ld weep for him; if you would not, it
 were a good sign that I should quickly have a new father.
 
 LADY MACDUFF
-2
-MESSENGER
+1
 SON
 Poor prattler, how thou talk'st!
 
@@ -4817,10 +4781,10 @@ Be not found here; hence, with your little ones.
 To fright you thus, methinks I am too savage;
 To do worse to you were fell cruelty,
 Which is too nigh your person. Heaven preserve you!
+I dare abide no longer.
 
 LADY MACDUFF
-2
-FIRST MURTHERER
+1
 SON
 Whither should I fly?
 I have done no harm. But I remember now
@@ -5106,9 +5070,8 @@ Now we'll together, and the chance of goodness
 Be like our warranted quarrel! Why are you silent?
 
 MACDUFF
-2
+1
 MALCOLM
-DOCTOR
 Such welcome and unwelcome things at once
 'Tis hard to reconcile.
 
@@ -5140,9 +5103,8 @@ DOCTOR
 What's the disease he means?
 
 MALCOLM
-3
+2
 MACDUFF
-ROSS
 DOCTOR
 'Tis call'd the evil:
 A most miraculous work in this good King,
@@ -5523,8 +5485,7 @@ GENTLEWOMAN
 You may to me, and 'tis most meet you should.
 
 GENTLEWOMAN
-2
-LADY MACBETH
+1
 DOCTOR
 Neither to you nor anyone, having no witness to
 confirm my speech.
@@ -5684,6 +5645,7 @@ GENTLEWOMAN
 DOCTOR
 To bed, to bed; there's knocking at the gate. Come,
 come, come, come, give me your hand.What's done cannot be undone.
+To bed, to bed, to bed.
 
 DOCTOR
 1
@@ -5811,8 +5773,7 @@ To dew the sovereign flower and drown the weeds.
 Make we our march towards Birnam.           Exeunt marching.
 
 MACBETH
-2
-SERVANT
+1
 DOCTOR
 Bring me no more reports; let them fly all!
 Till Birnam Wood remove to Dunsinane
@@ -6107,8 +6068,7 @@ MACBETH
 It is the cry of women, my good lord.
 
 MACBETH
-1
-SEYTON
+0
 I have almost forgot the taste of fears:
 The time has been, my senses would have cool'd
 To hear a night-shriek, and my fell of hair
@@ -6123,9 +6083,8 @@ MACBETH
 The Queen, my lord, is dead.
 
 MACBETH
-2
+1
 SEYTON
-MESSENGER
 She should have died hereafter;
 There would have been a time for such a word.
 Tomorrow, and tomorrow, and tomorrow
@@ -6138,7 +6097,6 @@ That struts and frets his hour upon the stage
 And then is heard no more. It is a tale
 Told by an idiot, full of sound and fury,
 Signifying nothing.
-Thou comest to use thy tongue; thy story quickly.
 
 MESSENGER
 2
@@ -6223,8 +6181,7 @@ Make all our trumpets speak, give them all breath,
 Those clamorous harbingers of blood and death.
 
 MACBETH
-1
-YOUNG SIWARD
+0
 They have tied me to a stake; I cannot fly,
 But bear-like I must fight the course. What's he
 That was not born of woman? Such a one
@@ -6268,6 +6225,7 @@ MACBETH
 YOUNG SIWARD
 Thou wast born of woman.
 But swords I smile at, weapons laugh to scorn,
+Brandish'd by man that's of a woman born.
 
 MACDUFF
 1
@@ -6281,6 +6239,7 @@ Or else my sword, with an unbatter'd edge,
 I sheathe again undeeded. There thou shouldst be;
 By this great clatter, one of greatest note
 Seems bruited. Let me find him, Fortune!
+And more I beg not.
 
 SIWARD
 2
@@ -6300,17 +6259,15 @@ We have met with foes
 That strike beside us.
 
 SIWARD
-3
+2
 YOUNG SIWARD
 MALCOLM
-MACBETH
 Enter, sir, the castle.
 
 MACBETH
-4
+3
 SIWARD
 YOUNG SIWARD
-MACDUFF
 MALCOLM
 Why should I play the Roman fool and die
 On mine own sword? Whiles I see lives, the gashes
@@ -6476,9 +6433,8 @@ He's worth more sorrow,
 And that I'll spend for him.
 
 SIWARD
-3
+2
 MALCOLM
-MACDUFF
 ROSS
 He's worth no more:
 They say he parted well and paid his score,

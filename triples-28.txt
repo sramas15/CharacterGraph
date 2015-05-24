@@ -12,14 +12,11 @@ MASTER
 1
 BOATSWAIN
 Good! Speak to th' mariners; fall to't yarely, or
+we run ourselves aground; bestir, bestir.
 
 BOATSWAIN
-5
-ALONSO
-ANTONIO
+1
 MARINERS
-FERDINAND
-SEBASTIAN
 Heigh, my hearts! cheerly, cheerly, my hearts!
 yare, yare! Take in the topsail. Tend to th' master's
 whistle. Blow till thou burst thy wind, if room enough.
@@ -111,13 +108,12 @@ in your cabin for the mischance of the hour, if it so
 hap.-Cheerly, good hearts!-Out of our way, I say.
 
 GONZALO
-6
-ALONSO
-ANTONIO
-MARINERS
-BOATSWAIN
-FERDINAND
+5
 SEBASTIAN
+MARINERS
+ALONSO
+FERDINAND
+ANTONIO
 I have great comfort from this fellow. Methinks
 he hath no drowning mark upon him; his complexion is
 perfect gallows. Stand fast, good Fate, to his hanging;
@@ -126,19 +122,14 @@ little advantage. If he be not born to be hang'd, our
 case is miserable.                                    Exeunt
 
 BOATSWAIN
-6
+3
 ALONSO
-GONZALO
-ANTONIO
 MARINERS
 FERDINAND
-SEBASTIAN
 Down with the topmast. Yare, lower, lower!
 Bring her to try wi' th' maincourse.  [A cry within]  A
 plague upon this howling! They are louder than the
 weather or our office.
-Yet again! What do you here? Shall we give o'er, and
-drown? Have you a mind to sink?
 
 SEBASTIAN
 6
@@ -185,13 +176,12 @@ no stronger than a nutshell, and as leaky as an unstanched
 wench.
 
 BOATSWAIN
-6
+5
+SEBASTIAN
 ALONSO
+FERDINAND
 GONZALO
 ANTONIO
-MARINERS
-FERDINAND
-SEBASTIAN
 Lay her a-hold, a-hold; set her two courses; off
 to sea again; lay her off.
 
@@ -285,15 +275,13 @@ FERDINAND
 Let's take leave of him.
 
 GONZALO
-8
+6
+SEBASTIAN
 ALONSO
 ANTONIO
-PROSPERO
-MIRANDA
-MARINERS
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
 Now would I give a thousand furlongs of sea for
 an acre of barren ground-long heath, brown furze, any
 thing. The wills above be done, but I would fain die
@@ -957,16 +945,15 @@ For still 'tis beating in my mind, your reason
 For raising this sea-storm?
 
 PROSPERO
-9
+8
+SEBASTIAN
 ALONSO
 GONZALO
 ANTONIO
 MIRANDA
-MARINERS
 BOATSWAIN
 FERDINAND
-SEBASTIAN
-ARIEL
+MARINERS
 Know thus far forth:
 By accident most strange, bountiful Fortune,
 Now my dear lady, hath mine enemies
@@ -1653,21 +1640,18 @@ ARIEL
   [ Within]  There's wood enough within.
 
 PROSPERO
-10
-CALIBAN
-ALONSO
+9
 GONZALO
+ALONSO
+CALIBAN
 ANTONIO
+SEBASTIAN
 MIRANDA
-MARINERS
 BOATSWAIN
 FERDINAND
-SEBASTIAN
-ARIEL
+MARINERS
 Come forth, I say; there's other business for thee.
 Come, thou tortoise! when?
-Fine apparition! My quaint Ariel,
-Hark in thine ear.
 
 ARIEL
 10
@@ -1684,16 +1668,15 @@ MARINERS
 My lord, it shall be done.
 
 PROSPERO
-9
-CALIBAN
-ALONSO
+8
 GONZALO
+ALONSO
 ANTONIO
+SEBASTIAN
 MIRANDA
-MARINERS
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
 Thou poisonous slave, got by the devil himself
 Upon thy wicked dam, come forth!
 
@@ -2467,19 +2450,13 @@ SEBASTIAN
 To th' syllable.
 
 PROSPERO
-12
-CALIBAN
-ALONSO
-GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+6
 MIRANDA
-MARINERS
+CALIBAN
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
+ARIEL
  [To FERDINAND]  Come, follow.  [To MIRANDA]
 Speak not for him.                                    Exeunt
 
@@ -4263,19 +4240,18 @@ FERDINAND
 An it had not fall'n flat-long.
 
 GONZALO
-12
-CALIBAN
+11
 PROSPERO
-ALONSO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
 MIRANDA
-MARINERS
+CALIBAN
+ANTONIO
+SEBASTIAN
+ALONSO
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
 You are gentlemen of brave mettle; you would
 lift the moon out of her sphere, if she would continue
 in it five weeks without changing.
@@ -5019,19 +4995,18 @@ And when I rear my hand, do you the like,
 To fall it on Gonzalo.
 
 SEBASTIAN
-12
-CALIBAN
-PROSPERO
-ALONSO
+11
 GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+PROSPERO
 MIRANDA
-MARINERS
+CALIBAN
+ANTONIO
+ALONSO
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
+MARINERS
 O, but one word.                  [They talk apart]
 
 ARIEL
@@ -5266,37 +5241,35 @@ SEBASTIAN
 Lead away.
 
 ARIEL
-12
-CALIBAN
-PROSPERO
-ALONSO
+11
 GONZALO
-ANTONIO
-ADRIAN
-FRANCISCO
+PROSPERO
 MIRANDA
-MARINERS
+ANTONIO
+SEBASTIAN
+ALONSO
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
 Prospero my lord shall know what I have done;
 So, King, go safely on to seek thy son.               Exeunt
 
 CALIBAN
-13
-PROSPERO
-ALONSO
+12
 GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+PROSPERO
 MIRANDA
-MARINERS
+ANTONIO
+SEBASTIAN
+ALONSO
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
-SEBASTIAN
-TRINCULO
+MARINERS
+ARIEL
 All the infections that the sun sucks up
 From bogs, fens, flats, on Prosper fall, and make him
 By inch-meal a disease! His spirits hear me,
@@ -5311,27 +5284,22 @@ Lie tumbling in my barefoot way, and mount
 Their pricks at my footfall; sometime am I
 All wound with adders, who with cloven tongues
 Do hiss me into madness.
-Lo, now, lo!
-Here comes a spirit of his, and to torment me
-For bringing wood in slowly. I'll fall flat;
-Perchance he will not mind me.
 
 TRINCULO
-14
-CALIBAN
-PROSPERO
-ALONSO
+13
 GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+PROSPERO
 MIRANDA
-MARINERS
+CALIBAN
+ANTONIO
+SEBASTIAN
+ALONSO
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
-SEBASTIAN
-STEPHANO
+MARINERS
+ARIEL
 Here's neither bush nor shrub to bear off any
 weather at all, and another storm brewing; I hear it
 sing i' th' wind. Yond same black cloud, yond huge one,
@@ -6253,39 +6221,36 @@ Freedom, high-day! high-day, freedom! freedom, high-
 day, freedom!
 
 STEPHANO
-14
-CALIBAN
-PROSPERO
-ALONSO
+13
 GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+PROSPERO
 MIRANDA
-MARINERS
-BOATSWAIN
-FERDINAND
+CALIBAN
+ANTONIO
 SEBASTIAN
+ALONSO
+FRANCISCO
+ADRIAN
+BOATSWAIN
+MARINERS
 TRINCULO
+ARIEL
 O brave monster! Lead the way.                Exeunt
 
 FERDINAND
-14
-CALIBAN
-PROSPERO
-ALONSO
+12
 GONZALO
+CALIBAN
 ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
-MIRANDA
-MARINERS
-BOATSWAIN
 SEBASTIAN
-TRINCULO
+ALONSO
+FRANCISCO
 STEPHANO
+ADRIAN
+BOATSWAIN
+MARINERS
+TRINCULO
+ARIEL
 There be some sports are painful, and their
 labour
 Delight in them sets off; some kinds of baseness
@@ -6807,6 +6772,7 @@ So glad of this as they I cannot be,
 Who are surpris'd withal; but my rejoicing
 At nothing can be more. I'll to my book;
 For yet ere supper time must I perform
+Much business appertaining.
 
 STEPHANO
 13
@@ -7104,19 +7070,18 @@ I thank my noble lord. Wilt thou be pleas'd to
 hearken once again to the suit I made to thee?
 
 STEPHANO
-13
-CALIBAN
-ALONSO
+12
 GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+ALONSO
 MIRANDA
-MARINERS
+CALIBAN
+ANTONIO
+SEBASTIAN
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
 TRINCULO
 Marry will I; kneel and repeat it; I will stand,
 and so shall Trinculo.
@@ -8003,19 +7968,13 @@ Lead, monster; we'll follow. I would I could see
 this taborer; he lays it on.
 
 TRINCULO
-13
-CALIBAN
-ALONSO
-GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+7
 MIRANDA
-MARINERS
+CALIBAN
+ARIEL
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
 STEPHANO
 Wilt come? I'll follow, Stephano.             Exeunt
 
@@ -8392,21 +8351,20 @@ Each putter-out of five for one will bring us
 Good warrant of.
 
 ALONSO
-14
-CALIBAN
-PROSPERO
+13
 GONZALO
-ANTONIO
-ADRIAN
-ARIEL
-FRANCISCO
+PROSPERO
 MIRANDA
-MARINERS
+CALIBAN
+ANTONIO
+SEBASTIAN
+FRANCISCO
+STEPHANO
+ADRIAN
 BOATSWAIN
 FERDINAND
-SEBASTIAN
+MARINERS
 TRINCULO
-STEPHANO
 I will stand to, and feed,
 Although my last; no matter, since I feel
 The best is past. Brother, my lord the Duke,
@@ -8486,6 +8444,7 @@ And these mine enemies are all knit up
 In their distractions. They now are in my pow'r;
 And in these fits I leave them, while I visit
 Young Ferdinand, whom they suppose is drown'd,
+And his and mine lov'd darling.
 
 GONZALO
 13
@@ -8527,6 +8486,7 @@ That deep and dreadful organ-pipe, pronounc'd
 The name of Prosper; it did bass my trespass.
 Therefore my son i' th' ooze is bedded; and
 I'll seek him deeper than e'er plummet sounded,
+And with him there lie mudded.
 
 SEBASTIAN
 12
@@ -8558,7 +8518,7 @@ FERDINAND
 MARINERS
 TRINCULO
 STEPHANO
-I'll be thy second.      Exeunt
+I'll be thy second.
 
 GONZALO
 10
@@ -8580,16 +8540,13 @@ And hinder them from what this ecstasy
 May now provoke them to.
 
 ADRIAN
-11
-CALIBAN
-PROSPERO
+8
 GONZALO
+CALIBAN
+MARINERS
 ARIEL
 FRANCISCO
-MIRANDA
-MARINERS
 BOATSWAIN
-FERDINAND
 TRINCULO
 STEPHANO
 Follow, I pray you.                             Exeunt
@@ -8684,14 +8641,13 @@ When I shall think or Phoebus' steeds are founder'd
 Or Night kept chain'd below.
 
 PROSPERO
-11
-CALIBAN
+10
 GONZALO
-ADRIAN
-ARIEL
-FRANCISCO
 MIRANDA
+CALIBAN
 MARINERS
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
 TRINCULO
@@ -8851,14 +8807,13 @@ The white cold virgin snow upon my heart
 Abates the ardour of my liver.
 
 PROSPERO
-11
-IRIS
-CALIBAN
+10
 GONZALO
-ADRIAN
-FRANCISCO
 MIRANDA
+CALIBAN
 MARINERS
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
 TRINCULO
@@ -8869,15 +8824,14 @@ Rather than want a spirit; appear, and pertly.
 No tongue! All eyes! Be silent.                 [Soft music]
 
 IRIS
-12
-CALIBAN
-PROSPERO
-CERES
+11
 GONZALO
-ADRIAN
-FRANCISCO
+PROSPERO
 MIRANDA
+CALIBAN
 MARINERS
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
 TRINCULO
@@ -9263,17 +9217,16 @@ And there repose; a turn or two I'll walk
 To still my beating mind.
 
 PROSPERO
-14
+13
 IRIS
-CALIBAN
-JUNO
 CERES
+JUNO
 GONZALO
-ADRIAN
-ARIEL
-FRANCISCO
 MIRANDA
+CALIBAN
 MARINERS
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
 TRINCULO
@@ -9426,17 +9379,16 @@ STEPHANO
 I go, I go.
 
 PROSPERO
-14
+13
 IRIS
-CALIBAN
-JUNO
 CERES
+JUNO
 GONZALO
-ADRIAN
-ARIEL
-FRANCISCO
 MIRANDA
+CALIBAN
 MARINERS
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
 TRINCULO
@@ -9447,7 +9399,6 @@ Humanely taken, all, all lost, quite lost;
 And as with age his body uglier grows,
 So his mind cankers. I will plague them all,
 Even to roaring.
-Come, hang them on this line.
 
 CALIBAN
 14
@@ -10028,17 +9979,16 @@ STEPHANO
 Hark, they roar.
 
 PROSPERO
-14
+12
 IRIS
-CALIBAN
-JUNO
 CERES
+JUNO
 GONZALO
-ADRIAN
-ARIEL
-FRANCISCO
 MIRANDA
+CALIBAN
 MARINERS
+FRANCISCO
+ADRIAN
 BOATSWAIN
 FERDINAND
 TRINCULO
@@ -10289,6 +10239,7 @@ Begins to swell, and the approaching tide
 Will shortly fill the reasonable shore
 That now lies foul and muddy. Not one of them
 That yet looks on me, or would know me. Ariel,
+Fetch me the hat and rapier in my cell;
 
 PROSPERO
 13
@@ -10330,6 +10281,7 @@ FERDINAND
 TRINCULO
 STEPHANO
 I drink the air before me, and return
+Or ere your pulse twice beat.
 
 GONZALO
 13
@@ -11055,30 +11007,22 @@ Let grief and sorrow still embrace his heart
 That doth not wish you joy.
 
 GONZALO
-17
-IRIS
-CALIBAN
+14
 JUNO
-PROSPERO
-CERES
-ADRIAN
 ALONSO
-FRANCISCO
-MASTER
-ARIEL
 MIRANDA
+CALIBAN
 MARINERS
-BOATSWAIN
+FRANCISCO
 FERDINAND
 SEBASTIAN
 TRINCULO
+IRIS
+CERES
+PROSPERO
+ADRIAN
 STEPHANO
 Be it so. Amen!
-O look, sir; look, sir! Here is more of us!
-I prophesied, if a gallows were on land,
-This fellow could not drown. Now, blasphemy,
-That swear'st grace o'erboard, not an oath on shore?
-Hast thou no mouth by land? What is the news?
 
 BOATSWAIN
 17
@@ -11297,6 +11241,7 @@ These happen'd accidents; till when, be cheerful
 And think of each thing well.  [Aside to ARIEL]  Come
 hither, spirit;
 Set Caliban and his companions free;
+Untie the spell.
 
 STEPHANO
 16

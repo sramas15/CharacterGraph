@@ -1,7 +1,5 @@
 GLOUCESTER
-2
-BRAKENBURY
-CLARENCE
+0
 Now is the winter of our discontent
 Made glorious summer by this sun of York;
 And all the clouds that lour'd upon our house
@@ -43,8 +41,6 @@ This day should Clarence closely be mew'd up-
 About a prophecy which says that G
 Of Edward's heirs the murderer shall be.
 Dive, thoughts, down to my soul. Here Clarence comes.
-Brother, good day. What means this armed guard
-That waits upon your Grace?
 
 CLARENCE
 2
@@ -226,8 +222,7 @@ GLOUCESTER
 I must perforce. Farewell.
 
 GLOUCESTER
-3
-HASTINGS
+2
 BRAKENBURY
 CLARENCE
 Go tread the path that thou shalt ne'er return.
@@ -335,10 +330,10 @@ As for another secret close intent
 By marrying her which I must reach unto.
 But yet I run before my horse to market.
 Clarence still breathes; Edward still lives and reigns;
+When they are gone, then must I count my gains.
 
 ANNE
-1
-GLOUCESTER
+0
 Set down, set down your honourable load-
 If honour may be shrouded in a hearse;
 Whilst I awhile obsequiously lament
@@ -1051,6 +1046,7 @@ I will maintain it with some little cost.
 But first I'll turn yon fellow in his grave,
 And then return lamenting to my love.
 Shine out, fair sun, till I have bought a glass,
+That I may see my shadow as I pass.
 
 RIVERS
 2
@@ -1110,12 +1106,10 @@ RIVERS
 Is it concluded he shall be Protector?
 
 QUEEN ELIZABETH
-5
+3
+RIVER
 GREY
 RIVERS
-BUCKINGHAM
-DERBY
-RIVER
 It is determin'd, not concluded yet;
 But so it must be, if the King miscarry.
 
@@ -1236,15 +1230,12 @@ And between them and my Lord Chamberlain;
 And sent to warn them to his royal presence.
 
 QUEEN ELIZABETH
-8
-DORSET
+5
+RIVER
 GREY
 RIVERS
 BUCKINGHAM
 DERBY
-HASTINGS
-RIVER
-GLOUCESTER
 Would all were well! But that will
 never be.
 I fear our happiness is at the height.
@@ -1457,16 +1448,15 @@ A bachelor, and a handsome stripling too.
 Iwis your grandam had a worser match.
 
 QUEEN ELIZABETH
-9
-DORSET
-QUEEN MARGARET
+8
+RIVER
+GLOUCESTER
 GREY
 RIVERS
 BUCKINGHAM
 DERBY
+DORSET
 HASTINGS
-RIVER
-GLOUCESTER
 My Lord of Gloucester, I have too long
 borne
 Your blunt upbraidings and your bitter scoffs.
@@ -1475,7 +1465,6 @@ Of those gross taunts that oft I have endur'd.
 I had rather be a country servant-maid
 Than a great queen with this condition-
 To be so baited, scorn'd, and stormed at.
-Small joy have I in being England's Queen.
 
 QUEEN MARGARET
 9
@@ -2359,6 +2348,7 @@ O, but remember this another day,
 When he shall split thy very heart with sorrow,
 And say poor Margaret was a prophetess!
 Live each of you the subjects to his hate,
+And he to yours, and all of you to God's!
 
 BUCKINGHAM
 8
@@ -2441,16 +2431,15 @@ A virtuous and a Christian-like conclusion,
 To pray for them that have done scathe to us!
 
 GLOUCESTER
-9
-DORSET
-CATESBY
+8
+RIVER
 GREY
 RIVERS
 BUCKINGHAM
 QUEEN ELIZABETH
 DERBY
+DORSET
 HASTINGS
-RIVER
 So do I ever-  [Aside]  being well advis'd;
 For had I curs'd now, I had curs'd myself.
 
@@ -2723,9 +2712,8 @@ O, spare my guiltless wife and my poor children!
 My soul is heavy, and I fain would sleep.
 
 KEEPER
-2
+1
 CLARENCE
-BRAKENBURY
 I will, my lord. God give your Grace good rest.
 
 BRAKENBURY
@@ -2799,6 +2787,7 @@ FIRST MURDERER
 CLARENCE
 SECOND MURDERER
 You may, sir; 'tis a point of wisdom. Fare
+you well.
 
 SECOND MURDERER
 2
@@ -3388,17 +3377,13 @@ this will not do,
 I'll drown you in the malmsey-butt within.
 
 SECOND MURDERER
-3
+2
 BOTH MURDERERS
-FIRST MURDERER
 CLARENCE
 A bloody deed, and desperately
 dispatch'd!
 How fain, like Pilate, would I wash my hands
 Of this most grievous murder!
-help'st me not?
-By heavens, the Duke shall know how slack you have
-been!
 
 SECOND MURDERER
 3
@@ -3408,6 +3393,7 @@ CLARENCE
 I would he knew that I had sav'd his
 brother!
 Take thou the fee, and tell him what I say;
+For I repent me that the Duke is slain.
 
 FIRST MURDERER
 2
@@ -3417,6 +3403,7 @@ So do not I. Go, coward as thou art.
 Well, I'll go hide the body in some hole,
 Till that the Duke give order for his burial;
 And when I have my meed, I will away;
+For this will out, and then I must not stay.
 
 KING EDWARD
 3
@@ -3566,14 +3553,12 @@ There wanteth now our brother Gloucester here
 To make the blessed period of this peace.
 
 BUCKINGHAM
-7
-GLOUCESTER
-RIVERS
+5
 KING EDWARD
+RIVERS
 QUEEN ELIZABETH
-DORSET
-RATCLIFF
 HASTINGS
+DORSET
 And, in good time,
 Here comes Sir Richard Ratcliff and the Duke.
 
@@ -3722,15 +3707,14 @@ HASTINGS
 Is Clarence dead? The order was revers'd.
 
 GLOUCESTER
-8
-BUCKINGHAM
-RIVERS
+7
 KING EDWARD
+RIVERS
+BUCKINGHAM
 QUEEN ELIZABETH
-DERBY
+HASTINGS
 DORSET
 RATCLIFF
-HASTINGS
 But he, poor man, by your first order died,
 And that a winged Mercury did bear;
 Some tardy cripple bare the countermand
@@ -3992,11 +3976,10 @@ SON
 Ay, boy.
 
 SON
-5
+4
+DUCHESS
 DAUGHTER
 CLARENCE
-DUCHESS
-QUEEN ELIZABETH
 YORK
 I cannot think it. Hark! what noise is this?
 
@@ -4202,18 +4185,15 @@ Much more to be thus opposite with heaven,
 For it requires the royal debt it lent you.
 
 RIVERS
-11
-GLOUCESTER
+8
+DORSET
 DAUGHTER
 CLARENCE
-SON
-DUCHESS
-BUCKINGHAM
-QUEEN ELIZABETH
-DERBY
-DORSET
-CHILDREN
 YORK
+DUCHESS
+QUEEN ELIZABETH
+SON
+CHILDREN
 Madam, bethink you, like a careful mother,
 Of the young prince your son. Send straight for him;
 Let him be crown'd; in him your comfort lives.
@@ -4742,10 +4722,9 @@ QUEEN ELIZABETH
 Good madam, be not angry with the child.
 
 QUEEN ELIZABETH
-4
+3
 DUCHESS
 ARCHBISHOP
-MESSENGER
 YORK
 Pitchers have ears.
 
@@ -4891,14 +4870,11 @@ YORK
 You have no cause.
 
 ARCHBISHOP
-7
+4
+QUEEN ELIZABETH
 DUCHESS
-BUCKINGHAM
 MESSENGER
 YORK
-GLOUCESTER
-PRINCE
-QUEEN ELIZABETH
  [To the QUEEN]  My gracious lady, go.
 And thither bear your treasure and your goods.
 For my part, I'll resign unto your Grace
@@ -4976,15 +4952,14 @@ God keep me from false friends! but they were
 none.
 
 GLOUCESTER
-8
+7
+QUEEN ELIZABETH
 ARCHBISHOP
-MAYOR
+PRINCE
 DUCHESS
 BUCKINGHAM
 MESSENGER
 YORK
-PRINCE
-QUEEN ELIZABETH
 My lord, the Mayor of London comes to greet
 you.
 
@@ -5001,16 +4976,15 @@ QUEEN ELIZABETH
 God bless your Grace with health and happy days!
 
 PRINCE
-9
+8
+QUEEN ELIZABETH
 ARCHBISHOP
-MAYOR
 DUCHESS
 BUCKINGHAM
 MESSENGER
 YORK
-HASTINGS
 GLOUCESTER
-QUEEN ELIZABETH
+MAYOR
 I thank you, good my lord, and thank you all.
 I thought my mother and my brother York
 Would long ere this have met us on the way.
@@ -5359,17 +5333,14 @@ I'll win our ancient right in France again,
 Or die a soldier as I liv'd a king.
 
 GLOUCESTER
-10
-CARDINAL
+7
+QUEEN ELIZABETH
 ARCHBISHOP
-MAYOR
+PRINCE
 DUCHESS
 BUCKINGHAM
 MESSENGER
-YORK
-HASTINGS
-PRINCE
-QUEEN ELIZABETH
+MAYOR
  [Aside]  Short summers lightly have a forward
 spring.
 
@@ -6225,8 +6196,7 @@ MESSENGER
  [Within]  What is't o'clock?
 
 MESSENGER
-1
-HASTINGS
+0
 Upon the stroke of four.
 
 HASTINGS
@@ -6279,8 +6249,7 @@ And we will both together to the Tower,
 Where, he shall see, the boar will use us kindly.
 
 MESSENGER
-2
-CATESBY
+1
 HASTINGS
 I'll go, my lord, and tell him what you say.
 
@@ -6388,13 +6357,10 @@ The Princes both make high account of you-
 [Aside]  For they account his head upon the bridge.
 
 HASTINGS
-3
+2
 CATESBY
-STANLEY
 MESSENGER
 I know they do, and I have well deserv'd it.
-Come on, come on; where is your boar-spear, man?
-Fear you the boar, and go so unprovided?
 
 STANLEY
 3
@@ -6440,10 +6406,9 @@ Lord?
 To-day the lords you talk'd of are beheaded.
 
 STANLEY
-3
+2
 CATESBY
 MESSENGER
-HASTINGS
 They, for their truth, might better wear their
 heads
 Than some that have accus'd them wear their hats.
@@ -6522,10 +6487,9 @@ I am in your debt for your last exercise;
 Come the next Sabbath, and I will content you.
 
 PRIEST
-5
-CATESBY
-BUCKINGHAM
+4
 MESSENGER
+CATESBY
 STANLEY
 HASTINGS
 I'll wait upon your lordship.
@@ -6661,13 +6625,8 @@ RIVERS
 Make haste; the hour of death is expiate.
 
 RIVERS
-7
-LOVEL
+2
 GREY
-BUCKINGHAM
-DERBY
-HASTINGS
-RATCLIFF
 VAUGHAN
 Come, Grey; come, Vaughan; let us here embrace.
 Farewell, until we meet again in heaven.              Exeunt
@@ -6762,8 +6721,8 @@ Or I of his, my lord, than you of mine.
 Lord Hastings, you and he are near in love.
 
 HASTINGS
-9
-GLOUCESTER
+8
+VAUGHAN
 LOVEL
 GREY
 RIVERS
@@ -6771,7 +6730,6 @@ BUCKINGHAM
 DERBY
 BISHOP OF ELY
 RATCLIFF
-VAUGHAN
 I thank his Grace, I know he loves me well;
 But for his purpose in the coronation
 I have not sounded him, nor he deliver'd
@@ -6873,16 +6831,15 @@ VAUGHAN
 Withdraw yourself awhile; I'll go with you.
 
 DERBY
-9
-GLOUCESTER
+8
+VAUGHAN
 LOVEL
 GREY
 RIVERS
 BUCKINGHAM
 HASTINGS
-BISHOP OF ELY
 RATCLIFF
-VAUGHAN
+GLOUCESTER
 We have not yet set down this day of triumph.
 To-morrow, in my judgment, is too sudden;
 For I myself am not so well provided
@@ -6936,16 +6893,14 @@ What of his heart perceive you in his face
 By any livelihood he show'd to-day?
 
 HASTINGS
-9
-GLOUCESTER
+7
+VAUGHAN
 LOVEL
 GREY
 RIVERS
-BUCKINGHAM
 DERBY
 BISHOP OF ELY
 RATCLIFF
-VAUGHAN
 Marry, that with no man here he is offended;
 For, were he, he had shown it in his looks.
 
@@ -7140,10 +7095,8 @@ At any time to grace my stratagems.
 But what, is Catesby gone?
 
 GLOUCESTER
-3
-CATESBY
+1
 BUCKINGHAM
-MAYOR
 He is; and, see, he brings the mayor along.
 
 BUCKINGHAM
@@ -7189,11 +7142,8 @@ MAYOR
 Look back, defend thee; here are enemies.
 
 BUCKINGHAM
-6
+3
 CATESBY
-LOVEL
-RATCLIFF
-HASTINGS
 MAYOR
 GLOUCESTER
 God and our innocence defend and guard us!
@@ -7415,6 +7365,7 @@ MAYOR
 RATCLIFF
 HASTINGS
 I go; and towards three or four o'clock
+Look for the news that the Guildhall affords.
 
 GLOUCESTER
 5
@@ -7429,6 +7380,7 @@ Meet me within this hour at Baynard's Castle.
 Now will I go to take some privy order
 To draw the brats of Clarence out of sight,
 And to give order that no manner person
+Have any time recourse unto the Princes.
 
 SCRIVENER
 0
@@ -7445,6 +7397,7 @@ Here's a good world the while! Who is so gros
 That cannot see this palpable device?
 Yet who's so bold but says he sees it not?
 Bad is the world; and all will come to nought,
+When such ill dealing must be seen in thought.
 
 GLOUCESTER
 1
@@ -7541,6 +7494,7 @@ BUCKINGHAM
 1
 GLOUCESTER
 Go, go, up to the leads; the Lord Mayor
+knocks.
 
 CATESBY
 2
@@ -7593,12 +7547,10 @@ GLOUCESTER
 Marry, God defend his Grace should say us nay!
 
 BUCKINGHAM
-3
-CATESBY
+2
 MAYOR
 GLOUCESTER
 I fear he will. Here Catesby comes again.
-Now, Catesby, what says his Grace?
 
 CATESBY
 3
@@ -7612,10 +7564,9 @@ His Grace not being warn'd thereof before,
 He fears, my lord, you mean no good to him.
 
 BUCKINGHAM
-3
+2
 CATESBY
 MAYOR
-GLOUCESTER
 Sorry I am my noble cousin should
 Suspect me that I mean no good to him.
 By heaven, we come to him in perfect love;
@@ -7857,24 +7808,13 @@ Call him again, sweet Prince, accept their suit.
 If you deny them, all the land will rue it.
 
 GLOUCESTER
-3
+2
 CATESBY
-BUCKINGHAM
 MAYOR
 Will you enforce me to a world of cares?
 Call them again. I am not made of stones,
 But penetrable to your kind entreaties,
 Albeit against my conscience and my soul.
-Cousin of Buckingham, and sage grave men,
-Since you will buckle fortune on my back,
-To bear her burden, whe'er I will or no,
-I must have patience to endure the load;
-But if black scandal or foul-fac'd reproach
-Attend the sequel of your imposition,
-Your mere enforcement shall acquittance me
-From all the impure blots and stains thereof;
-For God doth know, and you may partly see,
-How far I am from the desire of this.
 
 MAYOR
 3
@@ -7981,17 +7921,13 @@ Upon the like devotion as yourselves,
 To gratulate the gentle Princes there.
 
 QUEEN ELIZABETH
-5
+4
 DUCHESS
-BRAKENBURY
 ANNE
 DORSET
 YORK
 Kind sister, thanks; we'll enter
 all together.
-And in good time, here the lieutenant comes.
-Master Lieutenant, pray you, by your leave,
-How doth the Prince, and my young son of York?
 
 BRAKENBURY
 5
@@ -8062,6 +7998,7 @@ ANNE
 DORSET
 YORK
 No, madam, no. I may not leave it so;
+I am bound by oath, and therefore pardon me.
 
 STANLEY
 5
@@ -8377,6 +8314,7 @@ KING RICHARD
 Give me some little breath, some pause,
 dear Lord,
 Before I positively speak in this.
+I will resolve you herein presently.
 
 CATESBY
 1
@@ -8433,6 +8371,7 @@ KING RICHARD
 CATESBY
 PAGE
 I partly know the man. Go, call him hither,
+boy.
 
 STANLEY
 2
@@ -8443,11 +8382,9 @@ The Marquis Dorset, as I hear, is fled
 To Richmond, in the parts where he abides.    [Stands apart]
 
 KING RICHARD
-4
+2
 CATESBY
 STANLEY
-TYRREL
-PAGE
 Come hither, Catesby. Rumour it abroad
 That Anne, my wife, is very grievous sick;
 I will take order for her keeping close.
@@ -8464,7 +8401,6 @@ Murder her brothers, and then marry her!
 Uncertain way of gain! But I am in
 So far in blood that sin will pluck on sin.
 Tear-falling pity dwells not in this eye.
-Is thy name Tyrrel?
 
 TYRREL
 4
@@ -8742,10 +8678,10 @@ STANLEY
 And is it thus? Repays he my deep service
 With such contempt? Made I him King for this?
 O, let me think on Hastings, and be gone
+To Brecknock while my fearful head is on!
 
 TYRREL
-1
-KING RICHARD
+0
 The tyrannous and bloody act is done,
 The most arch deed of piteous massacre
 That ever yet this land was guilty of.
@@ -8768,7 +8704,6 @@ That from the prime creation e'er she framed.'
 Hence both are gone with conscience and remorse
 They could not speak; and so I left them both,
 To bear this tidings to the bloody King.
-And here he comes. All health, my sovereign lord!
 
 KING RICHARD
 1
@@ -8818,8 +8753,7 @@ KING RICHARD
 I humbly take my leave.
 
 KING RICHARD
-1
-RATCLIFF
+0
 The son of Clarence have I pent up close;
 His daughter meanly have I match'd in marriage;
 The sons of Edward sleep in Abraham's bosom,
@@ -8861,10 +8795,7 @@ Go, muster men. My counsel is my shield.
 We must be brief when traitors brave the field.       Exeunt
 
 QUEEN MARGARET
-3
-DUCHESS
-QUEEN ELIZABETH
-YORK
+0
 So now prosperity begins to mellow
 And drop into the rotten mouth of death.
 Here in these confines slily have I lurk'd
@@ -9111,6 +9042,7 @@ DUCHESS
 QUEEN ELIZABETH
 YORK
 Thy woes will make them sharp and
+pierce like mine.
 
 DUCHESS
 2
@@ -9129,8 +9061,7 @@ Let them have scope; though what they will impart
 Help nothing else, yet do they case the heart.
 
 DUCHESS
-3
-KING RICHARD
+2
 QUEEN ELIZABETH
 YORK
 If so, then be not tongue-tied. Go with me,
@@ -9348,6 +9279,7 @@ And there the little souls of Edward's children
 Whisper the spirits of thine enemies
 And promise them success and victory.
 Bloody thou art; bloody will be thy end.
+Shame serves thy life and doth thy death attend.
 
 QUEEN ELIZABETH
 2
@@ -10057,14 +9989,11 @@ I go. Write to me very shortly,
 And you shall understand from me her mind.
 
 KING RICHARD
-4
-RATCLIFF
-CATESBY
-QUEEN ELIZABETH
+2
 YORK
+QUEEN ELIZABETH
 Bear her my true love's kiss; and so, farewell.
 Relenting fool, and shallow, changing woman!
-How now! what news?
 
 RATCLIFF
 4
@@ -10175,11 +10104,10 @@ YORK
 Your Highness told me I should post before.
 
 KING RICHARD
-4
+3
 QUEEN ELIZABETH
-STANLEY
-RATCLIFF
 YORK
+RATCLIFF
 My mind is chang'd.
 
 STANLEY
@@ -10362,11 +10290,11 @@ RATCLIFF
 So deal with him as I prove true to you.
 
 MESSENGER
-4
+3
 KING RICHARD
 QUEEN ELIZABETH
-RATCLIFF
 YORK
+RATCLIFF
 My gracious sovereign, now in Devonshire,
 As I by friends am well advertised,
 Sir Edward Courtney and the haughty prelate,
@@ -10374,9 +10302,8 @@ Bishop of Exeter, his elder brother,
 With many moe confederates, are in arms.
 
 SECOND MESSENGER
-5
+4
 KING RICHARD
-MESSENGER
 QUEEN ELIZABETH
 RATCLIFF
 YORK
@@ -10435,10 +10362,9 @@ Hath any well-advised friend proclaim'd
 Reward to him that brings the traitor in?
 
 THIRD MESSENGER
-6
+5
 KING RICHARD
 SECOND MESSENGER
-MESSENGER
 QUEEN ELIZABETH
 RATCLIFF
 YORK
@@ -10467,14 +10393,13 @@ Upon his party. He, mistrusting them,
 Hois'd sail, and made his course again for Britaine.
 
 KING RICHARD
-8
-CATESBY
+7
 THIRD MESSENGER
-FOURTH MESSENGER
+RATCLIFF
 SECOND MESSENGER
 MESSENGER
 QUEEN ELIZABETH
-RATCLIFF
+FOURTH MESSENGER
 YORK
 March on, march on, since we are up in
 arms;
@@ -10912,6 +10837,7 @@ RATCLIFF
 Send out a pursuivant-at-arms
 To Stanley's regiment; bid him bring his power
 Before sunrising, lest his son George fall
+Into the blind cave of eternal night.
 
 RATCLIFF
 4
@@ -10964,11 +10890,9 @@ BLUNT
 It is, my lord.
 
 KING RICHARD
-6
+4
 SURREY
-RICHMOND
 CATESBY
-DERBY
 BLUNT
 RATCLIFF
 Bid my guard watch; leave me.
@@ -11026,15 +10950,13 @@ God give us leisure for these rites of love!
 Once more, adieu; be valiant, and speed well!
 
 RICHMOND
-8
+6
 SURREY
-CATESBY
-GHOST
-PRINCE
 KING RICHARD
+CATESBY
+RATCLIFF
 DERBY
 BLUNT
-RATCLIFF
 Good lords, conduct him to his regiment.
 I'll strive with troubled thoughts to take a nap,
 Lest leaden slumber peise me down to-morrow
@@ -11052,15 +10974,15 @@ Ere I let fall the windows of mine eyes.
 Sleeping and waking, O, defend me still!            [Sleeps]
 
 GHOST
-8
+7
 SURREY
-RICHMOND
-CATESBY
-PRINCE
 KING RICHARD
+CATESBY
+RATCLIFF
+RICHMOND
 DERBY
 BLUNT
-RATCLIFF
+PRINCE
  [To RICHARD]  Let me sit heavy on thy soul
 to-morrow!
 Think how thou stabb'dst me in my prime of youth
@@ -11071,16 +10993,15 @@ Of butcher'd princes fight in thy behalf.
 King Henry's issue, Richmond, comforts thee.
 
 GHOST
-9
+7
 SURREY
-RICHMOND
-CLARENCE
 CATESBY
-PRINCE
-KING RICHARD
 DERBY
-BLUNT
 RATCLIFF
+RICHMOND
+KING RICHARD
+BLUNT
+PRINCE
  [To RICHARD]  When I was mortal, my anointed
 body
 By thee was punched full of deadly holes.
@@ -11091,20 +11012,16 @@ Harry, that prophesied thou shouldst be King,
 Doth comfort thee in thy sleep. Live and flourish!
 
 GHOST
-13
+9
 SURREY
-RICHMOND
 CLARENCE
 CATESBY
-GREY
-PRINCE
-KING RICHARD
 DERBY
-GHOSTS
-RIVERS
-BLUNT
 RATCLIFF
-VAUGHAN
+RICHMOND
+KING RICHARD
+BLUNT
+PRINCE
  [To RICHARD]  Let me sit heavy in thy soul
 to-morrow! I that was wash'd to death with fulsome wine,
 Poor Clarence, by thy guile betray'd to death!
@@ -11177,49 +11094,46 @@ and with guilty fear
 Let fall thy lance. Despair and die!
 
 ALL
-18
+16
 SURREY
-RICHMOND
 GHOST OF GREY
 CLARENCE
-GHOST OF RIVERS
-CATESBY
-GHOST
-GREY
+GHOST OF VAUGHAN
+RIVERS
+DERBY
+GHOSTS
+BLUNT
 PRINCE
 KING RICHARD
-GHOST OF VAUGHAN
-DERBY
-HASTINGS
-GHOSTS
-RIVERS
-BLUNT
+GHOST OF RIVERS
+CATESBY
+GREY
 RATCLIFF
+RICHMOND
 VAUGHAN
  [To RICHMOND]  Awake, and think our wrongs in
 Richard's bosom
 Will conquer him. Awake and win the day.
 
 GHOST
-18
+17
 SURREY
-RICHMOND
-ALL
 GHOST OF GREY
 CLARENCE
+GHOST OF VAUGHAN
+RIVERS
+DERBY
+BLUNT
+PRINCE
+KING RICHARD
+ALL
 GHOST OF RIVERS
 CATESBY
 GREY
-PRINCE
-KING RICHARD
-GHOST OF VAUGHAN
-DERBY
-HASTINGS
-GHOSTS
-RIVERS
-BLUNT
 RATCLIFF
+RICHMOND
 VAUGHAN
+HASTINGS
  [To RICHARD]  Bloody and guilty, guiltily awake,
 And in a bloody battle end thy days!
 Think on Lord Hastings. Despair and die.
@@ -11227,26 +11141,24 @@ Think on Lord Hastings. Despair and die.
 Arm, fight, and conquer, for fair England's sake!
 
 GHOSTS
-19
+17
 SURREY
-RICHMOND
-ALL
 GHOST OF GREY
 CLARENCE
-GHOST OF RIVERS
-ANNE
-CATESBY
-GHOST
-GREY
+GHOST OF VAUGHAN
+RIVERS
+DERBY
+BLUNT
 PRINCE
 KING RICHARD
-GHOST OF VAUGHAN
-DERBY
-HASTINGS
-RIVERS
-BLUNT
+ALL
+GHOST OF RIVERS
+CATESBY
+GREY
 RATCLIFF
+RICHMOND
 VAUGHAN
+HASTINGS
  [To RICHARD]  Dream on thy cousins smothered in
 the Tower.
 Let us be lead within thy bosom, Richard,
@@ -11259,27 +11171,26 @@ Live, and beget a happy race of kings!
 Edward's unhappy sons do bid thee flourish.
 
 GHOST
-20
+18
 SURREY
-RICHMOND
-ALL
 GHOST OF GREY
 CLARENCE
-GHOST OF RIVERS
-ANNE
-CATESBY
-GREY
+GHOST OF VAUGHAN
+RIVERS
+DERBY
+GHOSTS
+BLUNT
 PRINCE
 KING RICHARD
-GHOST OF VAUGHAN
-BUCKINGHAM
-DERBY
-HASTINGS
-GHOSTS
-RIVERS
-BLUNT
+ALL
+GHOST OF RIVERS
+CATESBY
+GREY
 RATCLIFF
+RICHMOND
+ANNE
 VAUGHAN
+HASTINGS
  [To RICHARD]  Richard, thy wife, that wretched
 Anne thy wife
 That never slept a quiet hour with thee
@@ -11325,27 +11236,26 @@ God and good angels fight on Richmond's side;
 And Richard falls in height of all his pride.
 
 KING RICHARD
-20
+19
 SURREY
-RICHMOND
-ALL
+GHOST
 GHOST OF GREY
 CLARENCE
-GHOST OF RIVERS
-ANNE
-CATESBY
-GHOST
-GREY
-PRINCE
 GHOST OF VAUGHAN
+RIVERS
 BUCKINGHAM
 DERBY
-HASTINGS
 GHOSTS
-RIVERS
 BLUNT
-RATCLIFF
+PRINCE
+ALL
+GHOST OF RIVERS
+CATESBY
+GREY
+RICHMOND
+ANNE
 VAUGHAN
+HASTINGS
 Give me another horse. Bind up my wounds.
 Have mercy, Jesu! Soft! I did but dream.
 O coward conscience, how dost thou afflict me!
@@ -11525,28 +11435,26 @@ VAUGHAN
 O Ratcliff, I fear, I fear.
 
 RATCLIFF
-21
+19
 GHOST
-GHOST OF GREY
-BUCKINGHAM
-LORDS
-GHOST OF RIVERS
-CATESBY
-GREY
-RICHMOND
-ANNE
-HASTINGS
 SURREY
+GHOST OF GREY
 CLARENCE
 GHOST OF VAUGHAN
 RIVERS
+BUCKINGHAM
 DERBY
 GHOSTS
 BLUNT
-PRINCE
 ALL
 KING RICHARD
+GHOST OF RIVERS
+CATESBY
+GREY
+PRINCE
+ANNE
 VAUGHAN
+HASTINGS
 Nay, good my lord, be not afraid of shadows.
 Have stuck more terror to the soul of Richard
 Than can the substance of ten thousand soldiers
@@ -11689,28 +11597,26 @@ VAUGHAN
 Upon the stroke of four.
 
 RICHMOND
-21
+19
 GHOST
-GHOST OF GREY
-BUCKINGHAM
-RATCLIFF
-LORDS
-GHOST OF RIVERS
-CATESBY
-GREY
-ANNE
-HASTINGS
 SURREY
+GHOST OF GREY
 CLARENCE
 GHOST OF VAUGHAN
 RIVERS
+BUCKINGHAM
 DERBY
 GHOSTS
 BLUNT
-PRINCE
+LORDS
 ALL
-KING RICHARD
+GHOST OF RIVERS
+CATESBY
+GREY
+PRINCE
+ANNE
 VAUGHAN
+HASTINGS
 Why, then 'tis time to arm and give direction.
 More than I have said, loving countrymen,
 The leisure and enforcement of the time
@@ -11930,29 +11836,28 @@ VAUGHAN
 My lord?
 
 KING RICHARD
-22
+21
 GHOST
-GHOST OF GREY
-BUCKINGHAM
-RATCLIFF
-LORDS
-GHOST OF RIVERS
-CATESBY
-GREY
-RICHMOND
-ANNE
-HASTINGS
 SURREY
-NORFOLK
+GHOST OF GREY
 CLARENCE
 GHOST OF VAUGHAN
 RIVERS
+BUCKINGHAM
 DERBY
 GHOSTS
 BLUNT
-PRINCE
+RATCLIFF
+LORDS
 ALL
+GHOST OF RIVERS
+CATESBY
+GREY
+PRINCE
+RICHMOND
+ANNE
 VAUGHAN
+HASTINGS
 The sun will not be seen to-day;
 The sky doth frown and lour upon our army.
 I would these dewy tears were from the ground.
@@ -12053,30 +11958,29 @@ A good direction, warlike sovereign.
 This found I on my tent this morning.
 
 KING RICHARD
-23
+22
 GHOST
-GHOST OF GREY
-BUCKINGHAM
-MESSENGER
-RATCLIFF
-LORDS
-GHOST OF RIVERS
-CATESBY
-GREY
-RICHMOND
-ANNE
-HASTINGS
 SURREY
-NORFOLK
+GHOST OF GREY
 CLARENCE
 GHOST OF VAUGHAN
 RIVERS
+BUCKINGHAM
 DERBY
+NORFOLK
 GHOSTS
 BLUNT
-PRINCE
+RATCLIFF
+LORDS
 ALL
+GHOST OF RIVERS
+CATESBY
+GREY
+PRINCE
+RICHMOND
+ANNE
 VAUGHAN
+HASTINGS
                                          [Reads]
 'Jockey of Norfolk, be not so bold,
 For Dickon thy master is bought and sold.'
@@ -12117,7 +12021,6 @@ Fight, gentlemen of England! Fight, bold yeomen!
 Draw, archers, draw your arrows to the head!
 Spur your proud horses hard, and ride in blood;
 Amaze the welkin with your broken staves!
-What says Lord Stanley? Will he bring his power?
 
 MESSENGER
 23
@@ -12234,8 +12137,7 @@ Inspire us with the spleen of fiery dragons!
 Upon them! Victory sits on our helms.                 Exeunt
 
 CATESBY
-2
-KING RICHARD
+1
 NORFOLK
 Rescue, my Lord of Norfolk, rescue, rescue!
 The King enacts more wonders than a man,

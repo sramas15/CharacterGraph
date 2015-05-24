@@ -101,6 +101,7 @@ Ber
 Mar
 Hor
 Bernardo hath my place.
+Give you good night.
 
 Mar
 2
@@ -174,8 +175,7 @@ Well, sit we down,
 And let us hear Bernardo speak of this.
 
 Ber
-3
-Ghost
+2
 Mar
 Hor
 Last night of all,
@@ -387,9 +387,8 @@ Comes armed through our watch, so like the King
 That was and is the question of these wars.
 
 Hor
-3
+2
 Ber
-Ghost
 Mar
 A mote it is to trouble the mind's eye.
 In the most high and palmy state of Rome,
@@ -405,20 +404,6 @@ As harbingers preceding still the fates
 And prologue to the omen coming on,
 Have heaven and earth together demonstrated
 Unto our climature and countrymen.
-But soft! behold! Lo, where it comes again!
-I'll cross it, though it blast me.- Stay illusion!
-If thou hast any sound, or use of voice,
-Speak to me.
-If there be any good thing to be done,
-That may to thee do ease, and, race to me,
-Speak to me.
-If thou art privy to thy country's fate,
-Which happily foreknowing may avoid,
-O, speak!
-Or if thou hast uphoarded in thy life
-Extorted treasure in the womb of earth
-(For which, they say, you spirits oft walk in death),
-Speak of it! Stay, and speak!- Stop it, Marcellus!
 
 Mar
 3
@@ -1790,8 +1775,7 @@ Ham
 Is it a custom?
 
 Ham
-3
-Ghost
+2
 Mar
 Hor
 Ay, marry, is't;
@@ -2176,6 +2160,7 @@ And to those thorns that in her bosom lodge
 To prick and sting her. Fare thee well at once.
 The glowworm shows the matin to be near
 And gins to pale his uneffectual fire.
+Adieu, adieu, adieu! Remember me.
 
 Ham
 0
@@ -3224,6 +3209,7 @@ And at our more consider'd time we'll read,
 Answer, and think upon this business.
 Meantime we thank you for your well-took labour.
 Go to your rest; at night we'll feast together.
+Most welcome home!
 
 Pol
 5
@@ -4662,28 +4648,17 @@ Ros
 What follows then, my lord?
 
 Ham
-8
+7
 King
-Players
 Both
 Queen
-Volt
 Pol
 Guil
 Ros
+Volt
 Why,
 The first row of the pious chanson will show you more; for look
 where my abridgment comes.
-You are welcome, masters; welcome, all.- I am glad to see thee
-well.- Welcome, good friends.- O, my old friend? Why, thy face is
-valanc'd since I saw thee last. Com'st' thou to' beard me in
-Denmark?- What, my young lady and mistress? By'r Lady, your
-ladyship is nearer to heaven than when I saw you last by the
-altitude of a chopine. Pray God your voice, like a piece of
-uncurrent gold, be not crack'd within the ring.- Masters, you are
-all welcome. We'll e'en to't like French falconers, fly at
-anything we see. We'll have a speech straight. Come, give us a
-taste of your quality. Come, a passionate speech.
 
 Ham
 8
@@ -4964,6 +4939,7 @@ Out of my weakness and my melancholy,
 As he is very potent with such spirits,
 Abuses me to damn me. I'll have grounds
 More relative than this. The play's the thing
+Wherein I'll catch the conscience of the King.
 
 King
 7
@@ -5577,17 +5553,17 @@ amble, and you lisp; you nickname God's creatures and make your
 wantonness your ignorance. Go to, I'll no more on't! it hath made
 me mad. I say, we will have no moe marriages. Those that are
 married already- all but one- shall live; the rest shall keep as
+they are. To a nunnery, go.
 
 Oph
-8
-King
-Players
+7
 Both
 Queen
-Volt
+Players
 Pol
 Guil
 Ros
+Volt
 O, what a noble mind is here o'erthrown!
 The courtier's, scholar's, soldier's, eye, tongue, sword,
 Th' expectancy and rose of the fair state,
@@ -6311,21 +6287,14 @@ Ros
 'Tis brief, my lord.
 
 Ham
-9
+6
 Both
-Player
-King
-Queen
-Players
 Pol
+Player
 Hor
 Ros
 Oph
 As woman's love.
-King. Full thirty times hath Phoebus' cart gone round
-Queen. So many journeys may the sun and moon
-King. Faith, I must leave thee, love, and shortly too;
-Queen. O, confound the rest!
 
 Ham
 9
@@ -7155,23 +7124,19 @@ How can that be, when you have the voice of the King himself
 for your succession in Denmark?
 
 Ham
-11
+10
 Both
 All
-Player
 King
 Queen
-Players
 Pol
+Player
 Guil
 Hor
 Ros
 Oph
 Ay, sir, but 'while the grass grows'- the proverb is something
 musty.
-O, the recorders! Let me see one. To withdraw with you- why do
-you go about to recover the wind of me, as if you would drive me
-into a toil?
 
 Guil
 11
@@ -7494,6 +7459,7 @@ Let me be cruel, not unnatural;
 I will speak daggers to her, but use none.
 My tongue and soul in this be hypocrites-
 How in my words somever she be shent,
+To give them seals never, my soul, consent!
 
 King
 0
@@ -7637,6 +7603,7 @@ That has no relish of salvation in't-
 Then trip him, that his heels may kick at heaven,
 And that his soul may be as damn'd and black
 As hell, whereto it goes. My mother stays.
+This physic but prolongs thy sickly days.
 
 King
 4
@@ -7645,6 +7612,7 @@ Guil
 Ros
 Both
 [rises] My words fly up, my thoughts remain below.
+Words without thoughts never to heaven go.
 
 Pol
 1
@@ -7917,8 +7885,7 @@ That from a shelf the precious diadem stole
 And put it in his pocket!
 
 Queen
-3
-Ghost
+2
 Pol
 Ham
 No more!
@@ -8563,6 +8530,7 @@ By letters congruing to that effect,
 The present death of Hamlet. Do it, England;
 For like the hectic in my blood he rages,
 And thou must cure me. Till I know 'tis done,
+Howe'er my haps, my joys were ne'er begun.
 
 For
 0
@@ -8711,6 +8679,7 @@ Go to their graves like beds, fight for a plot
 Whereon the numbers cannot try the cause,
 Which is not tomb enough and continent
 To hide the slain? O, from this time forth,
+My thoughts be bloody, or be nothing worth!
 
 Queen
 0
@@ -8803,11 +8772,10 @@ Hor
 Nay, but Ophelia-
 
 Oph
-4
+3
+Hor
 Gent
 Queen
-Hor
-King
 Pray you mark.
 (Sings) White his shroud as the mountain snow-
 
@@ -8899,6 +8867,7 @@ I hope all will be well. We must be patient; but I cannot
 choose but weep to think they would lay him i' th' cold ground.
 My brother shall know of it; and so I thank you for your good
 counsel. Come, my coach! Good night, ladies. Good night, sweet
+ladies. Good night, good night.
 
 King
 3
@@ -9025,7 +8994,7 @@ Gent
 Queen
 Mess
 Hor
-I thank you. Keep the door.      [Exeunt
+I thank you. Keep the door.      [
 
 Queen
 6
@@ -9773,9 +9742,8 @@ With this contagion, that, if I gall him slightly,
 It may be death.
 
 King
-3
+2
 Laer
-Queen
 Mess
 Let's further think of this,
 Weigh what convenience both of time and means
@@ -9792,7 +9760,6 @@ And that he calls for drink, I'll have prepar'd him
 A chalice for the nonce; whereon but sipping,
 If he by chance escape your venom'd stuck,
 Our purpose may hold there.- But stay, what noise,
-How now, sweet queen?
 
 Queen
 3
@@ -9858,6 +9825,7 @@ It is our trick; nature her custom holds,
 Let shame say what it will. When these are gone,
 The woman will be out. Adieu, my lord.
 I have a speech of fire, that fain would blaze
+But that this folly douts it.
 
 King
 2
@@ -11306,8 +11274,7 @@ Osr
 This lapwing runs away with the shell on his head.
 
 Ham
-3
-Lord
+2
 Osr
 Hor
 He did comply with his dug before he suck'd it. Thus has he,

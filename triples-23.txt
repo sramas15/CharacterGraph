@@ -319,6 +319,7 @@ RODERIGO
 Give me a taper! Call up all my people!
 This accident is not unlike my dream;
 Belief of it oppresses me already.
+Light, I say, light!
 
 IAGO
 1
@@ -338,6 +339,7 @@ Yet for necessity of present life,
 I must show out a flag and sign of love,
 Which is indeed but sign. That you shall surely find him,
 Lead to the Sagittary the raised search,
+And there will I be with him. So farewell.
 
 BRABANTIO
 1
@@ -496,6 +498,7 @@ IAGO
 CASSIO
             'Tis well I am found by you.
 I will but spend a word here in the house
+And go with you.
 
 CASSIO
 1
@@ -3158,6 +3161,7 @@ Make the Moor thank me, love me, and reward me
 For making him egregiously an ass
 And practicing upon his peace and quiet
 Even to madness. 'Tis here, but yet confused:
+Knavery's plain face is never seen till used.
 
 HERALD
 0
@@ -3477,6 +3481,7 @@ OTHELLO
 ALL
 MONTANO
 Why, very well then; you must not think then that I am
+drunk.
 
 MONTANO
 3
@@ -3532,6 +3537,7 @@ ALL
 OTHELLO
 MONTANO
 [Aside to him.] How now, Roderigo!
+I pray you, after the lieutenant; go.
 
 MONTANO
 2
@@ -3870,6 +3876,7 @@ DESDEMONA
 MONTANO
 All's well now, sweeting; come away to bed.
 Sir, for your hurts, myself will be your surgeon.
+Lead him off.
 
 IAGO
 5
@@ -4178,6 +4185,7 @@ Content thyself awhile. By the mass, 'tis morning;
 Pleasure and action make the hours seem short.
 Retire thee; go where thou art billeted.
 Away, I say. Thou shalt know more hereafter.
+Nay, get thee gone.
 
 CASSIO
 4
@@ -4303,6 +4311,7 @@ CASSIO
 DESDEMONA
 MONTANO
 Then put up your pipes in your bag, for I'll away.
+Go, vanish into air, away!
 
 CASSIO
 6
@@ -5635,6 +5644,7 @@ CASSIO
 DESDEMONA
 OTHELLO
 Be not acknown on't; I have use for it.
+Go, leave me.
 
 OTHELLO
 3
@@ -6166,6 +6176,7 @@ CLOWN
 1
 DESDEMONA
 To do this is within the compass of man's wit, and therefore
+I will attempt the doing it.
 
 DESDEMONA
 0
@@ -6973,6 +6984,7 @@ If not, he foams at mouth, and by and by
 Breaks out to savage madness. Look, he stirs.
 Do you withdraw yourself a little while,
 He will recover straight. When he is gone,
+I would on great occasion speak with you.
 
 OTHELLO
 1
@@ -7282,6 +7294,7 @@ IAGO
 OTHELLO
 CASSIO
 An you'll come to supper tonight, you may; an you will not,
+come when you are next prepared for.
 
 IAGO
 2
@@ -7991,6 +8004,7 @@ DESDEMONA
 [To Emilia.] Some of your function, mistress,
 Leave procreants alone and shut the door;
 Cough, or cry "hem," if anybody come.
+Your mystery, your mystery; nay, dispatch.
 
 DESDEMONA
 1
@@ -8170,6 +8184,7 @@ That married with Othello. [Raises his voice.] You, mistress,
 That have the office opposite to Saint Peter,
 And keep the gate of hell!
 We have done our course; there's money for your pains.
+I pray you, turn the key, and keep our counsel.
 
 EMILIA
 1
@@ -10875,6 +10890,7 @@ GRATIANO
 Which I have here recover'd from the Moor.
 Come, guard the door without; let him not pass,
 But kill him rather. I'll after that same villain,
+For 'tis a damned slave.
 
 OTHELLO
 5
