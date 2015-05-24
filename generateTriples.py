@@ -1,5 +1,7 @@
 # Need to deal with Exeunt at the end of the line with no names listed = all characters leave
 # Need to deal with [To NAME] in middle of speech
+# Need to deal with [Within] in speech
+# Need to deal with Exeunt all but NAMES
 
 # char lists changed:
 # char-18.txt
