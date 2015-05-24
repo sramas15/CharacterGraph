@@ -1,7 +1,8 @@
-# Need to deal with Exeunt at the end of the line with no names listed = all characters leave
-# Need to deal with [To NAME] in middle of speech
+# Need to deal with Exeunt at the end of the line with no names listed
+# Need to deal with [To NAME] in speech
 # Need to deal with [Within] in speech
 # Need to deal with Exeunt all but NAMES
+# Deal with "Kissing her. Exit QUEEN ELIZABETH" in 25
 
 # char lists changed:
 # char-18.txt
