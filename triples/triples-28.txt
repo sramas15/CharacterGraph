@@ -112,7 +112,12 @@ in your cabin for the mischance of the hour, if it so
 hap.-Cheerly, good hearts!-Out of our way, I say.
 
 GONZALO
--1
+5
+ANTONIO
+ALONSO
+FERDINAND
+SEBASTIAN
+MARINERS
 I have great comfort from this fellow. Methinks
 he hath no drowning mark upon him; his complexion is
 perfect gallows. Stand fast, good Fate, to his hanging;
@@ -168,7 +173,11 @@ Lay her a-hold, a-hold; set her two courses; off
 to sea again; lay her off.
 
 MARINERS
--1
+4
+GONZALO
+BOATSWAIN
+SEBASTIAN
+ANTONIO
 All lost! to prayers, to prayers! all lost!
 
 BOATSWAIN
@@ -224,7 +233,10 @@ ANTONIO
 Let's take leave of him.
 
 GONZALO
--1
+3
+BOATSWAIN
+SEBASTIAN
+ANTONIO
 Now would I give a thousand furlongs of sea for
 an acre of barren ground-long heath, brown furze, any
 thing. The wills above be done, but I would fain die
@@ -1491,7 +1503,10 @@ FERDINAND
 To th' syllable.
 
 PROSPERO
--1
+3
+ARIEL
+FERDINAND
+MIRANDA
  [To FERDINAND]  Come, follow.  [To MIRANDA]
 Speak not for him.
 
@@ -3204,7 +3219,13 @@ SEBASTIAN
 Lead away.
 
 ARIEL
--1
+6
+GONZALO
+ALONSO
+FRANCISCO
+ADRIAN
+SEBASTIAN
+ANTONIO
 Prospero my lord shall know what I have done;
 So, King, go safely on to seek thy son.
 
@@ -3621,7 +3642,9 @@ Freedom, high-day! high-day, freedom! freedom, high-
 day, freedom!
 
 STEPHANO
--1
+2
+CALIBAN
+TRINCULO
 O brave monster! Lead the way.
 
 FERDINAND
@@ -4519,7 +4542,12 @@ Lead, monster; we'll follow. I would I could see
 this taborer; he lays it on.
 
 TRINCULO
--1
+5
+MIRANDA
+ARIEL
+FERDINAND
+CALIBAN
+STEPHANO
 Wilt come? I'll follow, Stephano.
 
 GONZALO
@@ -4763,10 +4791,10 @@ Stand to, and do as we.
 ARIEL
 7
 FRANCISCO
-ALONSO
+PROSPERO
 GONZALO
 ANTONIO
-PROSPERO
+ALONSO
 ADRIAN
 SEBASTIAN
 You are three men of sin, whom Destiny,
@@ -4802,14 +4830,13 @@ Upon your heads-is nothing but heart's sorrow,
 And a clear life ensuing.
 
 PROSPERO
-7
-FRANCISCO
-GONZALO
-ANTONIO
+6
 ALONSO
+FRANCISCO
 ADRIAN
 SEBASTIAN
-ARIEL
+GONZALO
+ANTONIO
 Bravely the figure of this harpy hast thou
 Perform'd, my Ariel; a grace it had, devouring.
 Of my instruction hast thou nothing bated
@@ -4823,19 +4850,17 @@ Young Ferdinand, whom they suppose is drown'd,
 And his and mine lov'd darling.
 
 GONZALO
-6
+5
 FRANCISCO
 ALONSO
 ANTONIO
 ADRIAN
 SEBASTIAN
-ARIEL
 I' th' name of something holy, sir, why stand you
 In this strange stare?
 
 ALONSO
-6
-ARIEL
+5
 FRANCISCO
 ADRIAN
 SEBASTIAN
@@ -4851,29 +4876,26 @@ I'll seek him deeper than e'er plummet sounded,
 And with him there lie mudded.
 
 SEBASTIAN
-5
+4
 FRANCISCO
 GONZALO
 ANTONIO
 ADRIAN
-ARIEL
 But one fiend at a time,
 I'll fight their legions o'er.
 
 ANTONIO
-5
-ADRIAN
-FRANCISCO
+4
 GONZALO
-ARIEL
 SEBASTIAN
+FRANCISCO
+ADRIAN
 I'll be thy second.
 
 GONZALO
-3
+2
 FRANCISCO
 ADRIAN
-ARIEL
 All three of them are desperate; their great guilt,
 Like poison given to work a great time after,
 Now gins to bite the spirits. I do beseech you,
@@ -4882,7 +4904,9 @@ And hinder them from what this ecstasy
 May now provoke them to.
 
 ADRIAN
--1
+2
+GONZALO
+FRANCISCO
 Follow, I pray you.
 
 PROSPERO
@@ -5282,11 +5306,16 @@ And there repose; a turn or two I'll walk
 To still my beating mind.
 
 FERDINAND
--1
+5
+IRIS
+CERES
+JUNO
+MIRANDA
+PROSPERO
 We wish your peace.
 
 MIRANDA
--1
+0
 We wish your peace.
 
 PROSPERO
@@ -5633,7 +5662,11 @@ STEPHANO
 Hark, they roar.
 
 PROSPERO
--1
+4
+ARIEL
+CALIBAN
+TRINCULO
+STEPHANO
 Let them be hunted soundly. At this hour
 Lies at my mercy all mine enemies.
 Shortly shall all my labours end, and thou
@@ -5711,8 +5744,7 @@ I'll fetch them, sir.
 
 PROSPERO
 -1
-Ye elves of hills, brooks, standing lakes, and
-groves;
+Ye elves of hills, brooks, standing lakes, and groves;
 And ye that on the sands with printless foot
 Do chase the ebbing Neptune, and do fly him
 When he comes back; you demi-puppets that
@@ -5739,7 +5771,14 @@ And deeper than did ever plummet sound
 I'll drown my book.                            [Solem music]
 
 PROSPERO
-0
+7
+FRANCISCO
+ARIEL
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
  A solemn air, and the best comforter
 To an unsettled fancy, cure thy brains,
 Now useless, boil'd within thy skull! There stand,
@@ -5769,8 +5808,14 @@ That yet looks on me, or would know me. Ariel,
 Fetch me the hat and rapier in my cell;
 
 PROSPERO
-1
+7
+FRANCISCO
+GONZALO
+ANTONIO
 ARIEL
+ALONSO
+ADRIAN
+SEBASTIAN
 Why, that's my dainty Ariel! I shall miss thee;
 But yet thou shalt have freedom. So, so, so.
 To the King's ship, invisible as thou art;
@@ -5780,21 +5825,37 @@ Being awake, enforce them to this place;
 And presently, I prithee.
 
 ARIEL
-1
+7
+FRANCISCO
+GONZALO
+ANTONIO
 PROSPERO
+ALONSO
+ADRIAN
+SEBASTIAN
 I drink the air before me, and return
 Or ere your pulse twice beat.
 
 GONZALO
-1
+6
+FRANCISCO
 PROSPERO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 All torment, trouble, wonder and amazement,
 Inhabits here. Some heavenly power guide us
 Out of this fearful country!
 
 PROSPERO
-1
+6
+FRANCISCO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 Behold, Sir King,
 The wronged Duke of Milan, Prospero.
 For more assurance that a living prince
@@ -5803,9 +5864,13 @@ And to thee and thy company I bid
 A hearty welcome.
 
 ALONSO
-2
+6
+FRANCISCO
 PROSPERO
 GONZALO
+ANTONIO
+ADRIAN
+SEBASTIAN
 Whe'er thou be'st he or no,
 Or some enchanted trifle to abuse me,
 As late I have been, I not know. Thy pulse
@@ -5818,24 +5883,36 @@ Thou pardon me my wrongs. But how should Prospero
 Be living and be here?
 
 PROSPERO
-2
-ALONSO
+6
+FRANCISCO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 First, noble friend,
 Let me embrace thine age, whose honour cannot
 Be measur'd or confin'd.
 
 GONZALO
-2
+6
+FRANCISCO
 PROSPERO
+ANTONIO
 ALONSO
+ADRIAN
+SEBASTIAN
 Whether this be
 Or be not, I'll not swear.
 
 PROSPERO
-2
-ALONSO
+6
+FRANCISCO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 You do yet taste
 Some subtleties o' th' isle, that will not let you
 Believe things certain. Welcome, my friends all!
@@ -5845,17 +5922,23 @@ And justify you traitors; at this time
 I will tell no tales.
 
 SEBASTIAN
-3
+6
+FRANCISCO
 PROSPERO
-ALONSO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
  [Aside]  The devil speaks in him.
 
 PROSPERO
-3
-ALONSO
-SEBASTIAN
+6
+FRANCISCO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 No.
 For you, most wicked sir, whom to call brother
 Would even infect my mouth, I do forgive
@@ -5864,10 +5947,13 @@ My dukedom of thee, which perforce I know
 Thou must restore.
 
 ALONSO
-3
+6
+FRANCISCO
 PROSPERO
-SEBASTIAN
 GONZALO
+ANTONIO
+ADRIAN
+SEBASTIAN
 If thou beest Prospero,
 Give us particulars of thy preservation;
 How thou hast met us here, whom three hours since
@@ -5876,52 +5962,70 @@ How sharp the point of this remembrance is!-
 My dear son Ferdinand.
 
 PROSPERO
-3
-ALONSO
-SEBASTIAN
+6
+FRANCISCO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 I am woe for't, sir.
 
 ALONSO
-3
+6
+FRANCISCO
 PROSPERO
-SEBASTIAN
 GONZALO
+ANTONIO
+ADRIAN
+SEBASTIAN
 Irreparable is the loss; and patience
 Says it is past her cure.
 
 PROSPERO
-3
-ALONSO
-SEBASTIAN
+6
+FRANCISCO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 I rather think
 You have not sought her help, of whose soft grace
 For the like loss I have her sovereign aid,
 And rest myself content.
 
 ALONSO
-3
+6
+FRANCISCO
 PROSPERO
-SEBASTIAN
 GONZALO
+ANTONIO
+ADRIAN
+SEBASTIAN
 You the like loss!
 
 PROSPERO
-3
-ALONSO
-SEBASTIAN
+6
+FRANCISCO
 GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+SEBASTIAN
 As great to me as late; and, supportable
 To make the dear loss, have I means much weaker
 Than you may call to comfort you, for I
 Have lost my daughter.
 
 ALONSO
-3
+6
+FRANCISCO
 PROSPERO
-SEBASTIAN
 GONZALO
+ANTONIO
+ADRIAN
+SEBASTIAN
 A daughter!
 O heavens, that they were living both in Naples,
 The King and Queen there! That they were, I wish
@@ -5929,10 +6033,13 @@ Myself were mudded in that oozy bed
 Where my son lies. When did you lose your daughter?
 
 PROSPERO
-3
+6
+FRANCISCO
+ADRIAN
+GONZALO
+ANTONIO
 ALONSO
 SEBASTIAN
-GONZALO
 In this last tempest. I perceive these lords
 At this encounter do so much admire
 That they devour their reason, and scarce think
@@ -5954,39 +6061,51 @@ At least bring forth a wonder, to content ye
 As much as me my dukedom.
 
 MIRANDA
-5
+8
+FRANCISCO
 PROSPERO
 GONZALO
+ANTONIO
 ALONSO
+ADRIAN
 FERDINAND
 SEBASTIAN
 Sweet lord, you play me false.
 
 FERDINAND
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
-ALONSO
 MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
 SEBASTIAN
 No, my dearest love,
 I would not for the world.
 
 MIRANDA
-5
+8
+FRANCISCO
 PROSPERO
 GONZALO
+ANTONIO
 ALONSO
+ADRIAN
 FERDINAND
 SEBASTIAN
 Yes, for a score of kingdoms you should wrangle
 And I would call it fair play.
 
 ALONSO
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
 MIRANDA
+GONZALO
+ANTONIO
+ADRIAN
 FERDINAND
 SEBASTIAN
 If this prove
@@ -5994,29 +6113,38 @@ A vision of the island, one dear son
 Shall I twice lose.
 
 SEBASTIAN
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
-ALONSO
 MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
 FERDINAND
 A most high miracle!
 
 FERDINAND
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
-ALONSO
 MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
 SEBASTIAN
 Though the seas threaten, they are merciful;
 I have curs'd them without cause.                   [Kneels]
 
 ALONSO
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
 MIRANDA
+GONZALO
+ANTONIO
+ADRIAN
 FERDINAND
 SEBASTIAN
 Now all the blessings
@@ -6024,10 +6152,13 @@ Of a glad father compass thee about!
 Arise, and say how thou cam'st here.
 
 MIRANDA
-5
+8
+FRANCISCO
 PROSPERO
 GONZALO
+ANTONIO
 ALONSO
+ADRIAN
 FERDINAND
 SEBASTIAN
 O, wonder!
@@ -6036,19 +6167,25 @@ How beauteous mankind is! O brave new world
 That has such people in't!
 
 PROSPERO
-5
-GONZALO
-ALONSO
+8
+FRANCISCO
 MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
 FERDINAND
 SEBASTIAN
 'Tis new to thee.
 
 ALONSO
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
 MIRANDA
+GONZALO
+ANTONIO
+ADRIAN
 FERDINAND
 SEBASTIAN
 What is this maid with whom thou wast at play?
@@ -6057,11 +6194,14 @@ Is she the goddess that hath sever'd us,
 And brought us thus together?
 
 FERDINAND
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
-ALONSO
 MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
 SEBASTIAN
 Sir, she is mortal;
 But by immortal Providence she's mine.
@@ -6074,10 +6214,13 @@ Receiv'd a second life; and second father
 This lady makes him to me.
 
 ALONSO
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
 MIRANDA
+GONZALO
+ANTONIO
+ADRIAN
 FERDINAND
 SEBASTIAN
 I am hers.
@@ -6085,10 +6228,13 @@ But, O, how oddly will it sound that I
 Must ask my child forgiveness!
 
 PROSPERO
-5
-GONZALO
-ALONSO
+8
+FRANCISCO
 MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
 FERDINAND
 SEBASTIAN
 There, sir, stop;
@@ -6096,10 +6242,13 @@ Let us not burden our remembrances with
 A heaviness that's gone.
 
 GONZALO
-5
+8
+FRANCISCO
 PROSPERO
-ALONSO
 MIRANDA
+ANTONIO
+ALONSO
+ADRIAN
 FERDINAND
 SEBASTIAN
 I have inly wept,
@@ -6109,19 +6258,25 @@ For it is you that have chalk'd forth the way
 Which brought us hither.
 
 ALONSO
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
 MIRANDA
+GONZALO
+ANTONIO
+ADRIAN
 FERDINAND
 SEBASTIAN
 I say, Amen, Gonzalo!
 
 GONZALO
-5
+8
+FRANCISCO
 PROSPERO
-ALONSO
 MIRANDA
+ANTONIO
+ALONSO
+ADRIAN
 FERDINAND
 SEBASTIAN
 Was Milan thrust from Milan, that his issue
@@ -6135,10 +6290,13 @@ In a poor isle; and all of us ourselves
 When no man was his own.
 
 ALONSO
-5
+8
+FRANCISCO
 PROSPERO
-GONZALO
 MIRANDA
+GONZALO
+ANTONIO
+ADRIAN
 FERDINAND
 SEBASTIAN
  [To FERDINAND and MIRANDA]  Give me your
@@ -6147,8 +6305,11 @@ Let grief and sorrow still embrace his heart
 That doth not wish you joy.
 
 GONZALO
-5
+8
+FRANCISCO
+ADRIAN
 PROSPERO
+ANTONIO
 ALONSO
 MIRANDA
 FERDINAND
@@ -6156,15 +6317,18 @@ SEBASTIAN
 Be it so. Amen!
 
 BOATSWAIN
-8
+11
+FRANCISCO
 PROSPERO
-GONZALO
-ALONSO
-MASTER
 MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-ARIEL
 The best news is that we have safely found
 Our King and company; the next, our ship-
 Which but three glasses since we gave out split-
@@ -6172,53 +6336,65 @@ Is tight and yare, and bravely rigg'd, as when
 We first put out to sea.
 
 ARIEL
-8
-PROSPERO
-GONZALO
-ALONSO
-MASTER
-MIRANDA
+11
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
  [Aside to PROSPERO]  Sir, all this service
 Have I done since I went.
 
 PROSPERO
-8
-GONZALO
-ALONSO
-MASTER
-MIRANDA
+11
 BOATSWAIN
+FRANCISCO
+MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-ARIEL
  [Aside to ARIEL]  My tricksy spirit!
 
 ALONSO
-8
-PROSPERO
-GONZALO
-MASTER
-MIRANDA
+11
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-ARIEL
 These are not natural events; they strengthen
 From strange to stranger. Say, how came you hither?
 
 BOATSWAIN
-8
+11
+FRANCISCO
 PROSPERO
-GONZALO
-ALONSO
-MASTER
 MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-ARIEL
 If I did think, sir, I were well awake,
 I'd strive to tell you. We were dead of sleep,
 And-how, we know not-all clapp'd under hatches;
@@ -6233,53 +6409,65 @@ Even in a dream, were we divided from them,
 And were brought moping hither.
 
 ARIEL
-8
-PROSPERO
-GONZALO
-ALONSO
-MASTER
-MIRANDA
+11
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
  [Aside to PROSPERO]  Was't well done?
 
 PROSPERO
-8
-GONZALO
-ALONSO
-MASTER
-MIRANDA
+11
 BOATSWAIN
+FRANCISCO
+MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-ARIEL
  [Aside to ARIEL]  Bravely, my diligence. Thou
 shalt be free.
 
 ALONSO
-8
-PROSPERO
-GONZALO
-MASTER
-MIRANDA
+11
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-ARIEL
 This is as strange a maze as e'er men trod;
 And there is in this business more than nature
 Was ever conduct of. Some oracle
 Must rectify our knowledge.
 
 PROSPERO
-8
-BOATSWAIN
+11
+MASTER
+FRANCISCO
+ADRIAN
 ARIEL
 GONZALO
+ANTONIO
 ALONSO
 MIRANDA
-MASTER
+BOATSWAIN
 FERDINAND
 SEBASTIAN
 Sir, my liege,
@@ -6294,103 +6482,119 @@ Set Caliban and his companions free;
 Untie the spell.   How fares my gracious sir? [
 
 STEPHANO
-11
-CALIBAN
-PROSPERO
-GONZALO
-ALONSO
-MASTER
-MIRANDA
+14
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+TRINCULO
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
 Every man shift for all the rest, and let no man
 take care for himself; for all is but fortune. Coragio,
 bully-monster, coragio!
 
 TRINCULO
-11
-CALIBAN
-PROSPERO
-GONZALO
-ALONSO
-MASTER
-STEPHANO
-MIRANDA
+14
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-ARIEL
+CALIBAN
+STEPHANO
 If these be true spies which I wear in my head,
 here's a goodly sight.
 
 CALIBAN
-11
-PROSPERO
-GONZALO
-ALONSO
-MASTER
-STEPHANO
-MIRANDA
+14
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
+ARIEL
+TRINCULO
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+STEPHANO
 O Setebos, these be brave spirits indeed!
 How fine my master is! I am afraid
 He will chastise me.
 
 SEBASTIAN
-11
-CALIBAN
-PROSPERO
-GONZALO
-ALONSO
-MASTER
-STEPHANO
-MIRANDA
+14
 BOATSWAIN
-FERDINAND
-TRINCULO
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ANTONIO
 ARIEL
+TRINCULO
+ALONSO
+ADRIAN
+MASTER
+FERDINAND
+CALIBAN
+STEPHANO
 Ha, ha!
 What things are these, my lord Antonio?
 Will money buy'em?
 
 ANTONIO
-12
-CALIBAN
-PROSPERO
-GONZALO
-ALONSO
-MASTER
-STEPHANO
-MIRANDA
+14
 BOATSWAIN
+FRANCISCO
+PROSPERO
+MIRANDA
+GONZALO
+ARIEL
+TRINCULO
+ALONSO
+ADRIAN
+MASTER
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 Very like; one of them
 Is a plain fish, and no doubt marketable.
 
 PROSPERO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 Mark but the badges of these men, my lords,
 Then say if they be true. This mis-shapen knave-
 His mother was a witch, and one so strong
@@ -6403,271 +6607,303 @@ Must know and own; this thing of darkness I
 Acknowledge mine.
 
 CALIBAN
-12
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+STEPHANO
 I shall be pinch'd to death.
 
 ALONSO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 Is not this Stephano, my drunken butler?
 
 SEBASTIAN
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
-ALONSO
-MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
-FERDINAND
-TRINCULO
 ARIEL
+TRINCULO
+ALONSO
+ADRIAN
+MASTER
+FERDINAND
+CALIBAN
+STEPHANO
 He is drunk now; where had he wine?
 
 ALONSO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 And Trinculo is reeling ripe; where should they
 Find this grand liquor that hath gilded 'em?
 How cam'st thou in this pickle?
 
 TRINCULO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-ARIEL
+CALIBAN
+STEPHANO
 I have been in such a pickle since I saw you
 last that, I fear me, will never out of my bones. I
 shall not fear fly-blowing.
 
 SEBASTIAN
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
-ALONSO
-MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
-FERDINAND
-TRINCULO
 ARIEL
+TRINCULO
+ALONSO
+ADRIAN
+MASTER
+FERDINAND
+CALIBAN
+STEPHANO
 Why, how now, Stephano!
 
 STEPHANO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
 O, touch me not; I am not Stephano, but a
 cramp.
 
 PROSPERO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 You'd be king o' the isle, sirrah?
 
 STEPHANO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
 I should have been a sore one, then.
 
 ALONSO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
  [Pointing to CALIBAN]  This is as strange a thing
 as e'er I look'd on.
 
 PROSPERO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 He is as disproportioned in his manners
 As in his shape. Go, sirrah, to my cell;
 Take with you your companions; as you look
 To have my pardon, trim it handsomely.
 
 CALIBAN
-12
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+STEPHANO
 Ay, that I will; and I'll be wise hereafter,
 And seek for grace. What a thrice-double ass
 Was I to take this drunkard for a god,
 And worship this dull fool!
 
 PROSPERO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 Go to; away!
 
 ALONSO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 Hence, and bestow your luggage where you found it.
 
 SEBASTIAN
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
-ALONSO
-MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
-FERDINAND
-TRINCULO
 ARIEL
+TRINCULO
+ALONSO
+ADRIAN
+MASTER
+FERDINAND
+CALIBAN
+STEPHANO
 Or stole it, rather.
 
 PROSPERO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
 ALONSO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 Sir, I invite your Highness and your train
 To my poor cell, where you shall take your rest
 For this one night; which, part of it, I'll waste
@@ -6682,19 +6918,21 @@ And thence retire me to my Milan, where
 Every third thought shall be my grave.
 
 ALONSO
-12
-CALIBAN
+14
+BOATSWAIN
+FRANCISCO
 PROSPERO
+MIRANDA
 GONZALO
 ANTONIO
+ARIEL
+TRINCULO
+ADRIAN
 MASTER
-STEPHANO
-MIRANDA
-BOATSWAIN
 FERDINAND
 SEBASTIAN
-TRINCULO
-ARIEL
+CALIBAN
+STEPHANO
 I long
 To hear the story of your life, which must
 Take the ear strangely.

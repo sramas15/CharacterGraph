@@ -390,7 +390,12 @@ I have a mind presages me such thrift
 That I should questionless be fortunate.
 
 ANTONIO
--1
+5
+LORENZO
+BASSANIO
+SOLANIO
+GRATIANO
+SALERIO
 Thou know'st that all my fortunes are at sea;
 Neither have I money nor commodity
 To raise a present sum; therefore go forth,
@@ -1019,7 +1024,8 @@ ANTONIO
 I like not fair terms and a villain's mind.
 
 ANTONIO
--1
+1
+BASSANIO
 Come on; in this there can be no dismay;
 My ships come home a month before the day.
 
@@ -1598,7 +1604,10 @@ That purpose merriment. But fare you well;
 I have some business.
 
 GRATIANO
--1
+3
+LAUNCELOT
+GOBBO
+BASSANIO
 And I must to Lorenzo and the rest;
 But we will visit you at supper-time.
 
@@ -1774,7 +1783,8 @@ LORENZO
 Was not that letter from fair Jessica?
 
 LORENZO
--1
+1
+GRATIANO
 I must needs tell thee all. She hath directed
 How I shall take her from her father's house;
 What gold and jewels she is furnish'd with;
@@ -2096,7 +2106,8 @@ Bassanio presently will go aboard;
 I have sent twenty out to seek for you.
 
 GRATIANO
--1
+1
+ANTONIO
 I am glad on't; I desire no more delight
 Than to be under sail and gone to-night.
 
@@ -2192,7 +2203,8 @@ Portia, adieu! I have too griev'd a heart
 To take a tedious leave; thus losers part.
 
 PORTIA
--1
+1
+PRINCE OF MOROCCO
 A gentle riddance. Draw the curtains, go.
 Let all of his complexion choose me so.
 
@@ -2291,7 +2303,8 @@ And quicken his embraced heaviness
 With some delight or other.
 
 SALERIO
--1
+1
+SOLANIO
 Do we so.
 
 NERISSA
@@ -2463,7 +2476,10 @@ Come, come, Nerissa, for I long to see
 Quick Cupid's post that comes so mannerly.
 
 NERISSA
--1
+3
+SERVANT
+PORTIA
+ARRAGON
 Bassanio, Lord Love, if thy will it be!
 
 SOLANIO
@@ -2784,7 +2800,11 @@ MAN
 But Antonio is certainly undone.
 
 SHYLOCK
--1
+4
+TUBAL
+SOLANIO
+SALERIO
+MAN
 Nay, that's true; that's very true. Go, Tubal, fee me an
 officer; bespeak him a fortnight before. I will have the heart of
 him, if he forfeit; for, were he out of Venice, I can make what
@@ -3475,7 +3495,14 @@ SALERIO
 O love, dispatch all business and be gone!
 
 BASSANIO
--1
+7
+PORTIA
+ALL
+JESSICA
+GRATIANO
+LORENZO
+NERISSA
+SALERIO
 Since I have your good leave to go away,
 I will make haste; but, till I come again,
 No bed shall e'er be guilty of my stay,
@@ -3547,7 +3574,8 @@ I am sure the Duke
 Will never grant this forfeiture to hold.
 
 ANTONIO
--1
+1
+SOLANIO
 The Duke cannot deny the course of law;
 For the commodity that strangers have
 With us in Venice, if it be denied,
@@ -3729,7 +3757,10 @@ JESSICA
 Why, shall we turn to men?
 
 PORTIA
--1
+3
+LORENZO
+JESSICA
+NERISSA
 Fie, what a question's that,
 If thou wert near a lewd interpreter!
 But come, I'll tell thee all my whole device
@@ -3938,7 +3969,8 @@ Then howsome'er thou speak'st, 'mong other things
 I shall digest it.
 
 JESSICA
--1
+1
+LORENZO
 Well, I'll set you forth.
 
 DUKE OF VENICE
@@ -5781,7 +5813,14 @@ Give him the ring, and bring him, if thou canst,
 Unto Antonio's house. Away, make haste.
 
 BASSANIO
--1
+7
+PORTIA
+DUKE OF VENICE
+ANTONIO
+SHYLOCK
+NERISSA
+CLERK
+SALERIO
 Go, Gratiano, run and overtake him;
 Give him the ring, and bring him, if thou canst,
 Unto Antonio's house. Away, make haste.
@@ -6881,7 +6920,14 @@ And charge us there upon inter'gatories,
 And we will answer all things faithfully.
 
 GRATIANO
--1
+7
+PORTIA
+JESSICA
+ANTONIO
+BASSANIO
+LAUNCELOT
+LORENZO
+NERISSA
 Let it be so. The first inter'gatory
 That my Nerissa shall be sworn on is,
 Whether till the next night she had rather stay,

@@ -478,7 +478,10 @@ No fairy takes, nor witch hath power to charm,
 So hallow'd and so gracious is the time.
 
 HORATIO
--1
+3
+GHOST
+MARCELLUS
+BERNARDO
 So have I heard and do in part believe it.
 But look, the morn, in russet mantle clad,
 Walks o'er the dew of yon high eastward hill.
@@ -6140,7 +6143,16 @@ To England send him; or confine him where
 Your wisdom best shall think.
 
 KING
--1
+9
+GUILDENSTERN
+CORNELIUS
+ROSENCRANTZ
+BOTH
+OPHELIA
+QUEEN
+VOLTEMAND
+POLONIUS
+FIRST PLAYER
 It shall be so.
 Madness in great ones must not unwatch'd go.
 
@@ -6218,7 +6230,11 @@ ROSENCRANTZ
 Bid the players make haste, [
 
 BOTH
--1
+4
+GUILDENSTERN
+HAMLET
+ROSENCRANTZ
+PLAYER
 We will, my lord.
 
 HAMLET
@@ -9697,7 +9713,9 @@ sir,- it comes from th' ambassador that was bound for England- if
 your name be HORATIO, as I am let to know it is.
 
 HORATIO
--1
+2
+SERVANT
+SAILOR
 (reads the letter) 'HORATIO, when thou shalt have overlook'd
 this, give these fellows some means to the KING. They have
 letters for him. Ere we were two days old at sea, a pirate of

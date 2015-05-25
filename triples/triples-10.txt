@@ -430,7 +430,11 @@ Being ordain'd his special governor;
 And for his safety there I'll best devise.
 
 WINCHESTER
--1
+4
+THIRD MESSENGER
+MESSENGER
+SECOND MESSENGER
+WARWICK
  [Aside]  Each hath his place and function to
 attend:
 I am left out; for me nothing remains.
@@ -472,7 +476,9 @@ And he may well in fretting spend his gall
 Nor men nor money hath he to make war.
 
 CHARLES
--1
+2
+ALENCON
+REIGNIER
 Sound, sound alarum; we will rush on them.
 Now for the honour of the forlorn French!
 Him I forgive my death that killeth me,
@@ -826,7 +832,11 @@ Woman, do what thou canst to save our honours;
 Drive them from Orleans, and be immortaliz'd.
 
 CHARLES
--1
+4
+PUCELLE
+BASTARD
+ALENCON
+REIGNIER
 Presently we'll try. Come, let's away about it.
 No prophet will I trust if she prove false.
 
@@ -1187,7 +1197,14 @@ Abominable Gloucester, guard thy head,
 For I intend to have it ere long.
 
 MAYOR
--1
+7
+WOODVILLE
+WINCHESTER
+FIRST SERVING MAN
+FIRST WARDER
+OFFICER
+SECOND WARDER
+GLOUCESTER
 See the coast clear'd, and then we will depart.
 Good God, these nobles should such stomachs bear!
 I myself fight not once in forty year.
@@ -1481,7 +1498,10 @@ All France will be replete with mirth and joy
 When they shall hear how we have play'd the men.
 
 CHARLES
--1
+3
+PUCELLE
+REIGNIER
+ALENCON
 'Tis Joan, not we, by whom the day is won;
 For which I will divide my crown with her;
 And all the priests and friars in my realm
@@ -1973,7 +1993,11 @@ I mean to prove this lady's courtesy.
 Come hither, Captain.  [Whispers]   You perceive my mind?
 
 CAPTAIN
--1
+4
+TALBOT
+BEDFORD
+MESSENGER
+BURGUNDY
 I do, my lord, and mean accordingly.
 
 COUNTESS
@@ -2201,7 +2225,10 @@ Taste of your wine and see what cates you have,
 For soldiers' stomachs always serve them well.
 
 COUNTESS
--1
+3
+TALBOT
+MESSENGER
+PORTER
 With all my heart, and think me honoured
 To feast so great a warrior in my house.
 
@@ -2697,7 +2724,10 @@ WARWICK
 And so will I.
 
 PLANTAGENET
--1
+3
+VERNON
+LAWYER
+WARWICK
 Thanks, gentle sir.
 Come, let us four to dinner. I dare say
 This quarrel will drink blood another day.
@@ -3848,7 +3878,11 @@ Now shine it like a comet of revenge,
 A prophet to the fall of all our foes!
 
 ALENCON
--1
+4
+FIRST SOLDIER
+BASTARD
+CHARLES
+REIGNIER
 Defer no time, delays have dangerous ends;
 Enter, and cry 'The Dauphin!' presently,
 And then do execution on the watch. Alarum.
@@ -4012,7 +4046,14 @@ Like peasant foot-boys do they keep the walls,
 And dare not take up arms like gentlemen.
 
 PUCELLE
--1
+7
+BEDFORD
+BASTARD
+CHARLES
+ALENCON
+BURGUNDY
+REIGNIER
+TALBOT
 Away, captains! Let's get us from the walls;
 For Talbot means no goodness by his looks.
 God b'uy, my lord; we came but to tell you
@@ -4169,7 +4210,10 @@ CAPTAIN
 What Lord Talbot pleaseth Burgundy.
 
 TALBOT
--1
+3
+BEDFORD
+CAPTAIN
+BURGUNDY
 But yet, before we go, let's not forget
 The noble Duke of Bedford, late deceas'd,
 But see his exequies fulfill'd in Rouen.
@@ -4415,7 +4459,11 @@ Pucelle hath bravely play'd her part in this,
 And doth deserve a coronet of gold.
 
 CHARLES
--1
+4
+PUCELLE
+BASTARD
+ALENCON
+BURGUNDY
 Now let us on, my lords, and join our powers,
 And seek how we may prejudice the foe.
 
@@ -4583,7 +4631,16 @@ I may have liberty to venge this wrong;
 When thou shalt see I'll meet thee to thy cost.
 
 VERNON
--1
+9
+BASSET
+KING
+WINCHESTER
+SUFFOLK
+TALBOT
+WARWICK
+SOMERSET
+EXETER
+GLOUCESTER
 Well, miscreant, I'll be there as soon as you;
 And, after, meet you sooner than you would.
 
@@ -5374,7 +5431,7 @@ Sings heavy music to thy timorous soul;
 And mine shall ring thy dire departure out.
 
 TALBOT
--1
+0
 He fables not; I hear the enemy.
 Out, some light horsemen, and peruse their wings.
 O, negligent and heedless discipline!
@@ -5602,7 +5659,10 @@ LUCY
 If he be dead, brave Talbot, then, adieu!
 
 LUCY
--1
+3
+TALBOT
+SOMERSET
+OFFICER
 His fame lives in the world, his shame in you.
 
 TALBOT
@@ -5729,7 +5789,8 @@ Stay, go, do what you will, the like do I;
 For live I will not if my father die.
 
 TALBOT
--1
+1
+JOHN
 Then here I take my leave of thee, fair son,
 Born to eclipse thy life this afternoon.
 Come, side by side together live and die;
@@ -5805,7 +5866,8 @@ Then talk no more of flight, it is no boot;
 If son to Talbot, die at Talbot's foot.
 
 TALBOT
--1
+1
+JOHN
 Then follow thou thy desp'rate sire of Crete,
 Thou Icarus; thy life to me is sweet.
 If thou wilt fight, fight by thy father's side;
@@ -6088,7 +6150,15 @@ rear'd
 A phoenix that shall make all France afeard.
 
 CHARLES
--1
+8
+PUCELLE
+BASTARD
+SERVANT
+ALENCON
+BURGUNDY
+LUCY
+TALBOT
+JOHN
 So we be rid of them, do with them what thou
 wilt.
 And now to Paris in this conquering vein!
@@ -6224,7 +6294,11 @@ GLOUCESTER
 I will attend upon your lordship's leisure.
 
 WINCHESTER
--1
+4
+KING
+LEGATE
+EXETER
+GLOUCESTER
  [Aside]  Now Winchester will not submit, I
 trow,
 Or be inferior to the proudest peer.
@@ -7394,7 +7468,14 @@ Only reserv'd, you claim no interest
 In any of our towns of garrison.
 
 PLANTAGENET
--1
+7
+PUCELLE
+BASTARD
+WINCHESTER
+CHARLES
+ALENCON
+REIGNIER
+WARWICK
 Then swear allegiance to his Majesty:
 As thou art knight, never to disobey
 Nor be rebellious to the crown of England

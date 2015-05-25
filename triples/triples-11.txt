@@ -990,7 +990,12 @@ Begin your suits anew, and sue to him.
 Away, base cullions! Suffolk, let them go.
 
 ALL
--1
+5
+QUEEN
+FIRST PETITIONER
+PETER
+SECOND PETITIONER
+SUFFOLK
 Come, let's be gone.
 
 QUEEN
@@ -1714,7 +1719,17 @@ YORK
 Sirrah, or you must fight or else be hang'd.
 
 KING HENRY
--1
+10
+QUEEN
+SUFFOLK
+SALISBURY
+CARDINAL
+YORK
+WARWICK
+HORNER
+SOMERSET
+PETER
+GLOUCESTER
 Away with them to prison; and the day of combat shall
 be the last of the next month.
 Come, Somerset, we'll see thee sent away.   Flourish.
@@ -1937,7 +1952,12 @@ Your Grace shall give me leave, my Lord of York,
 To be the post, in hope of his reward.
 
 YORK
--1
+5
+DUCHESS
+BUCKINGHAM
+MARGERY JOURDAIN
+BOLINGBROKE
+HUME
 At your pleasure, my good lord.
 Who's within there, ho?
 Invite my Lords of Salisbury and Warwick
@@ -3373,7 +3393,10 @@ My heart assures me that the Earl of Warwick
 Shall one day make the Duke of York a king.
 
 YORK
--1
+3
+BOTH
+WARWICK
+SALISBURY
 And, Nevil, this I do assure myself,
 Richard shall live to make the Earl of Warwick
 The greatest man in England but the King.
@@ -3575,7 +3598,8 @@ Or more afraid to fight, than is the appellant,
 The servant of his armourer, my lords.
 
 FIRST NEIGHBOUR
-10
+13
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
@@ -3583,14 +3607,17 @@ HUME
 QUEEN
 SUFFOLK
 DUCHESS
+SECOND PRENTICE
 SALISBURY
 HORNER
+PETER
 KING HENRY
 Here, neighbour Horner, I drink to you in a cup of
 sack; and fear not, neighbour, you shall do well enough.
 
 SECOND NEIGHBOUR
-11
+14
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
@@ -3598,77 +3625,88 @@ HUME
 QUEEN
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
+PETER
 KING HENRY
 And here, neighbour, here's a cup of charneco.
 
 THIRD NEIGHBOUR
-12
-SECOND NEIGHBOUR
+15
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
 HUME
 QUEEN
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
+PETER
 KING HENRY
 And here's a pot of good double beer, neighbour;
 drink, and fear not your man.
 
 HORNER
-12
-SECOND NEIGHBOUR
+15
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
 HUME
 QUEEN
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
+FIRST NEIGHBOUR
+PETER
 THIRD NEIGHBOUR
 KING HENRY
 Let it come, i' faith, and I'll pledge you all; and a fig
 for Peter!
 
 FIRST PRENTICE
-13
-SECOND NEIGHBOUR
+15
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
 HUME
 QUEEN
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
+PETER
 THIRD NEIGHBOUR
 KING HENRY
 Here, Peter, I drink to thee; and be not afraid.
 
 SECOND PRENTICE
-14
-SECOND NEIGHBOUR
+15
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
+PETER
 THIRD NEIGHBOUR
 KING HENRY
 Be merry, Peter, and fear not thy master: fight
@@ -3676,19 +3714,19 @@ for credit of the prentices.
 
 PETER
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
 THIRD NEIGHBOUR
 KING HENRY
 I thank you all. Drink, and pray for me, I pray you; for I
@@ -3700,18 +3738,18 @@ he hath learnt so much fence already.
 
 SALISBURY
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 HORNER
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 KING HENRY
@@ -3720,37 +3758,37 @@ Sirrah, what's thy name?
 
 PETER
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
 THIRD NEIGHBOUR
 KING HENRY
 Peter, forsooth.
 
 SALISBURY
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 HORNER
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 KING HENRY
@@ -3758,37 +3796,37 @@ Peter? What more?
 
 PETER
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
 THIRD NEIGHBOUR
 KING HENRY
 Thump.
 
 SALISBURY
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 HORNER
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 KING HENRY
@@ -3796,18 +3834,18 @@ Thump? Then see thou thump thy master well.
 
 HORNER
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 KING HENRY
@@ -3819,18 +3857,18 @@ at thee with a down right blow!
 
 YORK
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 KING HENRY
@@ -3839,18 +3877,18 @@ Sound, trumpets, alarum to the combatants!
 
 HORNER
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 KING HENRY
@@ -3858,18 +3896,18 @@ Hold, Peter, hold! I confess, I confess treason.
 
 YORK
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 KING HENRY
@@ -3878,19 +3916,19 @@ thy master's way.
 
 PETER
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
 THIRD NEIGHBOUR
 KING HENRY
 O God, have I overcome mine enemies in this presence? O
@@ -3898,19 +3936,19 @@ Peter, thou hast prevail'd in right!
 
 KING HENRY
 15
-SECOND NEIGHBOUR
+FIRST PRENTICE
 BOLINGBROKE
 MARGERY JOURDAIN
 YORK
-SECOND PRENTICE
 HUME
 QUEEN
-FIRST PRENTICE
+SECOND NEIGHBOUR
 SUFFOLK
 DUCHESS
-FIRST NEIGHBOUR
+SECOND PRENTICE
 SALISBURY
 HORNER
+FIRST NEIGHBOUR
 PETER
 THIRD NEIGHBOUR
 Go, take hence that traitor from our sight,
@@ -4194,7 +4232,11 @@ Madam, your penance done, throw off this sheet,
 And go we to attire you for our journey.
 
 DUCHESS
--1
+4
+STANLEY
+SERVING MAN
+SHERIFF
+GLOUCESTER
 My shame will not be shifted with my sheet.
 No, it will hang upon my richest robes
 And show itself, attire me how I can.
@@ -6511,7 +6553,16 @@ Even as a splitted bark, so sunder we:
 This way fall I to death.
 
 QUEEN
--1
+9
+COMMONS
+SUFFOLK
+FIRST MURDERER
+CARDINAL
+KING HENRY
+WARWICK
+SOMERSET
+SECOND MURDERER
+SALISBURY
 This way for me.
 
 KING HENRY
@@ -6605,7 +6656,10 @@ SALISBURY
 So bad a death argues a monstrous life.
 
 KING HENRY
--1
+3
+WARWICK
+CARDINAL
+SALISBURY
 Forbear to judge, for we are sinners all.
 Close up his eyes, and draw the curtain close;
 And let us all to meditation.
@@ -7974,7 +8028,15 @@ STAFFORD
 They are all in order, and march toward us.
 
 CADE
--1
+8
+ALL
+MICHAEL
+DICK
+SMITH
+JOHN
+GEORGE
+WILLIAM STAFFORD
+STAFFORD
 But then are we in order when we are most out of order. Come,
 march forward.
 
@@ -8017,7 +8079,8 @@ If we mean to thrive and do good, break open the gaols and
 let out the prisoners.
 
 CADE
--1
+1
+DICK
 Fear not that, I warrant thee. Come, let's march towards
 London.
 
@@ -8226,7 +8289,12 @@ KING HENRY
 Trust nobody, for fear you be betray'd.
 
 SAY
--1
+5
+SECOND MESSENGER
+MESSENGER
+KING HENRY
+BUCKINGHAM
+QUEEN
 The trust I have is in mine innocence,
 And therefore am I bold and resolute.
 
@@ -8244,7 +8312,8 @@ The Lord Mayor craves aid of your honour from the
 Tower, to defend the city from the rebels.
 
 SCALES
--1
+1
+FIRST CITIZEN
 Such aid as I can spare you shall command,
 But I am troubled here with them myself;
 The rebels have assay'd to win the Tower.
@@ -8286,7 +8355,10 @@ CADE
 My lord, there's an army gathered together in Smithfield.
 
 CADE
--1
+3
+SOLDIER
+DICK
+SMITH
 Come then, let's go fight with them. But first go and set
 London Bridge on fire; and, if you can, burn down the Tower too.
 Come, let's away.
@@ -8663,7 +8735,14 @@ How would it fare with your departed souls?
 And therefore yet relent and save my life.
 
 CADE
--1
+7
+ALL
+DICK
+SMITH
+SAY
+MESSENGER
+JOHN
+GEORGE
 Away with him, and do as I command ye.
 
 DICK
@@ -8683,7 +8762,9 @@ CADE
 O, brave!
 
 CADE
--1
+2
+ALL
+DICK
 But is not this braver? Let them kiss one another, for they
 lov'd well when they were alive. Now part them again, lest they
 consult about the giving up of some more towns in France.
@@ -8800,7 +8881,10 @@ no want of resolution in me, but only my followers' base and
 ignominious treasons, makes me betake me to my heels.
 
 BUCKINGHAM
--1
+3
+ALL
+CADE
+CLIFFORD
 What, is he fled? Go some, and follow him;
 And he that brings his head unto the King
 Shall have a thousand crowns for his reward.
@@ -10123,7 +10207,11 @@ And where this breach now in our fortunes made
 May readily be stopp'd.
 
 YOUNG CLIFFORD
--1
+4
+SOMERSET
+QUEEN
+KING HENRY
+CLIFFORD
 But that my heart's on future mischief set,
 I would speak blasphemy ere bid you fly;
 But fly you must; uncurable discomfit
@@ -10183,7 +10271,10 @@ Let us pursue him ere the writs go forth.
 What says Lord Warwick? Shall we after them?
 
 WARWICK
--1
+3
+YORK
+SALISBURY
+RICHARD
 After them? Nay, before them, if we can.
 Now, by my faith, lords, 'twas a glorious day:
 Saint Albans' battle, won by famous York,

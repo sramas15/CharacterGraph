@@ -1989,7 +1989,19 @@ PAINTER
 Long may he live in fortunes! shall we in?
 
 FIRST LORD
--1
+12
+MERCHANT
+TIMON
+VENTIDIUS
+SENATORS
+JEWELLER
+LUCILIUS
+MESSENGER
+ALCIBIADES
+POET
+SECOND LORD
+OLD ATHENIAN
+PAINTER
 I'll keep you company.
 
 VENTIDIUS
@@ -3277,7 +3289,8 @@ SENATOR
 I will, sir.
 
 SENATOR
--1
+1
+CAPHIS
 Go.
 
 FLAVIUS
@@ -4262,7 +4275,16 @@ To whom 'tis instant due. Nev'r speak or think
 That Timon's fortunes 'mong his friends can sink.
 
 FLAVIUS
--1
+9
+FOOL
+ALCIBIADES
+FLAMINIUS
+SERVILIUS
+ALL SERVANTS
+SERVANT
+APEMANTUS
+TIMON
+CAPHIS
 I would I could not think it.
 That thought is bounty's foe;
 Being free itself, it thinks all others so.
@@ -4606,7 +4628,10 @@ FIRST STRANGER
 Religion groans at it.
 
 FIRST STRANGER
--1
+3
+SERVILIUS
+SECOND STRANGER
+THIRD STRANGER
 For mine own part,
 I never tasted Timon in my life,
 Nor came any of his bounties over me
@@ -5064,7 +5089,13 @@ HORTENSIUS
 Tear me, take me, and the gods fall upon you!
 
 HORTENSIUS
--1
+6
+PHILOTUS
+FLAMINIUS
+SERVILIUS
+SERVANT
+TITUS
+LUCIUS
 Faith, I perceive our masters may throw their caps at
 their money. These debts may well be call'd desperate ones, for a
 madman owes 'em.
@@ -5121,7 +5152,9 @@ There is not so much left to furnish out
 A moderate table.
 
 TIMON
--1
+2
+FLAMINIUS
+FLAVIUS
 Be it not in thy care.
 Go, I charge thee, invite them all; let in the tide
 Of knaves once more; my cook and I'll provide.
@@ -8479,7 +8512,13 @@ And strain what other means is left unto us
 In our dear peril.
 
 FIRST SENATOR
--1
+6
+TIMON
+BOTH
+FLAVIUS
+POET
+SECOND SENATOR
+PAINTER
 It requires swift foot.
 
 FIRST SENATOR
@@ -8523,7 +8562,10 @@ SECOND SENATOR
 Here come our brothers.
 
 THIRD SENATOR
--1
+3
+SECOND SENATOR
+MESSENGER
+FIRST SENATOR
 No talk of Timon, nothing of him expect.
 The enemies' drum is heard, and fearful scouring
 Doth choke the air with dust. In, and prepare.
@@ -8675,7 +8717,8 @@ FIRST SENATOR
 Descend, and keep your words.
 
 SOLDIER
--1
+1
+ALCIBIADES
 My noble General, Timon is dead;
 Entomb'd upon the very hem o' th' sea;
 And on his grave-stone this insculpture, which

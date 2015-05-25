@@ -2579,7 +2579,9 @@ DEMETRIUS
 Thy counsel, lad, smells of no cowardice.
 
 DEMETRIUS
--1
+2
+CHIRON
+AARON
 Sit fas aut nefas, till I find the stream
 To cool this heat, a charm to calm these fits,
 Per Styga, per manes vehor.
@@ -2690,7 +2692,17 @@ And I have horse will follow where the game
 Makes way, and run like swallows o'er the plain.
 
 DEMETRIUS
--1
+10
+MARCUS
+SATURNINUS
+CHIRON
+TITUS
+LUCIUS
+TAMORA
+BASSIANUS
+MARTIUS
+QUINTUS
+LAVINIA
 Chiron, we hunt not, we, with horse nor hound,
 But hope to pluck a dainty doe to ground.
 
@@ -3616,7 +3628,17 @@ Andronicus, I will entreat the King.
 Fear not thy sons; they shall do well enough.
 
 TITUS
--1
+10
+SATURNINUS
+QUINTUS
+CHIRON
+MARTIUS
+DEMETRIUS
+LUCIUS
+AARON
+TAMORA
+LAVINIA
+BASSIANUS
 Come, Lucius, come; stay not to talk with them.
 
 DEMETRIUS
@@ -3665,7 +3687,10 @@ LAVINIA
 If thou hadst hands to help thee knit the cord.
 
 MARCUS
--1
+3
+CHIRON
+DEMETRIUS
+LAVINIA
 Who is this?- my niece, that flies away so fast?
 Cousin, a word: where is your husband?
 If I do dream, would all my wealth would wake me!
@@ -4667,7 +4692,10 @@ Alas, poor man! grief has so wrought on him,
 He takes false shadows for true substances.
 
 TITUS
--1
+3
+MARCUS
+LAVINIA
+BOY
 Come, take away. Lavinia, go with me;
 I'll to thy closet, and go read with thee
 Sad stories chanced in the times of old.
@@ -5891,7 +5919,11 @@ BOY
 God be with you, sir; I will.
 
 TITUS
--1
+4
+MARCUS
+PUBLIUS
+CLOWN
+BOY
 Come, Marcus, let us go. Publius, follow me.
 
 SATURNINUS
@@ -6578,7 +6610,13 @@ AARON
 What says our general?
 
 LUCIUS
--1
+6
+SECOND GOTH
+GOTH
+GOTHS
+FIRST GOTH
+AEMILIUS
+AARON
 Aemilius, let the Emperor give his pledges
 Unto my father and my uncle Marcus.
 And we will come. March away.
@@ -7667,7 +7705,18 @@ If one good deed in all my life I did,
 I do repent it from my very soul.
 
 LUCIUS
--1
+11
+MARCUS
+SATURNINUS
+FIRST GOTH
+BOY
+TITUS
+ALL
+ROMAN
+TAMORA
+LAVINIA
+AARON
+AEMILIUS
 Some loving friends convey the Emperor hence,
 And give him burial in his father's grave.
 My father and Lavinia shall forthwith

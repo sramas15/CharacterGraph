@@ -887,7 +887,8 @@ Ay, madam, you may say what sights you see;
 I see things too, although you judge I wink.
 
 JULIA
--1
+1
+LUCETTA
 Come, come; will't please you go?
 
 ANTONIO
@@ -1083,7 +1084,9 @@ Sir Proteus, your father calls for you;
 He is in haste; therefore, I pray you, go.
 
 PROTEUS
--1
+2
+PANTHINO
+ANTONIO
 Why, this it is: my heart accords thereto;
 And yet a thousand times it answers 'No.'
 
@@ -1685,7 +1688,8 @@ PROTEUS
 Sir Proteus, you are stay'd for.
 
 PROTEUS
--1
+1
+PANTHINO
 Go; I come, I come.
 Alas! this parting strikes poor lovers dumb.
 
@@ -1795,7 +1799,8 @@ LAUNCE
 Will thou go?
 
 LAUNCE
--1
+1
+PANTHINO
 Well, I will go.
 
 SILVIA
@@ -2724,7 +2729,8 @@ Because thou hast not so much charity in thee as to go to
 the ale with a Christian. Wilt thou go?
 
 SPEED
--1
+1
+LAUNCE
 At thy service.
 
 PROTEUS
@@ -2949,7 +2955,8 @@ JULIA
 Pray heav'n he prove so when you come to him.
 
 JULIA
--1
+1
+LUCETTA
 Now, as thou lov'st me, do him not that wrong
 To bear a hard opinion of his truth;
 Only deserve my love by loving him.
@@ -4247,7 +4254,9 @@ We'll wait upon your Grace till after supper,
 And afterward determine our proceedings.
 
 DUKE
--1
+2
+PROTEUS
+THURIO
 Even now about it! I will pardon you.
 
 FIRST OUTLAW
@@ -4577,7 +4586,11 @@ Provided that you do no outrages
 On silly women or poor passengers.
 
 THIRD OUTLAW
--1
+4
+VALENTINE
+SPEED
+FIRST OUTLAW
+SECOND OUTLAW
 No, we detest such vile base practices.
 Come, go with us; we'll bring thee to our crews,
 And show thee all the treasure we have got;
@@ -5080,7 +5093,10 @@ JULIA
 Marry, at my house. Trust me, I think 'tis almost day.
 
 JULIA
--1
+3
+HOST
+PROTEUS
+SILVIA
 Not so; but it hath been the longest night
 That e'er I watch'd, and the most heaviest.
 
@@ -5177,7 +5193,8 @@ SILVIA
 I will not fail your ladyship. Good morrow, gentle lady.
 
 SILVIA
--1
+1
+EGLAMOUR
 Good morrow, kind Sir Eglamour.
 
 LAUNCE
@@ -5578,7 +5595,8 @@ Out at the postern by the abbey wall;
 I fear I am attended by some spies.
 
 EGLAMOUR
--1
+1
+SILVIA
 Fear not. The forest is not three leagues off;
 If we recover that, we are sure enough.
 
@@ -5868,7 +5886,9 @@ Fear not; he bears an honourable mind,
 And will not use a woman lawlessly.
 
 SILVIA
--1
+2
+SECOND OUTLAW
+FIRST OUTLAW
 O Valentine, this I endure for thee!
 
 VALENTINE
@@ -6392,7 +6412,13 @@ THURIO
 What mean you by that saying?
 
 VALENTINE
--1
+6
+OUTLAWS
+DUKE
+PROTEUS
+SILVIA
+JULIA
+THURIO
 Please you, I'll tell you as we pass along,
 That you will wonder what hath fortuned.
 Come, Proteus, 'tis your penance but to hear

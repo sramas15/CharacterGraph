@@ -1310,7 +1310,14 @@ But lest my liking might too sudden seem,
 I would have salv'd it with a longer treatise.
 
 PEDRO
--1
+7
+HERO
+BEATRICE
+CLAUDIO
+LEONATO
+MESSENGER
+BALTHASAR
+JOHN
 What need the bridge much broader than the flood?
 The fairest grant is the necessity.
 Look, what will serve is fit. 'Tis once, thou lovest,
@@ -1373,7 +1380,7 @@ prepared for an answer, if peradventure this be true. Go you and
 tell her of it.                              [
 
 LEONATO
--1
+0
 No, no. We will hold it as a dream till it appear itself; but
 I will acquaint my daughter withal, that she may be the better
 prepared for an answer, if peradventure this be true. Go you and
@@ -9090,7 +9097,8 @@ Come, let us hence and put on other weeds,
 And then to Leonato's we will go.
 
 CLAUDIO
--1
+1
+PEDRO
 And Hymen now with luckier issue speeds
 Than this for whom we rend'red up this woe.
 

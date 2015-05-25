@@ -167,7 +167,10 @@ May we do so?
 You know it is the feast of Lupercal.
 
 FLAVIUS
--1
+3
+MARULLUS
+SECOND COMMONER
+FIRST COMMONER
 It is no matter; let no images
 Be hung with Caesar's trophies. I'll about
 And drive away the vulgar from the streets;
@@ -1884,7 +1887,10 @@ His countenance, like richest alchemy,
 Will change to virtue and to worthiness.
 
 CASSIUS
--1
+3
+CINNA
+CASCA
+CICERO
 Him and his worth and our great need of him
 You have right well conceited. Let us go,
 For it is after midnight, and ere day
@@ -2903,7 +2909,16 @@ To do I know not what; but it sufficeth
 That Brutus leads me on.
 
 BRUTUS
--1
+9
+PORTIA
+CASCA
+CINNA
+LIGARIUS
+CASSIUS
+LUCIUS
+TREBONIUS
+DECIUS
+METELLUS
 Follow me then.
 
 CAESAR
@@ -3255,7 +3270,17 @@ Good friends, go in and taste some wine with me,
 And we like friends will straightway go together.
 
 BRUTUS
--1
+10
+CALPURNIA
+CAESAR
+SERVANT
+CASCA
+TREBONIUS
+PUBLIUS
+DECIUS
+CINNA
+ANTONY
+METELLUS
 [Aside.] That every like is not the same, O Caesar,
 The heart of Brutus yearns to think upon!
 
@@ -6276,7 +6301,15 @@ I heard him say Brutus and Cassius
 Are rid like madmen through the gates of Rome.
 
 ANTONY
--1
+8
+SECOND CITIZEN
+FIRST CITIZEN
+SERVANT
+CITIZENS
+CASSIUS
+ALL
+FOURTH CITIZEN
+THIRD CITIZEN
 Be like they had some notice of the people,
 How I had moved them. Bring me to Octavius.
 
@@ -6477,7 +6510,11 @@ It is no matter, his name's Cinna. Pluck but his
 name out of his heart, and turn him going.
 
 THIRD CITIZEN
--1
+4
+CINNA
+SECOND CITIZEN
+FIRST CITIZEN
+FOURTH CITIZEN
 Tear him, tear him! Come, brands, ho, firebrands. To
 Brutus', to Cassius'; burn all. Some to Decius' house, and some
 to Casca's, some to Ligarius'. Away, go!
@@ -6598,7 +6635,9 @@ How covert matters may be best disclosed,
 And open perils surest answered.
 
 OCTAVIUS
--1
+2
+ANTONY
+LEPIDUS
 Let us do so, for we are at the stake,
 And bay'd about with many enemies;
 And some that smile have in their hearts, I fear,
@@ -6846,7 +6885,15 @@ Bid our commanders lead their charges off
 A little from this ground.
 
 BRUTUS
--1
+8
+FIRST SOLDIER
+SECOND SOLDIER
+TITINIUS
+CASSIUS
+LUCIUS
+PINDARUS
+THIRD SOLDIER
+LUCILIUS
 Lucilius, do you the like, and let no man
 Come to our tent till we have done our conference.
 Let Lucius and Titinius guard our door.
@@ -8325,7 +8372,16 @@ Bid him set on his powers betimes before,
 And we will follow.
 
 VARRO
--1
+9
+GHOST
+TITINIUS
+CASSIUS
+CLAUDIO
+LUCIUS
+LUCILIUS
+POET
+MESSALA
+BRUTUS
 CLAUDIO. It shall be done, my lord.
 
 OCTAVIUS
@@ -8844,14 +8900,22 @@ If we do meet again, we'll smile indeed;
 If not, 'tis true this parting was well made.
 
 BRUTUS
--1
+7
+TITINIUS
+CASSIUS
+MESSALA
+LUCILIUS
+MESSENGER
+OCTAVIUS
+ANTONY
 Why then, lead on. O, that a man might know
 The end of this day's business ere it come!
 But it sufficeth that the day will end,
 And then the end is known. Come, ho! Away!
 
 BRUTUS
--1
+1
+MESSALA
 Ride, ride, Messala, ride, and give these bills
 Unto the legions on the other side.             Loud alarum.
 Let them set on at once, for I perceive
@@ -9121,7 +9185,11 @@ Brave Titinius!
 Look whe'er he have not crown'd dead Cassius!
 
 BRUTUS
--1
+4
+TITINIUS
+CATO
+CASSIUS
+MESSALA
 Are yet two Romans living such as these?
 The last of all the Romans, fare thee well!
 It is impossible that ever Rome
@@ -9218,7 +9286,11 @@ When you do find him, or alive or dead,
 He will be found like Brutus, like himself.
 
 ANTONY
--1
+4
+LUCILIUS
+FIRST SOLDIER
+SECOND SOLDIER
+CATO
 This is not Brutus, friend, but, I assure you,
 A prize no less in worth. Keep this man safe,
 Give him all kindness; I had rather have
@@ -9602,7 +9674,15 @@ So mix'd in him that Nature might stand up
 And say to all the world, "This was a man!"
 
 OCTAVIUS
--1
+8
+CLITUS
+STRATO
+MESSALA
+LUCILIUS
+VOLUMNIUS
+ANTONY
+BRUTUS
+DARDANIUS
 According to his virtue let us use him
 With all respect and rites of burial.
 Within my tent his bones tonight shall lie,

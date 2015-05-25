@@ -1361,7 +1361,10 @@ I will respect thee as a father, if
 Thou bear'st my life off hence. Let us avoid.
 
 CAMILLO
--1
+3
+MAMILLIUS
+HERMIONE
+POLIXENES
 It is in mine authority to command
 The keys of all the posterns. Please your Highness
 To take the urgent hour. Come, sir, away.
@@ -2209,7 +2212,10 @@ GENTLEMAN
 I do believe it.
 
 PAULINA
--1
+3
+EMILIA
+GAOLER
+GENTLEMAN
 Do not you fear. Upon mine honour, I
 Will stand betwixt you and danger.
 
@@ -2911,7 +2917,13 @@ So please you, sir, their speed
 Hath been beyond account.
 
 LEONTES
--1
+6
+LORDS
+FIRST SERVANT
+FIRST LORD
+SERVANT
+SECOND SERVANT
+ANTIGONUS
 Twenty-three days
 They have been absent; 'tis good speed; foretells
 The great Apollo suddenly will have
@@ -2965,7 +2977,8 @@ So forcing faults upon Hermione,
 I little like.
 
 DION
--1
+1
+CLEOMENES
 The violent carriage of it
 Will clear or end the business. When the oracle-
 Thus by Apollo's great divine seal'd up-
@@ -3594,7 +3607,15 @@ Who is lost too. Take your patience to you,
 And I'll say nothing.
 
 LEONTES
--1
+8
+FIRST LORD
+PAULINA
+LORDS
+SERVANT
+DION
+CLEOMENES
+HERMIONE
+OFFICER
 Thou didst speak but well
 When most the truth; which I receive much better
 Than to be pitied of thee. Prithee, bring me
@@ -7792,7 +7813,11 @@ More worth than any man; men, that she is
 The rarest of all women.
 
 LEONTES
--1
+4
+DION
+PAULINA
+GENTLEMAN
+CLEOMENES
 Go, Cleomenes;
 Yourself, assisted with your honour'd friends,
 Bring them to our embracement.
@@ -8089,7 +8114,12 @@ Fore your queen died, she was more worth such gazes
 Than what you look on now.
 
 LEONTES
--1
+5
+PAULINA
+LORD
+PERDITA
+FLORIZEL
+CLEOMENES
 I thought of her
 Even in these looks I made.  [To FLORIZEL]  But your petition
 Is yet unanswer'd. I will to your father.
@@ -8483,7 +8513,12 @@ SECOND GENTLEMAN
 I will prove so, sir, to my power.
 
 CLOWN
--1
+5
+SHEPHERD
+AUTOLYCUS
+THIRD GENTLEMAN
+SECOND GENTLEMAN
+FIRST GENTLEMAN
 Ay, by any means, prove a tall fellow. If I do not wonder
 how thou dar'st venture to be drunk not being a tall fellow,
 trust me not. Hark! the kings and the princes, our kindred, are
@@ -8989,7 +9024,14 @@ My mate, that's never to be found again,
 Lament till I am lost.
 
 LEONTES
--1
+7
+LORDS
+PAULINA
+POLIXENES
+HERMIONE
+CAMILLO
+FLORIZEL
+PERDITA
 O peace, Paulina!
 Thou shouldst a husband take by my consent,
 As I by thine a wife. This is a match,

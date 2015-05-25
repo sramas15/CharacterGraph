@@ -1623,7 +1623,18 @@ PAGE
 I pray you, sir.
 
 SLENDER
--1
+11
+MRS PAGE
+EVANS
+BARDOLPH
+SHALLOW
+MRS FORD
+FALSTAFF
+SIMPLE
+NYM
+ANNE
+PISTOL
+PAGE
 I'll rather be unmannerly than troublesome. You
 do yourself wrong indeed, la!
 
@@ -1641,7 +1652,8 @@ EVANS
 Well, sir.
 
 EVANS
--1
+1
+SIMPLE
 Nay, it is petter yet. Give her this letter; for it is a
 oman that altogether's acquaintance with Mistress Anne
 Page; and the letter is to desire and require her to solicit
@@ -2023,7 +2035,10 @@ with poison; I will possess him with yellowness; for the
 revolt of mine is dangerous. That is my true humour.
 
 PISTOL
--1
+3
+FALSTAFF
+ROBIN
+NYM
 Thou art the Mars of malcontents; I second thee;
 troop on.
 
@@ -4160,7 +4175,12 @@ PAGE
 Let us wag, then.
 
 CAIUS
--1
+5
+HOST
+RUGBY
+SHALLOW
+PAGE
+SLENDER
 Come at my heels, Jack Rugby.
 
 EVANS
@@ -4929,7 +4949,13 @@ PAGE
 him. I'll make him dance. Will you go, gentles?
 
 ALL
--1
+6
+CAIUS
+MRS PAGE
+EVANS
+FORD
+PAGE
+ROBIN
 Have with you to see this monster.
 
 MRS FORD
@@ -6873,7 +6899,9 @@ QUICKLY
 Adieu, good Sir Hugh.
 
 MRS PAGE
--1
+2
+WILLIAM
+QUICKLY
 Adieu, good Sir Hugh.
 Get you home, boy. Come, we stay too long.
 
@@ -7614,7 +7642,8 @@ and methinks there would be no period to the jest, should
 he not be publicly sham'd.
 
 MRS PAGE
--1
+1
+MRS FORD
 Come, to the forge with it then; shape it. I
 would not have things cool.
 
@@ -7638,7 +7667,8 @@ HOST
 Ay, sir; I'll call them to you.
 
 HOST
--1
+1
+BARDOLPH
 They shall have my horses, but I'll make them pay;
 I'll sauce them; they have had my house a week at
 command; I have turn'd away my other guests. They must
@@ -8244,7 +8274,10 @@ here is to bring you together! Sure, one of you does not
 serve heaven well, that you are so cross'd.
 
 FALSTAFF
--1
+3
+BARDOLPH
+HOST
+QUICKLY
 Come up into my chamber.
 
 HOST
@@ -8329,7 +8362,8 @@ Well, husband your device; I'll to the vicar.
 Bring you the maid, you shall not lack a priest.
 
 FENTON
--1
+1
+HOST
 So shall I evermore be bound to thee;
 Besides, I'll make a present recompense.
 
@@ -8360,7 +8394,8 @@ Went you not to her yesterday, sir, as you told me
 you had appointed?
 
 FALSTAFF
--1
+1
+FORD
 I went to her, Master Brook, as you see, like a
 poor old man; but I came from her, Master Brook, like a
 poor old woman. That same knave Ford, her husband, hath
@@ -8401,7 +8436,9 @@ or her budget? The white will decipher her well enough.
 It hath struck ten o'clock.
 
 PAGE
--1
+2
+SHALLOW
+SLENDER
 The night is dark; light and spirits will become it well.
 Heaven prosper our sport! No man means evil but the
 devil, and we shall know him by his horns. Let's away;
@@ -8470,7 +8507,7 @@ MRS PAGE
 The hour draws on. To the oak, to the oak!
 
 EVANS
--1
+0
 Trib, trib, fairies; come; and remember your parts.
 Be pold, I pray you; follow me into the pit; and when I
 give the watch-ords, do as I pid you. Come, come; trib,
@@ -9460,7 +9497,18 @@ And laugh this sport o'er by a country fire;
 Sir John and all.
 
 FORD
--1
+11
+THE SONG
+FAIRY QUEEN
+MRS PAGE
+EVANS
+PUCK
+SLENDER
+MRS FORD
+FALSTAFF
+FENTON
+ANNE
+PAGE
 Let it be so. Sir John,
 To Master Brook you yet shall hold your word;
 For he, to-night, shall lie with Mistress Ford.

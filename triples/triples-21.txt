@@ -1050,7 +1050,13 @@ STARVELING
 At the Duke's oak we meet.
 
 BOTTOM
--1
+6
+SNOUT
+ALL
+SNUG
+STARVELING
+QUINCE
+FLUTE
 Enough; hold, or cut bow-strings.
 
 PUCK
@@ -1551,7 +1557,10 @@ More fond on her than she upon her love.
 And look thou meet me ere the first cock crow.
 
 PUCK
--1
+3
+FAIRY
+OBERON
+TITANIA
 Fear not, my lord; your servant shall do so.
 
 TITANIA
@@ -2695,7 +2704,17 @@ ere now. I desire you of more acquaintance, good Master
 Mustardseed.
 
 TITANIA
--1
+10
+ALL
+BOTTOM
+MOTH
+PEASEBLOSSOM
+FLUTE
+MUSTARDSEED
+SNOUT
+SNUG
+COBWEB
+STARVELING
 Come, wait upon him; lead him to my bower.
 The moon, methinks, looks with a wat'ry eye;
 And when she weeps, weeps every little flower;
@@ -3825,7 +3844,8 @@ PUCK
 Yea, art thou there?
 
 PUCK
--1
+1
+DEMETRIUS
 Follow my voice; we'll try no manhood here.
 
 LYSANDER
@@ -4277,7 +4297,14 @@ We the globe can compass soon,
 Swifter than the wand'ring moon.
 
 TITANIA
--1
+7
+BOTTOM
+MOTH
+PEASEBLOSSOM
+PUCK
+MUSTARDSEED
+COBWEB
+OBERON
    Come, my lord; and in our flight,
 Tell me how it came this night
 That I sleeping here was found
@@ -4513,7 +4540,13 @@ HIPPOLYTA
 And he did bid us follow to the temple.
 
 DEMETRIUS
--1
+6
+EGEUS
+HELENA
+THESEUS
+HIPPOLYTA
+HERMIA
+LYSANDER
 Why, then, we are awake; let's follow him;
 And by the way let us recount our dreams.
 
@@ -4651,7 +4684,12 @@ STARVELING
 Let us hear, sweet Bottom.
 
 BOTTOM
--1
+5
+SNOUT
+SNUG
+STARVELING
+QUINCE
+FLUTE
 Not a word of me. All that I will tell you is, that the
 Duke hath dined. Get your apparel together; good strings to your
 beards, new ribbons to your pumps; meet presently at the palace;
@@ -6191,7 +6229,19 @@ parted their fathers. Will it please you to see the Epilogue, or
 to hear a Bergomask dance between two of our company?
 
 THESEUS
--1
+12
+PYRAMUS
+LION
+BOTTOM
+HERMIA
+DEMETRIUS
+THISBY
+MOON
+HELENA
+LYSANDER
+HIPPOLYTA
+PROLOGUE
+PHILOSTRATE
 No epilogue, I pray you; for your play needs no excuse.
 Never excuse; for when the players are all dead there need none
 to be blamed. Marry, if he that writ it had played Pyramus, and

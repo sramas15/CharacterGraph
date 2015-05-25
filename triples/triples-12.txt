@@ -1774,7 +1774,19 @@ I'll write unto them, and entreat them fair;
 Come, cousin, you shall be the messenger.
 
 EXETER
--1
+12
+NORFOLK
+RICHARD
+PRINCE OF WALES
+NORTHUMBERLAND
+MONTAGUE
+EDWARD
+YORK
+WARWICK
+CLIFFORD
+QUEEN MARGARET
+KING HENRY
+WESTMORELAND
 And I, I hope, shall reconcile them all.
 
 RICHARD
@@ -2008,7 +2020,11 @@ I hear their drums. Let's set our men in order,
 And issue forth and bid them battle straight.
 
 YORK
--1
+4
+SIR JOHN
+EDWARD
+MESSENGER
+RICHARD
 Five men to twenty! Though the odds be great,
 I doubt not, uncle, of our victory.
 Many a battle have I won in France,
@@ -3758,7 +3774,10 @@ RICHARD
 Away, away! Once more, sweet lords, farewell.
 
 CLARENCE
--1
+3
+EDWARD
+RICHARD
+WARWICK
 Yet let us all together to our troops,
 And give them leave to fly that will not stay,
 And call them pillars that will stand to us;
@@ -3788,7 +3807,9 @@ To execute the like upon thyself;
 And so, have at thee!                           [They fight]
 
 RICHARD
--1
+2
+WARWICK
+CLIFFORD
 Nay, Warwick, single out some other chase;
 For I myself will hunt this wolf to death.
 
@@ -4019,7 +4040,12 @@ Nay, stay not to expostulate; make speed;
 Or else come after. I'll away before.
 
 KING HENRY
--1
+5
+QUEEN MARGARET
+PRINCE OF WALES
+SON
+FATHER
+EXETER
 Nay, take me with thee, good sweet Exeter.
 Not that I fear to stay, but love to go
 Whither the Queen intends. Forward; away!
@@ -4312,7 +4338,12 @@ Let me be Duke of Clarence, George of Gloucester;
 For Gloucester's dukedom is too ominous.
 
 WARWICK
--1
+5
+MONTAGUE
+EDWARD
+CLARENCE
+RICHARD
+CLIFFORD
 Tut, that's a foolish observation.
 Richard, be Duke of Gloucester. Now to London
 To see these honours in possession.
@@ -4547,7 +4578,9 @@ We charge you, in God's name and the King's,
 To go with us unto the officers.
 
 KING HENRY
--1
+2
+FIRST KEEPER
+SECOND KEEPER
 In God's name, lead; your King's name be obey'd;
 And what God will, that let your King perform;
 And what he will, I humbly yield unto.
@@ -6660,7 +6693,15 @@ HASTINGS
 Ay, in despite of all that shall withstand you.
 
 EDWARD
--1
+8
+CLARENCE
+RICHARD
+MONTAGUE
+MESSENGER
+QUEEN ELIZABETH
+SOMERSET
+POST
+HASTINGS
 Why, so! then am I sure of victory.
 Now therefore let us hence, and lose no hour
 Till we meet Warwick with his foreign pow'r.
@@ -6679,7 +6720,10 @@ WARWICK
 Fear not that, my lord.
 
 WARWICK
--1
+3
+OXFORD
+SOMERSET
+CLARENCE
 Then, gentle Clarence, welcome unto Warwick;
 And welcome, Somerset. I hold it cowardice
 To rest mistrustful where a noble heart
@@ -6945,7 +6989,16 @@ What now remains, my lords, for us to do
 But march to London with our soldiers?
 
 WARWICK
--1
+9
+CLARENCE
+RICHARD
+SECOND WATCHMAN
+THIRD WATCHMAN
+FIRST WATCHMAN
+EDWARD
+OXFORD
+SOMERSET
+HASTINGS
 Ay, that's the first thing that we have to do;
 To free King Henry from imprisonment,
 And see him seated in the regal throne.
@@ -7012,7 +7065,8 @@ QUEEN ELIZABETH
 But, madam, where is Warwick then become?
 
 QUEEN ELIZABETH
--1
+1
+RIVERS
 I am inform'd that he comes towards London
 To set the crown once more on Henry's head.
 Guess thou the rest: King Edward's friends must down.
@@ -7122,7 +7176,10 @@ HASTINGS
 Come then, away; let's ha' no more ado.
 
 EDWARD
--1
+3
+HUNTSMAN
+RICHARD
+HASTINGS
 Bishop, farewell. Shield thee from Warwick's frown,
 And pray that I may repossess the crown.
 
@@ -7450,7 +7507,14 @@ Ay, for if Edward repossess the crown,
 'Tis like that Richmond with the rest shall down.
 
 SOMERSET
--1
+7
+CLARENCE
+MONTAGUE
+LIEUTENANT
+KING HENRY
+WARWICK
+OXFORD
+POST
 It shall be so; he shall to Brittany.
 Come therefore, let's about it speedily.
 
@@ -7733,7 +7797,13 @@ HASTINGS
 Long live Edward the Fourth!
 
 EDWARD
--1
+6
+SOLDIER
+ALL
+RICHARD
+MONTGOMERY
+MAYOR
+HASTINGS
 Thanks, brave Montgomery, and thanks unto you all;
 If fortune serve me, I'll requite this kindness.
 Now for this night let's harbour here in York;
@@ -7940,7 +8010,14 @@ The sun shines hot; and, if we use delay,
 Cold biting winter mars our hop'd-for hay.
 
 RICHARD
--1
+7
+CLARENCE
+MONTAGUE
+EDWARD
+KING HENRY
+WARWICK
+OXFORD
+EXETER
 Away betimes, before his forces join,
 And take the great-grown traitor unawares.
 Brave warriors, march amain towards Coventry.
@@ -8598,7 +8675,9 @@ If she have time to breathe, be well assur'd
 Her faction will be full as strong as ours.
 
 EDWARD
--1
+2
+CLARENCE
+RICHARD
 are advertis'd by our loving friends
 That they do hold their course toward Tewksbury;
 We, having now the best at Barnet field,
@@ -9205,7 +9284,12 @@ To London, all in post; and, as I guess,
 To make a bloody supper in the Tower.
 
 EDWARD
--1
+5
+CLARENCE
+QUEEN MARGARET
+OXFORD
+PRINCE OF WALES
+SOMERSET
 He's sudden, if a thing comes in his head.
 Now march we hence. Discharge the common sort
 With pay and thanks; and let's away to London
@@ -9477,7 +9561,11 @@ Hath pawn'd the Sicils and Jerusalem,
 And hither have they sent it for her ransom.
 
 EDWARD
--1
+4
+HASTINGS
+CLARENCE
+RICHARD
+QUEEN ELIZABETH
 Away with her, and waft her hence to France.
 And now what rests but that we spend the time
 With stately triumphs, mirthful comic shows,

@@ -173,7 +173,10 @@ For more is to be said and to be done
 Than out of anger can be uttered.
 
 WESTMORELAND
--1
+3
+LANCASTER
+KING
+BLUNT
 I will my liege.
 
 FALSTAFF
@@ -1311,7 +1314,11 @@ WORCESTER
 Farewell, good brother. We shall thrive, I trust.
 
 HOTSPUR
--1
+4
+KING
+NORTHUMBERLAND
+BLUNT
+WORCESTER
 Uncle, adieu. O, let the hours be short
 Till fields and blows and groans applaud our sport!
 
@@ -2006,7 +2013,15 @@ And lards the lean earth as he walks along.
 Were't not for laughing, I should pity him.
 
 POINS
--1
+8
+BARDOPH
+BARDOLPH
+PETO
+TRAVELLER
+FALSTAFF
+THIEVES
+GADSHILL
+PRINCE
 How the rogue roar'd!
 
 HOTSPUR
@@ -2222,7 +2237,9 @@ To-day will I set forth, to-morrow you.
 Will this content you, Kate,?
 
 LADY
--1
+2
+SERVANT
+HOTSPUR
 It must of force.
 
 PRINCE
@@ -5912,7 +5929,9 @@ If promises be kept oil every hand,
 As ever off'red foul play in a state.
 
 KING
--1
+2
+BLUNT
+PRINCE
 The Earl of WESTMORELAND set forth to-day;
 With him my son, Lord John of LANCASTER;
 For this advertisement is five days old.

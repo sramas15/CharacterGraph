@@ -1733,7 +1733,9 @@ The clownish fool out of your father's court?
 Would he not be a comfort to our travel?
 
 CELIA
--1
+2
+ROSALIND
+FREDERICK
 He'll go along o'er the wide world with me;
 Leave me alone to woo him. Let's away,
 And get our jewels and our wealth together;
@@ -1869,7 +1871,10 @@ I love to cope him in these sullen fits,
 For then he's full of matter.
 
 FIRST LORD
--1
+3
+SECOND LORD
+AMIENS
+DUKE SENIOR
 I'll bring you to him straight.
 
 FREDERICK
@@ -1904,7 +1909,9 @@ And she believes, wherever they are gone,
 That youth is surely in their company.
 
 FREDERICK
--1
+2
+FIRST LORD
+SECOND LORD
 Send to his brother; fetch that gallant hither.
 If he be absent, bring his brother to me;
 I'll make him find him. Do this suddenly;
@@ -2017,7 +2024,8 @@ And ere we have thy youthful wages spent
 We'll light upon some settled low content.
 
 ADAM
--1
+1
+ORLANDO
 Master, go on; and I will follow the
 To the last gasp, with truth and loyalty.
 From seventeen years till now almost four-score
@@ -2322,7 +2330,10 @@ And we will mend thy wages. I like this place,
 And willingly could waste my time in it.
 
 CORIN
--1
+3
+ROSALIND
+TOUCHSTONE
+CELIA
 Assuredly the thing is to be sold.
 Go with me; if you like upon report
 The soil, the profit, and this kind of life,
@@ -2441,7 +2452,8 @@ Dear master, I can go no further. O, I die for food! Here lie
 I down, and measure out my grave. Farewell, kind master.
 
 ORLANDO
--1
+1
+ADAM
 Why, how now, Adam! No greater heart in thee? Live a
 little; comfort a little; cheer thyself a little. If this uncouth
 forest yield anything savage, I will either be food for it or
@@ -2866,7 +2878,12 @@ Most friendship is feigning, most loving mere folly.
 Heigh-ho! sing, &c.
 
 DUKE SENIOR
--1
+5
+FIRST LORD
+ADAM
+JAQUES
+AMIENS
+ORLANDO
 If that you were the good Sir Rowland's son,
 As you have whisper'd faithfully you were,
 And as mine eye doth his effigies witness
@@ -2901,7 +2918,8 @@ O that your Highness knew my heart in this!
 I never lov'd my brother in my life.
 
 FREDERICK
--1
+1
+OLIVER
 More villain thou. Well, push him out of doors;
 And let my officers of such a nature
 Make an extent upon his house and lands.
@@ -4170,7 +4188,12 @@ TOUCHSTONE
 With all my heart, good youth.
 
 ROSALIND
--1
+5
+CORIN
+CELIA
+JAQUES
+ORLANDO
+TOUCHSTONE
 Nay, you must call me Rosalind. Come, sister, will you
 go?
 
@@ -4565,7 +4588,9 @@ Go hence a little, and I shall conduct you,
 If you will mark it.
 
 ROSALIND
--1
+2
+CORIN
+CELIA
 O, come, let us remove!
 The sight of lovers feedeth those in love.
 Bring us to this sight, and you shall say
@@ -4827,7 +4852,8 @@ PHEBE
 Phebe, with all my heart.
 
 PHEBE
--1
+1
+SILVIUS
 I'll write it straight;
 The matter's in my head and in my heart;
 I will be bitter with him and passing short.
@@ -5412,7 +5438,8 @@ Aliena, I cannot be out of the sight of Orlando. I'll go find a
 shadow, and sigh till he come.
 
 CELIA
--1
+1
+ROSALIND
 And I'll sleep.
 
 JAQUES
@@ -5877,7 +5904,10 @@ That will I, for I must bear answer back
 How you excuse my brother, Rosalind.
 
 ROSALIND
--1
+3
+OLIVER
+SILVIUS
+CELIA
 I shall devise something; but, I pray you, commend my
 counterfeiting to him. Will you go?
 
@@ -6398,7 +6428,10 @@ ORLANDO
 Nor I.
 
 ORLANDO
--1
+3
+SILVIUS
+ROSALIND
+PHEBE
 Nor I.
 
 TOUCHSTONE
@@ -6469,7 +6502,10 @@ YOU are deceiv'd, sir; we kept time, we lost not our
 time.
 
 TOUCHSTONE
--1
+3
+AUDREY
+FIRST PAGE
+SECOND PAGE
 By my troth, yes; I count it but time lost to hear such
 a foolish song. God buy you; and God mend your voices. Come,
 Audrey.
@@ -7266,7 +7302,18 @@ To see no pastime I. What you would have
 I'll stay to know at your abandon'd cave.
 
 DUKE SENIOR
--1
+11
+JAQUES DE BOYS
+OLIVER
+HYMEN
+AMIENS
+ORLANDO
+PHEBE
+AUDREY
+ROSALIND
+CELIA
+SILVIUS
+TOUCHSTONE
 Proceed, proceed. We will begin these rites,
 As we do trust they'll end, in true delights.    [A dance]
 

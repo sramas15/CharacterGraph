@@ -66,7 +66,7 @@ Enter a SHIPMASTER and a BOATSWAIN
     yare, yare! Take in the topsail. Tend to th' master's
     whistle. Blow till thou burst thy wind, if room enough.
 
-          Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND,                     GONZALO, and OTHERS
+          Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND, GONZALO, and OTHERS
 
   ALONSO. Good boatswain, have care. Where's the master?
     Play the men.
@@ -115,7 +115,7 @@ Enter a SHIPMASTER and a BOATSWAIN
   BOATSWAIN. Lay her a-hold, a-hold; set her two courses; off
     to sea again; lay her off.
 
-                    Enter MARINERS, Wet
+                    Enter MARINERS, wet
   MARINERS. All lost! to prayers, to prayers! all lost! Exeunt
   BOATSWAIN. What, must our mouths be cold?
   GONZALO. The King and Prince at prayers!
@@ -601,7 +601,7 @@ Enter PROSPERO and MIRANDA
     And make a vassal of him.
   PROSPERO. So, slave; hence!                       Exit CALIBAN
 
-         Enter ARIEL invisible, playing ad singing;                     FERDINAND following
+         Enter ARIEL invisible, playing ad singing; FERDINAND following
 
   ARIEL.
     Come unto these yellow sands,
@@ -1383,7 +1383,7 @@ ACT III. SCENE 1
 
 Before PROSPERO'S cell
 
-Enter FERDINAND, hearing a log
+Enter FERDINAND, bearing a log
 
   FERDINAND. There be some sports are painful, and their
     labour
@@ -1755,7 +1755,7 @@ Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and OTHERS
     The best is past. Brother, my lord the Duke,
     Stand to, and do as we.
 
-       Thunder and lightning. Enter ARIEL, like a harpy;       claps his wings upon the table; and, with a quaint                device, the banquet vanishes
+      Thunder and lightning. Enter ARIEL, like a harpy; claps his wings upon the table; and, with a quaint device, the banquet vanishes
 
   ARIEL. You are three men of sin, whom Destiny,
     That hath to instrument this lower world
@@ -1788,9 +1788,9 @@ Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and OTHERS
     You and your ways; whose wraths to guard you from-
     Which here, in this most desolate isle, else falls
     Upon your heads-is nothing but heart's sorrow,
-    And a clear life ensuing.
+    And a clear life ensuing.                   Exit.
 
-        He vanishes in thunder; then, to soft music, Enter        the SHAPES again, and dance, with mocks and mows,                and carrying out the table
+        He vanishes in thunder; then, to soft music, Enter the SHAPES again, and dance, with mocks and mows, and carrying out the table
 
   PROSPERO. Bravely the figure of this harpy hast thou
     Perform'd, my Ariel; a grace it had, devouring.
@@ -2002,7 +2002,7 @@ Enter PROSPERO, FERDINAND, and MIRANDA
     And these fresh nymphs encounter every one
     In country footing.
 
-        Enter certain REAPERS, properly habited; they join         with the NYMPHS in a graceful dance; towards the         end whereof PROSPERO starts suddenly, and speaks,          after which, to a strange, hollow, and confused                  noise, they heavily vanish
+        Enter certain REAPERS, properly habited; they join with the NYMPHS in a graceful dance; towards the end whereof PROSPERO starts suddenly, and speaks, after which, to a strange, hollow, and confused noise, they heavily vanish
 
   PROSPERO.  [Aside]  I had forgot that foul conspiracy
     Of the beast Caliban and his confederates
@@ -2138,7 +2138,7 @@ Enter PROSPERO, FERDINAND, and MIRANDA
   TRINCULO. And this.
   STEPHANO. Ay, and this.
 
-          A noise of hunters beard. Enter divers SPIRITS, in            shape of dogs and hounds, bunting them about;                   PROSPERO and ARIEL setting them on
+          A noise of hunters beard. Enter divers SPIRITS, in shape of dogs and hounds, bunting them about; PROSPERO and ARIEL setting them on
 
   PROSPERO. Hey, Mountain, hey!
   ARIEL. Silver! there it goes, Silver!
@@ -2205,8 +2205,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     My charms I'll break, their senses I'll restore,
     And they shall be themselves.
   ARIEL. I'll fetch them, sir.                              Exit
-  PROSPERO. Ye elves of hills, brooks, standing lakes, and
-    groves;
+  PROSPERO. Ye elves of hills, brooks, standing lakes, and groves;
     And ye that on the sands with printless foot
     Do chase the ebbing Neptune, and do fly him
     When he comes back; you demi-puppets that
@@ -2232,7 +2231,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     And deeper than did ever plummet sound
     I'll drown my book.                            [Solem music]
 
-            Here enters ARIEL before; then ALONSO, with          frantic gesture, attended by GONZALO; SEBASTIAN           and ANTONIO in like manner, attended by ADRIAN           and FRANCISCO. They all enter the circle which          PROSPERO had made, and there stand charm'd; which                    PROSPERO observing, speaks
+            Here enters ARIEL before; then ALONSO, with frantic gesture, attended by GONZALO; SEBASTIAN and ANTONIO in like manner, attended by ADRIAN and FRANCISCO. They all enter the circle which PROSPERO had made, and there stand charm'd; which PROSPERO observing, speaks
 
   PROSPERO.  A solemn air, and the best comforter
     To an unsettled fancy, cure thy brains,
@@ -2366,7 +2365,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     At least bring forth a wonder, to content ye
     As much as me my dukedom.
 
-          Here PROSPERO discovers Enter FERDINAND and MIRANDA,                      playing at chess
+          Here PROSPERO discovers Enter FERDINAND and MIRANDA, playing at chess
 
   MIRANDA. Sweet lord, you play me false.
   FERDINAND. No, my dearest love,
@@ -2427,7 +2426,7 @@ Enter PROSPERO in his magic robes, and ARIEL
     That doth not wish you joy.
   GONZALO. Be it so. Amen!
 
-           Enter ARIEL, with the MASTER and BOATSWAIN                     amazedly following
+           Enter ARIEL, with the MASTER and BOATSWAIN amazedly following
 
     O look, sir; look, sir! Here is more of us!
     I prophesied, if a gallows were on land,

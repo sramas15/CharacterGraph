@@ -172,7 +172,11 @@ He comes too short of that great property
 Which still should go with Antony.
 
 DEMETRIUS
--1
+4
+CLEOPATRA
+MESSENGER
+ANTONY
+PHILO
 I am full sorry
 That he approves the common liar, who
 Thus speaks of him at Rome; but I will hope
@@ -1197,7 +1201,15 @@ To such whose place is under us, requires
 Our quick remove from hence.
 
 ENOBARBUS
--1
+8
+CLEOPATRA
+CHARMIAN
+ALEXAS
+SOOTHSAYER
+IRAS
+ANTONY
+FIRST ATTENDANT
+SECOND ATTENDANT
 I shall do't.
 
 CLEOPATRA
@@ -1548,7 +1560,10 @@ Sit laurel victory, and smooth success
 Be strew'd before your feet!
 
 ANTONY
--1
+3
+IRAS
+CLEOPATRA
+CHARMIAN
 Let us go. Come.
 Our separation so abides and flies
 That thou, residing here, goes yet with me,
@@ -1709,7 +1724,9 @@ Of stirs abroad, I shall beseech you, sir,
 To let me be partaker.
 
 CAESAR
--1
+2
+MESSENGER
+LEPIDUS
 Doubt not, sir;
 I knew it for my bond.
 
@@ -1994,7 +2011,11 @@ By your most gracious pardon,
 I sing but after you.
 
 CLEOPATRA
--1
+4
+IRAS
+CHARMIAN
+MARDIAN
+ALEXAS
 My salad days,
 When I was green in judgment, cold in blood,
 To say as I said then. But come, away!
@@ -2115,7 +2136,10 @@ His brother warr'd upon him; although, I think,
 Not mov'd by Antony.
 
 POMPEY
--1
+3
+VARRIUS
+MENAS
+MENECRATES
 I know not, Menas,
 How lesser enmities may give way to greater.
 Were't not that we stand up against them all,
@@ -3170,7 +3194,13 @@ Good Enobarbus, make yourself my guest
 Whilst you abide here.
 
 ENOBARBUS
--1
+6
+CAESAR
+ANTONY
+VENTIDIUS
+AGRIPPA
+MAECENAS
+LEPIDUS
 Humbly, sir, I thank you.
 
 ANTONY
@@ -3279,7 +3309,9 @@ And though I make this marriage for my peace,
 I' th' East my pleasure lies.
 
 ANTONY
--1
+2
+SOOTHSAYER
+VENTIDIUS
 Get thee gone.
 Say to Ventidius I would speak with him.
 He shall to Parthia.- Be it art or hap,
@@ -3340,7 +3372,10 @@ LEPIDUS
 Sir, good success!
 
 LEPIDUS
--1
+3
+BOTH
+MAECENAS
+AGRIPPA
 Farewell.
 
 CLEOPATRA
@@ -3945,7 +3980,12 @@ IRAS
 Many times, madam.
 
 CLEOPATRA
--1
+5
+ALL
+MARDIAN
+ALEXAS
+IRAS
+CHARMIAN
 I am paid for't now. Lead me from hence,
 I faint. O Iras, Charmian! 'Tis no matter.
 Go to the fellow, good Alexas; bid him
@@ -4641,7 +4681,8 @@ MENAS
 I shall take it, sir. We have us'd our throats in Egypt.
 
 MENAS
--1
+1
+ENOBARBUS
 Come, let's away.
 
 FIRST SERVANT
@@ -5664,7 +5705,17 @@ MENAS
 Hoo! says 'a. There's my cap.
 
 MENAS
--1
+10
+ANTONY
+FIRST SERVANT
+AGRIPPA
+SECOND SERVANT
+ENOBARBUS
+LEPIDUS
+POMPEY
+CAESAR
+CAPTAIN
+MAECENAS
 Hoo! Noble Captain, come.
 
 VENTIDIUS
@@ -6125,7 +6176,14 @@ ANTONY
 Farewell, farewell!                   [Kisses OCTAVIA]
 
 ANTONY
--1
+7
+VENTIDIUS
+AGRIPPA
+ENOBARBUS
+LEPIDUS
+OCTAVIA
+SILIUS
+CAESAR
 Farewell!                       Trumpets sound.
 
 CLEOPATRA
@@ -6450,7 +6508,10 @@ But 'tis no matter; thou shalt bring him to me
 Where I will write. All may be well enough.
 
 CHARMIAN
--1
+3
+IRAS
+CLEOPATRA
+ALEXAS
 I warrant you, madam.
 
 ANTONY
@@ -6505,7 +6566,8 @@ As if the world should cleave, and that slain men
 Should solder up the rift.
 
 ANTONY
--1
+1
+OCTAVIA
 When it appears to you where this begins,
 Turn your displeasure that way, for our faults
 Can never be so equal that your love
@@ -6581,7 +6643,8 @@ EROS
 But let it be. Bring me to Antony.
 
 EROS
--1
+1
+ENOBARBUS
 Come, sir.
 
 CAESAR
@@ -6845,7 +6908,10 @@ AGRIPPA
 Is it so, sir?
 
 CAESAR
--1
+3
+OCTAVIA
+MAECENAS
+AGRIPPA
 Most certain. Sister, welcome. Pray you
 Be ever known to patience. My dear'st sister!
 
@@ -7173,7 +7239,12 @@ ANTONY
 The Emperor calls Canidius.
 
 CANIDIUS
--1
+5
+SOLDIER
+MESSENGER
+CLEOPATRA
+ANTONY
+ENOBARBUS
 With news the time's with labour and throes forth
 Each minute some.
 
@@ -7187,14 +7258,16 @@ CAESAR
 My lord?
 
 CAESAR
--1
+1
+TAURUS
 Strike not by land; keep whole; provoke not battle
 Till we have done at sea. Do not exceed
 The prescript of this scroll. Our fortune lies
 Upon this jump.
 
 ANTONY
--1
+1
+ENOBARBUS
 Set we our squadrons on yon side o' th' hill,
 In eye of Caesar's battle; from which place
 We may the number of the ships behold,
@@ -7303,7 +7376,9 @@ My legions and my horse; six kings already
 Show me the way of yielding.
 
 ENOBARBUS
--1
+2
+CANIDIUS
+SCARUS
 I'll yet follow
 The wounded chance of Antony, though my reason
 Sits in the wind against me.
@@ -7578,7 +7653,12 @@ EROS
 Pardon, pardon!
 
 ANTONY
--1
+5
+ALL
+CHARMIAN
+IRAS
+CLEOPATRA
+EROS
 Fall not a tear, I say; one of them rates
 All that is won and lost. Give me a kiss;
 Even this repays me.
@@ -7704,7 +7784,11 @@ And what thou think'st his very action speaks
 In every power that moves.
 
 THYREUS
--1
+4
+ANTONY
+CAESAR
+AGRIPPA
+DOLABELLA
 Caesar, I shall.
 
 CLEOPATRA
@@ -8549,7 +8633,9 @@ Make boot of his distraction. Never anger
 Made good guard for itself.
 
 CAESAR
--1
+2
+MAECENAS
+AGRIPPA
 Let our best heads
 Know that to-morrow the last of many battles
 We mean to fight. Within our files there are
@@ -8730,7 +8816,13 @@ And I, an ass, am onion-ey'd. For shame!
 Transform us not to women.
 
 ANTONY
--1
+6
+CHARMIAN
+ALEXAS
+SERVANT
+IRAS
+CLEOPATRA
+ENOBARBUS
 Ho, ho, ho!
 Now the witch take me if I meant it thus!
 Grace grow where those drops fall! My hearty friends,
@@ -8924,7 +9016,11 @@ Follow the noise so far as we have quarter;
 Let's see how it will give off.
 
 SOLDIERS
--1
+4
+FOURTH SOLDIER
+FIRST SOLDIER
+SECOND SOLDIER
+THIRD SOLDIER
 Content. 'Tis strange.
 
 ANTONY
@@ -9079,7 +9175,14 @@ EROS
 Please you retire to your chamber?
 
 CLEOPATRA
--1
+7
+ALL
+CAPTAIN
+CHARMIAN
+SOLDIER
+IRAS
+ANTONY
+EROS
 Lead me.
 He goes forth gallantly. That he and Caesar might
 Determine this great war in single fight!
@@ -9155,7 +9258,9 @@ EROS
 Most certain.
 
 ANTONY
--1
+2
+SOLDIER
+EROS
 Go, Eros, send his treasure after; do it;
 Detain no jot, I charge thee. Write to him-
 I will subscribe- gentle adieus and greetings;
@@ -9258,7 +9363,7 @@ Some ditch wherein to die; the foul'st best fits
 My latter part of life.
 
 AGRIPPA
--1
+0
 Retire. We have engag'd ourselves too far.
 Caesar himself has work, and our oppression
 Exceeds what we expected.
@@ -9308,7 +9413,9 @@ And snatch 'em up, as we take hares, behind.
 'Tis sport to maul a runner.
 
 ANTONY
--1
+2
+SCARUS
+EROS
 I will reward thee
 Once for thy sprightly comfort, and tenfold
 For thy good valour. Come thee on.
@@ -9359,7 +9466,9 @@ I'll give thee, friend,
 An armour all of gold; it was a king's.
 
 ANTONY
--1
+2
+CLEOPATRA
+SCARUS
 He has deserv'd it, were it carbuncled
 Like holy Phoebus' car. Give me thy hand.
 Through Alexandria make a jolly march;
@@ -9518,7 +9627,10 @@ To th' court of guard; he is of note. Our hour
 Is fully out.
 
 SECOND WATCH
--1
+3
+FIRST WATCH
+CENTURION
+ENOBARBUS
 Come on, then;
 He may recover yet.
 
@@ -9534,7 +9646,8 @@ ANTONY
 For both, my lord.
 
 ANTONY
--1
+1
+SCARUS
 I would they'd fight i' th' fire or i' th' air;
 We'd fight there too. But this it is, our foot
 Upon the hills adjoining to the city
@@ -9544,7 +9657,7 @@ Where their appointment we may best discover
 And look on their endeavour.
 
 CAESAR
--1
+0
 But being charg'd, we will be still by land,
 Which, as I take't, we shall; for his best force
 Is forth to man his galleys. To the vales,
@@ -10705,7 +10818,12 @@ MAECENAS
 Dolabella!
 
 CAESAR
--1
+5
+ALL
+DERCETAS
+ANTONY
+AGRIPPA
+MAECENAS
 Let him alone, for I remember now
 How he's employ'd; he shall in time be ready.
 Go with me to my tent, where you shall see
@@ -12418,7 +12536,17 @@ Have slime upon them, such as th' aspic leaves
 Upon the caves of Nile.
 
 CAESAR
--1
+10
+MARDIAN
+PROCULEIUS
+CLEOPATRA
+CHARMIAN
+GALLUS
+DOLABELLA
+IRAS
+MAECENAS
+FIRST GUARD
+SECOND GUARD
 Most probable
 That so she died; for her physician tells me
 She hath pursu'd conclusions infinite

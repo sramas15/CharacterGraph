@@ -43,7 +43,10 @@ THIRD WITCH
 I come, Graymalkin.
 
 ALL
--1
+3
+FIRST WITCH
+SECOND WITCH
+THIRD WITCH
 Paddock calls. Anon!
 Fair is foul, and foul is fair.
 Hover through the fog and filthy air.
@@ -824,7 +827,14 @@ ROSS
 Very gladly.
 
 MACBETH
--1
+7
+ALL
+ANGUS
+THIRD WITCH
+BANQUO
+FIRST WITCH
+SECOND WITCH
+ROSS
 Till then, enough. Come, friends.
 
 DUNCAN
@@ -986,7 +996,13 @@ The eye wink at the hand; yet let that be
 Which the eye fears, when it is done, to see.
 
 DUNCAN
--1
+6
+LENNOX
+DONALBAIN
+BANQUO
+ANGUS
+MALCOLM
+ROSS
 True, worthy BANQUO! He is full so valiant,
 And in his commendations I am fed;
 It is a banquet to me. Let's after him,
@@ -1116,7 +1132,8 @@ LADY MACBETH
 We will speak further.
 
 LADY MACBETH
--1
+1
+MACBETH
 Only look up clear;
 To alter favor ever is to fear.
 Leave all the rest to me.
@@ -1219,7 +1236,15 @@ To make their audit at your Highness' pleasure,
 Still to return your own.
 
 DUNCAN
--1
+8
+LENNOX
+DONALBAIN
+ANGUS
+MALCOLM
+LADY MACBETH
+MACDUFF
+BANQUO
+ROSS
 Give me your hand;
 Conduct me to mine host. We love him highly,
 And shall continue our graces towards him.
@@ -3020,7 +3045,8 @@ MACBETH
 What's to be done?
 
 MACBETH
--1
+1
+LADY MACBETH
 Be innocent of the knowledge, dearest chuck,
 Till thou applaud the deed. Come, seeling night,
 Scarf up the tender eye of pitiful day,
@@ -3799,7 +3825,13 @@ ROSS
 You lack the season of all natures, sleep.
 
 MACBETH
--1
+6
+LORDS
+LENNOX
+FIRST MURTHERER
+MURTHERER
+LADY MACBETH
+ROSS
 Come, we'll to sleep. My strange and self-abuse
 Is the initiate fear that wants hard use.
 We are yet but young in deed.
@@ -4471,7 +4503,10 @@ MACBETH
 Ay, my good lord.
 
 MACBETH
--1
+3
+ALL
+LENNOX
+THIRD
 [Aside.] Time, thou anticipatest my dread exploits.
 The flighty purpose never is o'ertook
 Unless the deed go with it. From this moment
@@ -5324,7 +5359,9 @@ Within my sword's length set him; if he 'scape,
 Heaven forgive him too!
 
 MALCOLM
--1
+2
+MACDUFF
+ROSS
 This tune goes manly.
 Come, go we to the King; our power is ready,
 Our lack is nothing but our leave. MACBETH
@@ -5645,7 +5682,10 @@ And with him pour we, in our country's purge,
 Each drop of us.
 
 LENNOX
--1
+3
+CAITHNESS
+MENTEITH
+ANGUS
 Or so much as it needs
 To dew the sovereign flower and drown the weeds.
 Make we our march towards Birnam.
@@ -5808,7 +5848,9 @@ I will not be afraid of death and bane
 Till Birnam Forest come to Dunsinane.
 
 DOCTOR
--1
+2
+SEYTON
+MACBETH
 [Aside.] Were I from Dunsinane away and clear,
 Profit again should hardly draw me here.
 
@@ -6029,7 +6071,9 @@ Within this three mile may you see it coming;
 I say, a moving grove.
 
 MACBETH
--1
+2
+SEYTON
+MESSENGER
 If thou speak'st false,
 Upon the next tree shalt thou hang alive,
 Till famine cling thee; if thy speech be sooth,

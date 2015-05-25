@@ -2128,7 +2128,13 @@ OSWALD
 Nay then-
 
 ALBANY
--1
+6
+FOOL
+KENT
+GONERIL
+OSWALD
+KNIGHT
+LEAR
 Well, well; th' event.
 
 LEAR
@@ -5975,7 +5981,8 @@ REGAN
 Would I could meet him, madam! I should show
 
 REGAN
--1
+1
+OSWALD
 Fare thee well.
 
 GLOUCESTER
@@ -7117,7 +7124,8 @@ GLOUCESTER
 What, in ill thoughts again? Men must endure
 
 GLOUCESTER
--1
+1
+EDGAR
 And that's true too.
 
 EDMUND

@@ -579,7 +579,15 @@ GLOUCESTER
 This was a merry message.
 
 KING HENRY
--1
+8
+BEDFORD
+AMBASSADOR
+ELY
+CANTERBURY
+WARWICK
+WESTMORELAND
+GLOUCESTER
+EXETER
 We hope to make the sender blush at it.
 Therefore, my lords, omit no happy hour
 That may give furth'rance to our expedition;
@@ -1631,7 +1639,11 @@ NYM
 Let housewifery appear; keep close, I thee command.
 
 HOSTESS
--1
+4
+BARDOLPH
+BOY
+PISTOL
+NYM
 Farewell; adieu.
 
 FRENCH KING
@@ -1933,7 +1945,13 @@ Come here himself to question our delay;
 For he is footed in this land already.
 
 FRENCH KING
--1
+6
+LORDS
+BRITAINE
+MESSENGER
+CONSTABLE
+DAUPHIN
+EXETER
 You shall be soon dispatch'd with fair conditions.
 A night is but small breath and little pause
 To answer matters of this consequence.      Flourish.
@@ -2387,7 +2405,13 @@ PISTOL
 The town sounds a parley.
 
 FLUELLEN
--1
+6
+BARDOLPH
+NYM
+MACMORRIS
+PISTOL
+JAMY
+GOWER
 Captain Macmorris, when there is more better opportunity
 to be required, look you, I will be so bold as to tell you I know
 the disciplines of war; and there is an end.
@@ -2783,7 +2807,10 @@ FRENCH KING
 Not so, I do beseech your Majesty.
 
 FRENCH KING
--1
+3
+CONSTABLE
+BRITAINE
+DAUPHIN
 Be patient, for you shall remain with us.
 Now forth, Lord Constable and Princes all,
 And quickly bring us word of England's fall.
@@ -3146,7 +3173,10 @@ KING HENRY
 I hope they will not come upon us now.
 
 KING HENRY
--1
+3
+FLUELLEN
+GLOUCESTER
+GOWER
 We are in God's hand, brother, not in theirs.
 March to the bridge, it now draws toward night;
 Beyond the river we'll encamp ourselves,
@@ -3705,7 +3735,10 @@ eat, and none to fight. Now is it time to arm. Come, shall we
 about it?
 
 ORLEANS
--1
+3
+MESSENGER
+CONSTABLE
+RAMBURES
 It is now two o'clock; but let me see- by ten
 We shall have each a hundred Englishmen.
 
@@ -4771,7 +4804,14 @@ WILLIAMS
 My liege!
 
 KING HENRY
--1
+7
+BEDFORD
+BATES
+COURT
+FLUELLEN
+GOWER
+WILLIAMS
+GLOUCESTER
 My brother Gloucester's voice? Ay;
 I know thy errand, I will go with thee;
 The day, my friends, and all things, stay for me.
@@ -4921,7 +4961,12 @@ And give their fasting horses provender,
 And after fight with them?
 
 CONSTABLE
--1
+5
+ORLEANS
+MESSENGER
+DAUPHIN
+GRANDPRE
+RAMBURES
 I stay but for my guidon. To the field!
 I will the banner from a trumpet take,
 And use it for my haste. Come, come, away!
@@ -5265,7 +5310,14 @@ My lord, most humbly on my knee I beg
 The leading of the vaward.
 
 KING HENRY
--1
+7
+BEDFORD
+ERPINGHAM
+SALISBURY
+YORK
+WESTMORELAND
+GLOUCESTER
+EXETER
 Take it, brave York. Now, soldiers, march away;
 And how thou pleasest, God, dispose the day!
 
@@ -5581,7 +5633,11 @@ To smother up the English in our throngs,
 If any order might be thought upon.
 
 BOURBON
--1
+4
+ORLEANS
+CONSTABLE
+DAUPHIN
+RAMBURES
 The devil take order now! I'll to the throng.
 Let life be short, else shame will be too long.
 
@@ -5634,7 +5690,8 @@ And all my mother came into mine eyes
 And gave me up to tears.
 
 KING HENRY
--1
+1
+EXETER
 I blame you not;
 For, hearing this, I must perforce compound
 With mistful eyes, or they will issue too.          [Alarum]
@@ -6221,7 +6278,12 @@ GLOUCESTER
 I will fetch him.
 
 KING HENRY
--1
+5
+GLOUCESTER
+WARWICK
+MONTJOY
+GOWER
+EXETER
 My Lord of Warwick and my brother Gloucester,
 Follow Fluellen closely at the heels;
 The glove which I have given him for a favour
@@ -6645,7 +6707,14 @@ GLOUCESTER
 Yes, my conscience, he did us great good.
 
 KING HENRY
--1
+7
+HERALD
+WARWICK
+FLUELLEN
+EXETER
+GOWER
+WILLIAMS
+GLOUCESTER
 Do we all holy rites:
 Let there be sung 'Non nobis' and 'Te Deum';
 The dead with charity enclos'd in clay-

@@ -430,7 +430,10 @@ Gasping for life under great Bolingbroke;
 And more and less do flock to follow him.
 
 NORTHUMBERLAND
--1
+3
+TRAVERS
+LORD BARDOLPH
+MORTON
 I knew of this before; but, to speak truth,
 This present grief had wip'd it from my mind.
 Go in with me; and counsel every man
@@ -2655,7 +2658,9 @@ That it may grow and sprout as high as heaven,
 For recordation to my noble husband.
 
 NORTHUMBERLAND
--1
+2
+LADY NORTHUMBERLAND
+LADY PERCY
 Come, come, go in with me. 'Tis with my mind
 As with the tide swell'd up unto his height,
 That makes a still-stand, running neither way.
@@ -4581,7 +4586,18 @@ PAGE
  [ Within]  Bid Mistress Tearsheet come to my master.
 
 HOSTESS
--1
+11
+POINS
+PISTOL
+DOLL
+BARDOLPH
+THIRD DRAWER
+PAGE
+FALSTAFF
+SECOND DRAWER
+FRANCIS
+PETO
+PRINCE
 O, run Doll, run, run, good Come.  [To BARDOLPH]  She
 comes blubber'd.- Yea, will you come, Doll?
 
@@ -4714,7 +4730,8 @@ And these unseasoned hours perforce must ad
 Unto your sickness.
 
 KING
--1
+1
+WARWICK
 I will take your counsel.
 And, were these inward wars once out of hand,
 We would, dear lords, unto the Holy Land.
@@ -7150,7 +7167,11 @@ WESTMORELAND
 Will you thus break your faith?
 
 PRINCE JOHN
--1
+4
+MOWBRAY
+HASTINGS
+WESTMORELAND
+ARCHBISHOP
 I pawn'd thee none:
 I promis'd you redress of these same grievances
 Whereof you did complain; which, by mine honour,
@@ -7428,7 +7449,11 @@ PRINCE JOHN
 The army is discharged all and gone.
 
 FALSTAFF
--1
+4
+BARDOLPH
+COLVILLE
+WESTMORELAND
+PRINCE JOHN
 Let them go. I'll through Gloucestershire, and there will
 I visit Master Robert Shallow, Esquire. I have him already
 temp'ring between my finger and my thumb, and shortly will I seal
@@ -7778,7 +7803,12 @@ HARCOURT
 This apoplexy will certain be his end.
 
 KING
--1
+5
+PRINCE HUMPHREY
+CLARENCE
+WARWICK
+HARCOURT
+WESTMORELAND
 I pray you take me up, and bear me hence
 Into some other chamber. Softly, pray.
 
@@ -8271,7 +8301,12 @@ PRINCE
 'Tis call'd Jerusalem, my noble lord.
 
 KING
--1
+5
+PRINCE HUMPHREY
+CLARENCE
+WARWICK
+PRINCE JOHN
+PRINCE
 Laud be to God! Even there my life must end.
 It hath been prophesied to me many years,
 I should not die but in Jerusalem;
@@ -8784,7 +8819,14 @@ What I have done that misbecame my place,
 My person, or my liege's sovereignty.
 
 PRINCE
--1
+7
+CHIEF JUSTICE
+PRINCE HUMPHREY
+CLARENCE
+PRINCE JOHN
+WESTMORELAND
+WARWICK
+BROTHERS
 You are right, Justice, and you weigh this well;
 Therefore still bear the balance and the sword;
 And I do wish your honours may increase
@@ -9425,7 +9467,12 @@ boots; we'll ride all night. O sweet Pistol! Away, Bardolph!
 [
 
 PISTOL
--1
+5
+FALSTAFF
+SHALLOW
+DAVY
+PAGE
+SILENCE
 Let vultures vile seize on his lungs also!
 'Where is the life that late I led?' say they.
 Why, here it is; welcome these pleasant days!
@@ -9523,7 +9570,9 @@ HOSTESS
 Come, you thin thing! come, you rascal!
 
 FIRST BEADLE
--1
+2
+HOSTESS
+DOLL
 Very well.
 
 FIRST GROOM
@@ -9539,7 +9588,9 @@ THIRD GROOM
 The trumpets have sounded twice.
 
 THIRD GROOM
--1
+2
+FIRST GROOM
+SECOND GROOM
 'Twill be two o'clock ere they come from the
 coronation. Dispatch, dispatch.
 
@@ -9917,7 +9968,13 @@ PRINCE
 He hath.
 
 PRINCE JOHN
--1
+6
+CHIEF JUSTICE
+SHALLOW
+FALSTAFF
+BARDOLPH
+PISTOL
+PRINCE
 I will lay odds that, ere this year expire,
 We bear our civil swords and native fire
 As far as France. I heard a bird so sing,

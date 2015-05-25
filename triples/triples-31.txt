@@ -272,7 +272,9 @@ PANDARUS
 In all swift haste.
 
 TROILUS
--1
+2
+PANDARUS
+AENEAS
 Come, go we then together.
 
 CRESSIDA
@@ -2012,7 +2014,12 @@ Our project's life this shape of sense assumes-
 Ajax employ'd plucks down Achilles' plumes.
 
 NESTOR
--1
+5
+DIOMEDES
+AENEAS
+AGAMEMNON
+ULYSSES
+MENELAUS
 Now, Ulysses, I begin to relish thy advice;
 And I will give a taste thereof forthwith
 To Agamemnon. Go we to him straight.
@@ -2526,7 +2533,9 @@ I know not; 'tis put to lott'ry. Otherwise. He knew his
 man.
 
 AJAX
--1
+2
+ACHILLES
+PATROCLUS
 O, meaning you! I will go learn more of it.
 
 PRIAM
@@ -2916,7 +2925,11 @@ As smiles upon the forehead of this action
 For the wide world's revenue.
 
 HECTOR
--1
+4
+PARIS
+PRIAM
+HELENUS
+TROILUS
 I am yours,
 You valiant offspring of great Priamus.
 I have a roisting challenge sent amongst
@@ -3887,7 +3900,12 @@ And here's a lord-come knights from east to west
 And cull their flower, Ajax shall cope the best.
 
 AGAMEMNON
--1
+5
+AJAX
+ULYSSES
+NESTOR
+DIOMEDES
+CALCHAS
 Go we to council. Let Achilles sleep.
 Light boats sail swift, though greater hulks draw deep.
 
@@ -4464,7 +4482,10 @@ Gives us more palm in beauty than we have,
 Yea, overshines ourself.
 
 PARIS
--1
+3
+SERVANT
+PANDARUS
+HELEN
 Sweet, above thought I love thee.
 
 PANDARUS
@@ -4962,7 +4983,10 @@ TROILUS
 Amen.
 
 PANDARUS
--1
+3
+BOY
+CRESSIDA
+TROILUS
 Amen. Whereupon I will show you a chamber
 and a bed; which bed, because it shall not speak of your
 pretty encounters, press it to death. Away!
@@ -6143,7 +6167,9 @@ She hath not given so many good words breath
 As for her Greeks and Troyans suff'red death.
 
 PARIS
--1
+2
+DEIPHOBUS
+DIOMEDES
 Fair Diomed, you do as chapmen do,
 Dispraise the thing that you desire to buy;
 But we in silence hold this virtue well:
@@ -6512,7 +6538,10 @@ CRESSIDA
 Do, do.
 
 CRESSIDA
--1
+3
+TROILUS
+PANDARUS
+AENEAS
 Tear my bright hair, and scratch my praised cheeks,
 Crack my clear voice with sobs and break my heart,
 With sounding 'Troilus.' I will not go from Troy.
@@ -6542,7 +6571,10 @@ Think it an altar, and thy brother Troilus
 A priest, there off'ring to it his own heart.
 
 PARIS
--1
+3
+DEIPHOBUS
+DIOMEDES
+AENEAS
 I know what 'tis to love,
 And would, as I shall pity, I could help!
 Please you walk in, my lords.
@@ -6953,7 +6985,12 @@ CRESSIDA
 Let us make ready straight.
 
 AENEAS
--1
+5
+PARIS
+DIOMEDES
+DEIPHOBUS
+TROILUS
+CRESSIDA
 Yea, with a bridegroom's fresh alacrity
 Let us address to tend on Hector's heels.
 The glory of our Troy doth this day lie
@@ -8933,7 +8970,21 @@ This Cressida in Troy? Had she no lover there
 That wails her absence?
 
 TROILUS
--1
+14
+ALL
+AENEAS
+AGAMEMNON
+ULYSSES
+PATROCLUS
+PARIS
+DIOMEDES
+HECTOR
+AJAX
+MENELAUS
+ACHILLES
+NESTOR
+HELENUS
+CRESSIDA
 O, sir, to such as boasting show their scars
 A mock is due. Will you walk on, my lord?
 She was belov'd, she lov'd; she is, and doth;
@@ -10870,7 +10921,11 @@ unless a man were curs'd I cannot tell what to think on't. What
 says she there?
 
 TROILUS
--1
+4
+ANDROMACHE
+HECTOR
+PANDARUS
+PRIAM
 Words, words, mere words, no matter from the heart;
 Th' effect doth operate another way.
 Go, wind, to wind, there turn and change together.
@@ -11039,7 +11094,10 @@ ULYSSES
 So, so, we draw together.
 
 ACHILLES
--1
+3
+DIOMEDES
+AGAMEMNON
+ULYSSES
 Where is this Hector?
 Come, come, thou boy-queller, show thy face;
 Know what it is to meet Achilles angry.
@@ -11156,7 +11214,9 @@ Or bring him off. Fate, hear me what I say:
 I reck not though thou end my life to-day.
 
 HECTOR
--1
+2
+AJAX
+DIOMEDES
 Stand, stand, thou Greek; thou art a goodly mark.
 No? wilt thou not? I like thy armour well;
 I'll frush it and unlock the rivets all
@@ -11164,7 +11224,7 @@ But I'll be master of it. Wilt thou not, beast, abide?
 Why then, fly on; I'll hunt thee for thy hide.
 
 ACHILLES
--1
+0
 Come here about me, you my Myrmidons;
 Mark what I say. Attend me where I wheel;
 Strike not a stroke, but keep yourselves in breath;
@@ -11258,7 +11318,9 @@ ACHILLES
 The Troyan trumpets sound the like, my lord.
 
 ACHILLES
--1
+2
+HECTOR
+MYRMIDON
 The dragon wing of night o'erspreads the earth
 And, stickler-like, the armies separates.
 My half-supp'd sword, that frankly would have fed,
@@ -11313,7 +11375,12 @@ If it be so, yet bragless let it be;
 Great Hector was as good a man as he.
 
 AGAMEMNON
--1
+5
+DIOMEDES
+SOLDIERS
+MENELAUS
+NESTOR
+AJAX
 March patiently along. Let one be sent
 To pray Achilles see us at our tent.
 If in his death the gods have us befriended;

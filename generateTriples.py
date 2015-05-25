@@ -27,20 +27,15 @@ def newCharacterSpeaking(line):
 # Re-enter WHITMORE with SUFFOLK'S body
 def checkEntryLine(line, currCharList):
 	enteringChars = []
-	ind = line.lower().find('enter ')
-	if ind != -1:
-		match = re.findall(r'([A-Z][A-Z]+(?: [A-Z][A-Z]+)*)', line[ind+6:])
+	ind = re.search('enter[ s]', line.lower())
+	if ind:
+		# if playNum == 28:
+		# 	print line
+		match = re.findall(r'([A-Z][A-Z]+(?: [A-Z][A-Z]+)*)', line[ind.start()+6:])		
 		for group in match:
 			if group in charNames:
 				currCharList.add(group)
 				enteringChars.append(group)
-			# else:
-			# 	words = group.split()
-			# 	if len(words) > 1: # Deals with different forms of names
-			# 		for word in words:
-			# 			if word in charNames:
-			# 				currCharList.add(word)
-			# 				enteringChars.append(word)
 	return enteringChars
 
 # Checks if a line contains characters leaving the scene, 
@@ -58,7 +53,7 @@ def checkExit(line, currSpeaker, currCharList):
 			return line, set([currSpeaker])
 	match = re.search(r'\[?(?:(?:Exeunt\.?)|(?:Exeunt (?:[a-z ]*)\.?))\]?$', line)
 	if match:
-		oldCharList = currCharList
+		oldCharList = currCharList.copy()
 		currCharList.clear()
 		line = line[:match.start()].rstrip()+'\n'
 		return line, oldCharList
@@ -84,7 +79,6 @@ def checkExit(line, currSpeaker, currCharList):
 			else:
 				currCharList.difference_update(to_remove)
 				return line[:ind].rstrip()+'\n', to_remove
-			# return line[:ind].rstrip()+'\n'
 	return None, None
 
 # Checks if a line is speech continuation
@@ -97,6 +91,8 @@ def writeToFile(currSpeaker, currCharList, currSpeech, outFile):
 	with open(outFile, 'a') as f:
 		f.write(currSpeaker + '\n')
 		f.write(str(len(currCharList)-1) + '\n')
+		# if len(currCharList) == 0:
+		# 	print playNum, currSpeech, '\n\n'
 		for char in currCharList:
 			if char != currSpeaker:
 				f.write(char + '\n')
@@ -168,6 +164,8 @@ for playNum in range(NUM_PLAYS):
 						if enteringChars:
 							if needToWriteTriple:
 								beforeChars = currCharList.difference(enteringChars)
+								if playNum == 28:
+									print line, enteringChars, beforeChars, currCharList, '\n\n'
 								writeToFile(currSpeaker, beforeChars, currSpeech, outFile)
 								needToWriteTriple = False
 	f.close()

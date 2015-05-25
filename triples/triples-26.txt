@@ -1268,7 +1268,20 @@ Where I may read who pass'd that passing fair?
 Farewell. Thou canst not teach me to forget.
 
 BENVOLIO
--1
+13
+PRINCE
+SAMPSON
+TYBALT
+ABRAM
+CITIZENS
+LADY CAPULET
+ROMEO
+MONTAGUE
+BALTHASAR
+GREGORY
+CAPULET
+LADY MONTAGUE
+OFFICER
 I'll pay that doctrine, or else die in debt.
 
 CAPULET
@@ -1544,7 +1557,10 @@ That I will show you shining at this feast,
 And she shall scant show well that now seems best.
 
 ROMEO
--1
+3
+PARIS
+BENVOLIO
+CAPULET
 I'll go along, no such sight to be shown,
 But to rejoice in splendour of my own.
 
@@ -2098,7 +2114,9 @@ You are look'd for and call'd for, ask'd for and sought
 for, in the great chamber.
 
 THIRD SERVANT
--1
+2
+FIRST SERVANT
+SECOND SERVANT
 We cannot be here and there too. Cheerly, boys!
 Be brisk awhile, and the longer liver take all.
 
@@ -2580,7 +2598,13 @@ A rhyme I learnt even now
 Of one I danc'd withal.
 
 NURSE
--1
+6
+CAPULET
+ROMEO
+SERVINGMAN
+OTHER CAPULET
+BENVOLIO
+JULIET
 Anon, anon!
 Come, let's away; the strangers all are gone.
 

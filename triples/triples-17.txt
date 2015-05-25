@@ -3029,7 +3029,14 @@ BEROWNE
 Ay, our way to be gone.
 
 BOYET
--1
+7
+FIRST LORD
+KING
+PRINCESS OF FRANCE
+ROSALINE
+KATHARINE
+BEROWNE
+MARIA
 You are too hard for me.
 
 ARMADO
@@ -4647,7 +4654,11 @@ And thank you too; for society, saith the text, is the
 happiness of life.
 
 HOLOFERNES
--1
+4
+JAQUENETTA
+COSTARD
+DULL
+NATHANIEL
 And certes, the text most infallibly concludes it.
 [To DULL] Sir, I do invite you too; you shall not say me nay:
 pauca verba. Away; the gentles are at their game, and we will to
@@ -5671,7 +5682,12 @@ Away, away! No time shall be omitted
 That will betime, and may by us be fitted.
 
 BEROWNE
--1
+5
+KING
+COSTARD
+DUMAIN
+JAQUENETTA
+LONGAVILLE
 Allons! allons! Sow'd cockle reap'd no corn,
 And justice always whirls in equal measure.
 Light wenches may prove plagues to men forsworn;
@@ -12227,7 +12243,21 @@ This side is Hiems, Winter; this Ver, the Spring- the one
 maintained by the Owl, th' other by the Cuckoo. Ver, begin.
 
 ARMADO
--1
+14
+KING
+MARCADE
+MOTH
+PRINCESS OF FRANCE
+DUMAIN
+KATHARINE
+ROSALINE
+LONGAVILLE
+COSTARD
+BOYET
+BEROWNE
+HOLOFERNES
+NATHANIEL
+MARIA
 The words of Mercury are harsh after the songs of Apollo.
 You that way: we this way.
 

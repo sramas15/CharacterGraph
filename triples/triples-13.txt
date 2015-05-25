@@ -625,7 +625,13 @@ SECRETARY
 He.
 
 BUCKINGHAM
--1
+6
+WOLSEY
+NORFOLK
+SERGEANT
+BRANDON
+ABERGAVENNY
+SECRETARY
 My surveyor is false. The o'er-great Cardinal
 Hath show'd him gold; my life is spann'd already.
 I am the shadow of poor Buckingham,
@@ -1256,7 +1262,13 @@ His father by as much as a performance
 Does an irresolute purpose.
 
 KING
--1
+6
+NORFOLK
+SURVEYOR
+QUEEN KATHARINE
+WOLSEY
+LOVELL
+SUFFOLK
 There's his period,
 To sheath his knife in us. He is attach'd;
 Call him to present trial. If he may
@@ -1455,7 +1467,9 @@ For I was spoke to, with Sir Henry Guildford,
 This night to be comptrollers.
 
 SANDYS
--1
+2
+CHAMBERLAIN
+LOVELL
 I am your lordship's.
 
 GUILDFORD
@@ -2467,7 +2481,12 @@ That she should feel the smart of this? The Cardinal
 Will have his will, and she must fall.
 
 FIRST GENTLEMAN
--1
+5
+BUCKINGHAM
+SANDYS
+VAUX
+SECOND GENTLEMAN
+LOVELL
 'Tis woeful.
 We are too open here to argue this;
 Let's think in private more.
@@ -2939,7 +2958,13 @@ I will have none so near else. Learn this, brother,
 We live not to be grip'd by meaner persons.
 
 KING
--1
+6
+NORFOLK
+WOLSEY
+CAMPEIUS
+GARDINER
+CHAMBERLAIN
+SUFFOLK
 Deliver this with modesty to th' Queen.
 The most convenient place that I can think of
 For such receipt of learning is Blackfriars;
@@ -3204,7 +3229,8 @@ In our long absence. Pray, do not deliver
 What here y' have heard to her.
 
 OLD LADY
--1
+1
+ANNE
 What do you think me?
 
 WOLSEY
@@ -4409,7 +4435,15 @@ To trust us in your business, we are ready
 To use our utmost studies in your service.
 
 QUEEN KATHARINE
--1
+8
+WOLSEY
+LINCOLN
+KING
+CAMPEIUS
+CRANMER
+GENTLEMAN USHER
+SCRIBE
+SERGEANT
 Do what ye will my lords; and pray
 If I have us'd myself unmannerly;
 You know I am a woman, lacking wit
@@ -5846,7 +5880,14 @@ CHAMBERLAIN
 Good sir, have patience.
 
 WOLSEY
--1
+7
+SURREY
+NORFOLK
+KING
+LOVELL
+SUFFOLK
+CROMWELL
+CHAMBERLAIN
 So I have. Farewell
 The hopes of court! My hopes in heaven do dwell.
 
@@ -6190,7 +6231,10 @@ Something I can command. As I walk thither,
 I'll tell ye more.
 
 BOTH
--1
+3
+SECOND GENTLEMAN
+FIRST GENTLEMAN
+THIRD GENTLEMAN
 You may command us, sir.
 
 GRIFFITH
@@ -7050,7 +7094,10 @@ OLD LADY
 Give her an hundred marks. I'll to the Queen.
 
 OLD LADY
--1
+3
+GARDINER
+CRANMER
+LOVELL
 An hundred marks? By this light, I'll ha' more!
 An ordinary groom is for such payment.
 I will have more, or scold it out of him.
@@ -7148,7 +7195,10 @@ Who holds his state at door, 'mongst pursuivants,
 Pages, and footboys.
 
 KING
--1
+3
+KEEPER
+CRANMER
+BUTTS
 Ha, 'tis he indeed.
 Is this the honour they do one another?
 'Tis well there's one above 'em yet. I had thought
@@ -7955,7 +8005,17 @@ And let heaven
 Witness how dear I hold this confirmation.
 
 KING
--1
+10
+SURREY
+ALL
+NORFOLK
+CHANCELLOR
+GARDINER
+SUFFOLK
+CRANMER
+KEEPER
+CROMWELL
+CHAMBERLAIN
 Good man, those joyful tears show thy true heart.
 The common voice, I see, is verified
 Of thee, which says thus: 'Do my Lord of Canterbury
@@ -8126,7 +8186,9 @@ You great fellow,
 Stand close up, or I'll make your head ache.
 
 PORTER
--1
+2
+CHAMBERLAIN
+MAN
 You i' th' camlet, get up o' th' rail;
 I'll peck you o'er the pales else.
 
@@ -8268,7 +8330,11 @@ A most unspotted lily shall she pass
 To th' ground, and all the world shall mourn her.
 
 KING
--1
+4
+GARTER
+NORFOLK
+CRANMER
+SUFFOLK
 O Lord Archbishop,
 Thou hast made me now a man; never before
 This happy child did I get anything.

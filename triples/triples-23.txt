@@ -388,7 +388,8 @@ I think I can discover him, if you please
 To get good guard and go along with me.
 
 BRABANTIO
--1
+1
+RODERIGO
 Pray you, lead on. At every house I'll call;
 I may command at most. Get weapons, ho!
 And raise some special officers of night.
@@ -677,7 +678,12 @@ The Duke's in council, and your noble self,
 I am sure, is sent for.
 
 BRABANTIO
--1
+5
+IAGO
+RODERIGO
+CASSIO
+OTHELLO
+FIRST OFFICER
                How? The Duke in council?
 In this time of the night? Bring him away;
 Mine's not an idle cause. The Duke himself,
@@ -3338,7 +3344,7 @@ Even to madness. 'Tis here, but yet confused:
 Knavery's plain face is never seen till used.
 
 HERALD
--1
+0
 It is Othello's pleasure, our noble and valiant general,
 that upon certain tidings now arrived, importing the mere
 perdition of the Turkish fleet, every man put himself into
@@ -4739,7 +4745,9 @@ GENTLEMEN
 This fortification, gentlemen, shall we see't?
 
 GENTLEMEN
--1
+2
+IAGO
+OTHELLO
 We'll wait upon your lordship.
 
 DESDEMONA
@@ -6172,7 +6180,9 @@ To furnish me with some swift means of death
 For the fair devil. Now art thou my lieutenant.
 
 IAGO
--1
+2
+DESDEMONA
+OTHELLO
 I am your own forever.
 
 DESDEMONA
@@ -6851,7 +6861,10 @@ DESDEMONA
 For I attend here, but I'll see you soon.
 
 BIANCA
--1
+3
+EMILIA
+DESDEMONA
+CASSIO
 'Tis very good; I must be circumstanced.
 
 IAGO
@@ -7857,7 +7870,9 @@ That I may save my speech. Do but go after,
 And mark how he continues.
 
 LODOVICO
--1
+2
+IAGO
+DESDEMONA
 I am sorry that I am deceived in him.
 
 OTHELLO
@@ -8612,7 +8627,10 @@ DESDEMONA
 I will hear further reason for this.
 
 IAGO
--1
+3
+EMILIA
+DESDEMONA
+RODERIGO
 And you shall be satisfied.
 
 LODOVICO
@@ -8960,7 +8978,10 @@ Then let them use us well; else let them know,
 The ills we do, their ills instruct us so.
 
 DESDEMONA
--1
+3
+LODOVICO
+OTHELLO
+EMILIA
 Good night, good night. Heaven me such uses send,
 Not to pick bad from bad, but by bad mend!
 
@@ -9641,7 +9662,13 @@ CASSIO
                      As I! foh! fie upon thee!
 
 IAGO
--1
+6
+BIANCA
+RODERIGO
+CASSIO
+LODOVICO
+EMILIA
+GRATIANO
 Kind gentlemen, let's go see poor Cassio dress'd.
 Come, mistress, you must tell's another tale.
 Emilia, run you to the citadel,
@@ -11116,7 +11143,12 @@ This did I fear, but thought he had no weapon;
 For he was great of heart.
 
 LODOVICO
--1
+5
+IAGO
+CASSIO
+OTHELLO
+MONTANO
+GRATIANO
         [To Iago.] O Spartan dog,
 More fell than anguish, hunger, or the sea!
 Look on the tragic loading of this bed;
