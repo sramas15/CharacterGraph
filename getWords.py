@@ -50,8 +50,6 @@ def getAllWords(inPtrn="triples/triples-%d.txt", num_files=36, outFNm="lexicon.p
 	allWords = set()
 	total = 0
 	for i in range(num_files):
-		if i == 3:
-			continue
 		inFNm = inPtrn % i
 		words, cnt = getWords(inFNm)
 		allWords.update(words)
