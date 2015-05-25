@@ -15,6 +15,7 @@ def getWordsFromLine(line, words):
 	cnt = 0
 	for word in cand_words:
 		word = word.strip("'") # if it is in quotes, strip quotes
+		word = word.strip("-") # if it is in quotes, strip quotes
 		if word == "":
 			continue
 		cnt += 1
