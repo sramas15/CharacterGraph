@@ -20,7 +20,7 @@ def liwcFeaturize(dictionary, text):
 			match = re.match(pattern, word)
 			if match:
 				count += 1.
-		features[scale] = count / len(words)
+		features[scale] = count
 	return features, len(words)
 
 # This function parse the triple-*.txt files and convert the
@@ -45,9 +45,9 @@ def readTriples(filename):
 				line = f.readline().strip()
 				if line == "":
 					break
-				speech += line
+				speech += " " + line
 			for pair in pairs:
-				speeches.append((pair, speech))
+				speeches.append((pair, speech.strip()))
 	return speeches
 
 # This function featurizes the speeches between characters
@@ -64,7 +64,7 @@ def featurizeSpeeches(dictionary, speeches):
 # This function merges two entries with the same speaker and listener
 # into one entry (in the form of triples)
 def makeCSVRow(characters, length, features):
-	row = [characters]
+	row = [characters, length]
 	for scale in features:
 		row.append(features[scale])
 	return row
@@ -75,11 +75,11 @@ def makeCSVRow(characters, length, features):
 # as an entry.
 def writeLIWCFeatures(indFilename, mergedFilename, features, dictionary):
 	outputInd = open(indFilename, 'wb')
-	indWriter = csv.writer(outputInd, delimiter=',', quoting=csv.QUOTE_NONNUMERIC)
+	indWriter = csv.writer(outputInd, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 	outputMerged = open(mergedFilename, 'wb')
-	mergedWriter = csv.writer(outputMerged, delimiter=',', quoting=csv.QUOTE_NONNUMERIC)
+	mergedWriter = csv.writer(outputMerged, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 	# write the headers
-	headers = ['speaker_listener']
+	headers = ['speaker_listener', 'Length']
 	for scale in dictionary:
 		headers.append(scale)
 	indWriter.writerow(headers)
@@ -118,31 +118,31 @@ if __name__ == "__main__":
 	for i in xrange(36):
 		speeches = readTriples('triples/triples-' + str(i) + '.txt')
 		features = featurizeSpeeches(dictionary, speeches)
-		writeLIWCFeatures('Triples-LIWC/' + str(i) + '-individual-len.csv', 'Triples-LIWC/' + str(i) + '-merged-len.csv', features, dictionary)
+		writeLIWCFeatures('Triples-LIWC/' + str(i) + '-individual.csv', 'Triples-LIWC/' + str(i) + '-merged.csv', features, dictionary)
 
 	# combine files for each play into an aggregate
-	indComb = open('Triples-LIWC/individual-combine-len.csv', 'wb')
-	indWriter = csv.writer(indComb, delimiter=',', quoting=csv.QUOTE_NONNUMERIC)
-	mergedComb = open('Triples-LIWC/merged-combinelen.csv', 'wb')
-	mergedWriter = csv.writer(mergedComb, delimiter=',', quoting=csv.QUOTE_NONNUMERIC)
+	indComb = open('Triples-LIWC/individual-combine.csv', 'wb')
+	indWriter = csv.writer(indComb, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+	mergedComb = open('Triples-LIWC/merged-combine.csv', 'wb')
+	mergedWriter = csv.writer(mergedComb, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 
 	# write the headers
-	headers = ['speaker_listener']
+	headers = ['speaker_listener', 'Length']
 	for scale in dictionary:
 		headers.append(scale)
 	indWriter.writerow(headers)
 	mergedWriter.writerow(headers)
 
 	for i in xrange(36):
-		with open('Triples-LIWC/' + str(i) + '-individual-len.csv', 'r') as indFile:
+		with open('Triples-LIWC/' + str(i) + '-individual.csv', 'r') as indFile:
 			indFile.readline()
 			lines = indFile.readlines()
 			for line in lines:
 				indComb.write(line)
-		with open('Triples-LIWC/' + str(i) + '-merged-len.csv', 'r') as mergedFile:
+		with open('Triples-LIWC/' + str(i) + '-merged.csv', 'r') as mergedFile:
 			mergedFile.readline()
 			lines = mergedFile.readlines()
 			for line in lines:
 				mergedComb.write(line)
 
-				# ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+# ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
