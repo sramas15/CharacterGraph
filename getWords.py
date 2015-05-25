@@ -20,7 +20,10 @@ def getWordsFromLine(line, words):
 		if word == "":
 			continue
 		cnt += 1
-		words.add(word.lower())
+		if isinstance(words, set):
+			words.add(word.lower())
+		else:
+			words.append(word.lower())
 	return cnt
 
 def getWords(inFNm):
