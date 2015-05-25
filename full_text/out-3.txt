@@ -51,8 +51,7 @@ ACT I. SCENE 1
 
   A hall in the DUKE'S palace
 
-  Enter the DUKE OF EPHESUS, AEGEON, the Merchant
-  of Syracuse, GAOLER, OFFICERS, and other ATTENDANTS
+  Enter the DUKE OF EPHESUS, AEGEON, GAOLER, OFFICERS, and other attendants
 
   AEGEON. Proceed, Solinus, to procure my fall,
     And by the doom of death end woes and all.
@@ -211,8 +210,7 @@ ACT I. SCENE 1
     Gaoler, take him to thy custody.
   GAOLER. I will, my lord.
   AEGEON. Hopeless and helpless doth Aegeon wend,
-    But to procrastinate his lifeless end.
-  <Exeunt
+    But to procrastinate his lifeless end.   Exeunt
 
 
 SCENE 2.
@@ -238,8 +236,7 @@ SCENE 2.
     For with long travel I am stiff and weary.
     Get thee away.
   DROMIO OF SYRACUSE. Many a man would take you at your word,
-    And go indeed, having so good a mean.
-  <Exit
+    And go indeed, having so good a mean.   Exit
   ANTIPHOLUS OF SYRACUSE. A trusty villain, sir, that very oft,
     When I am dull with care and melancholy,
     Lightens my humour with his merry jests.
@@ -253,8 +250,7 @@ SCENE 2.
     My present business calls me from you now.
   ANTIPHOLUS OF SYRACUSE. Farewell till then. I will go lose myself,
     And wander up and down to view the city.
-  FIRST MERCHANT. Sir, I commend you to your own content.
-  <Exit FIRST MERCHANT
+  FIRST MERCHANT. Sir, I commend you to your own content.   Exit FIRST MERCHANT
   ANTIPHOLUS OF SYRACUSE. He that commends me to mine own content
     Commends me to the thing I cannot get.
     I to the world am like a drop of water
@@ -320,8 +316,7 @@ SCENE 2.
     Being forbid? There, take you that, sir knave.
   [Beats him]
   DROMIO OF EPHESUS. What mean you, sir? For God's sake hold your hands!
-    Nay, an you will not, sir, I'll take my heels.
-  <Exit
+    Nay, an you will not, sir, I'll take my heels.   Exit
   ANTIPHOLUS OF SYRACUSE. Upon my life, by some device or other
     The villain is o'erraught of all my money.
     They say this town is full of cozenage;
@@ -332,8 +327,7 @@ SCENE 2.
     And many such-like liberties of sin;
     If it prove so, I will be gone the sooner.
     I'll to the Centaur to go seek this slave.
-    I greatly fear my money is not safe.
-  <Exit
+    I greatly fear my money is not safe.   Exit
 
 
   END_ACT
@@ -346,7 +340,7 @@ ACT II. SCENE 1
 
   The house of ANTIPHOLUS OF EPHESUS
 
-  Enter ADRIANA, wife to ANTIPHOLUS OF EPHESUS, with LUCIANA, her sister
+  Enter ADRIANA, with LUCIANA, her sister
 
   ADRIANA. Neither my husband nor the slave return'd
     That in such haste I sent to seek his master!
@@ -435,8 +429,7 @@ ACT II. SCENE 1
   DROMIO OF EPHESUS. Am I so round with you, as you with me,
     That like a football you do spurn me thus?
     You spurn me hence, and he will spurn me hither;
-    If I last in this service, you must case me in leather.
-  <Exit
+    If I last in this service, you must case me in leather.  Exit
   LUCIANA. Fie, how impatience loureth in your face!
   ADRIANA. His company must do his minions grace,
     Whilst I at home starve for a merry look.
@@ -467,8 +460,7 @@ ACT II. SCENE 1
     By falsehood and corruption doth it shame.
     Since that my beauty cannot please his eye,
     I'll weep what's left away, and weeping die.
-  LUCIANA. How many fond fools serve mad jealousy!
-  <Exeunt
+  LUCIANA. How many fond fools serve mad jealousy!  Exeunt
 
 
 SCENE 2
@@ -702,8 +694,7 @@ SCENE 2
     And in this mist at all adventures go.
   DROMIO OF SYRACUSE. Master, shall I be porter at the gate?
   ADRIANA. Ay; and let none enter, lest I break your pate.
-  LUCIANA. Come, come, Antipholus, we dine too late.
-  <Exeunt
+  LUCIANA. Come, come, Antipholus, we dine too late.  Exeunt
 
 
   END_ACT
@@ -868,8 +859,7 @@ ACT III. SCENE 1
     Since mine own doors refuse to entertain me,
     I'll knock elsewhere, to see if they'll disdain me.
   ANGELO. I'll meet you at that place some hour hence.
-  ANTIPHOLUS OF EPHESUS. Do so; this jest shall cost me some expense.
-  <Exeunt
+  ANTIPHOLUS OF EPHESUS. Do so; this jest shall cost me some expense.  Exeunt
 
 
 SCENE 2
@@ -950,8 +940,7 @@ SCENE 2
     Thou hast no husband yet, nor I no wife.
     Give me thy hand.
   LUCIANA. O, soft, sir, hold you still;
-    I'll fetch my sister to get her good will.
-  <Exit LUCIANA
+    I'll fetch my sister to get her good will.   Exit LUCIANA
 
   Enter DROMIO OF SYRACUSE.
 
@@ -1038,8 +1027,7 @@ SCENE 2
     If every one knows us, and we know none,
     'Tis time, I think, to trudge, pack and be gone.
   DROMIO OF SYRACUSE. As from a bear a man would run for life,
-    So fly I from her that would be my wife.
-  <Exit
+    So fly I from her that would be my wife.    Exit
   ANTIPHOLUS OF SYRACUSE. There's none but witches do inhabit here,
     And therefore 'tis high time that I were hence.
     She that doth call me husband, even my soul
@@ -1066,16 +1054,14 @@ SCENE 2
     And then receive my money for the chain.
   ANTIPHOLUS OF SYRACUSE. I pray you, sir, receive the money now,
     For fear you ne'er see chain nor money more.
-  ANGELO. You are a merry man, sir; fare you well.
-  <Exit
+  ANGELO. You are a merry man, sir; fare you well.   Exit
   ANTIPHOLUS OF SYRACUSE. What I should think of this cannot tell:
     But this I think, there's no man is so vain
     That would refuse so fair an offer'd chain.
     I see a man here needs not live by shifts,
     When in the streets he meets such golden gifts.
     I'll to the mart, and there for Dromio stay;
-    If any ship put out, then straight away.
-  <Exit
+    If any ship put out, then straight away.    Exit
 
 
   END_ACT
@@ -1104,7 +1090,7 @@ ACT IV. SCENE 1
     Pleaseth you walk with me down to his house,
     I will discharge my bond, and thank you too.
 
-  Enter ANTIPHOLUS OF EPHESUS, and DROMIO OF EPHESUS, from the COURTEZAN'S
+  Enter ANTIPHOLUS OF EPHESUS, and DROMIO OF EPHESUS, from the courtezan's
 
   OFFICER. That labour may you save; see where he comes.
   ANTIPHOLUS OF EPHESUS. While I go to the goldsmith's house, go thou
@@ -1113,8 +1099,7 @@ ACT IV. SCENE 1
     For locking me out of my doors by day.
     But, soft, I see the goldsmith. Get thee gone;
     Buy thou a rope, and bring it home to me.
-  DROMIO OF EPHESUS. I buy a thousand pound a year; I buy a rope.
-  <Exit DROMIO
+  DROMIO OF EPHESUS. I buy a thousand pound a year; I buy a rope.   Exit DROMIO
   ANTIPHOLUS OF EPHESUS. A man is well holp up that trusts to you!
     I promised your presence and the chain;
     But neither chain nor goldsmith came to me.
@@ -1204,14 +1189,12 @@ ACT IV. SCENE 1
     There is a purse of ducats; let her send it.
     Tell her I am arrested in the street,
     And that shall bail me; hie thee, slave, be gone.
-    On, officer, to prison till it come.
-  <Exeunt all but DROMIO
+    On, officer, to prison till it come.   Exeunt all but DROMIO
   DROMIO OF SYRACUSE. To Adriana! that is where we din'd,
     Where Dowsabel did claim me for her husband.
     She is too big, I hope, for me to compass.
     Thither I must, although against my will,
-    For servants must their masters' minds fulfil.
-  <Exit
+    For servants must their masters' minds fulfil. Exit
 
 
 SCENE 2
@@ -1297,8 +1280,7 @@ SCENE 2
   ADRIANA. Go, Dromio, there's the money; bear it straight,
     And bring thy master home immediately.
     Come, sister; I am press'd down with conceit-
-    Conceit, my comfort and my injury.
-  <Exeunt
+    Conceit, my comfort and my injury.   Exeunt
 
 
 SCENE 3
@@ -1387,8 +1369,7 @@ SCENE 3
   COURTEZAN. I pray you, sir, my ring, or else the chain;
     I hope you do not mean to cheat me so.
   ANTIPHOLUS OF SYRACUSE. Avaunt, thou witch! Come, Dromio, let us go.
-  DROMIO OF SYRACUSE. 'Fly pride' says the peacock. Mistress, that you know.
-  <Exeunt ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE
+  DROMIO OF SYRACUSE. 'Fly pride' says the peacock. Mistress, that you know. Exeunt ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE
   COURTEZAN. Now, out of doubt, Antipholus is mad,
     Else would he never so demean himself.
     A ring he hath of mine worth forty ducats,
@@ -1404,8 +1385,7 @@ SCENE 3
     And tell his wife that, being lunatic,
     He rush'd into my house and took perforce
     My ring away. This course I fittest choose,
-    For forty ducats is too much to lose.
-  <Exit
+    For forty ducats is too much to lose.    Exit
 
 
 SCENE 4
@@ -1457,8 +1437,7 @@ SCENE 4
     beggar wont her brat; and I think, when he hath lam'd me,
     I shall beg with it from door to door.
 
-  Enter ADRIANA, LUCIANA, the COURTEZAN, and a SCHOOLMASTER
-  call'd PINCH
+  Enter ADRIANA, LUCIANA, the COURTEZAN, and a schoolmaster call'd PINCH
 
   ANTIPHOLUS OF EPHESUS. Come, go along; my wife is coming yonder.
   DROMIO OF EPHESUS. Mistress, 'respice finem,' respect your end; or
@@ -1530,7 +1509,7 @@ SCENE 4
   ADRIANA. O, bind him, bind him; let him not come near me.
   PINCH. More company! The fiend is strong within him.
 
-  Enter three or four, and offer to bind him. He strives
+  Enter three or four, and an OFFICER to bind him. He strives
 
   LUCIANA. Ay me, poor man, how pale and wan he looks!
   ANTIPHOLUS OF EPHESUS. What, will you murder me? Thou gaoler, thou,
@@ -1539,7 +1518,7 @@ SCENE 4
   OFFICER. Masters, let him go;
     He is my prisoner, and you shall not have him.
   PINCH. Go bind this man, for he is frantic too.
-  [They bind DROMIO]
+      [They bind DROMIO]
   ADRIANA. What wilt thou do, thou peevish officer?
     Hast thou delight to see a wretched man
     Do outrage and displeasure to himself?
@@ -1557,8 +1536,7 @@ SCENE 4
   DROMIO OF EPHESUS. Will you be bound for nothing?
     Be mad, good master; cry 'The devil!'
   LUCIANA. God help, poor souls, how idly do they talk!
-  ADRIANA. Go bear him hence. Sister, go you with me.
-  <Exeunt all but ADRIANA, LUCIANA, OFFICERS, and COURTEZAN
+  ADRIANA. Go bear him hence. Sister, go you with me.   Exeunt all but ADRIANA, LUCIANA, OFFICER, and COURTEZAN
     Say now, whose suit is he arrested at?
   OFFICER. One Angelo, a goldsmith; do you know him?
   ADRIANA. I know the man. What is the sum he owes?
@@ -1574,15 +1552,12 @@ SCENE 4
     Come, gaoler, bring me where the goldsmith is;
     I long to know the truth hereof at large.
 
-  Enter ANTIPHOLUS OF SYRACUSE, with his rapier drawn, and
-  DROMIO OF SYRACUSE.
+  Enter ANTIPHOLUS OF SYRACUSE, with his rapier drawn, and DROMIO OF SYRACUSE.
 
   LUCIANA. God, for thy mercy! they are loose again.
   ADRIANA. And come with naked swords.
     Let's call more help to have them bound again.
-  OFFICER. Away, they'll kill us!
-  <Exeunt all but ANTIPHOLUS OF SYRACUSE and
-  DROMIO OF SYRACUSE as fast as may be, frighted
+  OFFICER. Away, they'll kill us!   Exeunt all but ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE as fast as may be, frighted
   ANTIPHOLUS OF SYRACUSE. I see these witches are afraid of swords.
   DROMIO OF SYRACUSE. She that would be your wife now ran from you.
   ANTIPHOLUS OF SYRACUSE. Come to the Centaur; fetch our stuff from thence.
@@ -1593,8 +1568,7 @@ SCENE 4
     the mountain of mad flesh that claims marriage of me,
     could find in my heart to stay here still and turn witch.
   ANTIPHOLUS OF SYRACUSE. I will not stay to-night for all the town;
-    Therefore away, to get our stuff aboard.
-  <Exeunt
+    Therefore away, to get our stuff aboard.   Exeunt
 
 
   END_ACT
@@ -1646,14 +1620,13 @@ ACT V. SCENE 1
   SECOND MERCHANT. I dare, and do defy thee for a villain.
   [They draw]
 
-  Enter ADRIANA, LUCIANA, the COURTEZAN, and OTHERS
+  Enter ADRIANA, LUCIANA, the COURTEZAN, and others
 
   ADRIANA. Hold, hurt him not, for God's sake! He is mad.
     Some get within him, take his sword away;
     Bind Dromio too, and bear them to my house.
   DROMIO OF SYRACUSE. Run, master, run; for God's sake take a house.
-    This is some priory. In, or we are spoil'd.
-  <Exeunt ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE to the priory
+    This is some priory. In, or we are spoil'd.   Exeunt ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE to the priory
 
   Enter the LADY ABBESS
 
@@ -1733,8 +1706,7 @@ ACT V. SCENE 1
   ADRIANA. I will not hence and leave my husband here;
     And ill it doth beseem your holiness
     To separate the husband and the wife.
-  ABBESS. Be quiet, and depart; thou shalt not have him.
-  <Exit
+  ABBESS. Be quiet, and depart; thou shalt not have him.  Exit
   LUCIANA. Complain unto the Duke of this indignity.
   ADRIANA. Come, go; I will fall prostrate at his feet,
     And never rise until my tears and prayers
@@ -1753,8 +1725,7 @@ ACT V. SCENE 1
   ANGELO. See where they come; we will behold his death.
   LUCIANA. Kneel to the Duke before he pass the abbey.
 
-  Enter the DUKE, attended; AEGEON, bareheaded;
-  with the HEADSMAN and other OFFICERS
+  Enter the DUKE, attended; AEGEON, bareheaded; with the HEADSMAN and other officers
 
   DUKE. Yet once again proclaim it publicly,
     If any friend will pay the sum for him,
@@ -1821,23 +1792,23 @@ ACT V. SCENE 1
     Even now we hous'd him in the abbey here,
     And now he's there, past thought of human reason.
 
-  Enter ANTIPHOLUS OFEPHESUS and DROMIO OFEPHESUS
+  Enter ANTIPHOLUS OF EPHESUS and DROMIO OF EPHESUS
 
-  ANTIPHOLUS OFEPHESUS. Justice, most gracious Duke; O, grant me justice!
+  ANTIPHOLUS OF EPHESUS. Justice, most gracious Duke; O, grant me justice!
     Even for the service that long since I did thee,
     When I bestrid thee in the wars, and took
     Deep scars to save thy life; even for the blood
     That then I lost for thee, now grant me justice.
   AEGEON. Unless the fear of death doth make me dote,
     I see my son Antipholus, and Dromio.
-  ANTIPHOLUS OFEPHESUS. Justice, sweet Prince, against that woman there!
+  ANTIPHOLUS OF EPHESUS. Justice, sweet Prince, against that woman there!
     She whom thou gav'st to me to be my wife,
     That hath abused and dishonoured me
     Even in the strength and height of injury.
     Beyond imagination is the wrong
     That she this day hath shameless thrown on me.
   DUKE. Discover how, and thou shalt find me just.
-  ANTIPHOLUS OFEPHESUS. This day, great Duke, she shut the doors upon me,
+  ANTIPHOLUS OF EPHESUS. This day, great Duke, she shut the doors upon me,
     While she with harlots feasted in my house.
   DUKE. A grievous fault. Say, woman, didst thou so?
   ADRIANA. No, my good lord. Myself, he, and my sister,
@@ -1914,8 +1885,7 @@ ACT V. SCENE 1
   DUKE. Saw'st thou him enter at the abbey here?
   COURTEZAN. As sure, my liege, as I do see your Grace.
   DUKE. Why, this is strange. Go call the Abbess hither.
-    I think you are all mated or stark mad.
-  <Exit one to the ABBESS
+    I think you are all mated or stark mad.   Exit one to the abbess.
   AEGEON. Most mighty Duke, vouchsafe me speak a word:
     Haply I see a friend will save my life
     And pay the sum that may deliver me.
@@ -2047,16 +2017,13 @@ ACT V. SCENE 1
     And you the calendars of their nativity,
     Go to a gossips' feast, and go with me;
     After so long grief, such nativity!
-  DUKE. With all my heart, I'll gossip at this feast.
-  <Exeunt all but ANTIPHOLUS OF SYRACUSE, ANTIPHOLUS OF
-  EPHESUS, DROMIO OF SYRACUSE, and DROMIO OF EPHESUS
+  DUKE. With all my heart, I'll gossip at this feast.  Exeunt all but ANTIPHOLUS OF SYRACUSE, ANTIPHOLUS OF EPHESUS, DROMIO OF SYRACUSE, and DROMIO OF EPHESUS
   DROMIO OF SYRACUSE. Master, shall I fetch your stuff from shipboard?
   ANTIPHOLUS OF EPHESUS. Dromio, what stuff of mine hast thou embark'd?
   DROMIO OF SYRACUSE. Your goods that lay at host, sir, in the Centaur.
   ANTIPHOLUS OF SYRACUSE. He speaks to me. I am your master, Dromio.
     Come, go with us; we'll look to that anon.
-    Embrace thy brother there; rejoice with him.
-  <Exeunt ANTIPHOLUS OF SYRACUSE and ANTIPHOLUS OF EPHESUS
+    Embrace thy brother there; rejoice with him.   Exeunt ANTIPHOLUS OF SYRACUSE and ANTIPHOLUS OF EPHESUS
   DROMIO OF SYRACUSE. There is a fat friend at your master's house,
     That kitchen'd me for you to-day at dinner;
     She now shall be my sister, not my wife.
@@ -2069,8 +2036,7 @@ ACT V. SCENE 1
       lead thou first.
   DROMIO OF EPHESUS. Nay, then, thus:
     We came into the world like brother and brother,
-    And now let's go hand in hand, not one before another.
-  <Exeunt
+    And now let's go hand in hand, not one before another.   Exeunt
 
 
   THE END
