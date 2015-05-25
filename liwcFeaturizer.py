@@ -82,6 +82,5 @@ def writeLIWCFeatures(outFilename, features, dictionary):
 
 if __name__ == "__main__":
 	dictionary = getLIWCDictionary()
-	speeches = readTriples('triples-0.txt')
-	features = featurizeSpeeches(dictionary, speeches)
-	writeLIWCFeatures('triple-0.csv', features, dictionary)
+	for i in xrange(36):
+		features = featurizeSpeeches(dictionary, speeches)
