@@ -2683,9 +2683,13 @@ Pardon me, madam,
 I may not go without you to the kings.
 
 CONSTANCE
-5
-AUSTRIA
+9
+BLANCH
+LEWIS
 ARTHUR
+KING PHILIP
+AUSTRIA
+KING JOHN
 CITIZEN
 ELINOR
 SALISBURY
@@ -5241,9 +5245,10 @@ SALISBURY
 With all my heart, my liege.
 
 KING JOHN
-4
+5
 PEMBROKE
 BASTARD
+HUBERT
 PETER
 SALISBURY
 My mother dead!

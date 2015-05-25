@@ -2211,7 +2211,8 @@ Well mayst thou woo, and happy be thy speed
 But be thou arm'd for some unhappy words.
 
 PETRUCHIO
-7
+8
+HORTENSIO
 TRANIO
 BAPTISTA
 SERVANT
@@ -3926,11 +3927,12 @@ Which once perform'd, let all the world say no,
 I'll keep mine own despite of all the world.
 
 TRANIO
-7
-KATHERINA
+8
+BIANCA
 GRUMIO
 BAPTISTA
-BIANCA
+KATHERINA
+GREMIO
 BIONDELLO
 LUCENTIO
 PETRUCHIO
@@ -3940,6 +3942,7 @@ We'll over-reach the greybeard, Gremio,
 The narrow-prying father, Minola,
 The quaint musician, amorous Licio-
 All for my master's sake, Lucentio.
+Signior Gremio, came you from the church?
 
 GREMIO
 8
@@ -4047,10 +4050,15 @@ PETRUCHIO
 What said the wench, when he rose again?
 
 GREMIO
-3
+8
+KATHERINA
+GRUMIO
 TRANIO
+BAPTISTA
+BIANCA
 BIONDELLO
 LUCENTIO
+PETRUCHIO
 Trembled and shook, for why he stamp'd and swore
 As if the vicar meant to cozen him.
 But after many ceremonies done
@@ -6836,14 +6844,15 @@ GREMIO
 Why, this is flat knavery to take upon you another man's name.
 
 PEDANT
-7
-BIANCA
-GRUMIO
-PETRUCHIO
+8
 KATHERINA
-LUCENTIO
-GREMIO
+GRUMIO
 VINCENTIO
+BIANCA
+LUCENTIO
+BIONDELLO
+GREMIO
+PETRUCHIO
 Lay hands on the villain; I believe 'a means to cozen
 somebody in this city under my countenance.
 
@@ -7280,14 +7289,17 @@ PETRUCHIO
 Away with the dotard; to the gaol with him!
 
 VINCENTIO
-7
+10
+KATHERINA
 GRUMIO
 TRANIO
 BAPTISTA
 PEDANT
-PETRUCHIO
-KATHERINA
+BIANCA
+LUCENTIO
+BIONDELLO
 GREMIO
+PETRUCHIO
 Thus strangers may be hal'd and abus'd. O monstrous
 villain!
 
@@ -8705,16 +8717,17 @@ WIDOW
 She will not.
 
 PETRUCHIO
-10
-BIANCA
+11
+KATHERINA
 HORTENSIO
 TRANIO
 BAPTISTA
 PEDANT
-VINCENTIO
+BIANCA
 GREMIO
 BIONDELLO
 LUCENTIO
+VINCENTIO
 WIDOW
 The fouler fortune mine, and there an end.
 
@@ -8862,18 +8875,25 @@ Another dowry to another daughter,
 For she is chang'd, as she had never been.
 
 PETRUCHIO
-8
+11
+KATHERINA
 HORTENSIO
 TRANIO
 BAPTISTA
 PEDANT
-VINCENTIO
+BIANCA
 GREMIO
 BIONDELLO
 LUCENTIO
+VINCENTIO
+WIDOW
 Nay, I will win my wager better yet,
 And show more sign of her obedience,
 Her new-built virtue and obedience.
+See where she comes, and brings your froward wives
+As prisoners to her womanly persuasion.
+Katherine, that cap of yours becomes you not:
+Off with that bauble, throw it underfoot.
 
 WIDOW
 11

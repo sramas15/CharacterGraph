@@ -308,16 +308,20 @@ BASSIANUS
 Was never Scythia half so barbarous!
 
 DEMETRIUS
-9
+13
 MARCUS
 TRIBUNES
 CHIRON
+MARTIUS
 SATURNINUS
+LUCIUS
 AARON
 TAMORA
-BASSIANUS
+QUINTUS
 CAPTAIN
 TITUS
+MUTIUS
+BASSIANUS
 Oppose not Scythia to ambitious Rome.
 Alarbus goes to rest, and we survive
 To tremble under Titus' threat'ning look.
@@ -1127,19 +1131,20 @@ What, villain boy!
 Bar'st me my way in Rome?
 
 MUTIUS
-13
+14
 MARCUS
 TRIBUNES
 CHIRON
 MARTIUS
 DEMETRIUS
 SATURNINUS
+LUCIUS
 AARON
 TAMORA
-BASSIANUS
+QUINTUS
 CAPTAIN
 TITUS
-QUINTUS
+BASSIANUS
 LAVINIA
 Help, Lucius, help!
 
@@ -1163,7 +1168,7 @@ My lord, you are unjust, and more than so:
 In wrongful quarrel you have slain your son.
 
 TITUS
-12
+14
 MARCUS
 TRIBUNES
 CHIRON
@@ -1171,13 +1176,16 @@ MARTIUS
 DEMETRIUS
 SATURNINUS
 LUCIUS
-BASSIANUS
+AARON
+TAMORA
+QUINTUS
 CAPTAIN
 MUTIUS
-QUINTUS
+BASSIANUS
 LAVINIA
 Nor thou nor he are any sons of mine;
 My sons would never so dishonour me.
+Traitor, restore Lavinia to the Emperor.
 
 LUCIUS
 14
@@ -1367,15 +1375,19 @@ LAVINIA
 I am not bid to wait upon this bride.
 
 TITUS
-9
+13
+MARCUS
 TRIBUNES
 CHIRON
+MARTIUS
 DEMETRIUS
 SATURNINUS
 AARON
 TAMORA
 BASSIANUS
 CAPTAIN
+MUTIUS
+QUINTUS
 LAVINIA
 when wert thou wont to walk alone,
 Dishonoured thus, and challenged of wrongs?
@@ -1832,19 +1844,22 @@ Is she not, then, beholding to the man
 That brought her for this high good turn so far?
 
 MARCUS
-12
+15
+ALL
 TRIBUNES
 CHIRON
-TITUS
-SATURNINUS
-AARON
-QUINTUS
-ALL
 MARTIUS
 DEMETRIUS
+SATURNINUS
 LUCIUS
+AARON
+TAMORA
+QUINTUS
 CAPTAIN
+TITUS
 MUTIUS
+BASSIANUS
+LAVINIA
 Yes, and will nobly him remunerate.
 
 SATURNINUS
@@ -4275,9 +4290,11 @@ Come hither, Aaron, I'll deceive them both;
 Lend me thy hand, and I will give thee mine.
 
 AARON
-5
+7
+MARCUS
 TRIBUNES
 TITUS
+LUCIUS
 LAVINIA
 MARTIUS
 QUINTUS
@@ -4285,6 +4302,13 @@ QUINTUS
 And never whilst I live deceive men so;
 But I'll deceive you in another sort,
 And that you'll say ere half an hour pass.
+Good Aaron, give his Majesty my hand;
+Tell him it was a hand that warded him
+From thousand dangers; bid him bury it.
+More hath it merited- that let it have.
+As for my sons, say I account of them
+As jewels purchas'd at an easy price;
+And yet dear too, because I bought mine own.
 
 AARON
 7
@@ -6774,8 +6798,9 @@ And, if one arm's embracement will content thee,
 I will embrace thee in it by and by.
 
 TAMORA
-2
+3
 CHIRON
+TITUS
 DEMETRIUS
 This closing with him fits his lunacy.
 Whate'er I forge to feed his brain-sick humours,
@@ -7632,7 +7657,7 @@ Bid him farewell; commit him to the grave;
 Do them that kindness, and take leave of them.
 
 BOY
-9
+10
 MARCUS
 SATURNINUS
 FIRST GOTH
@@ -7641,6 +7666,7 @@ ALL
 LUCIUS
 TAMORA
 LAVINIA
+AARON
 AEMILIUS
 O grandsire, grandsire! ev'n with all my heart
 Would I were dead, so you did live again!

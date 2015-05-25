@@ -29,11 +29,9 @@ def checkEntryLine(line, currCharList):
 	enteringChars = []
 	ind = re.search('enter[ s]', line.lower())
 	if ind:
-		# if playNum == 28:
-		# 	print line
 		match = re.findall(r'([A-Z][A-Z]+(?: [A-Z][A-Z]+)*)', line[ind.start()+6:])		
 		for group in match:
-			if group in charNames:
+			if group in charNames and group not in currCharList:
 				currCharList.add(group)
 				enteringChars.append(group)
 	return enteringChars
@@ -91,8 +89,6 @@ def writeToFile(currSpeaker, currCharList, currSpeech, outFile):
 	with open(outFile, 'a') as f:
 		f.write(currSpeaker + '\n')
 		f.write(str(len(currCharList)-1) + '\n')
-		# if len(currCharList) == 0:
-		# 	print playNum, currSpeech, '\n\n'
 		for char in currCharList:
 			if char != currSpeaker:
 				f.write(char + '\n')
@@ -164,8 +160,6 @@ for playNum in range(NUM_PLAYS):
 						if enteringChars:
 							if needToWriteTriple:
 								beforeChars = currCharList.difference(enteringChars)
-								if playNum == 28:
-									print line, enteringChars, beforeChars, currCharList, '\n\n'
 								writeToFile(currSpeaker, beforeChars, currSpeech, outFile)
 								needToWriteTriple = False
 	f.close()

@@ -243,7 +243,8 @@ Why, all this business
 Our reverend Cardinal carried.
 
 NORFOLK
-1
+2
+BUCKINGHAM
 ABERGAVENNY
 Like it your Grace,
 The state takes notice of the private difference
@@ -639,11 +640,11 @@ Whose figure even this instant cloud puts on
 By dark'ning my clear sun. My lord, farewell.
 
 KING
-3
+4
 WOLSEY
 QUEEN KATHARINE
-LOVELL
 SECRETARY
+LOVELL
 My life itself, and the best heart of it,
 Thanks you for this great care; I stood i' th' level
 Of a full-charg'd confederacy, and give thanks
@@ -1761,12 +1762,13 @@ Into our presence, where this heaven of beauty
 Shall shine at full upon them. Some attend him.
 
 WOLSEY
-5
+6
 SANDYS
 SERVANT
 LOVELL
 ANNE
 GUILDFORD
+CHAMBERLAIN
 You have now a broken banquet, but we'll mend it.
 A good digestion to you all; and once more
 I show'r a welcome on ye; welcome all.
@@ -3884,11 +3886,12 @@ My comfort comes along. -Break up the court;
 I say, set on.                   Exuent in manner as they entered
 
 QUEEN KATHARINE
-8
+9
 WOLSEY
 LINCOLN
 KING
 CAMPEIUS
+GENTLEMAN
 CRANMER
 GENTLEMAN USHER
 SCRIBE
@@ -5164,9 +5167,13 @@ And after, this; and then to breakfast with
 What appetite you have.
 
 WOLSEY
-1
+6
+SURREY
+NORFOLK
 KING
 LOVELL
+SUFFOLK
+CHAMBERLAIN
 What should this mean?
 What sudden anger's this? How have I reap'd it?
 He parted frowning from me, as if ruin

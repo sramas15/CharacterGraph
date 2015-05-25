@@ -2311,12 +2311,13 @@ And neigh, and bark, and grunt, and roar, and burn,
 Like horse, hound, hog, bear, fire, at every turn.
 
 BOTTOM
-5
+6
+FLUTE
+TITANIA
+SNOUT
 SNUG
 STARVELING
 QUINCE
-FLUTE
-TITANIA
 Why do they run away? This is a knavery of them to make me
 afeard.
 
@@ -2331,12 +2332,13 @@ QUINCE
 O Bottom, thou art chang'd! What do I see on thee?
 
 BOTTOM
-5
+6
+FLUTE
+TITANIA
 SNOUT
 SNUG
 STARVELING
-FLUTE
-TITANIA
+QUINCE
 What do you see? You see an ass-head of your own, do you?
 
 QUINCE
@@ -3789,8 +3791,9 @@ But, notwithstanding, haste, make no delay;
 We may effect this business yet ere day.
 
 PUCK
-1
+2
 DEMETRIUS
+LYSANDER
      Up and down, up and down,
 I will lead them up and down.
 I am fear'd in field and town.
@@ -4953,12 +4956,13 @@ PHILOSTRATE
 He says they can do nothing in this kind.
 
 THESEUS
-5
-HELENA
-HIPPOLYTA
+6
 HERMIA
 DEMETRIUS
+HELENA
 LYSANDER
+HIPPOLYTA
+PHILOSTRATE
 The kinder we, to give them thanks for nothing.
 Our sport shall be to take what they mistake;
 And what poor duty cannot do, noble respect
@@ -5765,15 +5769,16 @@ the moon; I, the Man i' th' Moon; this thorn-bush, my thorn-bush;
 and this dog, my dog.
 
 DEMETRIUS
-11
+12
 PYRAMUS
 THESEUS
-LYSANDER
+LION
 MOONSHINE
 HERMIA
+THISBY
 MOON
 HELENA
-LION
+LYSANDER
 HIPPOLYTA
 PROLOGUE
 PHILOSTRATE
@@ -5862,15 +5867,16 @@ Well shone, Moon. Truly, the moon shines with a good
 grace.            [The LION tears THISBY'S Mantle, and exit LION]
 
 THESEUS
-11
-LYSANDER
+12
+PYRAMUS
+LION
 MOONSHINE
 HERMIA
 DEMETRIUS
 THISBY
 MOON
 HELENA
-LION
+LYSANDER
 HIPPOLYTA
 PROLOGUE
 PHILOSTRATE
@@ -6049,15 +6055,16 @@ With the help of a surgeon he might yet recover and yet
 prove an ass.
 
 HIPPOLYTA
-10
+11
 PYRAMUS
 THESEUS
-LYSANDER
+LION
 HERMIA
 DEMETRIUS
+THISBY
 MOON
 HELENA
-LION
+LYSANDER
 PROLOGUE
 PHILOSTRATE
 How chance Moonshine is gone before Thisby comes back

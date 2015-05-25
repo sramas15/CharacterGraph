@@ -2736,11 +2736,12 @@ HELENUS
 [Within] Cry, Troyans.
 
 HECTOR
-4
+5
 PARIS
-TROILUS
 PRIAM
+TROILUS
 HELENUS
+CASSANDRA
 It is Cassandra.
 
 CASSANDRA
@@ -3420,11 +3421,12 @@ Why should a man be proud? How doth pride grow? I know not
 what pride is.
 
 AGAMEMNON
-4
+5
+ULYSSES
 AJAX
-NESTOR
-DIOMEDES
 CALCHAS
+DIOMEDES
+NESTOR
 Your mind is the clearer, Ajax, and your virtues the
 fairer. He that is proud eats up himself. Pride is his own glass,
 his own trumpet, his own chronicle; and whatever praises itself
@@ -4536,8 +4538,9 @@ TROILUS
 Walk here i' th' orchard, I'll bring her straight.
 
 TROILUS
-1
+2
 BOY
+PANDARUS
 I am giddy; expectation whirls me round.
 Th' imaginary relish is so sweet
 That it enchants my sense; what will it be
@@ -4711,8 +4714,9 @@ be a mock for his truth; and what truth can speak truest not
 truer than Troilus.
 
 CRESSIDA
-2
+3
 BOY
+PANDARUS
 TROILUS
 Will you walk in, my lord?
 
@@ -6246,7 +6250,8 @@ CRESSIDA
 [Within] What's all the doors open here?
 
 TROILUS
-1
+2
+PANDARUS
 CRESSIDA
 It is your uncle.
 
@@ -6369,7 +6374,8 @@ Is he here, say you? It's more than I know, I'll be
 sworn. For my own part, I came in late. What should he do here?
 
 AENEAS
-2
+3
+TROILUS
 PANDARUS
 CRESSIDA
 Who!-nay, then. Come, come, you'll do him wrong ere you are
@@ -6430,9 +6436,10 @@ Good, good, my lord, the secrets of neighbour Pandar
 Have not more gift in taciturnity.
 
 PANDARUS
-2
+3
 TROILUS
 AENEAS
+CRESSIDA
 Is't possible? No sooner got but lost? The devil take
 Antenor! The young prince will go mad. A plague upon Antenor! I
 would they had broke's neck.
@@ -6881,7 +6888,9 @@ AENEAS
 My lord, will you be true?
 
 TROILUS
-1
+3
+AENEAS
+PARIS
 CRESSIDA
 Who, I? Alas, it is my vice, my fault!
 Whiles others fish with craft for great opinion,
@@ -7665,15 +7674,16 @@ Half heart, half hand, half Hector comes to seek
 This blended knight, half Troyan and half Greek.
 
 ACHILLES
-13
+14
 ALL
 AENEAS
 AGAMEMNON
 ULYSSES
 PATROCLUS
 PARIS
-AJAX
+DIOMEDES
 HECTOR
+AJAX
 MENELAUS
 TROILUS
 NESTOR
@@ -9189,13 +9199,14 @@ NESTOR
 I trouble you.
 
 AJAX
-8
+9
 AGAMEMNON
 ULYSSES
-HECTOR
 DIOMEDES
+HECTOR
 MENELAUS
 TROILUS
+ACHILLES
 THERSITES
 NESTOR
 No, not a whit.
@@ -10718,9 +10729,10 @@ CASSANDRA
 Troilus, I would not have you fight to-day.
 
 TROILUS
-2
+3
 ANDROMACHE
 HECTOR
+CASSANDRA
 Who should withhold me?
 Not fate, obedience, nor the hand of Mars
 Beck'ning with fiery truncheon my retire;
@@ -11195,12 +11207,14 @@ But thou anon shalt hear of me again;
 Till when, go seek thy fortune.
 
 HECTOR
-2
+3
+TROILUS
 AJAX
 DIOMEDES
 Fare thee well.
 I would have been much more a fresher man,
 Had I expected thee.
+How now, my brother!
 
 TROILUS
 3

@@ -3390,9 +3390,10 @@ CLAUDIO
 Dear sir, ere long I'll visit you again.
 
 CLAUDIO
-2
+3
 DUKE
 PROVOST
+ISABELLA
 Most holy sir, I thank you.
 
 ISABELLA
@@ -3747,7 +3748,8 @@ Mercy to thee would prove itself a bawd;
 'Tis best that thou diest quickly.
 
 CLAUDIO
-2
+3
+DUKE
 PROVOST
 ISABELLA
 O, hear me, Isabella.
@@ -4813,13 +4815,16 @@ ISABELLA
 Will't please you walk aside?
 
 DUKE
-0
+2
+ISABELLA
+MARIANA
 O place and greatness! Millions of false eyes
 Are stuck upon thee. Volumes of report
 Run with these false, and most contrarious quest
 Upon thy doings. Thousand escapes of wit
 Make thee the father of their idle dream,
 And rack thee in their fancies.
+Welcome, how agreed?
 
 ISABELLA
 2
@@ -5080,8 +5085,9 @@ ABHORSON
 It is a bitter deputy.
 
 DUKE
-2
+3
 POMPEY
+PROVOST
 ABHORSON
 Not so, not so; his life is parallel'd
 Even with the stroke and line of his great justice;
@@ -5505,8 +5511,9 @@ BARNARDINE
 Go in to him, and fetch him out.
 
 POMPEY
-1
+2
 ABHORSON
+BARNARDINE
 He is coming, sir, he is coming; I hear his straw rustle.
 
 ABHORSON
@@ -5684,8 +5691,9 @@ ABHORSON
 I am your free dependant.
 
 DUKE
-2
+3
 POMPEY
+PROVOST
 ABHORSON
 Quick, dispatch, and send the head to Angelo.
 Now will I write letters to Angelo-
@@ -5729,7 +5737,8 @@ ABHORSON
 [ Within ] Peace, ho, be here!
 
 DUKE
-2
+3
+ISABELLA
 POMPEY
 ABHORSON
 The tongue of Isabel. She's come to know
@@ -7690,10 +7699,14 @@ Than that which lives to fear. Make it your comfort,
 So happy is your brother.
 
 ISABELLA
-3
+7
+ANGELO
 DUKE
+MARIANA
 LUCIO
 ESCALUS
+PROVOST
+PETER
 I do, my lord.
 
 DUKE

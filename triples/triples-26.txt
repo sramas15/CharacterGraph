@@ -4448,11 +4448,12 @@ And reason coldly of your grievances,
 Or else depart. Here all eyes gaze on us.
 
 MERCUTIO
-4
-JULIET
+5
 TYBALT
 FRIAR LAURENCE
+ROMEO
 BENVOLIO
+JULIET
 Men's eyes were made to look, and let them gaze.
 I will not budge for no man's pleasure,
 
@@ -4670,11 +4671,12 @@ They have made worms' meat of me. I have it,
 And soundly too. Your houses!
 
 ROMEO
-4
+5
 MERCUTIO
-JULIET
 TYBALT
 FRIAR LAURENCE
+BENVOLIO
+JULIET
 This gentleman, the Prince's near ally,
 My very friend, hath got this mortal hurt
 In my behalf- my reputation stain'd
@@ -4695,11 +4697,12 @@ That gallant spirit hath aspir'd the clouds,
 Which too untimely here did scorn the earth.
 
 ROMEO
-4
+5
 MERCUTIO
-JULIET
+TYBALT
 FRIAR LAURENCE
 BENVOLIO
+JULIET
 This day's black fate on moe days doth depend;
 This but begins the woe others must end.
 
@@ -5398,7 +5401,8 @@ ROMEO
 I come from Lady Juliet.
 
 FRIAR LAURENCE
-1
+2
+NURSE
 ROMEO
 Welcome then.
 
@@ -5816,8 +5820,9 @@ ROMEO
 [within] Ho, daughter! are you up?
 
 JULIET
-2
+3
 NURSE
+LADY CAPULET
 ROMEO
 Who is't that calls? It is my lady mother.
 Is she not down so late, or up so early?
@@ -6003,9 +6008,10 @@ It shall be Romeo, whom you know I hate,
 Rather than Paris. These are news indeed!
 
 LADY CAPULET
-2
-JULIET
+3
 ROMEO
+NURSE
+JULIET
 Here comes your father. Tell him so yourself,
 And see how be will take it at your hands.
 
@@ -8030,11 +8036,12 @@ JULIET
 This is the place. There, where the torch doth burn.
 
 CHIEF WATCH
-6
+7
 BOY
 PARIS
 FRIAR LAURENCE
 ROMEO
+BALTHASAR
 PAGE
 JULIET
 'the ground is bloody. Search about the churchyard.
@@ -8061,9 +8068,10 @@ JULIET
 Here's Romeo's man. We found him in the churchyard.
 
 CHIEF WATCH
-7
+8
 BOY
 PARIS
+FRIAR LAURENCE
 ROMEO
 SECOND WATCH
 JULIET

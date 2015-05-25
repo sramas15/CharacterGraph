@@ -1616,9 +1616,9 @@ FIRST SENATOR
 Their noise be our instruction. Ladders, ho!
 
 MARCIUS
-2
-LARTIUS
+3
 SECOND SENATOR
+LARTIUS
 FIRST SENATOR
 They fear us not, but issue forth their city.
 Now put your shields before your hearts, and fight
@@ -1681,9 +1681,10 @@ FIRST SENATOR
 See, they have shut him in.
 
 ALL
-4
+5
 FIRST SOLDIER
 SECOND SOLDIER
+LARTIUS
 SECOND SENATOR
 FIRST SENATOR
 To th' pot, I warrant him.             [Alarum continues]
@@ -4816,15 +4817,18 @@ THIRD CITIZEN
 'Tis warm at's heart.
 
 BRUTUS
-9
+12
 ALL
+FIRST CITIZEN
 FIFTH CITIZEN
 SIXTH CITIZEN
 MARCIUS
+SECOND CITIZEN
 FOURTH CITIZEN
-BOTH CITIZENS
 MENENIUS
 SEVENTH CITIZEN
+BOTH CITIZENS
+THIRD CITIZEN
 SICINIUS
 With a proud heart he wore
 His humble weeds. Will you dismiss the people?
@@ -7113,16 +7117,18 @@ SICINIUS
 I would they were a-bed.
 
 MENENIUS
-9
-MARCIUS
+11
 LARTIUS
+MARCIUS
 ALL
-FIRST SENATOR
+BRUTUS
 PLEBEIANS
 AEDILES
 COMINIUS
 PATRICIANS
 SECOND SENATOR
+FIRST SENATOR
+SICINIUS
 I would they were in Tiber.
 What the vengeance, could he not speak 'em fair?
 
@@ -9840,9 +9846,11 @@ SECOND SERVANT
 You bless me, gods!
 
 AUFIDIUS
-2
+4
 THIRD SERVANT
 MARCIUS
+FIRST SERVANT
+SECOND SERVANT
 Therefore, most. absolute sir, if thou wilt have
 The leading of thine own revenges, take
 Th' one half of my commission, and set down-
@@ -9963,9 +9971,10 @@ Faith, look you, one cannot tell how to say that;
 for the defence of a town our general is excellent.
 
 FIRST SERVANT
-3
-MARCIUS
+4
+THIRD SERVANT
 AUFIDIUS
+MARCIUS
 SECOND SERVANT
 Ay, and for an assault too.
 

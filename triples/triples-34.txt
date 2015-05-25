@@ -1092,8 +1092,9 @@ HERMIONE
 I will seem friendly, as thou hast advis'd me.
 
 CAMILLO
-2
+3
 MAMILLIUS
+POLIXENES
 HERMIONE
 O miserable lady! But, for me,
 What case stand I in? I must be the poisoner
@@ -3418,8 +3419,9 @@ This news is mortal to the Queen. Look down
 And see what death is doing.
 
 LEONTES
-7
+8
 FIRST LORD
+PAULINA
 LORDS
 SERVANT
 DION
@@ -5449,10 +5451,11 @@ bring away thy pack after me. Wenches, I'll buy for you both.
 Pedlar, let's have the first choice. Follow me, girls.
 
 AUTOLYCUS
-8
+9
 SHEPHERD
 MOPSA
 POLIXENES
+SERVANT
 CLOWN
 DORCAS
 PERDITA
@@ -6489,12 +6492,13 @@ We are not furnish'd like Bohemia's son;
 Nor shall appear in Sicilia.
 
 CAMILLO
-5
-DORCAS
+6
 MOPSA
+AUTOLYCUS
+CLOWN
+DORCAS
 PERDITA
 FLORIZEL
-CLOWN
 My lord,
 Fear none of this. I think you know my fortunes
 Do all lie there. It shall be so my care
@@ -6503,10 +6507,13 @@ The scene you play were mine. For instance, sir,
 That you may know you shall not want- one word.
 
 AUTOLYCUS
-3
+6
 MOPSA
 CLOWN
 DORCAS
+PERDITA
+FLORIZEL
+CAMILLO
 Ha, ha! what a fool Honesty is! and Trust, his sworn
 brother, a very simple gentleman! I have sold all my trumpery;
 not a counterfeit stone, not a ribbon, glass, pomander, brooch,
@@ -6802,8 +6809,9 @@ FLORIZEL
 The swifter speed the better.
 
 AUTOLYCUS
-5
+6
 MOPSA
+CLOWN
 DORCAS
 PERDITA
 FLORIZEL

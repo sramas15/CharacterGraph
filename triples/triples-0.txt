@@ -7392,9 +7392,10 @@ I am afeard the life of Helen, lady,
 Was foully snatch'd.
 
 COUNTESS OF ROUSILLON
-5
+6
 FIRST LORD
 KING OF FRANCE
+BERTRAM
 LAFEU
 GENTLEMAN
 SECOND LORD

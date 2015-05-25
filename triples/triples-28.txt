@@ -1007,7 +1007,8 @@ MIRANDA
 My lord, it shall be done.
 
 PROSPERO
-1
+2
+CALIBAN
 MIRANDA
 Thou poisonous slave, got by the devil himself
 Upon thy wicked dam, come forth!
@@ -3057,12 +3058,13 @@ And when I rear my hand, do you the like,
 To fall it on Gonzalo.
 
 SEBASTIAN
-5
+6
 FRANCISCO
-ADRIAN
 ALONSO
 GONZALO
 ANTONIO
+ARIEL
+ADRIAN
 O, but one word.                  [They talk apart]
 
 ARIEL
@@ -5229,9 +5231,10 @@ There's something else to do; hush, and be mute,
 Or else our spell is marr'd.
 
 IRIS
-4
+5
 CERES
 JUNO
+PROSPERO
 MIRANDA
 FERDINAND
 You nymphs, call'd Naiads, of the wind'ring brooks,
@@ -5620,7 +5623,9 @@ STEPHANO
 And this.
 
 STEPHANO
-2
+4
+PROSPERO
+ARIEL
 CALIBAN
 TRINCULO
 Ay, and this.
@@ -5743,7 +5748,7 @@ PROSPERO
 I'll fetch them, sir.
 
 PROSPERO
--1
+0
 Ye elves of hills, brooks, standing lakes, and groves;
 And ye that on the sands with printless foot
 Do chase the ebbing Neptune, and do fly him

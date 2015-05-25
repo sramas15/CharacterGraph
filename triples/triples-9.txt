@@ -4659,11 +4659,12 @@ Be friends, you English fools, be friends; we have
 French quarrels enow, if you could tell how to reckon.
 
 KING HENRY
-7
+8
 BEDFORD
 BATES
-FLUELLEN
+ERPINGHAM
 COURT
+FLUELLEN
 GOWER
 WILLIAMS
 GLOUCESTER
@@ -4767,13 +4768,14 @@ GLOUCESTER
 I shall do't, my lord.
 
 KING HENRY
-6
+7
 BEDFORD
 BATES
-FLUELLEN
 COURT
+FLUELLEN
 GOWER
 WILLIAMS
+GLOUCESTER
 O God of battles, steel my soldiers' hearts,
 Possess them not with fear! Take from them now
 The sense of reck'ning, if th' opposed numbers
@@ -5065,12 +5067,13 @@ But one ten thousand of those men in England
 That do no work to-day!
 
 KING HENRY
-5
+6
 BEDFORD
-EXETER
-GLOUCESTER
 ERPINGHAM
+SALISBURY
 WESTMORELAND
+GLOUCESTER
+EXETER
 What's he that wishes so?
 My cousin Westmoreland? No, my fair cousin;
 If we are mark'd to die, we are enow

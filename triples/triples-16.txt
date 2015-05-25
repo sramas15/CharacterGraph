@@ -515,13 +515,14 @@ GLOUCESTER
 Hear me, recreant!
 
 KENT
-7
+8
 ALBANY
 CORDELIA
 LEAR
 GONERIL
 CORNWALL
 REGAN
+GLOUCESTER
 EDMUND
 Fare thee well, King. Since thus thou wilt appear,
 
@@ -1409,7 +1410,8 @@ KNIGHT
 So please you-
 
 LEAR
-1
+2
+KNIGHT
 KENT
 What says the fellow there? Call the clotpoll back.
 
@@ -1980,12 +1982,13 @@ OSWALD
 Now, gods that we adore, whereof comes this?
 
 GONERIL
-5
+6
 FOOL
 ALBANY
+KNIGHT
+LEAR
 KENT
 OSWALD
-KNIGHT
 Never afflict yourself to know the cause;
 
 LEAR
@@ -2079,12 +2082,13 @@ OSWALD
 Well, you may fear too far.
 
 GONERIL
-5
+6
 FOOL
 ALBANY
-KENT
 KNIGHT
 LEAR
+KENT
+OSWALD
 Safer than trust too far.
 
 OSWALD
@@ -3293,9 +3297,10 @@ GENTLEMAN
 Where learn'd you this, fool?
 
 FOOL
-2
-KENT
+3
+LEAR
 GENTLEMAN
+KENT
 Not i' th' stocks, fool.
 
 LEAR
@@ -3923,7 +3928,7 @@ GLOUCESTER
 So am I purpos'd.
 
 CORNWALL
-7
+8
 FOOL
 GENTLEMAN
 LEAR
@@ -3931,6 +3936,7 @@ GONERIL
 KENT
 OSWALD
 REGAN
+GLOUCESTER
 Followed the old man forth.
 
 GLOUCESTER
@@ -4018,10 +4024,12 @@ GLOUCESTER
 O, sir, to wilful men
 
 CORNWALL
-6
+8
 FOOL
+GENTLEMAN
 LEAR
 GONERIL
+KENT
 OSWALD
 REGAN
 GLOUCESTER
@@ -4308,8 +4316,9 @@ KENT
 Prithee go in thyself; seek thine own ease.
 
 EDGAR
-2
+3
 LEAR
+FOOL
 KENT
 [within] Fathom and half, fathom and half! Poor Tom!
 
@@ -4335,9 +4344,10 @@ KENT
 A spirit, a spirit! He says his name's poor Tom.
 
 KENT
-2
+3
 LEAR
 FOOL
+EDGAR
 What art thou that dost grumble there i' th' straw?
 
 EDGAR
@@ -4963,10 +4973,11 @@ GLOUCESTER
 Make no noise, make no noise; draw the curtains.
 
 FOOL
-3
+4
 LEAR
-KENT
 EDGAR
+KENT
+GLOUCESTER
 And I'll go to bed at noon.
 
 GLOUCESTER
@@ -7070,9 +7081,10 @@ ALBANY
 I was forbid it.
 
 ALBANY
-3
+4
 GONERIL
 REGAN
+EDMUND
 EDGAR
 Why, fare thee well. I will o'erlook thy paper.
 
@@ -7105,7 +7117,8 @@ GLOUCESTER
 Here, father, take the shadow of this tree
 
 GLOUCESTER
-0
+1
+EDGAR
 Grace go with you, sir!
 
 EDGAR
@@ -8369,15 +8382,16 @@ CAPTAIN
 He knows not what he says; and vain is it
 
 EDGAR
-8
+9
 ALBANY
+HERALD
 GENTLEMAN
 CORDELIA
-HERALD
+LEAR
 EDMUND
 KENT
 REGAN
-LEAR
+CAPTAIN
 Very bootless.
 
 CAPTAIN

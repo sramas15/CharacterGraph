@@ -830,11 +830,12 @@ Under these hard conditions as this time
 Is like to lay upon us.
 
 CASSIUS
-8
+9
 PORTIA
 CALPURNIA
 CICERO
 CASCA
+CAESAR
 DECIUS
 SOOTHSAYER
 ANTONY
@@ -2002,7 +2003,8 @@ BRUTUS
 Sir, March is wasted fifteen days.
 
 BRUTUS
-0
+1
+LUCIUS
 'Tis good. Go to the gate, somebody knocks.
 Since Cassius first did whet me against Caesar
 I have not slept.
@@ -2733,11 +2735,12 @@ Here in the thigh. Can I bear that with patience
 And not my husband's secrets?
 
 BRUTUS
-7
+8
 PORTIA
 CASCA
 CINNA
 CASSIUS
+LUCIUS
 TREBONIUS
 DECIUS
 METELLUS
@@ -7243,7 +7246,8 @@ BRUTUS
 [Within.] You shall not come to them.
 
 POET
-1
+3
+LUCILIUS
 CASSIUS
 BRUTUS
 [Within.] Nothing but death shall stay me.
@@ -7442,10 +7446,11 @@ POET
 Even so.
 
 CASSIUS
-4
-POET
+5
 TITINIUS
+LUCIUS
 LUCILIUS
+POET
 BRUTUS
 O ye immortal gods!
 
@@ -7469,8 +7474,9 @@ BRUTUS
 My heart is thirsty for that noble pledge.
 
 BRUTUS
-4
+5
 POET
+TITINIUS
 LUCILIUS
 CASSIUS
 LUCIUS
@@ -7811,13 +7817,18 @@ No more. Good night.
 Early tomorrow will we rise and hence.
 
 BRUTUS
-5
-POET
+6
 TITINIUS
-LUCILIUS
-MESSALA
 CASSIUS
+LUCIUS
+LUCILIUS
+POET
+MESSALA
 Lucius!
+My gown.                                        Exit Lucius.
+Farewell, good Messala;
+Good night, Titinius; noble, noble Cassius,
+Good night and good repose.
 
 CASSIUS
 6
@@ -7873,13 +7884,15 @@ BRUTUS
 MESSALA. Good night, Lord Brutus.
 
 BRUTUS
-5
-POET
+6
 TITINIUS
-LUCILIUS
-MESSALA
 CASSIUS
+LUCIUS
+LUCILIUS
+POET
+MESSALA
 Farewell, everyone.
+Give me the gown. Where is thy instrument?
 
 LUCIUS
 6
@@ -9117,8 +9130,9 @@ Shall be as welcome to the ears of Brutus
 As tidings of this sight.
 
 TITINIUS
-1
+2
 CASSIUS
+MESSALA
 Hie you, Messala,
 And I will seek for Pindarus the while.        Exit Messala.
 Why didst thou send me forth, brave Cassius?

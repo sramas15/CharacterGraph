@@ -1762,9 +1762,10 @@ That every one her own hath garnished
 With such bedecking ornaments of praise?
 
 FIRST LORD
-4
-ROSALINE
+5
 PRINCESS OF FRANCE
+BOYET
+ROSALINE
 KATHARINE
 MARIA
 Here comes Boyet.
@@ -8024,12 +8025,16 @@ MARIA
 Ladies, withdraw; the gallants are at hand.
 
 PRINCESS OF FRANCE
-5
+9
+KING
 MOTH
+DUMAIN
 BOYET
 ROSALINE
-MARIA
 KATHARINE
+BEROWNE
+LONGAVILLE
+MARIA
 Whip to our tents, as roes run o'er land.
 
 KING
@@ -8117,11 +8122,14 @@ And consciences that will not die in debt
 Pay him the due of 'honey-tongued Boyet.'
 
 KING
-5
+8
 MOTH
 PRINCESS OF FRANCE
+ROSALINE
 DUMAIN
 BEROWNE
+MARIA
+KATHARINE
 LONGAVILLE
 A blister on his sweet tongue, with my heart,
 That put Armado's page out of his part!
@@ -9408,17 +9416,18 @@ Abate throw at novum, and the whole world again
 Cannot pick out five such, take each one in his vein.
 
 KING
-10
+11
 MOTH
 PRINCESS OF FRANCE
+DUMAIN
 BOYET
 ROSALINE
 ARMADO
-BEROWNE
-DUMAIN
-MARIA
+COSTARD
 KATHARINE
+BEROWNE
 LONGAVILLE
+MARIA
 The ship is under sail, and here she comes amain.
 
 COSTARD
@@ -9751,8 +9760,9 @@ Alisander- alas! you see how 'tis- a little o'erparted. But there
 are Worthies a-coming will speak their mind in some other sort.
 
 PRINCESS OF FRANCE
-11
+12
 KING
+MOTH
 BEROWNE
 NATHANIEL
 BOYET
@@ -10320,19 +10330,20 @@ MARIA
 A light for Monsieur Judas! It grows dark, he may stumble.
 
 PRINCESS OF FRANCE
-12
+13
 KING
 MOTH
-BEROWNE
-NATHANIEL
+HOLOFERNES
+DUMAIN
 BOYET
 ROSALINE
+ARMADO
 COSTARD
-DUMAIN
-HOLOFERNES
-MARIA
 KATHARINE
+BEROWNE
 LONGAVILLE
+NATHANIEL
+MARIA
 Alas, poor Maccabaeus, how hath he been baited!
 
 BEROWNE
@@ -12111,20 +12122,21 @@ Come, sir, it wants a twelvemonth an' a day,
 And then 'twill end.
 
 BEROWNE
-13
+14
 KING
+MARCADE
 MOTH
 PRINCESS OF FRANCE
-NATHANIEL
+HOLOFERNES
+DUMAIN
 BOYET
 ROSALINE
-MARCADE
+ARMADO
 COSTARD
-DUMAIN
-HOLOFERNES
-MARIA
 KATHARINE
 LONGAVILLE
+NATHANIEL
+MARIA
 That's too long for a play.
 
 ARMADO

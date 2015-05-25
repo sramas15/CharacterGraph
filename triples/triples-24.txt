@@ -3905,14 +3905,15 @@ CARLISLE
 What says his Majesty?
 
 NORTHUMBERLAND
-7
-PERCY
+8
+KING RICHARD
 BOLINGBROKE
 SCROOP
-AUMERLE
+PERCY
 SALISBURY
-CARLISLE
+AUMERLE
 YORK
+CARLISLE
 Sorrow and grief of heart
 Makes him speak fondly, like a frantic man;
 Yet he is come.
@@ -6010,7 +6011,7 @@ YORK
 Stay thy revengeful hand; thou hast no cause to fear.
 
 YORK
-2
+3
 PERCY
 BOLINGBROKE
 AUMERLE
@@ -6120,8 +6121,9 @@ My dangerous cousin, let your mother in.
 I know she is come to pray for your foul sin.
 
 YORK
-3
+4
 PERCY
+DUCHESS OF YORK
 BOLINGBROKE
 AUMERLE
 If thou do pardon whosoever pray,

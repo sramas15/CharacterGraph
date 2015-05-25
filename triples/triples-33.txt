@@ -1063,7 +1063,8 @@ Come on, Panthino; you shall be employ'd
 To hasten on his expedition.
 
 PROTEUS
-1
+2
+PANTHINO
 ANTONIO
 Thus have I shunn'd the fire for fear of burning,
 And drench'd me in the sea, where I am drown'd.

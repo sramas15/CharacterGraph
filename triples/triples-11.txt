@@ -6075,10 +6075,12 @@ And he but naked, though lock'd up in steel,
 Whose conscience with injustice is corrupted.
 
 QUEEN
-6
+8
+SUFFOLK
 FIRST MURDERER
 CARDINAL
 KING HENRY
+WARWICK
 SOMERSET
 SECOND MURDERER
 SALISBURY
@@ -6099,7 +6101,7 @@ Here in our presence! Dare you be so bold?
 Why, what tumultuous clamour have we here?
 
 SUFFOLK
-7
+8
 QUEEN
 FIRST MURDERER
 CARDINAL
@@ -6107,6 +6109,7 @@ KING HENRY
 WARWICK
 SOMERSET
 SECOND MURDERER
+SALISBURY
 The trait'rous Warwick, with the men of Bury,
 Set all upon me, mighty sovereign.
 
@@ -7120,11 +7123,13 @@ Stabb'd Julius Caesar; savage islanders
 Pompey the Great; and Suffolk dies by pirates.
 
 LIEUTENANT
-4
+6
+WHITMORE
+FIRST GENTLEMAN
+SUFFOLK
 MATE
 MASTER
 SECOND GENTLEMAN
-FIRST GENTLEMAN
 And as for these, whose ransom we have set,
 It is our pleasure one of them depart;
 Therefore come you with us, and let him go.
@@ -10191,9 +10196,10 @@ CLIFFORD
 Can we outrun the heavens? Good Margaret, stay.
 
 QUEEN
-3
-SOMERSET
+4
+YOUNG CLIFFORD
 KING HENRY
+SOMERSET
 CLIFFORD
 What are you made of? You'll nor fight nor fly.
 Now is it manhood, wisdom, and defence,

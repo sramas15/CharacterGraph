@@ -2479,8 +2479,9 @@ For women are as roses, whose fair flow'r
 Being once display'd doth fall that very hour.
 
 VIOLA
-1
+2
 DUKE
+CURIO
 And so they are; alas, that they are so!
 To die, even when they to perfection grow!
 
@@ -4366,8 +4367,9 @@ MARIA
 I'll come to him. [
 
 MALVOLIO
-1
+2
 OLIVIA
+MARIA
 O, ho! do you come near me now? No worse man than Sir
 Toby to look to me! This concurs directly with the letter: she
 sends him on purpose, that I may appear stubborn to him; for she
@@ -4817,8 +4819,9 @@ MARIA
 Nay, let me alone for swearing.
 
 SIR TOBY
-3
+4
 FABIAN
+OLIVIA
 MALVOLIO
 MARIA
 Now will not I deliver his letter; for the behaviour of
@@ -7482,19 +7485,24 @@ Is now in durance, at Malvolio's suit,
 A gentleman and follower of my lady's.
 
 OLIVIA
-9
+11
 DUKE
-CURIO
+SEBASTIAN
 SIR TOBY
 ANTONIO
+CLOWN
 AGUECHEEK
-VIOLA
-SEBASTIAN
-PRIEST
+FABIAN
 FIRST OFFICER
+VIOLA
+CURIO
+PRIEST
 He shall enlarge him. Fetch Malvolio hither;
 And yet, alas, now I remember me,
 They say, poor gentleman, he's much distract.
+A most extracting frenzy of mine own
+From my remembrance clearly banish'd his.
+How does he, sirrah?
 
 CLOWN
 11
@@ -7732,12 +7740,13 @@ Here is my hand; you shall from this time be
 You master's mistress.
 
 OLIVIA
-10
+11
 DUKE
 CURIO
 SIR TOBY
 ANTONIO
 AGUECHEEK
+FABIAN
 CLOWN
 VIOLA
 SEBASTIAN

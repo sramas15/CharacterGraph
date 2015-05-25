@@ -840,10 +840,11 @@ And tell him so; for I will else my heart,
 Albeit I make a hazard of my head.
 
 NORTHUMBERLAND
-3
+4
 KING
 HOTSPUR
 BLUNT
+WORCESTER
 What, drunk with choler? Stay, and pause awhile.
 Here comes your uncle.
 
@@ -1918,13 +1919,15 @@ PRINCE
 O, we are undone, both we and ours for ever!
 
 FALSTAFF
-6
+8
+POINS
 BARDOPH
 BARDOLPH
 PETO
 TRAVELLER
 THIEVES
 GADSHILL
+PRINCE
 Hang ye, gorbellied knaves, are ye undone? No, ye fat chuffs;
 I would your store were here! On, bacons on! What, ye knaves!
 young men must live. You are grandjurors, are ye? We'll jure ye,
@@ -1945,12 +1948,13 @@ rob the thieves and go merrily to London, it would be argument
 for a week, laughter for a month, and a good jest for ever.
 
 POINS
-7
+8
 BARDOPH
 BARDOLPH
 PETO
 TRAVELLER
 FALSTAFF
+THIEVES
 GADSHILL
 PRINCE
 Stand close! I hear them coming.
@@ -2484,9 +2488,9 @@ Let them alone awhile, and then open the door.
 POINS!
 
 POINS
-1
-VINTNER
+2
 PRINCE
+VINTNER
 [within] Anon, anon, sir.
 
 PRINCE
@@ -4156,9 +4160,10 @@ FALSTAFF, banish not him thy Harry's company, banish not him thy
 Harry's company. Banish plump Jack, and banish all the world!
 
 PRINCE
-7
+8
 POINS
 HOSTESS
+BARDOLPH
 PETO
 VINTNER
 FALSTAFF
@@ -4180,8 +4185,9 @@ O, my lord, my lord! the sheriff with a most monstrous watch
 is at the door.
 
 FALSTAFF
-7
+8
 POINS
+HOSTESS
 BARDOLPH
 PETO
 VINTNER
@@ -6103,7 +6109,7 @@ O Jesu, I have heard the Prince tell him, I know not how oft,
 that that ring was copper!
 
 FALSTAFF
-1
+2
 HOSTESS
 BARDOLPH
 How? the Prince is a Jack, a sneak-cup. 'Sblood, an he were
@@ -7800,7 +7806,8 @@ WORCESTER
 Did you beg any, God forbid!
 
 WORCESTER
-2
+3
+DOUGLAS
 VERNON
 HOTSPUR
 I told him gently of our grievances,
@@ -7880,10 +7887,11 @@ HOTSPUR
 My lord, here are letters for you.
 
 HOTSPUR
-3
-VERNON
-WORCESTER
+4
 DOUGLAS
+VERNON
+MESSENGER
+WORCESTER
 I cannot read them now.-
 O gentlemen, the time of life is short!
 To spend that shortness basely were too long
@@ -8338,8 +8346,9 @@ DOUGLAS
 I can no longer brook thy vanities.
 
 FALSTAFF
-3
+5
 LANCASTER
+DOUGLAS
 WESTMORELAND
 HOTSPUR
 PRINCE

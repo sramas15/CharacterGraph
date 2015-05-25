@@ -739,8 +739,9 @@ FIRST SENATOR
 [Within.] What, ho! What, ho! What, ho!
 
 FIRST OFFICER
-3
+4
 DUKE
+SAILOR
 SECOND SENATOR
 FIRST SENATOR
 A messenger from the galleys.
@@ -1212,10 +1213,11 @@ BRABANTIO
 Say it, Othello.
 
 OTHELLO
-9
+10
 DUKE
 ALL
 RODERIGO
+IAGO
 SAILOR
 MESSENGER
 FIRST OFFICER
@@ -3883,10 +3885,11 @@ MONTANO
 Drunk?                                          They fight.
 
 IAGO
-5
+6
 RODERIGO
 ALL
 CASSIO
+OTHELLO
 DESDEMONA
 MONTANO
 [Aside to Roderigo.] Away, I say; go out and cry a mutiny.
@@ -4101,16 +4104,19 @@ From him that fled some strange indignity,
 Which patience could not pass.
 
 OTHELLO
-5
-IAGO
+6
 RODERIGO
 ALL
+IAGO
 CASSIO
+DESDEMONA
 MONTANO
                         I know, Iago,
 Thy honesty and love doth mince this matter,
 Making it light to Cassio. Cassio, I love thee,
 But never more be officer of mine.
+Look, if my gentle love be not raised up!
+I'll make thee an example.
 
 DESDEMONA
 6
@@ -4377,10 +4383,11 @@ DESDEMONA
 Good night, honest Iago.
 
 IAGO
-3
+4
+RODERIGO
 ALL
-DESDEMONA
 OTHELLO
+DESDEMONA
 And what's he then that says I play the villain?
 When this advice is free I give and honest,
 Probal to thinking, and indeed the course
@@ -4408,6 +4415,7 @@ She shall undo her credit with the Moor.
 So will I turn her virtue into pitch,
 And out of her own goodness make the net
 That shall enmesh them all.
+How now, Roderigo!
 
 RODERIGO
 4
@@ -5606,7 +5614,9 @@ OTHELLO
 I once more take my leave.
 
 OTHELLO
-0
+2
+EMILIA
+DESDEMONA
 This fellow's of exceeding honesty,
 And knows all qualities, with a learned spirit,
 Of human dealings. If I do prove her haggard,
@@ -5627,6 +5637,8 @@ Prerogatived are they less than the base;
 'Tis destiny unshunnable, like death.
 Even then this forked plague is fated to us
 When we do quicken. Desdemona comes:
+If she be false, O, then heaven mocks itself!
+I'll not believe't.
 
 DESDEMONA
 2
@@ -9153,9 +9165,10 @@ CASSIO
 Nobody come? Then shall I bleed to death.
 
 LODOVICO
-3
+4
 RODERIGO
 GRATIANO
+IAGO
 CASSIO
 Hark!
 
@@ -10036,7 +10049,8 @@ OTHELLO
 That I may speak with you, O, good my lord!
 
 OTHELLO
-1
+2
+EMILIA
 DESDEMONA
 I had forgot thee. O, come in, Emilia.
 Soft, by and by. Let me the curtains draw.
@@ -10775,7 +10789,8 @@ OTHELLO
 Thou hast no weapon, and perforce must suffer.
 
 OTHELLO
-0
+1
+GRATIANO
 Look in upon me then, and speak with me,
 Or, naked as I am, I will assault thee.
 

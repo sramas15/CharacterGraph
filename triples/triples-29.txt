@@ -2697,13 +2697,14 @@ SECOND LORD
 I am so far already in your gifts-
 
 ALL
-12
+13
 TIMON
 FIRST LORD
 LADIES
 FIRST LADY
 VENTIDIUS
 ALCIBIADES
+SERVANT
 THIRD LORD
 CUPID
 APEMANTUS
@@ -4102,12 +4103,13 @@ CAPHIS
 Assurance bless your thoughts!
 
 TIMON
-7
+8
 FOOL
 ALCIBIADES
 ALL SERVANTS
 SERVANT
 APEMANTUS
+SERVANTS
 FLAVIUS
 CAPHIS
 And, in some sort, these wants of mine are crown'd
@@ -4965,7 +4967,7 @@ HORTENSIUS
 We cannot take this for answer, sir.
 
 FLAMINIUS
-5
+6
 SERVILIUS
 SERVANT
 TITUS
@@ -8147,7 +8149,8 @@ The former man may make him. Bring us to him,
 And chance it as it may.
 
 FLAVIUS
-5
+6
+TIMON
 BOTH
 POET
 SECOND SENATOR

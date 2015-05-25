@@ -777,7 +777,8 @@ I would scarce trust myself, though I had sworn the
 contrary, if Hero would be my wife.
 
 BENEDICK
-7
+8
+PEDRO
 HERO
 BEATRICE
 CLAUDIO
@@ -790,6 +791,7 @@ he will wear his cap with suspicion? Shall I never see a
 bachelor of threescore again? Go to, i' faith! An thou wilt needs
 thrust thy neck into a yoke, wear the print of it and sigh away
 Sundays.
+Look! Don Pedro is returned to seek you.
 
 PEDRO
 8
@@ -8470,11 +8472,12 @@ forget to specify, when time and place shall serve, that I am an
 ass.
 
 VERGES
-6
+7
 PEDRO
 DOGBERRY
 BORACHIO
 CLAUDIO
+LEONATO
 CONRADE
 BENEDICK
 Here, here comes Master Signior Leonato, and the sexton too.
@@ -9372,9 +9375,14 @@ As once Europa did at lusty Jove
 When he would play the noble beast in love.
 
 BENEDICK
-4
+9
+URSULA
 PEDRO
+HERO
+BEATRICE
 CLAUDIO
+ANTONIO
+MARGARET
 LEONATO
 FRIAR
 Bull Jove, sir, had an amiable low,

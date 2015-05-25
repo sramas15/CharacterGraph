@@ -193,10 +193,10 @@ Page.
 [Knocks]  What, hoa! Got pless your house here!
 
 PAGE
-2
+3
 SHALLOW
-SLENDER
 EVANS
+SLENDER
  [Within]  Who's there?
 
 EVANS
@@ -1212,7 +1212,7 @@ PAGE
 Ay, I think my cousin meant well.
 
 SLENDER
-10
+11
 MRS PAGE
 EVANS
 BARDOLPH
@@ -1221,6 +1221,7 @@ MRS FORD
 FALSTAFF
 SIMPLE
 NYM
+ANNE
 PISTOL
 PAGE
 Ay, or else I would I might be hang'd, la!
@@ -1468,7 +1469,7 @@ PAGE
 Ay, indeed, sir.
 
 SLENDER
-10
+11
 MRS PAGE
 EVANS
 BARDOLPH
@@ -1479,6 +1480,7 @@ SIMPLE
 NYM
 ANNE
 PISTOL
+PAGE
 That's meat and drink to me now. I have seen
 Sackerson loose twenty times, and have taken him by the
 chain; but I warrant you, the women have so cried and
@@ -2409,7 +2411,8 @@ QUICKLY
  [Within]  Who's within there? ho!
 
 QUICKLY
-0
+1
+FENTON
 Who's there, I trow? Come near the house, I pray
 you.
 
@@ -5211,9 +5214,12 @@ She shall not see me; I will ensconce me behind
 the arras.
 
 MRS FORD
-1
+3
+ROBIN
 FALSTAFF
+MRS PAGE
 Pray you, do so; she's a very tattling woman.
+What's the matter? How now!
 
 MRS PAGE
 3
@@ -6255,7 +6261,8 @@ FALSTAFF
 Here, sir.
 
 FALSTAFF
-0
+1
+BARDOLPH
 Go fetch me a quart of sack; put a toast in 't.
 Have I liv'd to be carried in a basket, like a barrow of
 butcher's offal, and to be thrown in the Thames? Well, if
@@ -7987,8 +7994,9 @@ HOST
  [Above]  How now, mine host?
 
 HOST
-1
+2
 SIMPLE
+FALSTAFF
 Here's a Bohemian-Tartar tarries the coming down of
 thy fat woman. Let her descend, bully, let her descend;
 my chambers are honourible. Fie, privacy, fie!
@@ -8761,8 +8769,11 @@ About him, fairies; sing a scornful rhyme;
 And, as you trip, still pinch him to your time.
 
 THE SONG
-3
+6
+MRS PAGE
+EVANS
 PUCK
+MRS FORD
 FALSTAFF
 FAIRY QUEEN
 Fie on sinful fantasy!

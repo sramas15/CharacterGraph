@@ -384,7 +384,8 @@ Comes armed through our watch, so like the KING
 That was and is the question of these wars.
 
 HORATIO
-2
+3
+GHOST
 MARCELLUS
 BERNARDO
 A mote it is to trouble the mind's eye.
@@ -401,6 +402,20 @@ As harbingers preceding still the fates
 And prologue to the omen coming on,
 Have heaven and earth together demonstrated
 Unto our climature and countrymen.
+But soft! behold! Lo, where it comes again!
+I'll cross it, though it blast me.- Stay illusion!
+If thou hast any sound, or use of voice,
+Speak to me.
+If there be any good thing to be done,
+That may to thee do ease, and, race to me,
+Speak to me.
+If thou art privy to thy country's fate,
+Which happily foreknowing may avoid,
+O, speak!
+Or if thou hast uphoarded in thy life
+Extorted treasure in the womb of earth
+(For which, they say, you spirits oft walk in death),
+Speak of it! Stay, and speak!- Stop it, MARCELLUS!
 
 MARCELLUS
 3
@@ -2426,7 +2441,7 @@ It is 'Adieu, adieu! Remember me.'
 I have sworn't.
 
 HORATIO
-0
+1
 HAMLET
 (within) My lord, my lord!
 
@@ -3403,10 +3418,11 @@ I doubt it is no other but the main,
 His father's death and our o'erhasty marriage.
 
 KING
-3
+4
 GUILDENSTERN
-ROSENCRANTZ
 QUEEN
+ROSENCRANTZ
+POLONIUS
 Well, we shall sift him.
 
 VOLTEMAND
@@ -3971,12 +3987,14 @@ him and my daughter.- My honourable lord, I will most humbly take
 my leave of you.
 
 HAMLET
-5
+7
 KING
-POLONIUS
+GUILDENSTERN
+CORNELIUS
+ROSENCRANTZ
 QUEEN
 VOLTEMAND
-CORNELIUS
+POLONIUS
 You cannot, sir, take from me anything that I will more
 willingly part withal- except my life, except my life, except my
 life,
@@ -4763,14 +4781,15 @@ HAMLET
 In what, my dear lord?
 
 HAMLET
-7
+8
 KING
 GUILDENSTERN
+CORNELIUS
 ROSENCRANTZ
 BOTH
 QUEEN
 VOLTEMAND
-CORNELIUS
+POLONIUS
 I am but mad north-north-west. When the wind is southerly I
 know a hawk from a handsaw.
 
@@ -6071,13 +6090,15 @@ married already- all but one- shall live; the rest shall keep as
 they are. To a nunnery, go.
 
 OPHELIA
-7
+9
+KING
 GUILDENSTERN
+CORNELIUS
 ROSENCRANTZ
 BOTH
 QUEEN
 VOLTEMAND
-CORNELIUS
+POLONIUS
 FIRST PLAYER
 O, what a noble mind is here o'erthrown!
 The courtier's, scholar's, soldier's, eye, tongue, sword,
@@ -7067,10 +7088,11 @@ FIRST PLAYER
 I did very well note him.
 
 HAMLET
-8
+9
 KING
 ALL
 HORATIO
+ROSENCRANTZ
 OPHELIA
 QUEEN
 PROLOGUE
@@ -7593,15 +7615,16 @@ But these cannot I command to any utt'rance of harmony. I
 have not the skill.
 
 HAMLET
-9
+10
 KING
 ALL
-HORATIO
+QUEEN
 ROSENCRANTZ
 OPHELIA
-QUEEN
+HORATIO
 GUILDENSTERN
 PROLOGUE
+POLONIUS
 FIRST PLAYER
 Why, look you now, how unworthy a thing you make of me! You
 would play upon me; you would seem to know my stops; you would
@@ -7611,6 +7634,7 @@ excellent voice, in this little organ, yet cannot you make it
 speak. 'Sblood, do you think I am easier to be play'd on than a
 pipe? Call me what instrument you will, though you can fret me,
 you cannot play upon me.
+God bless you, sir!
 
 POLONIUS
 10
@@ -7936,8 +7960,9 @@ QUEEN
 (within) Mother, mother, mother!
 
 QUEEN
-1
+2
 POLONIUS
+HAMLET
 I'll warrant you; fear me not. Withdraw; I hear him coming.
 
 HAMLET
@@ -8520,13 +8545,28 @@ Among a mineral of metals base,
 Shows itself pure. He weeps for what is done.
 
 KING
-1
+3
+GUILDENSTERN
 QUEEN
+ROSENCRANTZ
 O Gertrude, come away!
 The sun no sooner shall the mountains touch
 But we will ship him hence; and this vile deed
 We must with all our majesty and skill
 Both countenance and excuse. Ho, GUILDENSTERN!
+Friends both, go join you with some further aid.
+HAMLET in madness hath POLONIUS slain,
+And from his mother's closet hath he dragg'd him.
+Go seek him out; speak fair, and bring the body
+Into the chapel. I pray you haste in this.
+Come, Gertrude, we'll call up our wisest friends
+And let them know both what we mean to do
+And what's untimely done. [So haply slander-]
+Whose whisper o'er the world's diameter,
+As level as the cannon to his blank,
+Transports his poisoned shot- may miss our name
+And hit the woundless air.- O, come away!
+My soul is full of discord and dismay.
 
 HAMLET
 0

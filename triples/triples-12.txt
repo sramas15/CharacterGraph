@@ -2885,8 +2885,9 @@ As thou hast shown it flinty by thy deeds,
 I come to pierce it or to give thee mine.
 
 EDWARD
-3
+4
 MONTAGUE
+MESSENGER
 RICHARD
 WARWICK
 Then strike up drums. God and Saint George for us!
@@ -3796,7 +3797,7 @@ And this for Rutland; both bound to revenge,
 Wert thou environ'd with a brazen wall.
 
 CLIFFORD
-0
+1
 RICHARD
 Now, Richard, I am with thee here alone.
 This is the hand that stabbed thy father York;
@@ -3894,7 +3895,9 @@ My tears shall wipe away these bloody marks;
 And no more words till they have flow'd their fill.
 
 KING HENRY
-0
+2
+FATHER
+SON
 O piteous spectacle! O bloody times!
 Whiles lions war and battle for their dens,
 Poor harmless lambs abide their enmity.
@@ -6849,10 +6852,11 @@ SOMERSET
 Who goes there?
 
 SECOND WATCHMAN
-5
+6
 CLARENCE
 THIRD WATCHMAN
 FIRST WATCHMAN
+WARWICK
 OXFORD
 SOMERSET
 Stay, or thou diest.

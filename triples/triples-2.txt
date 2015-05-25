@@ -1299,11 +1299,12 @@ TOUCHSTONE
 Have with you. Fare you well.
 
 ORLANDO
-5
-ROSALIND
-CELIA
-CHARLES
+6
 FREDERICK
+CHARLES
+ROSALIND
+LE BEAU
+CELIA
 TOUCHSTONE
 What passion hangs these weights upon my tongue?
 I cannot speak to her, yet she urg'd conference.
@@ -6996,12 +6997,14 @@ Is not this a rare fellow, my lord?
 He's as good at any thing, and yet a fool.
 
 DUKE SENIOR
-8
+10
 OLIVER
 AMIENS
 ORLANDO
 PHEBE
 AUDREY
+ROSALIND
+CELIA
 JAQUES
 SILVIUS
 TOUCHSTONE

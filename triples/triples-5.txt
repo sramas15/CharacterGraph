@@ -5286,8 +5286,10 @@ I wish my brother make good time with him,
 You say he is so fell.
 
 BELARIUS
-1
+3
 ARVIRAGUS
+CLOTEN
+GUIDERIUS
 Being scarce made up,
 I mean to man, he had not apprehension
 Or roaring terrors; for defect of judgment
@@ -5827,9 +5829,11 @@ GUIDERIUS
 Nothing ill come near thee!
 
 BOTH
-3
+5
 ARVIRAGUS
+CLOTEN
 IMOGEN
+BELARIUS
 GUIDERIUS
      Quiet consummation have,
 
@@ -6652,7 +6656,8 @@ Who had not now been drooping here if seconds
 Had answer'd him.
 
 SECOND CAPTAIN
-1
+2
+POSTHUMUS
 FIRST CAPTAIN
 Lay hands on him; a dog!
 A leg of Rome shall not return to tell
