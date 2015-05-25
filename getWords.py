@@ -1,7 +1,8 @@
 import re
+import pickle
 
 LISTENERS = re.compile(r"[A-Z ]*")
-DELIMS = r'\n| |,|\.|\?|!|:'
+DELIMS = r'\n| |,|\.|\?|!|:|;|\]|\[|}|--'
 DELIMS_PATTERN = re.compile(DELIMS)
 COUNT = 0
 print COUNT
@@ -45,16 +46,22 @@ def getWords(inFNm):
 			cnt += getWordsFromLine(line, words)
 	return words, cnt
 
-def getAllWords(inPtrn="triples/triples-%d.txt", num_files=36):
+def getAllWords(inPtrn="triples/triples-%d.txt", num_files=36, outFNm="lexicon.p"):
 	allWords = set()
 	total = 0
 	for i in range(num_files):
+		if i == 3:
+			continue
 		inFNm = inPtrn % i
 		words, cnt = getWords(inFNm)
 		allWords.update(words)
 		total += cnt
+	wordDict = {}
+	for i, word in enumerate(allWords):
+		wordDict[word] = i
 	print "%d / %d" % (len(allWords), total)
 	print float(total) / len(allWords)
+	pickle.dump(wordDict, open(outFNm, "wb"))
 
 
 if __name__ == "__main__":
