@@ -20,7 +20,7 @@ def liwcFeaturize(dictionary, text):
 			match = re.match(pattern, word)
 			if match:
 				count += 1.
-		features[scale] = count
+		features[scale] = count #/ len(words)
 	return features, len(words)
 
 # This function parse the triple-*.txt files and convert the
