@@ -23,7 +23,7 @@ for playNum in range(NUM_PLAYS):
 	f.close()
 
 	acts = readSpeechActs(playFile)
-	PRUNING_LIMIT = len(acts)/100
+	PRUNING_LIMIT = len(acts)/25
 	speechActCounts = {} # speaker -> number of speech acts
 	goldLabels = []
 	randomPredictions = []
@@ -39,7 +39,7 @@ for playNum in range(NUM_PLAYS):
 
 	prunedCharacters = set()
 	for key in speechActCounts:
-		if speechActCounts[key] > PRUNING_LIMIT:
+		if speechActCounts[key] >= PRUNING_LIMIT:
 			prunedCharacters.add(key)
 
 	mostCommonSpeaker = max((value, key) for key, value in speechActCounts.items())[1]
@@ -50,7 +50,7 @@ for playNum in range(NUM_PLAYS):
 	mostCommonPrunedPredictions = []
 	for act in acts:
 		trueSpeaker = act.speaker
-		if speechActCounts[trueSpeaker] > PRUNING_LIMIT:
+		if speechActCounts[trueSpeaker] >= PRUNING_LIMIT:
 			goldPrunedLabels.append(trueSpeaker)
 			randomPrunedPredictions.append(sample(prunedCharacters, 1)[0])
 	mostCommonPrunedPredictions = [mostCommonSpeaker for x in range(len(goldPrunedLabels))]
