@@ -3,7 +3,9 @@ from random import sample
 from sklearn import metrics
 
 NUM_PLAYS = 36
-PRUNING_LIMIT = 40
+# PRUNING_LIMIT = 40
+outFile = 'predict-speaker-baseline.out'
+
 for playNum in range(NUM_PLAYS):
 	playFile = 'triples/triples-'+str(playNum)+'.txt'
 	charFile = 'char_list/char-'+str(playNum)+'.txt'
@@ -18,12 +20,13 @@ for playNum in range(NUM_PLAYS):
 				titleLine = False
 			else:
 				characters.add(line.strip())
+	f.close()
 
 	acts = readSpeechActs(playFile)
+	PRUNING_LIMIT = len(acts)/100
 	speechActCounts = {} # speaker -> number of speech acts
 	goldLabels = []
 	randomPredictions = []
-
 	for act in acts:
 		trueSpeaker = act.speaker
 		goldLabels.append(trueSpeaker)
@@ -47,17 +50,20 @@ for playNum in range(NUM_PLAYS):
 	mostCommonPrunedPredictions = []
 	for act in acts:
 		trueSpeaker = act.speaker
-		if speechActCounts[trueSpeaker] > 40:
+		if speechActCounts[trueSpeaker] > PRUNING_LIMIT:
 			goldPrunedLabels.append(trueSpeaker)
 			randomPrunedPredictions.append(sample(prunedCharacters, 1)[0])
 	mostCommonPrunedPredictions = [mostCommonSpeaker for x in range(len(goldPrunedLabels))]
 
-	print "\nBaselines for play", playNum, playTitle
-	print "Random speaker baseline performance:"
-	print metrics.classification_report(goldLabels, randomPredictions)
-	print "Most common speaker baseline performance:"
-	print metrics.classification_report(goldLabels, mostCommonPredictions)
-	print "Pruned random speaker baseline performance:"
-	print metrics.classification_report(goldPrunedLabels, randomPrunedPredictions)
-	print "Pruned most common speaker baseline performance:"
-	print metrics.classification_report(goldPrunedLabels, mostCommonPrunedPredictions)
+	with open(outFile, 'a') as f:
+		f.write("Baselines for play "+str(playNum)+', '+playTitle)
+		f.write("\nRandom speaker baseline performance:\n")
+		f.write(metrics.classification_report(goldLabels, randomPredictions))
+		f.write("\nMost common speaker baseline performance:\n")
+		f.write(metrics.classification_report(goldLabels, mostCommonPredictions))
+		f.write("\nPruned random speaker baseline performance:\n")
+		f.write(metrics.classification_report(goldPrunedLabels, randomPrunedPredictions))
+		f.write("\nPruned most common speaker baseline performance:\n")
+		f.write(metrics.classification_report(goldPrunedLabels, mostCommonPrunedPredictions)+'\n')
+		f.write("--------------------------------------------------\n")
+	f.close()
