@@ -12,7 +12,7 @@ class SpeechAct(object):
 		return string
 
 
-# This function parse the triple-*.txt files and convert the
+# This function parses the triple-*.txt files and converts the
 # files into a list of tuples containing pairs of speakers 
 # (following the convention speaker_listener) and the speech.
 def readSpeechActs(filename):
