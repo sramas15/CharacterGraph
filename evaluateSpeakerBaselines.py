@@ -3,6 +3,7 @@ from random import sample
 from sklearn import metrics
 
 NUM_PLAYS = 36
+PRUNING_LIMIT = 40
 for playNum in range(NUM_PLAYS):
 	playFile = 'triples/triples-'+str(playNum)+'.txt'
 	charFile = 'char_list/char-'+str(playNum)+'.txt'
@@ -35,7 +36,7 @@ for playNum in range(NUM_PLAYS):
 
 	prunedCharacters = set()
 	for key in speechActCounts:
-		if speechActCounts[key] > 40:
+		if speechActCounts[key] > PRUNING_LIMIT:
 			prunedCharacters.add(key)
 
 	mostCommonSpeaker = max((value, key) for key, value in speechActCounts.items())[1]
