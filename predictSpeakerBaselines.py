@@ -23,7 +23,7 @@ for playNum in range(NUM_PLAYS):
 	f.close()
 
 	acts = readSpeechActs(playFile)
-	PRUNING_LIMIT = len(acts)/25
+	PRUNING_LIMIT = len(acts)/20
 	speechActCounts = {} # speaker -> number of speech acts
 	goldLabels = []
 	randomPredictions = []

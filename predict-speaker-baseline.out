@@ -5,29 +5,29 @@ Random speaker baseline performance:
 A WIDOW OF FLORENCE       0.00      0.00      0.00         0
         ALL       0.00      0.00      0.00         2
     BERTRAM       0.08      0.03      0.04       103
-      CLOWN       0.03      0.02      0.02        59
-COUNTESS OF ROUSILLON       0.03      0.01      0.02        88
-      DIANA       0.05      0.04      0.05        45
+      CLOWN       0.08      0.05      0.06        59
+COUNTESS OF ROUSILLON       0.10      0.05      0.06        88
+      DIANA       0.00      0.00      0.00        45
 DUKE OF FLORENCE       0.00      0.00      0.00         6
 FIRST GENTLEMAN       0.00      0.00      0.00         6
- FIRST LORD       0.03      0.03      0.03        40
-FIRST SOLDIER       0.03      0.03      0.03        38
+ FIRST LORD       0.02      0.03      0.02        40
+FIRST SOLDIER       0.00      0.00      0.00        38
 FOURTH LORD       0.00      0.00      0.00         1
-  GENTLEMAN       0.02      0.11      0.04         9
-     HELENA       0.09      0.03      0.04       111
-KING OF FRANCE       0.05      0.02      0.03        88
-      LAFEU       0.12      0.06      0.08        98
+  GENTLEMAN       0.00      0.00      0.00         9
+     HELENA       0.18      0.07      0.10       111
+KING OF FRANCE       0.06      0.02      0.03        88
+      LAFEU       0.08      0.04      0.05        98
     MARIANA       0.00      0.00      0.00         5
        PAGE       0.00      0.00      0.00         1
-   PAROLLES       0.19      0.06      0.09       142
-SECOND GENTLEMAN       0.04      0.33      0.07         6
-SECOND LORD       0.07      0.05      0.06        63
+   PAROLLES       0.07      0.02      0.03       142
+SECOND GENTLEMAN       0.00      0.00      0.00         6
+SECOND LORD       0.05      0.03      0.04        63
 SECOND SOLDIER       0.00      0.00      0.00         2
     SERVANT       0.00      0.00      0.00         1
     STEWARD       0.00      0.00      0.00         6
-      WIDOW       0.03      0.05      0.03        21
+      WIDOW       0.00      0.00      0.00        21
 
-avg / total       0.08      0.04      0.05       941
+avg / total       0.07      0.03      0.04       941
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -61,19 +61,16 @@ avg / total       0.02      0.15      0.04       941
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-    BERTRAM       0.19      0.14      0.16       103
-      CLOWN       0.09      0.14      0.10        59
-COUNTESS OF ROUSILLON       0.12      0.10      0.11        88
-      DIANA       0.04      0.09      0.06        45
- FIRST LORD       0.04      0.07      0.05        40
-FIRST SOLDIER       0.06      0.13      0.08        38
-     HELENA       0.05      0.04      0.04       111
-KING OF FRANCE       0.12      0.11      0.12        88
-      LAFEU       0.11      0.08      0.09        98
-   PAROLLES       0.13      0.06      0.08       142
-SECOND LORD       0.08      0.08      0.08        63
+    BERTRAM       0.14      0.14      0.14       103
+      CLOWN       0.07      0.10      0.08        59
+COUNTESS OF ROUSILLON       0.12      0.14      0.13        88
+     HELENA       0.09      0.08      0.08       111
+KING OF FRANCE       0.09      0.09      0.09        88
+      LAFEU       0.12      0.10      0.11        98
+   PAROLLES       0.18      0.13      0.15       142
+SECOND LORD       0.09      0.13      0.10        63
 
-avg / total       0.10      0.09      0.09       875
+avg / total       0.12      0.11      0.11       752
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -81,62 +78,59 @@ Pruned most common speaker baseline performance:
     BERTRAM       0.00      0.00      0.00       103
       CLOWN       0.00      0.00      0.00        59
 COUNTESS OF ROUSILLON       0.00      0.00      0.00        88
-      DIANA       0.00      0.00      0.00        45
- FIRST LORD       0.00      0.00      0.00        40
-FIRST SOLDIER       0.00      0.00      0.00        38
      HELENA       0.00      0.00      0.00       111
 KING OF FRANCE       0.00      0.00      0.00        88
       LAFEU       0.00      0.00      0.00        98
-   PAROLLES       0.16      1.00      0.28       142
+   PAROLLES       0.19      1.00      0.32       142
 SECOND LORD       0.00      0.00      0.00        63
 
-avg / total       0.03      0.16      0.05       875
+avg / total       0.04      0.19      0.06       752
 
 --------------------------------------------------
 Baselines for play 1, THE TRAGEDY OF ANTONY AND CLEOPATRA
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-    AGRIPPA       0.10      0.07      0.08        28
+    AGRIPPA       0.00      0.00      0.00        28
      ALEXAS       0.00      0.00      0.00        15
         ALL       0.00      0.00      0.00         9
-     ANTONY       0.04      0.00      0.01       206
+     ANTONY       0.18      0.02      0.04       206
        BOTH       0.00      0.00      0.00         1
-     CAESAR       0.11      0.03      0.05        96
-   CANIDIUS       0.04      0.10      0.06        10
+     CAESAR       0.00      0.00      0.00        96
+   CANIDIUS       0.00      0.00      0.00        10
     CAPTAIN       0.00      0.00      0.00         1
-  CENTURION       0.04      0.20      0.07         5
-   CHARMIAN       0.00      0.00      0.00        63
-  CLEOPATRA       0.56      0.02      0.05       204
+  CENTURION       0.00      0.00      0.00         5
+   CHARMIAN       0.11      0.03      0.05        63
+  CLEOPATRA       0.17      0.01      0.03       204
       CLOWN       0.00      0.00      0.00         8
   DEMETRIUS       0.00      0.00      0.00         2
-   DERCETAS       0.00      0.00      0.00         5
+   DERCETAS       0.05      0.20      0.08         5
    DIOMEDES       0.00      0.00      0.00         7
   DOLABELLA       0.00      0.00      0.00        23
    EGYPTIAN       0.00      0.00      0.00         2
   ENOBARBUS       0.00      0.00      0.00       111
-       EROS       0.05      0.04      0.04        26
+       EROS       0.04      0.04      0.04        26
  EUPHRONIUS       0.00      0.00      0.00         6
 FIRST ATTENDANT       0.00      0.00      0.00         1
 FIRST GUARD       0.00      0.00      0.00        11
 FIRST SERVANT       0.00      0.00      0.00         4
-FIRST SOLDIER       0.00      0.00      0.00         6
+FIRST SOLDIER       0.07      0.17      0.10         6
 FIRST WATCH       0.00      0.00      0.00         5
 FOURTH SOLDIER       0.00      0.00      0.00         2
      GALLUS       0.00      0.00      0.00         1
   GUARDSMAN       0.00      0.00      0.00         2
-       IRAS       0.00      0.00      0.00        18
+       IRAS       0.06      0.06      0.06        18
     LEPIDUS       0.00      0.00      0.00        30
    MAECENAS       0.00      0.00      0.00        15
     MARDIAN       0.00      0.00      0.00         7
-      MENAS       0.00      0.00      0.00        35
+      MENAS       0.05      0.03      0.04        35
  MENECRATES       0.00      0.00      0.00         2
-  MESSENGER       0.04      0.02      0.03        43
+  MESSENGER       0.00      0.00      0.00        43
     OCTAVIA       0.00      0.00      0.00        14
       PHILO       0.00      0.00      0.00         2
-     POMPEY       0.00      0.00      0.00        41
+     POMPEY       0.05      0.02      0.03        41
  PROCULEIUS       0.00      0.00      0.00        10
-     SCARUS       0.00      0.00      0.00        11
+     SCARUS       0.04      0.09      0.06        11
 SECOND ATTENDANT       0.00      0.00      0.00         1
 SECOND GUARD       0.00      0.00      0.00         4
 SECOND MESSENGER       0.00      0.00      0.00         2
@@ -157,7 +151,7 @@ THIRD SOLDIER       0.00      0.00      0.00         7
     VARRIUS       0.00      0.00      0.00         1
   VENTIDIUS       0.00      0.00      0.00         4
 
-avg / total       0.12      0.01      0.02      1176
+avg / total       0.07      0.01      0.02      1176
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -227,13 +221,13 @@ avg / total       0.03      0.18      0.05      1176
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ANTONY       0.30      0.19      0.23       206
-     CAESAR       0.17      0.22      0.19        96
-   CHARMIAN       0.12      0.32      0.18        63
-  CLEOPATRA       0.29      0.20      0.23       204
-  ENOBARBUS       0.19      0.20      0.19       111
+     ANTONY       0.33      0.23      0.27       206
+     CAESAR       0.15      0.20      0.17        96
+   CHARMIAN       0.13      0.27      0.17        63
+  CLEOPATRA       0.32      0.22      0.26       204
+  ENOBARBUS       0.15      0.19      0.17       111
 
-avg / total       0.24      0.21      0.22       680
+avg / total       0.25      0.22      0.23       680
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -251,33 +245,33 @@ Baselines for play 2, AS YOU LIKE IT
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-       ADAM       0.00      0.00      0.00        10
-     AMIENS       0.03      0.10      0.05        10
+       ADAM       0.03      0.10      0.05        10
+     AMIENS       0.00      0.00      0.00        10
      AUDREY       0.00      0.00      0.00        12
-      CELIA       0.06      0.02      0.03       108
+      CELIA       0.21      0.06      0.10       108
     CHARLES       0.00      0.00      0.00         8
-      CORIN       0.00      0.00      0.00        24
+      CORIN       0.06      0.08      0.07        24
      DENNIS       0.00      0.00      0.00         2
-DUKE SENIOR       0.00      0.00      0.00        32
+DUKE SENIOR       0.04      0.03      0.03        32
  FIRST LORD       0.00      0.00      0.00         8
  FIRST PAGE       0.00      0.00      0.00         3
-  FREDERICK       0.00      0.00      0.00        20
+  FREDERICK       0.03      0.05      0.04        20
       HYMEN       0.00      0.00      0.00         2
-     JAQUES       0.05      0.04      0.04        57
+     JAQUES       0.13      0.07      0.09        57
 JAQUES DE BOYS       0.00      0.00      0.00         2
     LE BEAU       0.00      0.00      0.00        14
     MARTEXT       0.00      0.00      0.00         3
-     OLIVER       0.11      0.11      0.11        37
-    ORLANDO       0.16      0.05      0.08       121
-      PHEBE       0.05      0.09      0.07        23
-   ROSALIND       0.19      0.03      0.04       199
+     OLIVER       0.08      0.05      0.07        37
+    ORLANDO       0.18      0.06      0.09       121
+      PHEBE       0.00      0.00      0.00        23
+   ROSALIND       0.31      0.05      0.08       199
 SECOND LORD       0.00      0.00      0.00         2
 SECOND PAGE       0.00      0.00      0.00         2
-    SILVIUS       0.03      0.04      0.04        24
- TOUCHSTONE       0.12      0.04      0.06        74
-    WILLIAM       0.05      0.18      0.08        11
+    SILVIUS       0.00      0.00      0.00        24
+ TOUCHSTONE       0.07      0.04      0.05        74
+    WILLIAM       0.03      0.09      0.04        11
 
-avg / total       0.10      0.03      0.04       808
+avg / total       0.16      0.05      0.07       808
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -313,55 +307,51 @@ avg / total       0.06      0.25      0.10       808
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-      CELIA       0.15      0.12      0.13       108
-DUKE SENIOR       0.12      0.34      0.18        32
-     JAQUES       0.13      0.19      0.16        57
-     OLIVER       0.05      0.11      0.07        37
-    ORLANDO       0.23      0.17      0.20       121
-   ROSALIND       0.34      0.18      0.23       199
- TOUCHSTONE       0.11      0.14      0.12        74
+      CELIA       0.18      0.19      0.19       108
+     JAQUES       0.05      0.09      0.06        57
+    ORLANDO       0.24      0.21      0.23       121
+   ROSALIND       0.36      0.19      0.25       199
+ TOUCHSTONE       0.13      0.23      0.17        74
 
-avg / total       0.21      0.17      0.18       628
+avg / total       0.24      0.19      0.20       559
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
       CELIA       0.00      0.00      0.00       108
-DUKE SENIOR       0.00      0.00      0.00        32
      JAQUES       0.00      0.00      0.00        57
-     OLIVER       0.00      0.00      0.00        37
     ORLANDO       0.00      0.00      0.00       121
-   ROSALIND       0.32      1.00      0.48       199
+   ROSALIND       0.36      1.00      0.53       199
  TOUCHSTONE       0.00      0.00      0.00        74
 
-avg / total       0.10      0.32      0.15       628
+avg / total       0.13      0.36      0.19       559
 
 --------------------------------------------------
 Baselines for play 3, THE COMEDY OF ERRORS
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ABBESS       0.05      0.12      0.07        16
-    ADRIANA       0.14      0.05      0.07        79
-     AEGEON       0.08      0.12      0.09        17
-     ANGELO       0.04      0.03      0.03        31
-ANTIPHOLUS OF EPHESUS       0.15      0.07      0.09        76
-ANTIPHOLUS OF SYRACUSE       0.25      0.09      0.13       103
-  BALTHAZAR       0.02      0.20      0.04         5
+     ABBESS       0.00      0.00      0.00        16
+    ADRIANA       0.24      0.11      0.16        79
+     AEGEON       0.00      0.00      0.00        17
+     ANGELO       0.06      0.06      0.06        31
+ANTIPHOLUS OF EPHESUS       0.24      0.09      0.13        76
+ANTIPHOLUS OF SYRACUSE       0.12      0.03      0.05       103
+  BALTHAZAR       0.00      0.00      0.00         5
   COURTEZAN       0.03      0.09      0.04        11
-DROMIO OF EPHESUS       0.12      0.05      0.07        63
-DROMIO OF SYRACUSE       0.16      0.06      0.09        99
-       DUKE       0.11      0.09      0.10        22
+DROMIO OF EPHESUS       0.07      0.05      0.06        63
+DROMIO OF SYRACUSE       0.20      0.07      0.10        99
+       DUKE       0.07      0.09      0.08        22
 FIRST MERCHANT       0.00      0.00      0.00         3
      GAOLER       0.00      0.00      0.00         1
-       LUCE       0.03      0.14      0.05         7
-    LUCIANA       0.03      0.02      0.03        43
+       LUCE       0.08      0.29      0.12         7
+    LUCIANA       0.11      0.09      0.10        43
   MESSENGER       0.00      0.00      0.00         2
     OFFICER       0.00      0.00      0.00        11
       PINCH       0.00      0.00      0.00         6
-SECOND MERCHANT       0.00      0.00      0.00        13
+SECOND MERCHANT       0.05      0.15      0.08        13
 
-avg / total       0.13      0.06      0.08       608
+avg / total       0.14      0.07      0.08       608
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -391,15 +381,15 @@ avg / total       0.03      0.17      0.05       608
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-    ADRIANA       0.17      0.13      0.14        79
-     ANGELO       0.05      0.10      0.06        31
-ANTIPHOLUS OF EPHESUS       0.16      0.13      0.14        76
-ANTIPHOLUS OF SYRACUSE       0.26      0.17      0.20       103
-DROMIO OF EPHESUS       0.14      0.21      0.17        63
-DROMIO OF SYRACUSE       0.17      0.12      0.14        99
-    LUCIANA       0.10      0.19      0.13        43
+    ADRIANA       0.16      0.13      0.14        79
+     ANGELO       0.05      0.13      0.07        31
+ANTIPHOLUS OF EPHESUS       0.18      0.17      0.18        76
+ANTIPHOLUS OF SYRACUSE       0.24      0.16      0.19       103
+DROMIO OF EPHESUS       0.14      0.16      0.15        63
+DROMIO OF SYRACUSE       0.24      0.18      0.21        99
+    LUCIANA       0.06      0.09      0.07        43
 
-avg / total       0.17      0.15      0.15       494
+avg / total       0.18      0.15      0.16       494
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -428,30 +418,30 @@ ALL THE PEOPLE       0.00      0.00      0.00         1
 BOTH CITIZENS       0.00      0.00      0.00         1
 BOTH TRIBUNES       0.00      0.00      0.00         7
         BOY       0.00      0.00      0.00         1
-     BRUTUS       0.09      0.02      0.04        91
+     BRUTUS       0.08      0.02      0.03        91
     CITIZEN       0.00      0.00      0.00         3
    CITIZENS       0.00      0.00      0.00         3
-   COMINIUS       0.09      0.02      0.03        66
+   COMINIUS       0.21      0.05      0.08        66
 CONSPIRATORS       0.00      0.00      0.00         2
 FIFTH CITIZEN       0.00      0.00      0.00         1
-FIRST CITIZEN       0.00      0.00      0.00        34
-FIRST CONSPIRATOR       0.00      0.00      0.00         3
+FIRST CITIZEN       0.14      0.09      0.11        34
+FIRST CONSPIRATOR       0.06      0.33      0.11         3
  FIRST LORD       0.00      0.00      0.00         4
 FIRST OFFICER       0.00      0.00      0.00         4
 FIRST PATRICIAN       0.00      0.00      0.00         1
 FIRST ROMAN       0.00      0.00      0.00         1
-FIRST SENATOR       0.05      0.05      0.05        22
-FIRST SERVANT       0.11      0.12      0.11        17
-FIRST SOLDIER       0.04      0.12      0.06         8
-FIRST WATCH       0.07      0.08      0.08        12
+FIRST SENATOR       0.06      0.05      0.05        22
+FIRST SERVANT       0.00      0.00      0.00        17
+FIRST SOLDIER       0.00      0.00      0.00         8
+FIRST WATCH       0.00      0.00      0.00        12
 FOURTH CITIZEN       0.00      0.00      0.00         3
 GENTLEWOMAN       0.00      0.00      0.00         1
      HERALD       0.00      0.00      0.00         2
-    LARTIUS       0.04      0.04      0.04        24
+    LARTIUS       0.00      0.00      0.00        24
  LIEUTENANT       0.00      0.00      0.00         4
       LORDS       0.00      0.00      0.00         3
-    MARCIUS       0.11      0.01      0.02       193
-   MENENIUS       0.17      0.02      0.04       165
+    MARCIUS       0.12      0.01      0.02       193
+   MENENIUS       0.21      0.02      0.04       165
   MESSENGER       0.00      0.00      0.00        13
  PATRICIANS       0.00      0.00      0.00         4
   PLEBEIANS       0.00      0.00      0.00        13
@@ -461,27 +451,27 @@ SECOND CITIZENS       0.00      0.00      0.00         1
 SECOND CONSPIRATOR       0.00      0.00      0.00         2
 SECOND LORD       0.00      0.00      0.00         3
 SECOND MESSENGER       0.00      0.00      0.00         4
-SECOND OFFICER       0.05      0.33      0.08         3
+SECOND OFFICER       0.00      0.00      0.00         3
 SECOND ROMAN       0.00      0.00      0.00         1
 SECOND SENATOR       0.00      0.00      0.00         4
-SECOND SERVANT       0.00      0.00      0.00        17
+SECOND SERVANT       0.07      0.06      0.06        17
 SECOND SOLDIER       0.00      0.00      0.00         1
 SECOND WATCH       0.00      0.00      0.00         6
-   SENATORS       0.05      1.00      0.10         1
+   SENATORS       0.00      0.00      0.00         1
 SEVENTH CITIZEN       0.00      0.00      0.00         1
-   SICINIUS       0.00      0.00      0.00       119
+   SICINIUS       0.12      0.03      0.04       119
 SIXTH CITIZEN       0.00      0.00      0.00         1
 THIRD CITIZEN       0.00      0.00      0.00        14
 THIRD CONSPIRATOR       0.00      0.00      0.00         3
  THIRD LORD       0.00      0.00      0.00         1
 THIRD ROMAN       0.00      0.00      0.00         1
-THIRD SERVANT       0.09      0.05      0.06        20
+THIRD SERVANT       0.08      0.10      0.09        20
     VALERIA       0.00      0.00      0.00        14
-   VIRGILIA       0.00      0.00      0.00        26
+   VIRGILIA       0.07      0.04      0.05        26
      VOLSCE       0.00      0.00      0.00         9
    VOLUMNIA       0.06      0.02      0.03        57
 
-avg / total       0.07      0.02      0.02      1117
+avg / total       0.10      0.02      0.03      1117
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -553,28 +543,26 @@ avg / total       0.03      0.17      0.05      1117
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-   AUFIDIUS       0.07      0.16      0.10        45
-     BRUTUS       0.14      0.16      0.15        91
-   COMINIUS       0.07      0.11      0.08        66
-    MARCIUS       0.20      0.11      0.14       193
-   MENENIUS       0.18      0.13      0.15       165
-   SICINIUS       0.16      0.13      0.14       119
-   VOLUMNIA       0.12      0.21      0.15        57
+     BRUTUS       0.16      0.20      0.17        91
+   COMINIUS       0.08      0.15      0.10        66
+    MARCIUS       0.30      0.18      0.22       193
+   MENENIUS       0.20      0.15      0.17       165
+   SICINIUS       0.17      0.14      0.16       119
+   VOLUMNIA       0.07      0.14      0.10        57
 
-avg / total       0.15      0.14      0.14       736
+avg / total       0.20      0.16      0.17       691
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
-   AUFIDIUS       0.00      0.00      0.00        45
      BRUTUS       0.00      0.00      0.00        91
    COMINIUS       0.00      0.00      0.00        66
-    MARCIUS       0.26      1.00      0.42       193
+    MARCIUS       0.28      1.00      0.44       193
    MENENIUS       0.00      0.00      0.00       165
    SICINIUS       0.00      0.00      0.00       119
    VOLUMNIA       0.00      0.00      0.00        57
 
-avg / total       0.07      0.26      0.11       736
+avg / total       0.08      0.28      0.12       691
 
 --------------------------------------------------
 Baselines for play 5, CYMBELINE
@@ -582,14 +570,14 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
         ALL       0.00      0.00      0.00         1
-  ARVIRAGUS       0.06      0.02      0.03        46
-   BELARIUS       0.04      0.02      0.02        60
+  ARVIRAGUS       0.00      0.00      0.00        46
+   BELARIUS       0.07      0.03      0.04        60
        BOTH       0.00      0.00      0.00         2
    BROTHERS       0.00      0.00      0.00         1
     CAPTAIN       0.00      0.00      0.00         4
-     CLOTEN       0.15      0.04      0.06        78
-  CORNELIUS       0.00      0.00      0.00        13
-  CYMBELINE       0.12      0.02      0.04        83
+     CLOTEN       0.19      0.06      0.10        78
+  CORNELIUS       0.03      0.08      0.05        13
+  CYMBELINE       0.07      0.01      0.02        83
 FIRST BROTHER       0.00      0.00      0.00         2
 FIRST CAPTAIN       0.00      0.00      0.00         2
 FIRST GAOLER       0.00      0.00      0.00         1
@@ -597,32 +585,32 @@ FIRST GENTLEMAN       0.00      0.00      0.00        10
  FIRST LORD       0.00      0.00      0.00        12
 FIRST SENATOR       0.00      0.00      0.00         2
   FRENCHMAN       0.00      0.00      0.00         7
-     GAOLER       0.04      0.12      0.06         8
-  GUIDERIUS       0.09      0.03      0.05        59
-    IACHIMO       0.05      0.01      0.02        77
-     IMOGEN       0.05      0.01      0.01       121
+     GAOLER       0.03      0.12      0.05         8
+  GUIDERIUS       0.06      0.02      0.03        59
+    IACHIMO       0.09      0.03      0.04        77
+     IMOGEN       0.07      0.01      0.01       121
     JUPITER       0.00      0.00      0.00         1
        LADY       0.00      0.00      0.00        10
        LORD       0.00      0.00      0.00         9
-     LUCIUS       0.08      0.08      0.08        25
+     LUCIUS       0.00      0.00      0.00        25
   MESSENGER       0.00      0.00      0.00         3
      MOTHER       0.00      0.00      0.00         3
   MUSICIANS       0.00      0.00      0.00         1
-   PHILARIO       0.00      0.00      0.00        14
-    PISANIO       0.08      0.03      0.05        59
-  POSTHUMUS       0.21      0.05      0.08        78
+   PHILARIO       0.06      0.07      0.06        14
+    PISANIO       0.13      0.07      0.09        59
+  POSTHUMUS       0.12      0.04      0.06        78
       QUEEN       0.00      0.00      0.00        29
 SECOND BROTHER       0.00      0.00      0.00         1
 SECOND CAPTAIN       0.00      0.00      0.00         2
 SECOND GAOLER       0.00      0.00      0.00         1
-SECOND GENTLEMAN       0.08      0.22      0.12         9
+SECOND GENTLEMAN       0.00      0.00      0.00         9
 SECOND LORD       0.00      0.00      0.00        21
 SECOND SENATOR       0.00      0.00      0.00         1
    SICILIUS       0.00      0.00      0.00         7
  SOOTHSAYER       0.00      0.00      0.00         5
     TRIBUNE       0.00      0.00      0.00         3
 
-avg / total       0.08      0.03      0.03       871
+avg / total       0.07      0.03      0.03       871
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -673,17 +661,17 @@ avg / total       0.02      0.14      0.03       871
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-  ARVIRAGUS       0.07      0.13      0.09        46
-   BELARIUS       0.10      0.12      0.11        60
-     CLOTEN       0.14      0.13      0.13        78
-  CYMBELINE       0.12      0.11      0.11        83
-  GUIDERIUS       0.08      0.12      0.10        59
-    IACHIMO       0.13      0.12      0.12        77
-     IMOGEN       0.29      0.17      0.21       121
-    PISANIO       0.12      0.14      0.13        59
-  POSTHUMUS       0.11      0.10      0.11        78
+  ARVIRAGUS       0.05      0.09      0.06        46
+   BELARIUS       0.15      0.18      0.16        60
+     CLOTEN       0.14      0.10      0.12        78
+  CYMBELINE       0.06      0.06      0.06        83
+  GUIDERIUS       0.10      0.12      0.11        59
+    IACHIMO       0.12      0.14      0.13        77
+     IMOGEN       0.17      0.11      0.13       121
+    PISANIO       0.09      0.10      0.09        59
+  POSTHUMUS       0.15      0.13      0.14        78
 
-avg / total       0.15      0.13      0.13       661
+avg / total       0.12      0.11      0.11       661
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -705,42 +693,42 @@ Baselines for play 6, THE TRAGEDY OF HAMLET, PRINCE OF DENMARK
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-        ALL       0.03      0.17      0.05         6
+        ALL       0.00      0.00      0.00         6
  AMBASSADOR       0.00      0.00      0.00         1
-   BERNARDO       0.00      0.00      0.00        19
+   BERNARDO       0.03      0.05      0.04        19
        BOTH       0.00      0.00      0.00         9
     CAPTAIN       0.00      0.00      0.00         7
-      CLOWN       0.02      0.03      0.03        33
+      CLOWN       0.05      0.06      0.06        33
   CORNELIUS       0.00      0.00      0.00         1
-FIRST PLAYER       0.00      0.00      0.00         6
- FORTINBRAS       0.03      0.20      0.06         5
+FIRST PLAYER       0.04      0.17      0.06         6
+ FORTINBRAS       0.00      0.00      0.00         5
   FRANCISCO       0.00      0.00      0.00         8
   GENTLEMAN       0.00      0.00      0.00         2
   GENTLEMEN       0.00      0.00      0.00         1
-      GHOST       0.03      0.07      0.04        15
+      GHOST       0.04      0.07      0.05        15
 GUILDENSTERN       0.00      0.00      0.00        29
-     HAMLET       0.34      0.03      0.06       358
-    HORATIO       0.08      0.03      0.04       108
-       KING       0.07      0.02      0.03       102
-    LAERTES       0.06      0.03      0.04        62
+     HAMLET       0.33      0.03      0.05       358
+    HORATIO       0.10      0.04      0.05       108
+       KING       0.03      0.01      0.01       102
+    LAERTES       0.02      0.02      0.02        62
        LORD       0.00      0.00      0.00         3
-  MARCELLUS       0.04      0.03      0.03        31
+  MARCELLUS       0.00      0.00      0.00        31
   MESSENGER       0.00      0.00      0.00         3
-    OPHELIA       0.06      0.03      0.04        58
+    OPHELIA       0.10      0.05      0.07        58
       OSRIC       0.00      0.00      0.00        25
      PLAYER       0.00      0.00      0.00         2
-   POLONIUS       0.07      0.03      0.05        86
+   POLONIUS       0.07      0.02      0.03        86
      PRIEST       0.00      0.00      0.00         2
    PROLOGUE       0.00      0.00      0.00         1
-      QUEEN       0.11      0.04      0.06        69
+      QUEEN       0.07      0.03      0.04        69
    REYNALDO       0.00      0.00      0.00        13
-ROSENCRANTZ       0.05      0.04      0.05        45
+ROSENCRANTZ       0.04      0.02      0.03        45
      SAILOR       0.00      0.00      0.00         2
-SECOND CLOWN       0.03      0.08      0.05        12
+SECOND CLOWN       0.00      0.00      0.00        12
     SERVANT       0.00      0.00      0.00         1
   VOLTEMAND       0.00      0.00      0.00         1
 
-avg / total       0.15      0.03      0.04      1126
+avg / total       0.14      0.02      0.04      1126
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -785,30 +773,28 @@ avg / total       0.10      0.32      0.15      1126
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     HAMLET       0.42      0.13      0.20       358
-    HORATIO       0.13      0.15      0.14       108
-       KING       0.19      0.21      0.20       102
-    LAERTES       0.09      0.16      0.12        62
-    OPHELIA       0.08      0.16      0.10        58
-   POLONIUS       0.09      0.10      0.10        86
-      QUEEN       0.11      0.19      0.14        69
-ROSENCRANTZ       0.05      0.11      0.07        45
+     HAMLET       0.45      0.15      0.22       358
+    HORATIO       0.12      0.16      0.14       108
+       KING       0.11      0.12      0.11       102
+    LAERTES       0.08      0.15      0.10        62
+    OPHELIA       0.06      0.12      0.08        58
+   POLONIUS       0.09      0.12      0.10        86
+      QUEEN       0.09      0.17      0.12        69
 
-avg / total       0.24      0.15      0.16       888
+avg / total       0.25      0.14      0.16       843
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
-     HAMLET       0.40      1.00      0.57       358
+     HAMLET       0.42      1.00      0.60       358
     HORATIO       0.00      0.00      0.00       108
        KING       0.00      0.00      0.00       102
     LAERTES       0.00      0.00      0.00        62
     OPHELIA       0.00      0.00      0.00        58
    POLONIUS       0.00      0.00      0.00        86
       QUEEN       0.00      0.00      0.00        69
-ROSENCRANTZ       0.00      0.00      0.00        45
 
-avg / total       0.16      0.40      0.23       888
+avg / total       0.18      0.42      0.25       843
 
 --------------------------------------------------
 Baselines for play 7, THE FIRST PART OF KING HENRY THE FOURTH
@@ -818,39 +804,39 @@ Random speaker baseline performance:
  ARCHBISHOP       0.00      0.00      0.00         5
    BARDOLPH       0.07      0.11      0.09        18
     BARDOPH       0.00      0.00      0.00         1
-      BLUNT       0.03      0.10      0.05        10
+      BLUNT       0.00      0.00      0.00        10
     CARRIER       0.00      0.00      0.00         1
 CHAMBERLAIN       0.00      0.00      0.00         6
     DOUGLAS       0.00      0.00      0.00        19
-   FALSTAFF       0.17      0.02      0.04       151
-FIRST CARRIER       0.03      0.12      0.05         8
-    FRANCIS       0.05      0.07      0.06        14
-   GADSHILL       0.05      0.06      0.05        17
-  GLENDOWER       0.00      0.00      0.00        23
-    HOSTESS       0.09      0.08      0.09        24
-    HOTSPUR       0.21      0.06      0.09       101
-       KING       0.04      0.03      0.04        29
-       LADY       0.08      0.25      0.12         8
+   FALSTAFF       0.14      0.03      0.04       151
+FIRST CARRIER       0.00      0.00      0.00         8
+    FRANCIS       0.00      0.00      0.00        14
+   GADSHILL       0.04      0.06      0.05        17
+  GLENDOWER       0.04      0.04      0.04        23
+    HOSTESS       0.05      0.04      0.05        24
+    HOTSPUR       0.07      0.02      0.03       101
+       KING       0.00      0.00      0.00        29
+       LADY       0.06      0.25      0.10         8
      LADY P       0.00      0.00      0.00         0
   LANCASTER       0.00      0.00      0.00         5
   MESSENGER       0.00      0.00      0.00         6
    MORTIMER       0.00      0.00      0.00        13
 NORTHUMBERLAND       0.00      0.00      0.00        11
-       PETO       0.00      0.00      0.00         8
-      POINS       0.05      0.03      0.03        37
-     PRINCE       0.12      0.01      0.02       168
+       PETO       0.04      0.12      0.06         8
+      POINS       0.00      0.00      0.00        37
+     PRINCE       0.14      0.01      0.02       168
 SECOND CARRIER       0.00      0.00      0.00         6
     SERVANT       0.00      0.00      0.00         3
     SHERIFF       0.00      0.00      0.00         5
 SIR MICHAEL       0.00      0.00      0.00         4
     THIEVES       0.00      0.00      0.00         1
   TRAVELLER       0.00      0.00      0.00         3
-     VERNON       0.00      0.00      0.00        12
+     VERNON       0.07      0.17      0.10        12
     VINTNER       0.00      0.00      0.00         1
 WESTMORELAND       0.00      0.00      0.00         9
   WORCESTER       0.00      0.00      0.00        35
 
-avg / total       0.10      0.03      0.04       762
+avg / total       0.08      0.02      0.03       762
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -894,82 +880,78 @@ avg / total       0.05      0.22      0.08       762
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-   FALSTAFF       0.30      0.16      0.21       151
-    HOTSPUR       0.19      0.18      0.18       101
-      POINS       0.12      0.32      0.18        37
-     PRINCE       0.21      0.12      0.15       168
-  WORCESTER       0.04      0.14      0.06        35
+   FALSTAFF       0.43      0.41      0.42       151
+    HOTSPUR       0.25      0.35      0.29       101
+     PRINCE       0.45      0.36      0.40       168
 
-avg / total       0.22      0.16      0.17       492
+avg / total       0.39      0.37      0.38       420
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
    FALSTAFF       0.00      0.00      0.00       151
     HOTSPUR       0.00      0.00      0.00       101
-      POINS       0.00      0.00      0.00        37
-     PRINCE       0.34      1.00      0.51       168
-  WORCESTER       0.00      0.00      0.00        35
+     PRINCE       0.40      1.00      0.57       168
 
-avg / total       0.12      0.34      0.17       492
+avg / total       0.16      0.40      0.23       420
 
 --------------------------------------------------
 Baselines for play 8, SECOND PART OF KING HENRY IV
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
- ARCHBISHOP       0.08      0.08      0.08        25
-   BARDOLPH       0.06      0.03      0.04        30
+ ARCHBISHOP       0.00      0.00      0.00        25
+   BARDOLPH       0.00      0.00      0.00        30
    BROTHERS       0.00      0.00      0.00         1
    BULLCALF       0.00      0.00      0.00         5
-CHIEF JUSTICE       0.06      0.02      0.03        56
-   CLARENCE       0.00      0.00      0.00        13
+CHIEF JUSTICE       0.00      0.00      0.00        56
+   CLARENCE       0.05      0.08      0.06        13
    COLVILLE       0.00      0.00      0.00         5
-       DAVY       0.00      0.00      0.00        14
+       DAVY       0.05      0.07      0.06        14
        DOLL       0.00      0.00      0.00        31
-   FALSTAFF       0.12      0.01      0.02       186
+   FALSTAFF       0.30      0.02      0.03       186
        FANG       0.00      0.00      0.00         7
      FEEBLE       0.00      0.00      0.00         7
 FIRST BEADLE       0.00      0.00      0.00         4
 FIRST GROOM       0.00      0.00      0.00         1
-    FRANCIS       0.00      0.00      0.00         4
+    FRANCIS       0.05      0.25      0.08         4
       GOWER       0.00      0.00      0.00         4
    HARCOURT       0.00      0.00      0.00         1
-   HASTINGS       0.05      0.06      0.05        17
-    HOSTESS       0.06      0.02      0.03        49
-       KING       0.00      0.00      0.00        33
+   HASTINGS       0.00      0.00      0.00        17
+    HOSTESS       0.00      0.00      0.00        49
+       KING       0.06      0.03      0.04        33
 LADY NORTHUMBERLAND       0.00      0.00      0.00         2
  LADY PERCY       0.00      0.00      0.00         2
-LORD BARDOLPH       0.06      0.06      0.06        18
+LORD BARDOLPH       0.00      0.00      0.00        18
   MESSENGER       0.00      0.00      0.00         1
-     MORTON       0.07      0.17      0.10         6
+     MORTON       0.00      0.00      0.00         6
      MOULDY       0.00      0.00      0.00         5
     MOWBRAY       0.00      0.00      0.00        18
 NORTHUMBERLAND       0.00      0.00      0.00        17
        PAGE       0.00      0.00      0.00        17
        PETO       0.00      0.00      0.00         1
-     PISTOL       0.00      0.00      0.00        31
-      POINS       0.00      0.00      0.00        28
+     PISTOL       0.06      0.03      0.04        31
+      POINS       0.04      0.04      0.04        28
      PORTER       0.00      0.00      0.00         2
-     PRINCE       0.08      0.03      0.05        60
+     PRINCE       0.00      0.00      0.00        60
 PRINCE HUMPHREY       0.00      0.00      0.00        10
-PRINCE JOHN       0.00      0.00      0.00        26
+PRINCE JOHN       0.06      0.04      0.05        26
      RUMOUR       0.00      0.00      0.00         1
 SECOND DRAWER       0.00      0.00      0.00         2
 SECOND GROOM       0.00      0.00      0.00         1
     SERVANT       0.00      0.00      0.00         7
      SHADOW       0.00      0.00      0.00         2
-    SHALLOW       0.17      0.04      0.06        77
+    SHALLOW       0.06      0.01      0.02        77
     SILENCE       0.00      0.00      0.00        22
       SNARE       0.00      0.00      0.00         2
 THIRD DRAWER       0.00      0.00      0.00         2
 THIRD GROOM       0.00      0.00      0.00         1
     TRAVERS       0.00      0.00      0.00         1
        WART       0.00      0.00      0.00         2
-    WARWICK       0.00      0.00      0.00        26
+    WARWICK       0.05      0.04      0.04        26
 WESTMORELAND       0.00      0.00      0.00        21
 
-avg / total       0.06      0.02      0.02       904
+avg / total       0.08      0.01      0.02       904
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1030,13 +1012,13 @@ avg / total       0.04      0.21      0.07       904
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-CHIEF JUSTICE       0.12      0.20      0.15        56
-   FALSTAFF       0.48      0.22      0.30       186
-    HOSTESS       0.09      0.14      0.11        49
-     PRINCE       0.14      0.18      0.16        60
-    SHALLOW       0.15      0.18      0.16        77
+CHIEF JUSTICE       0.11      0.18      0.14        56
+   FALSTAFF       0.40      0.17      0.24       186
+    HOSTESS       0.05      0.08      0.06        49
+     PRINCE       0.11      0.18      0.14        60
+    SHALLOW       0.21      0.22      0.21        77
 
-avg / total       0.28      0.19      0.21       428
+avg / total       0.25      0.17      0.19       428
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1054,55 +1036,55 @@ Baselines for play 9, THE LIFE OF KING HENRY THE FIFTH
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-      ALICE       0.06      0.05      0.05        22
+      ALICE       0.07      0.05      0.05        22
         ALL       0.00      0.00      0.00         1
  AMBASSADOR       0.00      0.00      0.00         2
    BARDOLPH       0.00      0.00      0.00        16
       BATES       0.00      0.00      0.00         7
     BEDFORD       0.00      0.00      0.00         5
     BOURBON       0.00      0.00      0.00         2
-        BOY       0.09      0.06      0.07        17
+        BOY       0.06      0.06      0.06        17
    BRITAINE       0.00      0.00      0.00         2
-   BURGUNDY       0.08      0.12      0.10         8
+   BURGUNDY       0.00      0.00      0.00         8
   CAMBRIDGE       0.00      0.00      0.00         5
  CANTERBURY       0.00      0.00      0.00         7
      CHORUS       0.00      0.00      0.00         5
   CONSTABLE       0.05      0.03      0.03        40
       COURT       0.00      0.00      0.00         1
-    DAUPHIN       0.14      0.10      0.11        31
+    DAUPHIN       0.00      0.00      0.00        31
         ELY       0.00      0.00      0.00         1
   ERPINGHAM       0.00      0.00      0.00         5
      EXETER       0.00      0.00      0.00        22
-   FLUELLEN       0.11      0.03      0.05        68
+   FLUELLEN       0.07      0.01      0.02        68
 FRENCH KING       0.00      0.00      0.00        19
-FRENCH SOLDIER       0.00      0.00      0.00        10
- GLOUCESTER       0.00      0.00      0.00         5
+FRENCH SOLDIER       0.09      0.10      0.10        10
+ GLOUCESTER       0.09      0.20      0.13         5
    GOVERNOR       0.00      0.00      0.00         1
-      GOWER       0.00      0.00      0.00        27
+      GOWER       0.05      0.04      0.04        27
    GRANDPRE       0.00      0.00      0.00         1
-       GREY       0.00      0.00      0.00         4
+       GREY       0.05      0.25      0.08         4
      HERALD       0.00      0.00      0.00         1
-    HOSTESS       0.22      0.18      0.20        11
-       JAMY       0.09      0.25      0.13         4
-  KATHERINE       0.17      0.06      0.09        33
- KING HENRY       0.12      0.01      0.02       147
+    HOSTESS       0.00      0.00      0.00        11
+       JAMY       0.00      0.00      0.00         4
+  KATHERINE       0.05      0.03      0.04        33
+ KING HENRY       0.14      0.03      0.05       147
       LORDS       0.00      0.00      0.00         1
   MACMORRIS       0.00      0.00      0.00         4
   MESSENGER       0.00      0.00      0.00         4
     MONTJOY       0.00      0.00      0.00        11
-        NYM       0.00      0.00      0.00        21
+        NYM       0.11      0.10      0.10        21
     ORLEANS       0.00      0.00      0.00        29
-     PISTOL       0.00      0.00      0.00        62
+     PISTOL       0.17      0.05      0.08        62
 QUEEN ISABEL       0.00      0.00      0.00         5
    RAMBURES       0.00      0.00      0.00         5
   SALISBURY       0.00      0.00      0.00         2
      SCROOP       0.00      0.00      0.00         5
     WARWICK       0.00      0.00      0.00         1
-WESTMORELAND       0.00      0.00      0.00         9
-   WILLIAMS       0.12      0.07      0.09        28
+WESTMORELAND       0.08      0.11      0.09         9
+   WILLIAMS       0.00      0.00      0.00        28
        YORK       0.00      0.00      0.00         1
 
-avg / total       0.06      0.03      0.03       718
+avg / total       0.07      0.03      0.03       718
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1160,30 +1142,22 @@ avg / total       0.04      0.20      0.07       718
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-  CONSTABLE       0.04      0.05      0.04        40
-    DAUPHIN       0.07      0.13      0.09        31
-   FLUELLEN       0.15      0.12      0.13        68
-  KATHERINE       0.12      0.21      0.15        33
- KING HENRY       0.27      0.09      0.13       147
-    ORLEANS       0.05      0.10      0.07        29
-     PISTOL       0.18      0.18      0.18        62
-   WILLIAMS       0.02      0.04      0.02        28
+  CONSTABLE       0.07      0.12      0.09        40
+   FLUELLEN       0.23      0.28      0.25        68
+ KING HENRY       0.34      0.20      0.25       147
+     PISTOL       0.20      0.24      0.22        62
 
-avg / total       0.16      0.11      0.12       438
+avg / total       0.25      0.21      0.22       317
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
   CONSTABLE       0.00      0.00      0.00        40
-    DAUPHIN       0.00      0.00      0.00        31
    FLUELLEN       0.00      0.00      0.00        68
-  KATHERINE       0.00      0.00      0.00        33
- KING HENRY       0.34      1.00      0.50       147
-    ORLEANS       0.00      0.00      0.00        29
+ KING HENRY       0.46      1.00      0.63       147
      PISTOL       0.00      0.00      0.00        62
-   WILLIAMS       0.00      0.00      0.00        28
 
-avg / total       0.11      0.34      0.17       438
+avg / total       0.22      0.46      0.29       317
 
 --------------------------------------------------
 Baselines for play 10, THE FIRST PART OF HENRY THE SIXTH
@@ -1194,11 +1168,11 @@ Random speaker baseline performance:
         ALL       0.00      0.00      0.00         1
      BASSET       0.00      0.00      0.00         7
     BASTARD       0.00      0.00      0.00        12
-    BEDFORD       0.00      0.00      0.00        19
+    BEDFORD       0.04      0.05      0.05        19
         BOY       0.00      0.00      0.00         2
-   BURGUNDY       0.09      0.06      0.07        17
+   BURGUNDY       0.00      0.00      0.00        17
     CAPTAIN       0.00      0.00      0.00         4
-    CHARLES       0.23      0.07      0.11        41
+    CHARLES       0.07      0.02      0.04        41
    COUNTESS       0.00      0.00      0.00        13
      EXETER       0.00      0.00      0.00        11
    FASTOLFE       0.00      0.00      0.00         3
@@ -1210,21 +1184,21 @@ FIRST WARDER       0.00      0.00      0.00         2
    GARGRAVE       0.00      0.00      0.00         2
 GENERAL OF THE FRENCH       0.00      0.00      0.00         1
   GLANSDALE       0.00      0.00      0.00         1
- GLOUCESTER       0.11      0.02      0.04        47
+ GLOUCESTER       0.00      0.00      0.00        47
        JOHN       0.00      0.00      0.00        11
-       KING       0.00      0.00      0.00        29
+       KING       0.07      0.03      0.05        29
      LAWYER       0.00      0.00      0.00         2
      LEGATE       0.00      0.00      0.00         1
        LUCY       0.00      0.00      0.00        14
-   MARGARET       0.00      0.00      0.00        22
+   MARGARET       0.11      0.05      0.06        22
       MAYOR       0.00      0.00      0.00         5
   MESSENGER       0.00      0.00      0.00         9
-   MORTIMER       0.06      0.11      0.08         9
+   MORTIMER       0.00      0.00      0.00         9
     OFFICER       0.00      0.00      0.00         2
-PLANTAGENET       0.05      0.02      0.03        56
+PLANTAGENET       0.10      0.04      0.05        56
      PORTER       0.00      0.00      0.00         1
-    PUCELLE       0.11      0.02      0.04        46
-   REIGNIER       0.07      0.05      0.06        22
+    PUCELLE       0.08      0.02      0.03        46
+   REIGNIER       0.00      0.00      0.00        22
   SALISBURY       0.00      0.00      0.00         4
       SCOUT       0.00      0.00      0.00         2
 SECOND MESSENGER       0.00      0.00      0.00         1
@@ -1233,17 +1207,17 @@ SECOND WARDER       0.00      0.00      0.00         1
     SERVANT       0.00      0.00      0.00         1
    SHEPHERD       0.00      0.00      0.00         4
     SOLDIER       0.00      0.00      0.00         1
-   SOMERSET       0.10      0.04      0.05        27
-    SUFFOLK       0.17      0.05      0.08        41
-     TALBOT       0.06      0.02      0.03        59
+   SOMERSET       0.08      0.04      0.05        27
+    SUFFOLK       0.14      0.05      0.07        41
+     TALBOT       0.00      0.00      0.00        59
 THIRD MESSENGER       0.00      0.00      0.00         4
-     VERNON       0.00      0.00      0.00        12
+     VERNON       0.06      0.08      0.07        12
     WARWICK       0.00      0.00      0.00        24
-      WATCH       0.00      0.00      0.00         2
+      WATCH       0.11      0.50      0.18         2
  WINCHESTER       0.00      0.00      0.00        26
   WOODVILLE       0.00      0.00      0.00         2
 
-avg / total       0.06      0.02      0.03       650
+avg / total       0.04      0.02      0.02       650
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1306,32 +1280,26 @@ avg / total       0.01      0.09      0.02       650
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-    CHARLES       0.08      0.07      0.08        41
- GLOUCESTER       0.18      0.17      0.18        47
-       KING       0.12      0.17      0.14        29
-PLANTAGENET       0.12      0.09      0.10        56
-    PUCELLE       0.13      0.11      0.12        46
-   SOMERSET       0.04      0.07      0.05        27
-    SUFFOLK       0.10      0.10      0.10        41
-     TALBOT       0.18      0.14      0.15        59
- WINCHESTER       0.05      0.08      0.06        26
+    CHARLES       0.05      0.05      0.05        41
+ GLOUCESTER       0.10      0.11      0.11        47
+PLANTAGENET       0.24      0.23      0.24        56
+    PUCELLE       0.17      0.22      0.19        46
+    SUFFOLK       0.04      0.05      0.04        41
+     TALBOT       0.11      0.07      0.08        59
 
-avg / total       0.12      0.11      0.12       372
+avg / total       0.12      0.12      0.12       290
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
     CHARLES       0.00      0.00      0.00        41
  GLOUCESTER       0.00      0.00      0.00        47
-       KING       0.00      0.00      0.00        29
 PLANTAGENET       0.00      0.00      0.00        56
     PUCELLE       0.00      0.00      0.00        46
-   SOMERSET       0.00      0.00      0.00        27
     SUFFOLK       0.00      0.00      0.00        41
-     TALBOT       0.16      1.00      0.27        59
- WINCHESTER       0.00      0.00      0.00        26
+     TALBOT       0.20      1.00      0.34        59
 
-avg / total       0.03      0.16      0.04       372
+avg / total       0.04      0.20      0.07       290
 
 --------------------------------------------------
 Baselines for play 11, THE SECOND PART OF KING HENRY THE SIXTH
@@ -1343,13 +1311,13 @@ Random speaker baseline performance:
 BOLINGBROKE       0.00      0.00      0.00         7
        BOTH       0.00      0.00      0.00         1
  BUCKINGHAM       0.00      0.00      0.00        24
-       CADE       0.14      0.02      0.03        61
+       CADE       0.00      0.00      0.00        61
    CARDINAL       0.00      0.00      0.00        31
       CLERK       0.00      0.00      0.00         2
    CLIFFORD       0.00      0.00      0.00        17
     COMMONS       0.00      0.00      0.00         2
        DICK       0.00      0.00      0.00        24
-    DUCHESS       0.05      0.05      0.05        21
+    DUCHESS       0.00      0.00      0.00        21
      EDWARD       0.00      0.00      0.00         1
 FIRST CITIZEN       0.00      0.00      0.00         1
 FIRST GENTLEMAN       0.00      0.00      0.00         4
@@ -1358,14 +1326,14 @@ FIRST NEIGHBOUR       0.00      0.00      0.00         1
 FIRST PETITIONER       0.00      0.00      0.00         4
 FIRST PRENTICE       0.00      0.00      0.00         1
      GEORGE       0.00      0.00      0.00         9
- GLOUCESTER       0.00      0.00      0.00        69
+ GLOUCESTER       0.07      0.01      0.02        69
      HERALD       0.00      0.00      0.00         1
-     HORNER       0.12      0.40      0.19         5
-       HUME       0.07      0.17      0.10         6
-       IDEN       0.12      0.11      0.12         9
+     HORNER       0.00      0.00      0.00         5
+       HUME       0.08      0.17      0.11         6
+       IDEN       0.00      0.00      0.00         9
        JOHN       0.00      0.00      0.00        10
- KING HENRY       0.11      0.02      0.04        82
- LIEUTENANT       0.00      0.00      0.00        11
+ KING HENRY       0.11      0.01      0.02        82
+ LIEUTENANT       0.08      0.09      0.09        11
 MARGERY JOURDAIN       0.00      0.00      0.00         1
      MASTER       0.00      0.00      0.00         1
        MATE       0.00      0.00      0.00         1
@@ -1374,38 +1342,38 @@ MARGERY JOURDAIN       0.00      0.00      0.00         1
     MICHAEL       0.00      0.00      0.00         3
       PETER       0.00      0.00      0.00         8
        POST       0.00      0.00      0.00         1
-      QUEEN       0.05      0.02      0.03        61
-    RICHARD       0.06      0.17      0.09         6
-  SALISBURY       0.13      0.12      0.12        17
-        SAY       0.11      0.08      0.09        13
-     SCALES       0.06      0.50      0.11         2
+      QUEEN       0.00      0.00      0.00        61
+    RICHARD       0.00      0.00      0.00         6
+  SALISBURY       0.07      0.06      0.06        17
+        SAY       0.08      0.08      0.08        13
+     SCALES       0.00      0.00      0.00         2
 SECOND GENTLEMAN       0.00      0.00      0.00         1
 SECOND MESSENGER       0.00      0.00      0.00         1
 SECOND MURDERER       0.00      0.00      0.00         1
 SECOND NEIGHBOUR       0.00      0.00      0.00         1
 SECOND PETITIONER       0.00      0.00      0.00         3
 SECOND PRENTICE       0.00      0.00      0.00         1
-SERVING MAN       0.00      0.00      0.00         2
+SERVING MAN       0.06      0.50      0.11         2
     SHERIFF       0.00      0.00      0.00         2
-    SIMPCOX       0.07      0.06      0.06        18
+    SIMPCOX       0.00      0.00      0.00        18
       SMITH       0.00      0.00      0.00         9
     SOLDIER       0.00      0.00      0.00         1
    SOMERSET       0.00      0.00      0.00        11
-     SPIRIT       0.00      0.00      0.00         5
+     SPIRIT       0.08      0.20      0.12         5
    STAFFORD       0.00      0.00      0.00         6
     STANLEY       0.00      0.00      0.00         4
-    SUFFOLK       0.00      0.00      0.00        67
+    SUFFOLK       0.08      0.01      0.02        67
 THIRD NEIGHBOUR       0.00      0.00      0.00         1
    TOWNSMAN       0.00      0.00      0.00         2
        VAUX       0.00      0.00      0.00         1
-    WARWICK       0.07      0.03      0.04        32
+    WARWICK       0.00      0.00      0.00        32
    WHITMORE       0.00      0.00      0.00         8
        WIFE       0.00      0.00      0.00         7
 WILLIAM STAFFORD       0.00      0.00      0.00         5
-       YORK       0.05      0.02      0.03        58
+       YORK       0.33      0.05      0.09        58
 YOUNG CLIFFORD       0.00      0.00      0.00         4
 
-avg / total       0.04      0.02      0.02       792
+avg / total       0.05      0.02      0.02       792
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1482,30 +1450,26 @@ avg / total       0.01      0.10      0.02       792
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-       CADE       0.11      0.11      0.11        61
-   CARDINAL       0.07      0.13      0.09        31
- GLOUCESTER       0.16      0.14      0.15        69
- KING HENRY       0.17      0.13      0.15        82
-      QUEEN       0.14      0.13      0.14        61
-    SUFFOLK       0.07      0.04      0.06        67
-    WARWICK       0.12      0.19      0.14        32
-       YORK       0.13      0.14      0.13        58
+       CADE       0.16      0.16      0.16        61
+ GLOUCESTER       0.14      0.13      0.14        69
+ KING HENRY       0.23      0.20      0.21        82
+      QUEEN       0.09      0.10      0.09        61
+    SUFFOLK       0.20      0.18      0.19        67
+       YORK       0.22      0.28      0.24        58
 
-avg / total       0.13      0.12      0.12       461
+avg / total       0.18      0.17      0.17       398
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
        CADE       0.00      0.00      0.00        61
-   CARDINAL       0.00      0.00      0.00        31
  GLOUCESTER       0.00      0.00      0.00        69
- KING HENRY       0.18      1.00      0.30        82
+ KING HENRY       0.21      1.00      0.34        82
       QUEEN       0.00      0.00      0.00        61
     SUFFOLK       0.00      0.00      0.00        67
-    WARWICK       0.00      0.00      0.00        32
        YORK       0.00      0.00      0.00        58
 
-avg / total       0.03      0.18      0.05       461
+avg / total       0.04      0.21      0.07       398
 
 --------------------------------------------------
 Baselines for play 12, THE THIRD PART OF KING HENRY THE SIXTH
@@ -1514,50 +1478,50 @@ Random speaker baseline performance:
 
         ALL       0.00      0.00      0.00         1
        BONA       0.00      0.00      0.00         4
-   CLARENCE       0.05      0.03      0.03        40
-   CLIFFORD       0.11      0.06      0.07        35
-     EDWARD       0.37      0.05      0.09       134
-     EXETER       0.04      0.08      0.05        13
+   CLARENCE       0.08      0.05      0.06        40
+   CLIFFORD       0.09      0.06      0.07        35
+     EDWARD       0.07      0.01      0.01       134
+     EXETER       0.00      0.00      0.00        13
      FATHER       0.00      0.00      0.00         4
-FIRST KEEPER       0.00      0.00      0.00         7
+FIRST KEEPER       0.09      0.14      0.11         7
 FIRST MESSENGER       0.00      0.00      0.00         1
-FIRST WATCHMAN       0.06      0.20      0.09         5
-   HASTINGS       0.00      0.00      0.00         9
+FIRST WATCHMAN       0.00      0.00      0.00         5
+   HASTINGS       0.05      0.11      0.07         9
    HUNTSMAN       0.00      0.00      0.00         2
- KING HENRY       0.20      0.06      0.09        71
-  LADY GREY       0.00      0.00      0.00        24
-      LEWIS       0.05      0.05      0.05        21
+ KING HENRY       0.09      0.03      0.04        71
+  LADY GREY       0.14      0.12      0.13        24
+      LEWIS       0.00      0.00      0.00        21
  LIEUTENANT       0.00      0.00      0.00         1
       MAYOR       0.00      0.00      0.00         3
-  MESSENGER       0.00      0.00      0.00        12
+  MESSENGER       0.08      0.17      0.11        12
    MONTAGUE       0.00      0.00      0.00        10
  MONTGOMERY       0.00      0.00      0.00         5
    NOBLEMAN       0.00      0.00      0.00         1
     NORFOLK       0.00      0.00      0.00         3
-NORTHUMBERLAND       0.08      0.13      0.10        15
-     OXFORD       0.04      0.08      0.06        13
+NORTHUMBERLAND       0.05      0.07      0.06        15
+     OXFORD       0.00      0.00      0.00        13
        POST       0.00      0.00      0.00         3
 PRINCE OF WALES       0.00      0.00      0.00        16
 QUEEN ELIZABETH       0.00      0.00      0.00         6
-QUEEN MARGARET       0.08      0.04      0.05        53
-    RICHARD       0.08      0.01      0.02       108
+QUEEN MARGARET       0.10      0.04      0.05        53
+    RICHARD       0.32      0.06      0.09       108
      RIVERS       0.00      0.00      0.00         5
-    RUTLAND       0.05      0.14      0.07         7
+    RUTLAND       0.00      0.00      0.00         7
 SECOND KEEPER       0.00      0.00      0.00         9
 SECOND MESSENGER       0.00      0.00      0.00         1
 SECOND WATCHMAN       0.00      0.00      0.00         5
    SIR JOHN       0.00      0.00      0.00         1
     SOLDIER       0.00      0.00      0.00         1
-   SOMERSET       0.00      0.00      0.00        11
+   SOMERSET       0.06      0.09      0.07        11
  SOMERVILLE       0.00      0.00      0.00         3
         SON       0.00      0.00      0.00         4
 THIRD WATCHMAN       0.00      0.00      0.00         3
       TUTOR       0.00      0.00      0.00         2
-    WARWICK       0.10      0.02      0.03       100
+    WARWICK       0.25      0.05      0.08       100
 WESTMORELAND       0.00      0.00      0.00         6
-       YORK       0.14      0.03      0.04        38
+       YORK       0.00      0.00      0.00        38
 
-avg / total       0.13      0.03      0.05       816
+avg / total       0.11      0.04      0.05       816
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1612,30 +1576,26 @@ avg / total       0.03      0.16      0.05       816
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-   CLARENCE       0.12      0.25      0.16        40
-   CLIFFORD       0.08      0.14      0.11        35
-     EDWARD       0.19      0.10      0.13       134
- KING HENRY       0.18      0.23      0.20        71
-QUEEN MARGARET       0.10      0.13      0.11        53
-    RICHARD       0.16      0.11      0.13       108
-    WARWICK       0.18      0.12      0.14       100
-       YORK       0.06      0.11      0.08        38
+   CLARENCE       0.11      0.28      0.16        40
+     EDWARD       0.26      0.16      0.20       134
+ KING HENRY       0.21      0.24      0.22        71
+QUEEN MARGARET       0.08      0.11      0.10        53
+    RICHARD       0.25      0.19      0.22       108
+    WARWICK       0.24      0.20      0.22       100
 
-avg / total       0.15      0.14      0.14       579
+avg / total       0.22      0.19      0.20       506
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
    CLARENCE       0.00      0.00      0.00        40
-   CLIFFORD       0.00      0.00      0.00        35
-     EDWARD       0.23      1.00      0.38       134
+     EDWARD       0.26      1.00      0.42       134
  KING HENRY       0.00      0.00      0.00        71
 QUEEN MARGARET       0.00      0.00      0.00        53
     RICHARD       0.00      0.00      0.00       108
     WARWICK       0.00      0.00      0.00       100
-       YORK       0.00      0.00      0.00        38
 
-avg / total       0.05      0.23      0.09       579
+avg / total       0.07      0.26      0.11       506
 
 --------------------------------------------------
 Baselines for play 13, KING HENRY THE EIGHTH
@@ -1652,44 +1612,44 @@ ABERGAVENNY       0.00      0.00      0.00         5
       BUTTS       0.00      0.00      0.00         4
    CAMPEIUS       0.00      0.00      0.00        14
    CAPUCIUS       0.00      0.00      0.00         5
-CHAMBERLAIN       0.00      0.00      0.00        39
- CHANCELLOR       0.00      0.00      0.00         6
+CHAMBERLAIN       0.20      0.08      0.11        39
+ CHANCELLOR       0.05      0.17      0.08         6
     CRANMER       0.00      0.00      0.00        21
       CRIER       0.00      0.00      0.00         3
    CROMWELL       0.00      0.00      0.00        21
       DENNY       0.00      0.00      0.00         3
-FIRST GENTLEMAN       0.19      0.09      0.12        33
-   GARDINER       0.05      0.05      0.05        22
+FIRST GENTLEMAN       0.00      0.00      0.00        33
+   GARDINER       0.00      0.00      0.00        22
      GARTER       0.00      0.00      0.00         1
   GENTLEMAN       0.00      0.00      0.00         3
 GENTLEMAN USHER       0.00      0.00      0.00         1
    GRIFFITH       0.00      0.00      0.00        12
   GUILDFORD       0.00      0.00      0.00         1
      KEEPER       0.00      0.00      0.00         5
-       KING       0.05      0.01      0.02        82
+       KING       0.24      0.05      0.08        82
     LINCOLN       0.00      0.00      0.00         2
      LOVELL       0.00      0.00      0.00        21
         MAN       0.00      0.00      0.00         6
   MESSENGER       0.00      0.00      0.00         2
-    NORFOLK       0.00      0.00      0.00        48
+    NORFOLK       0.15      0.04      0.07        48
    OLD LADY       0.00      0.00      0.00        15
    PATIENCE       0.00      0.00      0.00         3
-     PORTER       0.00      0.00      0.00        10
-QUEEN KATHARINE       0.00      0.00      0.00        50
+     PORTER       0.07      0.10      0.08        10
+QUEEN KATHARINE       0.07      0.02      0.03        50
      SANDYS       0.00      0.00      0.00        17
-     SCRIBE       0.00      0.00      0.00         2
-SECOND GENTLEMAN       0.05      0.03      0.03        37
+     SCRIBE       0.09      0.50      0.15         2
+SECOND GENTLEMAN       0.19      0.08      0.11        37
   SECRETARY       0.00      0.00      0.00         2
    SERGEANT       0.00      0.00      0.00         1
     SERVANT       0.00      0.00      0.00         1
-    SUFFOLK       0.00      0.00      0.00        30
-     SURREY       0.11      0.04      0.06        24
+    SUFFOLK       0.07      0.03      0.04        30
+     SURREY       0.00      0.00      0.00        24
    SURVEYOR       0.00      0.00      0.00         9
 THIRD GENTLEMAN       0.00      0.00      0.00        10
        VAUX       0.00      0.00      0.00         1
-     WOLSEY       0.00      0.00      0.00        81
+     WOLSEY       0.24      0.05      0.08        81
 
-avg / total       0.02      0.01      0.01       706
+avg / total       0.09      0.03      0.04       706
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1746,30 +1706,26 @@ avg / total       0.01      0.12      0.02       706
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-CHAMBERLAIN       0.10      0.18      0.13        39
-FIRST GENTLEMAN       0.09      0.12      0.10        33
-       KING       0.19      0.13      0.16        82
-    NORFOLK       0.06      0.06      0.06        48
-QUEEN KATHARINE       0.20      0.20      0.20        50
-SECOND GENTLEMAN       0.12      0.11      0.12        37
-    SUFFOLK       0.11      0.20      0.14        30
-     WOLSEY       0.17      0.09      0.11        81
+CHAMBERLAIN       0.25      0.33      0.28        39
+       KING       0.33      0.29      0.31        82
+    NORFOLK       0.09      0.10      0.10        48
+QUEEN KATHARINE       0.08      0.08      0.08        50
+SECOND GENTLEMAN       0.15      0.22      0.18        37
+     WOLSEY       0.31      0.21      0.25        81
 
-avg / total       0.14      0.13      0.13       400
+avg / total       0.22      0.21      0.21       337
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
 CHAMBERLAIN       0.00      0.00      0.00        39
-FIRST GENTLEMAN       0.00      0.00      0.00        33
-       KING       0.20      1.00      0.34        82
+       KING       0.24      1.00      0.39        82
     NORFOLK       0.00      0.00      0.00        48
 QUEEN KATHARINE       0.00      0.00      0.00        50
 SECOND GENTLEMAN       0.00      0.00      0.00        37
-    SUFFOLK       0.00      0.00      0.00        30
      WOLSEY       0.00      0.00      0.00        81
 
-avg / total       0.04      0.20      0.07       400
+avg / total       0.06      0.24      0.10       337
 
 --------------------------------------------------
 Baselines for play 14, KING JOHN
@@ -1777,34 +1733,34 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
      ARTHUR       0.00      0.00      0.00        23
-    AUSTRIA       0.06      0.06      0.06        16
-    BASTARD       0.11      0.02      0.04        88
+    AUSTRIA       0.04      0.06      0.05        16
+    BASTARD       0.19      0.05      0.07        88
       BIGOT       0.00      0.00      0.00         6
      BLANCH       0.00      0.00      0.00         9
   CHATILLON       0.00      0.00      0.00         5
     CITIZEN       0.00      0.00      0.00        10
-  CONSTANCE       0.03      0.03      0.03        36
+  CONSTANCE       0.14      0.08      0.11        36
      ELINOR       0.00      0.00      0.00        22
 ENGLISH HERALD       0.00      0.00      0.00         1
       ESSEX       0.00      0.00      0.00         1
 EXECUTIONER       0.00      0.00      0.00         2
 FRENCH HERALD       0.00      0.00      0.00         1
      GURNEY       0.00      0.00      0.00         1
-     HUBERT       0.05      0.02      0.03        52
-  KING JOHN       0.17      0.03      0.05        95
-KING PHILIP       0.07      0.02      0.03        45
+     HUBERT       0.18      0.08      0.11        52
+  KING JOHN       0.20      0.04      0.07        95
+KING PHILIP       0.00      0.00      0.00        45
 LADY FAULCONBRIDGE       0.00      0.00      0.00         5
       LEWIS       0.00      0.00      0.00        26
       MELUN       0.00      0.00      0.00         3
-  MESSENGER       0.05      0.11      0.07         9
-   PANDULPH       0.00      0.00      0.00        23
-   PEMBROKE       0.05      0.05      0.05        20
-      PETER       0.00      0.00      0.00         1
-PRINCE HENRY       0.00      0.00      0.00         8
+  MESSENGER       0.00      0.00      0.00         9
+   PANDULPH       0.07      0.09      0.08        23
+   PEMBROKE       0.00      0.00      0.00        20
+      PETER       0.05      1.00      0.09         1
+PRINCE HENRY       0.06      0.12      0.08         8
      ROBERT       0.00      0.00      0.00         4
-  SALISBURY       0.11      0.06      0.07        36
+  SALISBURY       0.05      0.03      0.03        36
 
-avg / total       0.07      0.02      0.03       548
+avg / total       0.10      0.04      0.05       548
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1842,34 +1798,26 @@ avg / total       0.03      0.17      0.05       548
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ARTHUR       0.09      0.13      0.11        23
-    BASTARD       0.19      0.09      0.12        88
-  CONSTANCE       0.02      0.03      0.02        36
-     ELINOR       0.09      0.18      0.12        22
-     HUBERT       0.14      0.13      0.14        52
-  KING JOHN       0.23      0.09      0.13        95
-KING PHILIP       0.11      0.11      0.11        45
-      LEWIS       0.02      0.04      0.03        26
-   PANDULPH       0.07      0.13      0.09        23
-  SALISBURY       0.12      0.17      0.14        36
+    BASTARD       0.27      0.19      0.23        88
+  CONSTANCE       0.07      0.14      0.10        36
+     HUBERT       0.17      0.17      0.17        52
+  KING JOHN       0.26      0.15      0.19        95
+KING PHILIP       0.15      0.18      0.16        45
+  SALISBURY       0.14      0.22      0.17        36
 
-avg / total       0.14      0.11      0.11       446
+avg / total       0.20      0.17      0.18       352
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
-     ARTHUR       0.00      0.00      0.00        23
     BASTARD       0.00      0.00      0.00        88
   CONSTANCE       0.00      0.00      0.00        36
-     ELINOR       0.00      0.00      0.00        22
      HUBERT       0.00      0.00      0.00        52
-  KING JOHN       0.21      1.00      0.35        95
+  KING JOHN       0.27      1.00      0.43        95
 KING PHILIP       0.00      0.00      0.00        45
-      LEWIS       0.00      0.00      0.00        26
-   PANDULPH       0.00      0.00      0.00        23
   SALISBURY       0.00      0.00      0.00        36
 
-avg / total       0.05      0.21      0.07       446
+avg / total       0.07      0.27      0.11       352
 
 --------------------------------------------------
 Baselines for play 15, THE TRAGEDY OF JULIUS CAESAR
@@ -1877,13 +1825,13 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
         ALL       0.00      0.00      0.00        12
-     ANTONY       0.05      0.02      0.03        51
+     ANTONY       0.00      0.00      0.00        51
 ARTEMIDORUS       0.00      0.00      0.00         3
-     BRUTUS       0.39      0.04      0.07       194
-     CAESAR       0.10      0.05      0.07        40
-  CALPURNIA       0.06      0.17      0.09         6
-      CASCA       0.07      0.03      0.04        39
-    CASSIUS       0.20      0.03      0.05       138
+     BRUTUS       0.33      0.02      0.04       194
+     CAESAR       0.00      0.00      0.00        40
+  CALPURNIA       0.00      0.00      0.00         6
+      CASCA       0.00      0.00      0.00        39
+    CASSIUS       0.30      0.07      0.11       138
        CATO       0.00      0.00      0.00         3
      CICERO       0.00      0.00      0.00         4
       CINNA       0.00      0.00      0.00        19
@@ -1891,19 +1839,19 @@ ARTEMIDORUS       0.00      0.00      0.00         3
     CLAUDIO       0.00      0.00      0.00         2
      CLITUS       0.00      0.00      0.00         8
   DARDANIUS       0.00      0.00      0.00         3
-     DECIUS       0.05      0.08      0.06        12
-FIRST CITIZEN       0.00      0.00      0.00        18
+     DECIUS       0.09      0.17      0.11        12
+FIRST CITIZEN       0.05      0.06      0.05        18
 FIRST COMMONER       0.00      0.00      0.00         1
 FIRST SOLDIER       0.00      0.00      0.00         4
     FLAVIUS       0.00      0.00      0.00         5
-FOURTH CITIZEN       0.07      0.06      0.07        16
+FOURTH CITIZEN       0.08      0.06      0.07        16
       GHOST       0.00      0.00      0.00         3
     LEPIDUS       0.00      0.00      0.00         3
    LIGARIUS       0.00      0.00      0.00         5
-   LUCILIUS       0.07      0.10      0.08        10
-     LUCIUS       0.00      0.00      0.00        24
+   LUCILIUS       0.00      0.00      0.00        10
+     LUCIUS       0.03      0.04      0.04        24
    MARULLUS       0.00      0.00      0.00         6
-    MESSALA       0.00      0.00      0.00        20
+    MESSALA       0.07      0.05      0.06        20
   MESSENGER       0.00      0.00      0.00         1
    METELLUS       0.00      0.00      0.00         5
    OCTAVIUS       0.00      0.00      0.00        19
@@ -1913,11 +1861,11 @@ FOURTH CITIZEN       0.07      0.06      0.07        16
      PORTIA       0.00      0.00      0.00        16
     PUBLIUS       0.00      0.00      0.00         2
 SECOND CITIZEN       0.00      0.00      0.00        18
-SECOND COMMONER       0.00      0.00      0.00         6
+SECOND COMMONER       0.06      0.17      0.08         6
 SECOND SOLDIER       0.00      0.00      0.00         2
-    SERVANT       0.04      0.09      0.06        11
+    SERVANT       0.00      0.00      0.00        11
  SOOTHSAYER       0.00      0.00      0.00         9
-     STRATO       0.10      0.25      0.14         4
+     STRATO       0.00      0.00      0.00         4
 THIRD CITIZEN       0.00      0.00      0.00        16
 THIRD SOLDIER       0.00      0.00      0.00         1
    TITINIUS       0.00      0.00      0.00        10
@@ -1925,7 +1873,7 @@ THIRD SOLDIER       0.00      0.00      0.00         1
       VARRO       0.00      0.00      0.00         6
   VOLUMNIUS       0.00      0.00      0.00         3
 
-avg / total       0.15      0.03      0.04       793
+avg / total       0.14      0.03      0.04       793
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -1984,13 +1932,13 @@ avg / total       0.06      0.24      0.10       793
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ANTONY       0.13      0.24      0.17        51
-     BRUTUS       0.45      0.20      0.27       194
-     CAESAR       0.11      0.25      0.15        40
-      CASCA       0.08      0.21      0.11        39
-    CASSIUS       0.26      0.17      0.20       138
+     ANTONY       0.15      0.27      0.19        51
+     BRUTUS       0.40      0.18      0.25       194
+     CAESAR       0.08      0.17      0.11        40
+      CASCA       0.06      0.15      0.08        39
+    CASSIUS       0.27      0.17      0.21       138
 
-avg / total       0.30      0.20      0.22       462
+avg / total       0.28      0.19      0.21       462
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2012,26 +1960,26 @@ Random speaker baseline performance:
    BURGUNDY       0.00      0.00      0.00         5
     CAPTAIN       0.02      0.20      0.04         5
    CORDELIA       0.04      0.06      0.05        31
-   CORNWALL       0.09      0.08      0.08        53
-      CURAN       0.02      0.25      0.04         4
-     DOCTOR       0.02      0.12      0.03         8
-      EDGAR       0.11      0.05      0.07        98
-     EDMUND       0.12      0.08      0.09        79
-       FOOL       0.12      0.09      0.10        58
+   CORNWALL       0.00      0.00      0.00        53
+      CURAN       0.00      0.00      0.00         4
+     DOCTOR       0.00      0.00      0.00         8
+      EDGAR       0.04      0.02      0.03        98
+     EDMUND       0.09      0.05      0.07        79
+       FOOL       0.05      0.03      0.04        58
      FRANCE       0.00      0.00      0.00         5
-  GENTLEMAN       0.04      0.05      0.04        41
- GLOUCESTER       0.11      0.04      0.06       118
-    GONERIL       0.07      0.06      0.06        53
+  GENTLEMAN       0.02      0.02      0.02        41
+ GLOUCESTER       0.14      0.07      0.09       118
+    GONERIL       0.07      0.08      0.07        53
      HERALD       0.00      0.00      0.00         4
-       KENT       0.12      0.05      0.07       127
+       KENT       0.12      0.06      0.08       127
      KNIGHT       0.00      0.00      0.00         5
-       LEAR       0.13      0.03      0.04       188
+       LEAR       0.15      0.04      0.06       188
   MESSENGER       0.00      0.00      0.00         1
-    OLD MAN       0.02      0.11      0.03         9
-     OSWALD       0.00      0.00      0.00        38
-      REGAN       0.04      0.03      0.03        73
+    OLD MAN       0.04      0.22      0.07         9
+     OSWALD       0.05      0.05      0.05        38
+      REGAN       0.07      0.04      0.05        73
 
-avg / total       0.09      0.05      0.06      1060
+avg / total       0.08      0.04      0.05      1060
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2064,18 +2012,18 @@ avg / total       0.03      0.18      0.05      1060
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ALBANY       0.01      0.02      0.01        57
-   CORNWALL       0.08      0.13      0.10        53
-      EDGAR       0.12      0.11      0.11        98
-     EDMUND       0.11      0.13      0.12        79
-       FOOL       0.05      0.07      0.06        58
- GLOUCESTER       0.14      0.11      0.12       118
-    GONERIL       0.10      0.15      0.12        53
-       KENT       0.11      0.08      0.09       127
-       LEAR       0.24      0.12      0.16       188
-      REGAN       0.05      0.07      0.06        73
+     ALBANY       0.08      0.14      0.10        57
+   CORNWALL       0.08      0.15      0.10        53
+      EDGAR       0.11      0.09      0.10        98
+     EDMUND       0.12      0.10      0.11        79
+       FOOL       0.08      0.12      0.10        58
+ GLOUCESTER       0.12      0.11      0.12       118
+    GONERIL       0.08      0.13      0.10        53
+       KENT       0.21      0.11      0.14       127
+       LEAR       0.21      0.11      0.15       188
+      REGAN       0.07      0.10      0.08        73
 
-avg / total       0.12      0.10      0.11       904
+avg / total       0.14      0.11      0.12       904
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2098,27 +2046,27 @@ Baselines for play 17, LOVE'S LABOUR'S LOST
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ARMADO       0.15      0.09      0.11       102
-    BEROWNE       0.12      0.04      0.06       159
-      BOYET       0.02      0.01      0.02        79
-    COSTARD       0.02      0.01      0.02        83
-       DULL       0.02      0.07      0.03        15
-     DUMAIN       0.02      0.02      0.02        53
+     ARMADO       0.12      0.06      0.08       102
+    BEROWNE       0.14      0.05      0.07       159
+      BOYET       0.07      0.05      0.06        79
+    COSTARD       0.06      0.05      0.05        83
+       DULL       0.00      0.00      0.00        15
+     DUMAIN       0.03      0.04      0.04        53
  FIRST LORD       0.00      0.00      0.00         2
    FORESTER       0.00      0.00      0.00         4
- HOLOFERNES       0.08      0.09      0.09        54
- JAQUENETTA       0.02      0.08      0.03        13
-  KATHARINE       0.02      0.03      0.02        37
-       KING       0.12      0.06      0.08       114
- LONGAVILLE       0.03      0.05      0.04        41
+ HOLOFERNES       0.07      0.07      0.07        54
+ JAQUENETTA       0.03      0.15      0.05        13
+  KATHARINE       0.04      0.05      0.04        37
+       KING       0.12      0.07      0.09       114
+ LONGAVILLE       0.08      0.10      0.09        41
     MARCADE       0.00      0.00      0.00         3
-      MARIA       0.00      0.00      0.00        19
-       MOTH       0.05      0.04      0.05        77
+      MARIA       0.02      0.05      0.03        19
+       MOTH       0.11      0.09      0.10        77
   NATHANIEL       0.00      0.00      0.00        19
-PRINCESS OF FRANCE       0.10      0.06      0.07       104
-   ROSALINE       0.08      0.06      0.07        66
+PRINCESS OF FRANCE       0.07      0.03      0.04       104
+   ROSALINE       0.04      0.03      0.04        66
 
-avg / total       0.08      0.05      0.05      1044
+avg / total       0.09      0.05      0.06      1044
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2148,86 +2096,84 @@ avg / total       0.02      0.15      0.04      1044
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ARMADO       0.08      0.07      0.07       102
-    BEROWNE       0.21      0.14      0.17       159
-      BOYET       0.07      0.08      0.07        79
-    COSTARD       0.10      0.11      0.11        83
-     DUMAIN       0.05      0.09      0.06        53
- HOLOFERNES       0.01      0.02      0.02        54
-       KING       0.14      0.10      0.11       114
- LONGAVILLE       0.05      0.10      0.06        41
-       MOTH       0.14      0.13      0.13        77
-PRINCESS OF FRANCE       0.06      0.05      0.05       104
-   ROSALINE       0.04      0.05      0.04        66
+     ARMADO       0.11      0.08      0.09       102
+    BEROWNE       0.19      0.09      0.12       159
+      BOYET       0.12      0.15      0.14        79
+    COSTARD       0.14      0.14      0.14        83
+     DUMAIN       0.05      0.08      0.06        53
+ HOLOFERNES       0.04      0.07      0.06        54
+       KING       0.16      0.15      0.16       114
+       MOTH       0.08      0.09      0.08        77
+PRINCESS OF FRANCE       0.14      0.13      0.14       104
+   ROSALINE       0.05      0.06      0.05        66
 
-avg / total       0.10      0.09      0.09       932
+avg / total       0.12      0.11      0.11       891
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
      ARMADO       0.00      0.00      0.00       102
-    BEROWNE       0.17      1.00      0.29       159
+    BEROWNE       0.18      1.00      0.30       159
       BOYET       0.00      0.00      0.00        79
     COSTARD       0.00      0.00      0.00        83
      DUMAIN       0.00      0.00      0.00        53
  HOLOFERNES       0.00      0.00      0.00        54
        KING       0.00      0.00      0.00       114
- LONGAVILLE       0.00      0.00      0.00        41
        MOTH       0.00      0.00      0.00        77
 PRINCESS OF FRANCE       0.00      0.00      0.00       104
    ROSALINE       0.00      0.00      0.00        66
 
-avg / total       0.03      0.17      0.05       932
+avg / total       0.03      0.18      0.05       891
 
 --------------------------------------------------
 Baselines for play 18, THE TRAGEDY OF MACBETH
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-        ALL       0.06      0.08      0.07        13
+        ALL       0.05      0.08      0.06        13
       ANGUS       0.00      0.00      0.00         4
   ATTENDANT       0.00      0.00      0.00         1
-     BANQUO       0.08      0.03      0.04        33
+     BANQUO       0.00      0.00      0.00        33
   CAITHNESS       0.00      0.00      0.00         3
-     DOCTOR       0.08      0.05      0.06        20
+     DOCTOR       0.00      0.00      0.00        20
   DONALBAIN       0.00      0.00      0.00         3
      DUNCAN       0.00      0.00      0.00        20
 FIRST APPARITION       0.00      0.00      0.00         1
-FIRST MURTHERER       0.08      0.05      0.06        20
-FIRST WITCH       0.06      0.04      0.05        23
+FIRST MURTHERER       0.07      0.05      0.06        20
+FIRST WITCH       0.00      0.00      0.00        23
     FLEANCE       0.00      0.00      0.00         2
-GENTLEWOMAN       0.00      0.00      0.00        12
+GENTLEWOMAN       0.07      0.08      0.07        12
      HECATE       0.00      0.00      0.00         2
 LADY MACBETH       0.00      0.00      0.00        62
-LADY MACDUFF       0.00      0.00      0.00        19
-     LENNOX       0.10      0.05      0.06        21
+LADY MACDUFF       0.12      0.11      0.11        19
+     LENNOX       0.00      0.00      0.00        21
        LORD       0.00      0.00      0.00         3
       LORDS       0.00      0.00      0.00         3
-    MACBETH       0.10      0.01      0.01       148
-    MACDUFF       0.14      0.03      0.05        59
-    MALCOLM       0.12      0.05      0.08        37
-   MENTEITH       0.05      0.20      0.08         5
+    MACBETH       0.44      0.05      0.09       148
+    MACDUFF       0.00      0.00      0.00        59
+    MALCOLM       0.08      0.05      0.07        37
+   MENTEITH       0.00      0.00      0.00         5
   MESSENGER       0.00      0.00      0.00         6
   MURTHERER       0.00      0.00      0.00         1
     OLD MAN       0.00      0.00      0.00         4
      PORTER       0.00      0.00      0.00         4
-       ROSS       0.11      0.05      0.07        39
+       ROSS       0.00      0.00      0.00        39
 SECOND APPARITION       0.00      0.00      0.00         2
 SECOND MURTHERER       0.00      0.00      0.00         7
 SECOND WITCH       0.00      0.00      0.00        14
    SERGEANT       0.00      0.00      0.00         3
-    SERVANT       0.00      0.00      0.00         5
-     SEYTON       0.06      0.20      0.09         5
-     SIWARD       0.05      0.09      0.06        11
+    SERVANT       0.05      0.20      0.08         5
+     SEYTON       0.00      0.00      0.00         5
+     SIWARD       0.00      0.00      0.00        11
    SOLDIERS       0.00      0.00      0.00         1
-        SON       0.05      0.07      0.06        14
+        SON       0.00      0.00      0.00        14
       THIRD       0.00      0.00      0.00         1
 THIRD APPARITION       0.00      0.00      0.00         1
 THIRD MURTHERER       0.00      0.00      0.00         6
-THIRD WITCH       0.06      0.09      0.07        11
+THIRD WITCH       0.00      0.00      0.00        11
 YOUNG SIWARD       0.00      0.00      0.00         3
 
-avg / total       0.07      0.03      0.03       652
+avg / total       0.11      0.02      0.03       652
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2280,14 +2226,14 @@ avg / total       0.05      0.23      0.08       652
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     BANQUO       0.12      0.27      0.17        33
-LADY MACBETH       0.21      0.23      0.22        62
-    MACBETH       0.38      0.14      0.20       148
-    MACDUFF       0.13      0.14      0.13        59
-    MALCOLM       0.04      0.05      0.04        37
-       ROSS       0.12      0.21      0.15        39
+     BANQUO       0.08      0.15      0.11        33
+LADY MACBETH       0.20      0.21      0.20        62
+    MACBETH       0.34      0.15      0.21       148
+    MACDUFF       0.14      0.14      0.14        59
+    MALCOLM       0.06      0.11      0.08        37
+       ROSS       0.14      0.23      0.17        39
 
-avg / total       0.23      0.16      0.17       378
+avg / total       0.22      0.16      0.17       378
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2307,31 +2253,31 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
         ALL       0.00      0.00      0.00         1
-    ANTONIO       0.09      0.06      0.07        48
+    ANTONIO       0.00      0.00      0.00        48
     ARRAGON       0.00      0.00      0.00         4
   BALTHASAR       0.00      0.00      0.00         1
-   BASSANIO       0.09      0.03      0.04        74
+   BASSANIO       0.26      0.09      0.14        74
       CLERK       0.00      0.00      0.00         1
-DUKE OF VENICE       0.13      0.17      0.15        18
-      GOBBO       0.00      0.00      0.00        19
-   GRATIANO       0.00      0.00      0.00        48
-    JESSICA       0.07      0.07      0.07        27
-  LAUNCELOT       0.07      0.05      0.06        44
+DUKE OF VENICE       0.04      0.06      0.05        18
+      GOBBO       0.08      0.11      0.09        19
+   GRATIANO       0.05      0.02      0.03        48
+    JESSICA       0.03      0.04      0.04        27
+  LAUNCELOT       0.03      0.02      0.03        44
    LEONARDO       0.00      0.00      0.00         2
     LORENZO       0.04      0.02      0.03        48
         MAN       0.00      0.00      0.00         1
     NERISSA       0.03      0.03      0.03        36
-     PORTIA       0.12      0.03      0.05       117
+     PORTIA       0.21      0.05      0.08       117
 PRINCE OF MOROCCO       0.00      0.00      0.00         7
-    SALERIO       0.04      0.03      0.03        31
+    SALERIO       0.07      0.10      0.08        31
     SERVANT       0.00      0.00      0.00         2
  SERVINGMAN       0.00      0.00      0.00         1
-    SHYLOCK       0.09      0.03      0.04        79
+    SHYLOCK       0.12      0.05      0.07        79
     SOLANIO       0.03      0.05      0.04        19
-   STEPHANO       0.00      0.00      0.00         3
-      TUBAL       0.05      0.12      0.07         8
+   STEPHANO       0.04      0.33      0.07         3
+      TUBAL       0.00      0.00      0.00         8
 
-avg / total       0.07      0.04      0.04       639
+avg / total       0.10      0.05      0.06       639
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2366,18 +2312,17 @@ avg / total       0.03      0.18      0.06       639
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-    ANTONIO       0.12      0.12      0.12        48
-   BASSANIO       0.22      0.19      0.20        74
-   GRATIANO       0.12      0.15      0.13        48
-    JESSICA       0.03      0.04      0.03        27
-  LAUNCELOT       0.12      0.16      0.13        44
-    LORENZO       0.04      0.04      0.04        48
-    NERISSA       0.08      0.14      0.10        36
-     PORTIA       0.17      0.07      0.10       117
-    SALERIO       0.05      0.10      0.06        31
-    SHYLOCK       0.15      0.10      0.12        79
+    ANTONIO       0.07      0.06      0.06        48
+   BASSANIO       0.15      0.14      0.14        74
+   GRATIANO       0.02      0.02      0.02        48
+  LAUNCELOT       0.09      0.11      0.10        44
+    LORENZO       0.09      0.12      0.10        48
+    NERISSA       0.06      0.11      0.08        36
+     PORTIA       0.21      0.10      0.14       117
+    SALERIO       0.09      0.16      0.12        31
+    SHYLOCK       0.16      0.13      0.14        79
 
-avg / total       0.13      0.11      0.11       552
+avg / total       0.13      0.11      0.11       525
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2385,15 +2330,14 @@ Pruned most common speaker baseline performance:
     ANTONIO       0.00      0.00      0.00        48
    BASSANIO       0.00      0.00      0.00        74
    GRATIANO       0.00      0.00      0.00        48
-    JESSICA       0.00      0.00      0.00        27
   LAUNCELOT       0.00      0.00      0.00        44
     LORENZO       0.00      0.00      0.00        48
     NERISSA       0.00      0.00      0.00        36
-     PORTIA       0.21      1.00      0.35       117
+     PORTIA       0.22      1.00      0.36       117
     SALERIO       0.00      0.00      0.00        31
     SHYLOCK       0.00      0.00      0.00        79
 
-avg / total       0.04      0.21      0.07       552
+avg / total       0.05      0.22      0.08       525
 
 --------------------------------------------------
 Baselines for play 20, THE MERRY WIVES OF WINDSOR
@@ -2401,34 +2345,34 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
         ALL       0.00      0.00      0.00         1
-       ANNE       0.00      0.00      0.00        20
-   BARDOLPH       0.03      0.07      0.04        14
-      CAIUS       0.00      0.00      0.00        48
-      EVANS       0.11      0.06      0.08        87
-FAIRY QUEEN       0.00      0.00      0.00         4
-   FALSTAFF       0.13      0.03      0.05       135
-     FENTON       0.00      0.00      0.00        20
+       ANNE       0.04      0.05      0.04        20
+   BARDOLPH       0.00      0.00      0.00        14
+      CAIUS       0.02      0.02      0.02        48
+      EVANS       0.05      0.02      0.03        87
+FAIRY QUEEN       0.02      0.25      0.04         4
+   FALSTAFF       0.19      0.06      0.09       135
+     FENTON       0.02      0.05      0.03        20
 FIRST SERVANT       0.00      0.00      0.00         2
-       FORD       0.03      0.01      0.02        98
-       HOST       0.07      0.07      0.07        45
-   MRS FORD       0.10      0.05      0.06        86
-   MRS PAGE       0.16      0.04      0.06       104
-        NYM       0.03      0.08      0.04        13
-       PAGE       0.11      0.07      0.08        74
+       FORD       0.10      0.03      0.05        98
+       HOST       0.04      0.04      0.04        45
+   MRS FORD       0.12      0.05      0.07        86
+   MRS PAGE       0.10      0.03      0.04       104
+        NYM       0.00      0.00      0.00        13
+       PAGE       0.06      0.03      0.04        74
      PISTOL       0.03      0.04      0.03        26
        PUCK       0.00      0.00      0.00         3
-    QUICKLY       0.17      0.08      0.11        71
+    QUICKLY       0.02      0.01      0.02        71
       ROBIN       0.00      0.00      0.00         6
-      RUGBY       0.03      0.11      0.05         9
+      RUGBY       0.00      0.00      0.00         9
 SECOND SERVANT       0.00      0.00      0.00         1
     SERVANT       0.00      0.00      0.00         1
-    SHALLOW       0.08      0.05      0.06        59
-     SIMPLE       0.00      0.00      0.00        24
+    SHALLOW       0.06      0.05      0.06        59
+     SIMPLE       0.03      0.04      0.04        24
     SLENDER       0.03      0.02      0.02        56
-   THE SONG       0.02      1.00      0.05         1
+   THE SONG       0.00      0.00      0.00         1
     WILLIAM       0.00      0.00      0.00        11
 
-avg / total       0.08      0.04      0.05      1019
+avg / total       0.08      0.03      0.04      1019
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2466,28 +2410,24 @@ avg / total       0.02      0.13      0.03      1019
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-      CAIUS       0.03      0.04      0.03        48
-      EVANS       0.10      0.09      0.10        87
-   FALSTAFF       0.13      0.08      0.10       135
-       FORD       0.13      0.10      0.12        98
-       HOST       0.08      0.13      0.10        45
-   MRS FORD       0.15      0.13      0.14        86
-   MRS PAGE       0.14      0.10      0.11       104
-       PAGE       0.10      0.11      0.10        74
-    QUICKLY       0.07      0.07      0.07        71
-    SHALLOW       0.09      0.14      0.11        59
-    SLENDER       0.07      0.11      0.09        56
+      EVANS       0.07      0.06      0.06        87
+   FALSTAFF       0.15      0.10      0.12       135
+       FORD       0.11      0.10      0.11        98
+   MRS FORD       0.02      0.02      0.02        86
+   MRS PAGE       0.15      0.12      0.14       104
+       PAGE       0.09      0.11      0.10        74
+    QUICKLY       0.10      0.11      0.11        71
+    SHALLOW       0.10      0.15      0.12        59
+    SLENDER       0.10      0.16      0.12        56
 
-avg / total       0.11      0.10      0.10       863
+avg / total       0.10      0.10      0.10       770
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
-      CAIUS       0.00      0.00      0.00        48
       EVANS       0.00      0.00      0.00        87
-   FALSTAFF       0.16      1.00      0.27       135
+   FALSTAFF       0.18      1.00      0.30       135
        FORD       0.00      0.00      0.00        98
-       HOST       0.00      0.00      0.00        45
    MRS FORD       0.00      0.00      0.00        86
    MRS PAGE       0.00      0.00      0.00       104
        PAGE       0.00      0.00      0.00        74
@@ -2495,7 +2435,7 @@ Pruned most common speaker baseline performance:
     SHALLOW       0.00      0.00      0.00        59
     SLENDER       0.00      0.00      0.00        56
 
-avg / total       0.02      0.16      0.04       863
+avg / total       0.03      0.18      0.05       770
 
 --------------------------------------------------
 Baselines for play 21, A MIDSUMMER NIGHT'S DREAM
@@ -2503,40 +2443,40 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
         ALL       0.00      0.00      0.00         2
-     BOTTOM       0.08      0.02      0.03        50
+     BOTTOM       0.00      0.00      0.00        50
      CHORUS       0.00      0.00      0.00         2
      COBWEB       0.00      0.00      0.00         4
-  DEMETRIUS       0.00      0.00      0.00        48
+  DEMETRIUS       0.08      0.02      0.03        48
       EGEUS       0.00      0.00      0.00         7
       FAIRY       0.00      0.00      0.00         3
 FIRST FAIRY       0.00      0.00      0.00         2
       FLUTE       0.00      0.00      0.00        10
      HELENA       0.15      0.08      0.11        37
-     HERMIA       0.25      0.06      0.10        48
+     HERMIA       0.11      0.02      0.04        48
   HIPPOLYTA       0.00      0.00      0.00        14
        LION       0.00      0.00      0.00         2
-   LYSANDER       0.15      0.04      0.06        51
+   LYSANDER       0.05      0.02      0.03        51
        MOON       0.00      0.00      0.00         1
   MOONSHINE       0.00      0.00      0.00         2
        MOTH       0.00      0.00      0.00         2
 MUSTARDSEED       0.00      0.00      0.00         5
-     OBERON       0.12      0.07      0.09        29
+     OBERON       0.08      0.03      0.05        29
 PEASEBLOSSOM       0.00      0.00      0.00         4
 PHILOSTRATE       0.00      0.00      0.00         6
-   PROLOGUE       0.00      0.00      0.00         2
-       PUCK       0.21      0.09      0.13        33
-    PYRAMUS       0.05      0.11      0.07         9
-     QUINCE       0.00      0.00      0.00        38
-SECOND FAIRY       0.00      0.00      0.00         1
+   PROLOGUE       0.13      1.00      0.24         2
+       PUCK       0.15      0.09      0.11        33
+    PYRAMUS       0.00      0.00      0.00         9
+     QUINCE       0.07      0.03      0.04        38
+SECOND FAIRY       0.04      1.00      0.08         1
       SNOUT       0.00      0.00      0.00         7
        SNUG       0.00      0.00      0.00         2
  STARVELING       0.00      0.00      0.00         4
-    THESEUS       0.19      0.08      0.12        48
+    THESEUS       0.11      0.04      0.06        48
      THISBY       0.05      0.12      0.07         8
     TITANIA       0.00      0.00      0.00        23
        WALL       0.00      0.00      0.00         2
 
-avg / total       0.10      0.04      0.05       506
+avg / total       0.07      0.03      0.04       506
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2580,18 +2520,17 @@ avg / total       0.01      0.10      0.02       506
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     BOTTOM       0.20      0.16      0.18        50
-  DEMETRIUS       0.03      0.02      0.02        48
-     HELENA       0.08      0.08      0.08        37
-     HERMIA       0.06      0.04      0.05        48
-   LYSANDER       0.12      0.08      0.09        51
-     OBERON       0.03      0.03      0.03        29
-       PUCK       0.09      0.12      0.10        33
-     QUINCE       0.04      0.05      0.05        38
-    THESEUS       0.06      0.06      0.06        48
-    TITANIA       0.07      0.13      0.09        23
+     BOTTOM       0.20      0.18      0.19        50
+  DEMETRIUS       0.13      0.17      0.14        48
+     HELENA       0.12      0.14      0.13        37
+     HERMIA       0.10      0.08      0.09        48
+   LYSANDER       0.08      0.04      0.05        51
+     OBERON       0.17      0.21      0.19        29
+       PUCK       0.12      0.15      0.14        33
+     QUINCE       0.08      0.11      0.09        38
+    THESEUS       0.18      0.17      0.17        48
 
-avg / total       0.08      0.08      0.08       405
+avg / total       0.13      0.13      0.13       382
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2600,14 +2539,13 @@ Pruned most common speaker baseline performance:
   DEMETRIUS       0.00      0.00      0.00        48
      HELENA       0.00      0.00      0.00        37
      HERMIA       0.00      0.00      0.00        48
-   LYSANDER       0.13      1.00      0.22        51
+   LYSANDER       0.13      1.00      0.24        51
      OBERON       0.00      0.00      0.00        29
        PUCK       0.00      0.00      0.00        33
      QUINCE       0.00      0.00      0.00        38
     THESEUS       0.00      0.00      0.00        48
-    TITANIA       0.00      0.00      0.00        23
 
-avg / total       0.02      0.13      0.03       405
+avg / total       0.02      0.13      0.03       382
 
 --------------------------------------------------
 Baselines for play 22, MUCH ADO ABOUT NOTHING
@@ -2615,29 +2553,29 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
     ANTONIO       0.00      0.00      0.00        22
-  BALTHASAR       0.00      0.00      0.00        10
-   BEATRICE       0.22      0.08      0.12       107
-   BENEDICK       0.12      0.05      0.07       132
-   BORACHIO       0.04      0.05      0.05        38
+  BALTHASAR       0.02      0.10      0.04        10
+   BEATRICE       0.06      0.02      0.03       107
+   BENEDICK       0.08      0.03      0.04       132
+   BORACHIO       0.07      0.08      0.08        38
        BOTH       0.00      0.00      0.00         1
         BOY       0.00      0.00      0.00         2
-    CLAUDIO       0.11      0.05      0.07       125
-    CONRADE       0.02      0.05      0.02        22
-   DOGBERRY       0.05      0.04      0.04        52
+    CLAUDIO       0.10      0.04      0.06       125
+    CONRADE       0.00      0.00      0.00        22
+   DOGBERRY       0.00      0.00      0.00        52
 FIRST WATCH       0.00      0.00      0.00         5
-      FRIAR       0.02      0.06      0.03        16
-       HERO       0.08      0.07      0.07        44
-       JOHN       0.05      0.05      0.05        41
-    LEONATO       0.12      0.03      0.05       121
-   MARGARET       0.04      0.08      0.06        26
-  MESSENGER       0.06      0.18      0.08        17
-      PEDRO       0.09      0.03      0.04       133
-SECOND WATCH       0.03      0.07      0.04        15
+      FRIAR       0.00      0.00      0.00        16
+       HERO       0.04      0.05      0.04        44
+       JOHN       0.06      0.07      0.06        41
+    LEONATO       0.11      0.03      0.05       121
+   MARGARET       0.02      0.04      0.03        26
+  MESSENGER       0.00      0.00      0.00        17
+      PEDRO       0.09      0.04      0.05       133
+SECOND WATCH       0.00      0.00      0.00        15
      SEXTON       0.00      0.00      0.00         7
-     URSULA       0.03      0.05      0.04        19
-     VERGES       0.00      0.00      0.00        18
+     URSULA       0.05      0.11      0.07        19
+     VERGES       0.04      0.11      0.05        18
 
-avg / total       0.10      0.05      0.06       973
+avg / total       0.07      0.03      0.04       973
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2670,32 +2608,26 @@ avg / total       0.02      0.14      0.03       973
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-   BEATRICE       0.10      0.08      0.09       107
-   BENEDICK       0.11      0.06      0.08       132
-   BORACHIO       0.04      0.11      0.06        38
-    CLAUDIO       0.12      0.10      0.11       125
-   DOGBERRY       0.02      0.04      0.03        52
-       HERO       0.08      0.16      0.11        44
-       JOHN       0.06      0.15      0.09        41
-    LEONATO       0.14      0.12      0.13       121
-      PEDRO       0.12      0.07      0.09       133
+   BEATRICE       0.16      0.16      0.16       107
+   BENEDICK       0.21      0.17      0.19       132
+    CLAUDIO       0.21      0.18      0.20       125
+   DOGBERRY       0.04      0.08      0.05        52
+    LEONATO       0.14      0.14      0.14       121
+      PEDRO       0.20      0.18      0.19       133
 
-avg / total       0.10      0.09      0.09       793
+avg / total       0.17      0.16      0.17       670
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
    BEATRICE       0.00      0.00      0.00       107
    BENEDICK       0.00      0.00      0.00       132
-   BORACHIO       0.00      0.00      0.00        38
     CLAUDIO       0.00      0.00      0.00       125
    DOGBERRY       0.00      0.00      0.00        52
-       HERO       0.00      0.00      0.00        44
-       JOHN       0.00      0.00      0.00        41
     LEONATO       0.00      0.00      0.00       121
-      PEDRO       0.17      1.00      0.29       133
+      PEDRO       0.20      1.00      0.33       133
 
-avg / total       0.03      0.17      0.05       793
+avg / total       0.04      0.20      0.07       670
 
 --------------------------------------------------
 Baselines for play 23, THE TRAGEDY OF OTHELLO, MOOR OF VENICE
@@ -2704,32 +2636,32 @@ Random speaker baseline performance:
 
         ALL       0.00      0.00      0.00         4
      BIANCA       0.02      0.07      0.03        15
-  BRABANTIO       0.02      0.03      0.02        30
-     CASSIO       0.09      0.04      0.05       110
+  BRABANTIO       0.02      0.03      0.03        30
+     CASSIO       0.09      0.05      0.06       110
       CLOWN       0.00      0.00      0.00        14
-  DESDEMONA       0.13      0.04      0.06       166
+  DESDEMONA       0.10      0.02      0.04       166
        DUKE       0.00      0.00      0.00        24
-     EMILIA       0.07      0.03      0.04       103
+     EMILIA       0.11      0.06      0.08       103
 FIRST GENTLEMAN       0.00      0.00      0.00         1
-FIRST MUSICIAN       0.02      0.20      0.04         5
+FIRST MUSICIAN       0.00      0.00      0.00         5
 FIRST OFFICER       0.00      0.00      0.00         3
 FIRST SENATOR       0.00      0.00      0.00         7
 FOURTH GENTLEMAN       0.00      0.00      0.00         1
   GENTLEMEN       0.00      0.00      0.00         1
    GRATIANO       0.00      0.00      0.00        19
      HERALD       0.00      0.00      0.00         1
-       IAGO       0.24      0.03      0.06       272
+       IAGO       0.28      0.04      0.08       272
    LODOVICO       0.02      0.03      0.03        33
   MESSENGER       0.00      0.00      0.00         2
-    MONTANO       0.04      0.08      0.06        24
-    OTHELLO       0.26      0.04      0.07       275
-   RODERIGO       0.05      0.03      0.04        59
+    MONTANO       0.02      0.04      0.03        24
+    OTHELLO       0.25      0.05      0.08       275
+   RODERIGO       0.12      0.07      0.09        59
      SAILOR       0.00      0.00      0.00         2
 SECOND GENTLEMAN       0.00      0.00      0.00         5
 SECOND SENATOR       0.00      0.00      0.00         1
-THIRD GENTLEMAN       0.02      0.25      0.04         4
+THIRD GENTLEMAN       0.00      0.00      0.00         4
 
-avg / total       0.15      0.04      0.05      1181
+avg / total       0.16      0.04      0.06      1181
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2766,14 +2698,14 @@ avg / total       0.05      0.23      0.09      1181
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     CASSIO       0.08      0.12      0.10       110
+     CASSIO       0.10      0.15      0.12       110
   DESDEMONA       0.21      0.20      0.20       166
-     EMILIA       0.12      0.22      0.16       103
-       IAGO       0.31      0.19      0.24       272
-    OTHELLO       0.29      0.15      0.20       275
-   RODERIGO       0.07      0.22      0.11        59
+     EMILIA       0.10      0.17      0.12       103
+       IAGO       0.30      0.15      0.20       272
+    OTHELLO       0.30      0.18      0.23       275
+   RODERIGO       0.04      0.12      0.06        59
 
-avg / total       0.23      0.18      0.19       985
+avg / total       0.23      0.17      0.18       985
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2795,30 +2727,30 @@ Random speaker baseline performance:
       ABBOT       0.00      0.00      0.00         2
         ALL       0.00      0.00      0.00         1
 ANOTHER LORD       0.00      0.00      0.00         1
-    AUMERLE       0.14      0.08      0.10        38
+    AUMERLE       0.00      0.00      0.00        38
       BAGOT       0.00      0.00      0.00         6
    BERKELEY       0.00      0.00      0.00         2
-BOLINGBROKE       0.19      0.03      0.06        89
+BOLINGBROKE       0.33      0.04      0.08        89
       BUSHY       0.00      0.00      0.00        13
     CAPTAIN       0.00      0.00      0.00         2
-   CARLISLE       0.07      0.17      0.10         6
-DUCHESS OF GLOUCESTER       0.06      0.25      0.09         4
-DUCHESS OF YORK       0.00      0.00      0.00        28
-      EXTON       0.00      0.00      0.00         6
+   CARLISLE       0.08      0.17      0.11         6
+DUCHESS OF GLOUCESTER       0.00      0.00      0.00         4
+DUCHESS OF YORK       0.09      0.04      0.05        28
+      EXTON       0.05      0.17      0.08         6
 FIRST HERALD       0.00      0.00      0.00         1
   FITZWATER       0.00      0.00      0.00         6
    GARDENER       0.00      0.00      0.00         6
-      GAUNT       0.08      0.04      0.05        28
+      GAUNT       0.00      0.00      0.00        28
       GREEN       0.00      0.00      0.00        10
       GROOM       0.00      0.00      0.00         4
      KEEPER       0.00      0.00      0.00         4
-KING RICHARD       0.00      0.00      0.00        98
+KING RICHARD       0.33      0.05      0.09        98
        LADY       0.00      0.00      0.00         6
-    MARSHAL       0.00      0.00      0.00        10
-    MOWBRAY       0.05      0.08      0.06        13
-NORTHUMBERLAND       0.06      0.03      0.04        38
+    MARSHAL       0.05      0.10      0.06        10
+    MOWBRAY       0.00      0.00      0.00        13
+NORTHUMBERLAND       0.00      0.00      0.00        38
       PERCY       0.00      0.00      0.00        12
-      QUEEN       0.00      0.00      0.00        25
+      QUEEN       0.10      0.08      0.09        25
        ROSS       0.00      0.00      0.00        11
   SALISBURY       0.00      0.00      0.00         3
      SCROOP       0.00      0.00      0.00         6
@@ -2827,9 +2759,9 @@ SECOND HERALD       0.00      0.00      0.00         1
  SERVINGMAN       0.00      0.00      0.00         3
      SURREY       0.00      0.00      0.00         3
  WILLOUGHBY       0.00      0.00      0.00         8
-       YORK       0.00      0.00      0.00        54
+       YORK       0.05      0.02      0.03        54
 
-avg / total       0.05      0.02      0.02       553
+avg / total       0.13      0.03      0.04       553
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2876,16 +2808,15 @@ avg / total       0.03      0.18      0.05       553
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-    AUMERLE       0.12      0.16      0.14        38
-BOLINGBROKE       0.09      0.06      0.07        89
-DUCHESS OF YORK       0.04      0.07      0.05        28
-      GAUNT       0.00      0.00      0.00        28
-KING RICHARD       0.14      0.07      0.09        98
-NORTHUMBERLAND       0.10      0.13      0.11        38
-      QUEEN       0.04      0.08      0.05        25
-       YORK       0.12      0.11      0.11        54
+    AUMERLE       0.12      0.18      0.15        38
+BOLINGBROKE       0.37      0.21      0.27        89
+DUCHESS OF YORK       0.02      0.04      0.02        28
+      GAUNT       0.11      0.21      0.15        28
+KING RICHARD       0.36      0.14      0.20        98
+NORTHUMBERLAND       0.11      0.16      0.13        38
+       YORK       0.16      0.17      0.16        54
 
-avg / total       0.10      0.08      0.09       398
+avg / total       0.24      0.17      0.18       373
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -2894,12 +2825,11 @@ Pruned most common speaker baseline performance:
 BOLINGBROKE       0.00      0.00      0.00        89
 DUCHESS OF YORK       0.00      0.00      0.00        28
       GAUNT       0.00      0.00      0.00        28
-KING RICHARD       0.25      1.00      0.40        98
+KING RICHARD       0.26      1.00      0.42        98
 NORTHUMBERLAND       0.00      0.00      0.00        38
-      QUEEN       0.00      0.00      0.00        25
        YORK       0.00      0.00      0.00        54
 
-avg / total       0.06      0.25      0.10       398
+avg / total       0.07      0.26      0.11       373
 
 --------------------------------------------------
 Baselines for play 25, KING RICHARD III
@@ -2907,25 +2837,25 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
         ALL       0.00      0.00      0.00         1
-       ANNE       0.00      0.00      0.00        50
+       ANNE       0.08      0.02      0.03        50
 ARCHBISHOP OF YORK       0.00      0.00      0.00         6
 BISHOP OF ELY       0.00      0.00      0.00         4
       BLUNT       0.00      0.00      0.00         3
 BOTH MURDERERS       0.00      0.00      0.00         1
  BRAKENBURY       0.00      0.00      0.00        11
- BUCKINGHAM       0.00      0.00      0.00        91
+ BUCKINGHAM       0.12      0.02      0.04        91
    CARDINAL       0.00      0.00      0.00         2
-    CATESBY       0.00      0.00      0.00        28
+    CATESBY       0.06      0.04      0.04        28
 CHILDREN OF CLARENCE       0.00      0.00      0.00         3
-   CLARENCE       0.05      0.03      0.04        32
+   CLARENCE       0.00      0.00      0.00        32
 DAUGHTER OF CLARENCE       0.00      0.00      0.00         3
       DERBY       0.00      0.00      0.00         8
-     DORSET       0.00      0.00      0.00         8
+     DORSET       0.04      0.12      0.06         8
     DUCHESS       0.00      0.00      0.00         1
-DUCHESS OF YORK       0.12      0.07      0.09        43
+DUCHESS OF YORK       0.00      0.00      0.00        43
 FIRST CITIZEN       0.00      0.00      0.00         7
 FIRST GENTLEMAN       0.00      0.00      0.00         1
-FIRST MURDERER       0.15      0.06      0.09        33
+FIRST MURDERER       0.05      0.03      0.04        33
 FOURTH MESSENGER       0.00      0.00      0.00         1
   GENTLEMEN       0.00      0.00      0.00         1
 GHOST OF ANNE       0.00      0.00      0.00         1
@@ -2939,9 +2869,9 @@ GHOST OF RIVERS       0.00      0.00      0.00         1
 GHOST OF VAUGHAN       0.00      0.00      0.00         1
      GHOSTS       0.00      0.00      0.00         1
 GHOSTS OF YOUNG PRINCES       0.00      0.00      0.00         1
- GLOUCESTER       0.13      0.01      0.01       295
+ GLOUCESTER       0.26      0.02      0.03       295
        GREY       0.00      0.00      0.00         7
-   HASTINGS       0.08      0.02      0.04        43
+   HASTINGS       0.06      0.02      0.03        43
     HERBERT       0.00      0.00      0.00         1
      KEEPER       0.00      0.00      0.00         6
 KING EDWARD       0.00      0.00      0.00        12
@@ -2957,15 +2887,15 @@ KING EDWARD       0.00      0.00      0.00        12
 PRINCE OF WALES       0.00      0.00      0.00        18
  PURSUIVANT       0.00      0.00      0.00         3
 QUEEN ELIZABETH       0.00      0.00      0.00        96
-QUEEN MARGARET       0.00      0.00      0.00        33
-   RATCLIFF       0.00      0.00      0.00        19
+QUEEN MARGARET       0.05      0.03      0.04        33
+   RATCLIFF       0.12      0.11      0.11        19
    RICHMOND       0.00      0.00      0.00        14
       RIVER       0.00      0.00      0.00         1
      RIVERS       0.00      0.00      0.00        18
   SCRIVENER       0.00      0.00      0.00         1
 SECOND CITIZEN       0.00      0.00      0.00         6
 SECOND MESSENGER       0.00      0.00      0.00         1
-SECOND MURDERER       0.05      0.04      0.04        28
+SECOND MURDERER       0.00      0.00      0.00        28
     SHERIFF       0.00      0.00      0.00         2
 SON OF CLARENCE       0.00      0.00      0.00         6
     STANLEY       0.00      0.00      0.00        26
@@ -2975,9 +2905,9 @@ THIRD MESSENGER       0.00      0.00      0.00         3
      TYRREL       0.00      0.00      0.00        10
     URSWICK       0.00      0.00      0.00         2
     VAUGHAN       0.00      0.00      0.00         1
-       YORK       0.09      0.05      0.06        21
+       YORK       0.00      0.00      0.00        21
 
-avg / total       0.05      0.01      0.01      1075
+avg / total       0.09      0.01      0.02      1075
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3058,38 +2988,32 @@ avg / total       0.08      0.27      0.12      1075
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-       ANNE       0.05      0.08      0.06        50
- BUCKINGHAM       0.12      0.14      0.13        91
-DUCHESS OF YORK       0.11      0.26      0.15        43
- GLOUCESTER       0.50      0.17      0.25       295
-   HASTINGS       0.08      0.19      0.11        43
-QUEEN ELIZABETH       0.14      0.17      0.15        96
+ BUCKINGHAM       0.19      0.37      0.25        91
+ GLOUCESTER       0.65      0.32      0.43       295
+QUEEN ELIZABETH       0.25      0.42      0.32        96
 
-avg / total       0.29      0.17      0.19       618
+avg / total       0.48      0.35      0.37       482
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
-       ANNE       0.00      0.00      0.00        50
  BUCKINGHAM       0.00      0.00      0.00        91
-DUCHESS OF YORK       0.00      0.00      0.00        43
- GLOUCESTER       0.48      1.00      0.65       295
-   HASTINGS       0.00      0.00      0.00        43
+ GLOUCESTER       0.61      1.00      0.76       295
 QUEEN ELIZABETH       0.00      0.00      0.00        96
 
-avg / total       0.23      0.48      0.31       618
+avg / total       0.37      0.61      0.46       482
 
 --------------------------------------------------
 Baselines for play 26, THE TRAGEDY OF ROMEO AND JULIET
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-      ABRAM       0.00      0.00      0.00         5
+      ABRAM       0.05      0.20      0.07         5
  APOTHECARY       0.00      0.00      0.00         4
   BALTHASAR       0.00      0.00      0.00        12
-   BENVOLIO       0.05      0.02      0.02        64
+   BENVOLIO       0.08      0.03      0.04        64
         BOY       0.00      0.00      0.00         2
-    CAPULET       0.20      0.06      0.09        52
+    CAPULET       0.06      0.02      0.03        52
 CHIEF WATCH       0.00      0.00      0.00         5
      CHORUS       0.00      0.00      0.00         2
    CITIZENS       0.00      0.00      0.00         3
@@ -3097,22 +3021,22 @@ CHIEF WATCH       0.00      0.00      0.00         5
 FIRST MUSICIAN       0.00      0.00      0.00        11
 FIRST SERVANT       0.00      0.00      0.00         3
  FRIAR JOHN       0.00      0.00      0.00         4
-FRIAR LAURENCE       0.12      0.05      0.07        56
+FRIAR LAURENCE       0.07      0.04      0.05        56
     GREGORY       0.00      0.00      0.00        15
-     JULIET       0.10      0.03      0.04       117
-LADY CAPULET       0.00      0.00      0.00        42
+     JULIET       0.27      0.05      0.09       117
+LADY CAPULET       0.06      0.02      0.03        42
 LADY MONTAGUE       0.00      0.00      0.00         2
-   MERCUTIO       0.00      0.00      0.00        62
+   MERCUTIO       0.08      0.03      0.05        62
    MONTAGUE       0.00      0.00      0.00        10
-      NURSE       0.12      0.03      0.05        91
+      NURSE       0.13      0.02      0.04        91
     OFFICER       0.00      0.00      0.00         1
 OTHER CAPULET       0.00      0.00      0.00         2
        PAGE       0.00      0.00      0.00         2
-      PARIS       0.04      0.04      0.04        23
-      PETER       0.00      0.00      0.00        13
+      PARIS       0.00      0.00      0.00        23
+      PETER       0.05      0.08      0.06        13
      PRINCE       0.00      0.00      0.00        15
-      ROMEO       0.19      0.03      0.05       163
-    SAMPSON       0.00      0.00      0.00        20
+      ROMEO       0.20      0.03      0.05       163
+    SAMPSON       0.04      0.05      0.05        20
 SECOND MUSICIAN       0.00      0.00      0.00         2
 SECOND SERVANT       0.00      0.00      0.00         2
 SECOND WATCH       0.00      0.00      0.00         1
@@ -3120,9 +3044,9 @@ SECOND WATCH       0.00      0.00      0.00         1
 THIRD MUSICIAN       0.00      0.00      0.00         1
 THIRD SERVANT       0.00      0.00      0.00         1
 THIRD WATCH       0.00      0.00      0.00         1
-     TYBALT       0.06      0.06      0.06        17
+     TYBALT       0.04      0.06      0.05        17
 
-avg / total       0.09      0.02      0.04       840
+avg / total       0.12      0.03      0.04       840
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3170,16 +3094,16 @@ avg / total       0.04      0.19      0.06       840
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-   BENVOLIO       0.07      0.09      0.08        64
+   BENVOLIO       0.09      0.11      0.10        64
     CAPULET       0.05      0.08      0.06        52
-FRIAR LAURENCE       0.10      0.16      0.12        56
-     JULIET       0.15      0.10      0.12       117
-LADY CAPULET       0.05      0.10      0.06        42
-   MERCUTIO       0.12      0.13      0.13        62
-      NURSE       0.13      0.12      0.13        91
+FRIAR LAURENCE       0.11      0.16      0.13        56
+     JULIET       0.19      0.15      0.17       117
+LADY CAPULET       0.07      0.12      0.09        42
+   MERCUTIO       0.11      0.15      0.12        62
+      NURSE       0.11      0.09      0.10        91
       ROMEO       0.27      0.13      0.17       163
 
-avg / total       0.15      0.12      0.12       647
+avg / total       0.15      0.12      0.13       647
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3202,41 +3126,41 @@ Random speaker baseline performance:
 
       ACT I       0.00      0.00      0.00         0
         ALL       0.00      0.00      0.00         1
-   BAPTISTA       0.00      0.00      0.00        65
-     BIANCA       0.03      0.04      0.04        28
-  BIONDELLO       0.04      0.03      0.03        36
+   BAPTISTA       0.20      0.08      0.11        65
+     BIANCA       0.06      0.04      0.04        28
+  BIONDELLO       0.08      0.06      0.07        36
      CURTIS       0.00      0.00      0.00        20
-FIRST HUNTSMAN       0.03      0.25      0.06         4
-FIRST SERVANT       0.05      0.17      0.08         6
-     GREMIO       0.00      0.00      0.00        49
-     GRUMIO       0.00      0.00      0.00        61
-HABERDASHER       0.05      1.00      0.09         1
-  HORTENSIO       0.00      0.00      0.00        62
+FIRST HUNTSMAN       0.00      0.00      0.00         4
+FIRST SERVANT       0.00      0.00      0.00         6
+     GREMIO       0.08      0.04      0.05        49
+     GRUMIO       0.16      0.05      0.07        61
+HABERDASHER       0.00      0.00      0.00         1
+  HORTENSIO       0.03      0.02      0.02        62
     HOSTESS       0.00      0.00      0.00         3
      JOSEPH       0.00      0.00      0.00         1
-  KATHERINA       0.19      0.06      0.10        78
+  KATHERINA       0.00      0.00      0.00        78
        LORD       0.00      0.00      0.00        18
-   LUCENTIO       0.05      0.02      0.03        43
+   LUCENTIO       0.00      0.00      0.00        43
   MESSENGER       0.00      0.00      0.00         1
   NATHANIEL       0.00      0.00      0.00         4
    NICHOLAS       0.00      0.00      0.00         1
        PAGE       0.00      0.00      0.00         8
      PEDANT       0.00      0.00      0.00        20
       PETER       0.00      0.00      0.00         2
-  PETRUCHIO       0.23      0.03      0.06       158
+  PETRUCHIO       0.28      0.03      0.06       158
      PHILIP       0.00      0.00      0.00         1
     PLAYERS       0.00      0.00      0.00         4
 SECOND HUNTSMAN       0.00      0.00      0.00         2
-SECOND SERVANT       0.04      0.25      0.06         4
+SECOND SERVANT       0.00      0.00      0.00         4
     SERVANT       0.00      0.00      0.00         3
         SLY       0.00      0.00      0.00        24
-     TAILOR       0.04      0.08      0.05        12
+     TAILOR       0.00      0.00      0.00        12
 THIRD SERVANT       0.00      0.00      0.00         4
-     TRANIO       0.10      0.04      0.06        75
-  VINCENTIO       0.04      0.04      0.04        23
+     TRANIO       0.09      0.03      0.04        75
+  VINCENTIO       0.00      0.00      0.00        23
       WIDOW       0.00      0.00      0.00         8
 
-avg / total       0.08      0.03      0.03       830
+avg / total       0.10      0.03      0.04       830
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3281,59 +3205,57 @@ avg / total       0.04      0.19      0.06       830
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-   BAPTISTA       0.09      0.11      0.10        65
-  BIONDELLO       0.04      0.08      0.06        36
-     GREMIO       0.10      0.12      0.11        49
-     GRUMIO       0.07      0.07      0.07        61
-  HORTENSIO       0.07      0.08      0.08        62
-  KATHERINA       0.07      0.06      0.07        78
-   LUCENTIO       0.09      0.19      0.12        43
-  PETRUCHIO       0.15      0.06      0.09       158
-     TRANIO       0.15      0.13      0.14        75
+   BAPTISTA       0.09      0.09      0.09        65
+     GREMIO       0.11      0.20      0.14        49
+     GRUMIO       0.11      0.11      0.11        61
+  HORTENSIO       0.10      0.11      0.11        62
+  KATHERINA       0.09      0.09      0.09        78
+   LUCENTIO       0.03      0.05      0.03        43
+  PETRUCHIO       0.18      0.09      0.12       158
+     TRANIO       0.08      0.08      0.08        75
 
-avg / total       0.10      0.09      0.09       627
+avg / total       0.11      0.10      0.10       591
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
    BAPTISTA       0.00      0.00      0.00        65
-  BIONDELLO       0.00      0.00      0.00        36
      GREMIO       0.00      0.00      0.00        49
      GRUMIO       0.00      0.00      0.00        61
   HORTENSIO       0.00      0.00      0.00        62
   KATHERINA       0.00      0.00      0.00        78
    LUCENTIO       0.00      0.00      0.00        43
-  PETRUCHIO       0.25      1.00      0.40       158
+  PETRUCHIO       0.27      1.00      0.42       158
      TRANIO       0.00      0.00      0.00        75
 
-avg / total       0.06      0.25      0.10       627
+avg / total       0.07      0.27      0.11       591
 
 --------------------------------------------------
 Baselines for play 28, THE TEMPEST
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ADRIAN       0.00      0.00      0.00         9
-     ALONSO       0.06      0.05      0.05        40
-    ANTONIO       0.07      0.05      0.06        59
-      ARIEL       0.06      0.04      0.05        47
-  BOATSWAIN       0.03      0.08      0.04        12
-    CALIBAN       0.13      0.10      0.11        50
+     ADRIAN       0.03      0.11      0.04         9
+     ALONSO       0.03      0.03      0.03        40
+    ANTONIO       0.06      0.03      0.04        59
+      ARIEL       0.10      0.09      0.09        47
+  BOATSWAIN       0.06      0.17      0.09        12
+    CALIBAN       0.06      0.04      0.05        50
       CERES       0.00      0.00      0.00         4
-  FERDINAND       0.11      0.13      0.12        31
-  FRANCISCO       0.03      0.50      0.06         2
-    GONZALO       0.17      0.12      0.14        52
+  FERDINAND       0.13      0.10      0.11        31
+  FRANCISCO       0.00      0.00      0.00         2
+    GONZALO       0.12      0.10      0.11        52
        IRIS       0.00      0.00      0.00         4
        JUNO       0.00      0.00      0.00         2
    MARINERS       0.00      0.00      0.00         1
      MASTER       0.00      0.00      0.00         2
-    MIRANDA       0.09      0.08      0.09        51
-   PROSPERO       0.20      0.06      0.09       113
-  SEBASTIAN       0.20      0.09      0.12        67
-   STEPHANO       0.13      0.07      0.09        60
-   TRINCULO       0.11      0.10      0.11        39
+    MIRANDA       0.10      0.06      0.07        51
+   PROSPERO       0.14      0.05      0.08       113
+  SEBASTIAN       0.09      0.06      0.07        67
+   STEPHANO       0.07      0.03      0.05        60
+   TRINCULO       0.06      0.05      0.05        39
 
-avg / total       0.13      0.08      0.09       645
+avg / total       0.09      0.06      0.07       645
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3363,19 +3285,18 @@ avg / total       0.03      0.18      0.05       645
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ALONSO       0.03      0.05      0.04        40
-    ANTONIO       0.15      0.14      0.14        59
-      ARIEL       0.09      0.13      0.11        47
-    CALIBAN       0.04      0.04      0.04        50
-  FERDINAND       0.08      0.13      0.10        31
-    GONZALO       0.12      0.13      0.13        52
-    MIRANDA       0.12      0.16      0.14        51
-   PROSPERO       0.20      0.09      0.12       113
-  SEBASTIAN       0.13      0.10      0.12        67
-   STEPHANO       0.06      0.05      0.06        60
-   TRINCULO       0.08      0.10      0.09        39
+     ALONSO       0.05      0.07      0.06        40
+    ANTONIO       0.06      0.07      0.07        59
+      ARIEL       0.08      0.11      0.09        47
+    CALIBAN       0.08      0.10      0.09        50
+    GONZALO       0.14      0.17      0.16        52
+    MIRANDA       0.09      0.12      0.10        51
+   PROSPERO       0.17      0.07      0.10       113
+  SEBASTIAN       0.11      0.07      0.09        67
+   STEPHANO       0.10      0.08      0.09        60
+   TRINCULO       0.06      0.08      0.06        39
 
-avg / total       0.11      0.10      0.10       609
+avg / total       0.10      0.09      0.09       578
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3384,15 +3305,14 @@ Pruned most common speaker baseline performance:
     ANTONIO       0.00      0.00      0.00        59
       ARIEL       0.00      0.00      0.00        47
     CALIBAN       0.00      0.00      0.00        50
-  FERDINAND       0.00      0.00      0.00        31
     GONZALO       0.00      0.00      0.00        52
     MIRANDA       0.00      0.00      0.00        51
-   PROSPERO       0.19      1.00      0.31       113
+   PROSPERO       0.20      1.00      0.33       113
   SEBASTIAN       0.00      0.00      0.00        67
    STEPHANO       0.00      0.00      0.00        60
    TRINCULO       0.00      0.00      0.00        39
 
-avg / total       0.03      0.19      0.06       609
+avg / total       0.04      0.20      0.06       578
 
 --------------------------------------------------
 Baselines for play 29, THE LIFE OF TIMON OF ATHENS
@@ -3402,7 +3322,7 @@ Random speaker baseline performance:
  ALCIBIADES       0.00      0.00      0.00        38
         ALL       0.00      0.00      0.00         1
 ALL SERVANTS       0.00      0.00      0.00         4
-  APEMANTUS       0.08      0.01      0.02       100
+  APEMANTUS       0.11      0.01      0.02       100
  ATTENDANTS       0.00      0.00      0.00         2
    BANDITTI       0.00      0.00      0.00         4
        BOTH       0.00      0.00      0.00         6
@@ -3411,36 +3331,36 @@ ALL SERVANTS       0.00      0.00      0.00         4
 FIRST AND SECOND LORDS       0.00      0.00      0.00         1
 FIRST BANDIT       0.00      0.00      0.00         5
  FIRST LADY       0.00      0.00      0.00         1
- FIRST LORD       0.00      0.00      0.00        27
+ FIRST LORD       0.10      0.04      0.05        27
 FIRST SENATOR       0.00      0.00      0.00        27
 FIRST SERVANT       0.00      0.00      0.00         2
-FIRST STRANGER       0.00      0.00      0.00         4
-  FLAMINIUS       0.00      0.00      0.00        11
-    FLAVIUS       0.14      0.03      0.04        40
-       FOOL       0.00      0.00      0.00         9
+FIRST STRANGER       0.06      0.25      0.10         4
+  FLAMINIUS       0.08      0.09      0.09        11
+    FLAVIUS       0.00      0.00      0.00        40
+       FOOL       0.05      0.11      0.07         9
 FOURTH LORD       0.00      0.00      0.00         3
- HORTENSIUS       0.00      0.00      0.00         6
-   JEWELLER       0.07      0.12      0.09         8
+ HORTENSIUS       0.08      0.17      0.11         6
+   JEWELLER       0.00      0.00      0.00         8
      LADIES       0.00      0.00      0.00         1
       LORDS       0.00      0.00      0.00         1
-   LUCILIUS       0.00      0.00      0.00         3
-     LUCIUS       0.00      0.00      0.00        10
+   LUCILIUS       0.08      0.33      0.12         3
+     LUCIUS       0.06      0.10      0.08        10
   LUCULLIUS       0.00      0.00      0.00         1
    LUCULLUS       0.00      0.00      0.00         5
-   MERCHANT       0.00      0.00      0.00         8
+   MERCHANT       0.07      0.12      0.09         8
   MESSENGER       0.00      0.00      0.00         6
 OLD ATHENIAN       0.00      0.00      0.00        10
-       PAGE       0.12      0.25      0.17         4
-    PAINTER       0.00      0.00      0.00        30
+       PAGE       0.00      0.00      0.00         4
+    PAINTER       0.08      0.03      0.05        30
    PHILOTUS       0.00      0.00      0.00         6
     PHRYNIA       0.00      0.00      0.00         1
 PHRYNIA AND TIMANDRA       0.00      0.00      0.00         3
-       POET       0.00      0.00      0.00        30
+       POET       0.33      0.07      0.11        30
 SECOND BANDIT       0.00      0.00      0.00         4
-SECOND LORD       0.07      0.04      0.05        28
+SECOND LORD       0.00      0.00      0.00        28
 SECOND SENATOR       0.00      0.00      0.00        14
 SECOND SERVANT       0.00      0.00      0.00         2
-SECOND STRANGER       0.00      0.00      0.00         3
+SECOND STRANGER       0.07      0.33      0.12         3
  SEMPRONIUS       0.00      0.00      0.00         2
     SENATOR       0.00      0.00      0.00         4
    SENATORS       0.00      0.00      0.00         1
@@ -3454,11 +3374,11 @@ THIRD SENATOR       0.00      0.00      0.00         2
 THIRD SERVANT       0.00      0.00      0.00         2
 THIRD STRANGER       0.00      0.00      0.00         1
    TIMANDRA       0.00      0.00      0.00         3
-      TIMON       0.25      0.01      0.02       210
-      TITUS       0.12      0.08      0.10        12
+      TIMON       0.46      0.03      0.05       210
+      TITUS       0.00      0.00      0.00        12
   VENTIDIUS       0.00      0.00      0.00         2
 
-avg / total       0.09      0.01      0.01       759
+avg / total       0.17      0.03      0.03       759
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3527,14 +3447,12 @@ avg / total       0.08      0.28      0.12       759
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
- ALCIBIADES       0.06      0.13      0.08        38
-  APEMANTUS       0.25      0.19      0.21       100
-    FLAVIUS       0.07      0.15      0.10        40
-    PAINTER       0.02      0.07      0.04        30
-       POET       0.09      0.17      0.12        30
-      TIMON       0.50      0.17      0.26       210
+ ALCIBIADES       0.11      0.24      0.15        38
+  APEMANTUS       0.21      0.21      0.21       100
+    FLAVIUS       0.10      0.23      0.14        40
+      TIMON       0.59      0.33      0.43       210
 
-avg / total       0.31      0.16      0.19       448
+avg / total       0.39      0.28      0.31       388
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3542,46 +3460,44 @@ Pruned most common speaker baseline performance:
  ALCIBIADES       0.00      0.00      0.00        38
   APEMANTUS       0.00      0.00      0.00       100
     FLAVIUS       0.00      0.00      0.00        40
-    PAINTER       0.00      0.00      0.00        30
-       POET       0.00      0.00      0.00        30
-      TIMON       0.47      1.00      0.64       210
+      TIMON       0.54      1.00      0.70       210
 
-avg / total       0.22      0.47      0.30       448
+avg / total       0.29      0.54      0.38       388
 
 --------------------------------------------------
 Baselines for play 30, THE TRAGEDY OF TITUS ANDRONICUS
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-      AARON       0.05      0.02      0.03        57
+      AARON       0.08      0.04      0.05        57
    AEMILIUS       0.00      0.00      0.00         4
-        ALL       0.00      0.00      0.00         3
+        ALL       0.04      0.33      0.07         3
   BASSIANUS       0.04      0.07      0.05        14
-        BOY       0.00      0.00      0.00        11
+        BOY       0.03      0.09      0.05        11
     CAPTAIN       0.00      0.00      0.00         1
-     CHIRON       0.05      0.03      0.04        30
+     CHIRON       0.08      0.03      0.05        30
       CLOWN       0.00      0.00      0.00        12
-  DEMETRIUS       0.00      0.00      0.00        39
+  DEMETRIUS       0.14      0.08      0.10        39
  FIRST GOTH       0.00      0.00      0.00         3
        GOTH       0.00      0.00      0.00         2
       GOTHS       0.00      0.00      0.00         1
-    LAVINIA       0.05      0.07      0.06        15
-     LUCIUS       0.08      0.04      0.05        51
+    LAVINIA       0.00      0.00      0.00        15
+     LUCIUS       0.25      0.10      0.14        51
      MARCUS       0.00      0.00      0.00        65
     MARTIUS       0.00      0.00      0.00        10
   MESSENGER       0.00      0.00      0.00         1
      MUTIUS       0.00      0.00      0.00         3
-      NURSE       0.00      0.00      0.00        10
+      NURSE       0.06      0.10      0.07        10
     PUBLIUS       0.00      0.00      0.00         5
     QUINTUS       0.00      0.00      0.00        10
       ROMAN       0.00      0.00      0.00         1
- SATURNINUS       0.13      0.06      0.08        48
+ SATURNINUS       0.14      0.08      0.11        48
 SECOND GOTH       0.00      0.00      0.00         1
-     TAMORA       0.08      0.04      0.05        49
-      TITUS       0.00      0.00      0.00       118
+     TAMORA       0.05      0.02      0.03        49
+      TITUS       0.11      0.03      0.04       118
    TRIBUNES       0.00      0.00      0.00         1
 
-avg / total       0.04      0.02      0.02       565
+avg / total       0.09      0.04      0.05       565
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3619,16 +3535,16 @@ avg / total       0.04      0.21      0.07       565
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-      AARON       0.09      0.09      0.09        57
-     CHIRON       0.04      0.07      0.05        30
-  DEMETRIUS       0.16      0.23      0.19        39
-     LUCIUS       0.12      0.14      0.13        51
-     MARCUS       0.17      0.12      0.14        65
- SATURNINUS       0.16      0.21      0.18        48
-     TAMORA       0.08      0.10      0.09        49
-      TITUS       0.25      0.14      0.18       118
+      AARON       0.14      0.14      0.14        57
+     CHIRON       0.10      0.20      0.13        30
+  DEMETRIUS       0.09      0.13      0.10        39
+     LUCIUS       0.12      0.16      0.13        51
+     MARCUS       0.09      0.08      0.08        65
+ SATURNINUS       0.08      0.08      0.08        48
+     TAMORA       0.11      0.14      0.12        49
+      TITUS       0.19      0.07      0.10       118
 
-avg / total       0.16      0.14      0.14       457
+avg / total       0.13      0.11      0.11       457
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3650,36 +3566,36 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
    ACHILLES       0.14      0.07      0.09        74
-     AENEAS       0.05      0.05      0.05        44
-  AGAMEMNON       0.05      0.04      0.04        53
-       AJAX       0.14      0.11      0.12        55
+     AENEAS       0.02      0.02      0.02        44
+  AGAMEMNON       0.00      0.00      0.00        53
+       AJAX       0.02      0.02      0.02        55
   ALEXANDER       0.00      0.00      0.00         8
         ALL       0.00      0.00      0.00         2
- ANDROMACHE       0.00      0.00      0.00         6
+ ANDROMACHE       0.02      0.17      0.04         6
         BOY       0.00      0.00      0.00         3
     CALCHAS       0.03      0.25      0.05         4
-  CASSANDRA       0.00      0.00      0.00        13
-   CRESSIDA       0.13      0.05      0.07       153
+  CASSANDRA       0.03      0.08      0.04        13
+   CRESSIDA       0.21      0.06      0.09       153
   DEIPHOBUS       0.00      0.00      0.00         2
-   DIOMEDES       0.02      0.02      0.02        54
-     HECTOR       0.04      0.02      0.02        57
-      HELEN       0.03      0.05      0.03        19
+   DIOMEDES       0.03      0.02      0.02        54
+     HECTOR       0.11      0.07      0.09        57
+      HELEN       0.06      0.11      0.07        19
     HELENUS       0.00      0.00      0.00         1
  MARGARELON       0.00      0.00      0.00         3
    MENELAUS       0.00      0.00      0.00        11
    MYRMIDON       0.00      0.00      0.00         1
-     NESTOR       0.03      0.03      0.03        38
-   PANDARUS       0.08      0.03      0.04       153
-      PARIS       0.00      0.00      0.00        27
-  PATROCLUS       0.00      0.00      0.00        38
-      PRIAM       0.00      0.00      0.00         6
-    SERVANT       0.00      0.00      0.00        15
+     NESTOR       0.09      0.11      0.09        38
+   PANDARUS       0.12      0.03      0.05       153
+      PARIS       0.04      0.07      0.05        27
+  PATROCLUS       0.05      0.05      0.05        38
+      PRIAM       0.02      0.17      0.04         6
+    SERVANT       0.05      0.13      0.07        15
    SOLDIERS       0.00      0.00      0.00         1
-  THERSITES       0.12      0.04      0.07        90
-    TROILUS       0.08      0.02      0.04       131
-    ULYSSES       0.07      0.04      0.05        80
+  THERSITES       0.10      0.04      0.06        90
+    TROILUS       0.13      0.03      0.05       131
+    ULYSSES       0.10      0.05      0.07        80
 
-avg / total       0.08      0.04      0.05      1142
+avg / total       0.10      0.05      0.06      1142
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3719,60 +3635,54 @@ avg / total       0.02      0.13      0.03      1142
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-   ACHILLES       0.07      0.09      0.08        74
-  AGAMEMNON       0.03      0.06      0.04        53
-       AJAX       0.05      0.07      0.06        55
-   CRESSIDA       0.15      0.08      0.10       153
-   DIOMEDES       0.05      0.09      0.06        54
-     HECTOR       0.06      0.11      0.08        57
-   PANDARUS       0.16      0.09      0.12       153
-  THERSITES       0.09      0.09      0.09        90
-    TROILUS       0.17      0.11      0.14       131
-    ULYSSES       0.12      0.12      0.12        80
+   ACHILLES       0.10      0.14      0.11        74
+   CRESSIDA       0.18      0.12      0.15       153
+     HECTOR       0.02      0.04      0.03        57
+   PANDARUS       0.18      0.13      0.15       153
+  THERSITES       0.15      0.19      0.16        90
+    TROILUS       0.18      0.13      0.15       131
+    ULYSSES       0.11      0.15      0.13        80
 
-avg / total       0.12      0.09      0.10       900
+avg / total       0.15      0.13      0.14       738
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
    ACHILLES       0.00      0.00      0.00        74
-  AGAMEMNON       0.00      0.00      0.00        53
-       AJAX       0.00      0.00      0.00        55
    CRESSIDA       0.00      0.00      0.00       153
-   DIOMEDES       0.00      0.00      0.00        54
      HECTOR       0.00      0.00      0.00        57
-   PANDARUS       0.17      1.00      0.29       153
+   PANDARUS       0.21      1.00      0.34       153
   THERSITES       0.00      0.00      0.00        90
     TROILUS       0.00      0.00      0.00       131
     ULYSSES       0.00      0.00      0.00        80
 
-avg / total       0.03      0.17      0.05       900
+avg / total       0.04      0.21      0.07       738
 
 --------------------------------------------------
 Baselines for play 32, TWELFTH NIGHT; OR, WHAT YOU WILL
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-  AGUECHEEK       0.14      0.08      0.10        88
-    ANTONIO       0.00      0.00      0.00        27
+  AGUECHEEK       0.07      0.05      0.06        88
+    ANTONIO       0.05      0.07      0.06        27
     CAPTAIN       0.00      0.00      0.00        10
       CLOWN       0.15      0.08      0.11        99
-      CURIO       0.02      0.25      0.04         4
-       DUKE       0.06      0.05      0.06        58
-     FABIAN       0.10      0.10      0.10        51
+      CURIO       0.02      0.25      0.03         4
+       DUKE       0.02      0.02      0.02        58
+     FABIAN       0.07      0.08      0.07        51
 FIRST OFFICER       0.00      0.00      0.00         5
-   MALVOLIO       0.08      0.06      0.07        87
-      MARIA       0.07      0.05      0.06        59
-     OLIVIA       0.15      0.08      0.11       120
+   MALVOLIO       0.12      0.07      0.09        87
+      MARIA       0.09      0.07      0.08        59
+     OLIVIA       0.15      0.07      0.09       120
      PRIEST       0.00      0.00      0.00         1
-  SEBASTIAN       0.05      0.10      0.07        31
+  SEBASTIAN       0.02      0.03      0.02        31
 SECOND OFFICER       0.00      0.00      0.00         3
-    SERVANT       0.00      0.00      0.00         1
-   SIR TOBY       0.12      0.05      0.07       152
+    SERVANT       0.02      1.00      0.04         1
+   SIR TOBY       0.18      0.06      0.09       152
   VALENTINE       0.00      0.00      0.00         3
-      VIOLA       0.17      0.07      0.10       122
+      VIOLA       0.11      0.04      0.06       122
 
-avg / total       0.12      0.07      0.08       921
+avg / total       0.11      0.06      0.07       921
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3801,17 +3711,17 @@ avg / total       0.03      0.17      0.05       921
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-  AGUECHEEK       0.11      0.11      0.11        88
-      CLOWN       0.11      0.11      0.11        99
-       DUKE       0.05      0.09      0.07        58
-     FABIAN       0.09      0.20      0.13        51
-   MALVOLIO       0.16      0.16      0.16        87
-      MARIA       0.10      0.15      0.12        59
-     OLIVIA       0.15      0.11      0.12       120
-   SIR TOBY       0.17      0.09      0.11       152
-      VIOLA       0.16      0.12      0.14       122
+  AGUECHEEK       0.10      0.10      0.10        88
+      CLOWN       0.12      0.12      0.12        99
+       DUKE       0.09      0.16      0.12        58
+     FABIAN       0.05      0.10      0.07        51
+   MALVOLIO       0.10      0.13      0.11        87
+      MARIA       0.11      0.19      0.14        59
+     OLIVIA       0.14      0.11      0.12       120
+   SIR TOBY       0.27      0.14      0.18       152
+      VIOLA       0.13      0.09      0.11       122
 
-avg / total       0.13      0.12      0.12       836
+avg / total       0.14      0.12      0.13       836
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3834,24 +3744,24 @@ Random speaker baseline performance:
              precision    recall  f1-score   support
 
     ANTONIO       0.00      0.00      0.00        11
-       DUKE       0.04      0.04      0.04        48
+       DUKE       0.08      0.08      0.08        48
    EGLAMOUR       0.00      0.00      0.00         8
-FIRST OUTLAW       0.02      0.09      0.03        11
-       HOST       0.03      0.12      0.05        16
-      JULIA       0.21      0.09      0.13       107
-     LAUNCE       0.07      0.04      0.05        68
-    LUCETTA       0.04      0.04      0.04        48
+FIRST OUTLAW       0.00      0.00      0.00        11
+       HOST       0.11      0.31      0.16        16
+      JULIA       0.17      0.08      0.11       107
+     LAUNCE       0.13      0.09      0.10        68
+    LUCETTA       0.00      0.00      0.00        48
     OUTLAWS       0.00      0.00      0.00         1
-   PANTHINO       0.00      0.00      0.00        14
-    PROTEUS       0.12      0.03      0.04       149
-SECOND OUTLAW       0.02      0.09      0.04        11
-     SILVIA       0.05      0.05      0.05        58
-      SPEED       0.14      0.06      0.08       117
+   PANTHINO       0.02      0.07      0.03        14
+    PROTEUS       0.10      0.03      0.05       149
+SECOND OUTLAW       0.00      0.00      0.00        11
+     SILVIA       0.13      0.12      0.13        58
+      SPEED       0.13      0.05      0.07       117
 THIRD OUTLAW       0.00      0.00      0.00         7
-     THURIO       0.11      0.14      0.12        36
-  VALENTINE       0.26      0.09      0.13       149
+     THURIO       0.02      0.03      0.02        36
+  VALENTINE       0.19      0.07      0.11       149
 
-avg / total       0.13      0.06      0.08       859
+avg / total       0.12      0.06      0.08       859
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3879,17 +3789,16 @@ avg / total       0.03      0.17      0.05       859
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-       DUKE       0.07      0.15      0.10        48
-      JULIA       0.10      0.08      0.09       107
-     LAUNCE       0.11      0.13      0.12        68
-    LUCETTA       0.12      0.21      0.15        48
-    PROTEUS       0.12      0.07      0.09       149
-     SILVIA       0.09      0.14      0.11        58
-      SPEED       0.17      0.11      0.13       117
-     THURIO       0.07      0.17      0.09        36
-  VALENTINE       0.24      0.12      0.16       149
+       DUKE       0.02      0.04      0.03        48
+      JULIA       0.16      0.16      0.16       107
+     LAUNCE       0.13      0.16      0.14        68
+    LUCETTA       0.10      0.17      0.13        48
+    PROTEUS       0.10      0.07      0.08       149
+     SILVIA       0.05      0.09      0.06        58
+      SPEED       0.08      0.07      0.07       117
+  VALENTINE       0.16      0.10      0.12       149
 
-avg / total       0.14      0.12      0.12       780
+avg / total       0.11      0.10      0.10       744
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3901,52 +3810,51 @@ Pruned most common speaker baseline performance:
     PROTEUS       0.00      0.00      0.00       149
      SILVIA       0.00      0.00      0.00        58
       SPEED       0.00      0.00      0.00       117
-     THURIO       0.00      0.00      0.00        36
-  VALENTINE       0.19      1.00      0.32       149
+  VALENTINE       0.20      1.00      0.33       149
 
-avg / total       0.04      0.19      0.06       780
+avg / total       0.04      0.20      0.07       744
 
 --------------------------------------------------
 Baselines for play 34, THE WINTER'S TALE
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-  ANTIGONUS       0.00      0.00      0.00        19
+  ANTIGONUS       0.04      0.05      0.05        19
  ARCHIDAMUS       0.03      0.14      0.05         7
-  AUTOLYCUS       0.05      0.02      0.02        65
-    CAMILLO       0.04      0.01      0.02        72
+  AUTOLYCUS       0.17      0.05      0.07        65
+    CAMILLO       0.05      0.01      0.02        72
   CLEOMENES       0.00      0.00      0.00         7
-      CLOWN       0.13      0.05      0.07        64
-       DION       0.00      0.00      0.00         4
+      CLOWN       0.12      0.06      0.08        64
+       DION       0.07      0.50      0.12         4
      DORCAS       0.00      0.00      0.00        11
      EMILIA       0.00      0.00      0.00         4
 FIRST GENTLEMAN       0.00      0.00      0.00         6
  FIRST LADY       0.00      0.00      0.00         4
- FIRST LORD       0.00      0.00      0.00        14
+ FIRST LORD       0.05      0.07      0.06        14
 FIRST SERVANT       0.00      0.00      0.00         2
-   FLORIZEL       0.00      0.00      0.00        45
+   FLORIZEL       0.04      0.02      0.03        45
      GAOLER       0.00      0.00      0.00         6
   GENTLEMAN       0.00      0.00      0.00         5
-   HERMIONE       0.04      0.03      0.03        35
+   HERMIONE       0.00      0.00      0.00        35
     LEONTES       0.11      0.02      0.03       125
        LORD       0.00      0.00      0.00         4
       LORDS       0.00      0.00      0.00         2
-  MAMILLIUS       0.04      0.08      0.05        13
+  MAMILLIUS       0.04      0.08      0.06        13
     MARINER       0.00      0.00      0.00         3
       MOPSA       0.00      0.00      0.00        13
     OFFICER       0.00      0.00      0.00         5
-    PAULINA       0.08      0.02      0.03        59
-    PERDITA       0.05      0.04      0.04        25
-  POLIXENES       0.19      0.05      0.08        57
+    PAULINA       0.06      0.02      0.03        59
+    PERDITA       0.08      0.08      0.08        25
+  POLIXENES       0.00      0.00      0.00        57
 SECOND GENTLEMAN       0.00      0.00      0.00         4
 SECOND LADY       0.00      0.00      0.00         3
 SECOND SERVANT       0.00      0.00      0.00         1
-    SERVANT       0.11      0.20      0.14        10
-   SHEPHERD       0.08      0.05      0.06        42
+    SERVANT       0.00      0.00      0.00        10
+   SHEPHERD       0.05      0.02      0.03        42
 THIRD GENTLEMAN       0.00      0.00      0.00         6
        TIME       0.00      0.00      0.00         1
 
-avg / total       0.07      0.03      0.03       743
+avg / total       0.06      0.03      0.03       743
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -3991,17 +3899,16 @@ avg / total       0.03      0.17      0.05       743
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-  AUTOLYCUS       0.08      0.06      0.07        65
-    CAMILLO       0.12      0.10      0.11        72
-      CLOWN       0.08      0.06      0.07        64
-   FLORIZEL       0.06      0.09      0.07        45
-   HERMIONE       0.04      0.09      0.06        35
-    LEONTES       0.16      0.07      0.10       125
-    PAULINA       0.11      0.12      0.11        59
-  POLIXENES       0.17      0.21      0.19        57
-   SHEPHERD       0.06      0.12      0.08        42
+  AUTOLYCUS       0.09      0.09      0.09        65
+    CAMILLO       0.12      0.12      0.12        72
+      CLOWN       0.05      0.05      0.05        64
+   FLORIZEL       0.09      0.13      0.11        45
+    LEONTES       0.33      0.17      0.22       125
+    PAULINA       0.09      0.10      0.09        59
+  POLIXENES       0.14      0.18      0.16        57
+   SHEPHERD       0.08      0.12      0.09        42
 
-avg / total       0.11      0.10      0.10       564
+avg / total       0.15      0.12      0.13       529
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -4010,44 +3917,43 @@ Pruned most common speaker baseline performance:
     CAMILLO       0.00      0.00      0.00        72
       CLOWN       0.00      0.00      0.00        64
    FLORIZEL       0.00      0.00      0.00        45
-   HERMIONE       0.00      0.00      0.00        35
-    LEONTES       0.22      1.00      0.36       125
+    LEONTES       0.24      1.00      0.38       125
     PAULINA       0.00      0.00      0.00        59
   POLIXENES       0.00      0.00      0.00        57
    SHEPHERD       0.00      0.00      0.00        42
 
-avg / total       0.05      0.22      0.08       564
+avg / total       0.06      0.24      0.09       529
 
 --------------------------------------------------
 Baselines for play 35, MEASURE FOR MEASURE
 Random speaker baseline performance:
              precision    recall  f1-score   support
 
-   ABHORSON       0.03      0.08      0.05        13
-     ANGELO       0.11      0.04      0.05        83
- BARNARDINE       0.00      0.00      0.00         7
-    CLAUDIO       0.07      0.09      0.08        35
-       DUKE       0.31      0.06      0.10       193
-      ELBOW       0.07      0.11      0.09        28
-    ESCALUS       0.09      0.04      0.05        78
-FIRST GENTLEMAN       0.03      0.07      0.04        14
+   ABHORSON       0.00      0.00      0.00        13
+     ANGELO       0.10      0.05      0.06        83
+ BARNARDINE       0.03      0.14      0.04         7
+    CLAUDIO       0.07      0.09      0.07        35
+       DUKE       0.22      0.03      0.05       193
+      ELBOW       0.09      0.14      0.11        28
+    ESCALUS       0.08      0.04      0.05        78
+FIRST GENTLEMAN       0.00      0.00      0.00        14
   FRANCISCA       0.00      0.00      0.00         2
 FRIAR THOMAS       0.00      0.00      0.00         3
-      FROTH       0.03      0.12      0.05         8
-   ISABELLA       0.24      0.08      0.12       129
+      FROTH       0.00      0.00      0.00         8
+   ISABELLA       0.14      0.04      0.06       129
      JULIET       0.00      0.00      0.00         7
-    JUSTICE       0.00      0.00      0.00         3
-      LUCIO       0.14      0.05      0.08       110
-    MARIANA       0.00      0.00      0.00        24
+    JUSTICE       0.03      0.33      0.05         3
+      LUCIO       0.19      0.05      0.09       110
+    MARIANA       0.02      0.04      0.03        24
   MESSENGER       0.00      0.00      0.00         1
 MRS OVERDONE       0.00      0.00      0.00        15
       PETER       0.00      0.00      0.00         6
-     POMPEY       0.04      0.03      0.04        60
-    PROVOST       0.14      0.09      0.11        65
+     POMPEY       0.07      0.05      0.06        60
+    PROVOST       0.05      0.03      0.04        65
 SECOND GENTLEMAN       0.00      0.00      0.00         8
     SERVANT       0.00      0.00      0.00         3
 
-avg / total       0.16      0.06      0.08       895
+avg / total       0.12      0.04      0.06       895
 
 Most common speaker baseline performance:
              precision    recall  f1-score   support
@@ -4081,29 +3987,27 @@ avg / total       0.05      0.22      0.08       895
 Pruned random speaker baseline performance:
              precision    recall  f1-score   support
 
-     ANGELO       0.14      0.14      0.14        83
-    CLAUDIO       0.01      0.03      0.02        35
-       DUKE       0.21      0.12      0.15       193
-    ESCALUS       0.11      0.12      0.11        78
-   ISABELLA       0.17      0.14      0.15       129
-      LUCIO       0.15      0.14      0.14       110
-     POMPEY       0.08      0.10      0.09        60
-    PROVOST       0.08      0.12      0.09        65
+     ANGELO       0.13      0.17      0.15        83
+       DUKE       0.28      0.13      0.18       193
+    ESCALUS       0.12      0.14      0.13        78
+   ISABELLA       0.19      0.16      0.17       129
+      LUCIO       0.11      0.12      0.12       110
+     POMPEY       0.08      0.13      0.10        60
+    PROVOST       0.11      0.17      0.13        65
 
-avg / total       0.14      0.12      0.13       753
+avg / total       0.17      0.14      0.15       718
 
 Pruned most common speaker baseline performance:
              precision    recall  f1-score   support
 
      ANGELO       0.00      0.00      0.00        83
-    CLAUDIO       0.00      0.00      0.00        35
-       DUKE       0.26      1.00      0.41       193
+       DUKE       0.27      1.00      0.42       193
     ESCALUS       0.00      0.00      0.00        78
    ISABELLA       0.00      0.00      0.00       129
       LUCIO       0.00      0.00      0.00       110
      POMPEY       0.00      0.00      0.00        60
     PROVOST       0.00      0.00      0.00        65
 
-avg / total       0.07      0.26      0.10       753
+avg / total       0.07      0.27      0.11       718
 
 --------------------------------------------------
