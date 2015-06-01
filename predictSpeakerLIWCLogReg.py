@@ -99,6 +99,53 @@ def constructSpeakerLIWCDataset(filename):
 		features.append(feat)
 	return (features, speakers, speakerInd, speakerCount)
 
+DELIMS = r'\n| |,|\.|\?|!|:|;|\]|\[|}|--'
+DELIMS_PATTERN = re.compile(DELIMS)
+
+# construct a dataset with lists of Word Count features and speakers (indexed)
+def constructSpeakerWordCountDataset(filename):
+	acts = readSpeechActs(filename)
+	features = []
+	speakers = []
+	speakerInd = {}
+	speakerCount = {}
+	index = 0
+	for act in acts:
+		speaker = act.speaker
+		if speaker not in speakerInd:
+			speakerInd[speaker] = index
+			index += 1
+		if speakerInd[speaker] not in speakerCount:
+			speakerCount[speakerInd[speaker]] = 1
+		else:
+			speakerCount[speakerInd[speaker]] += 1
+		speakers.append(speakerInd[speaker])
+		feat = Counter(re.split(DELIMS_PATTERN, act.text))
+		features.append(feat)
+	return (features, speakers, speakerInd, speakerCount)
+	# mat, rownames, headers = build(filename)
+	# features = []
+	# speakers = []
+	# speakerInd = {}
+	# speakerCount = {}
+	# index = 0
+	# for i in xrange(len(rownames)):
+	# 	chars = rownames[i].split('_')
+	# 	speaker = chars[0]
+	# 	listener = chars[0]
+	# 	if speaker not in speakerInd:
+	# 		speakerInd[speaker] = index
+	# 		index += 1
+	# 	if speakerInd[speaker] not in speakerCount:
+	# 		speakerCount[speakerInd[speaker]] = 1
+	# 	else:
+	# 		speakerCount[speakerInd[speaker]] += 1
+	# 	speakers.append(speakerInd[speaker])
+	# 	feat = {}
+	# 	for j in xrange(1, len(headers)):
+	# 		feat[headers[j]] = mat[i][j]
+	# 	features.append(feat)
+	# return (features, speakers, speakerInd, speakerCount)
 
 # constant for the speech act number cutoff proportion - speaker with acts fewer than
 # this fraction of the total acts will be eliminated
@@ -123,7 +170,8 @@ if __name__ == "__main__":
 		print "========================================================================================================="
 		print "Play Number: " + str(i) 
 		# construct the multiclass dataset
-		features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples/triples-'+str(i)+'.txt')
+		# features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples/triples-'+str(i)+'.txt')
+		features, labels, speakerMap, speakerCount = constructSpeakerWordCountDataset('triples/triples-'+str(i)+'.txt')
 		# filter dataset
 		filteredFeatures, filteredLabels, MIN_ACTS = filterSpeakerLIWCDataset(features, labels, speakerCount)
 		print
