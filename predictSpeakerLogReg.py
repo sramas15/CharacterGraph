@@ -36,9 +36,9 @@ def train_logistic_regression(
 	vectorizer = DictVectorizer(sparse=False)
 	feats = vectorizer.fit_transform(feats)
 	##### FEATURE SELECTION 
-	feat_matrix = None
-	feature_selector = RFE(estimator=LogisticRegression(), n_features_to_select=None, step=1, verbose=0)
-	feat_matrix = feature_selector.fit_transform(feats, labels)
+	feat_matrix = feats
+	# feature_selector = RFE(estimator=LogisticRegression(), n_features_to_select=None, step=1, verbose=0)
+	# feat_matrix = feature_selector.fit_transform(feats, labels)
 
 	##### HYPER-PARAMETER SEARCH
 	# Define the basic model to use for parameter search:
@@ -60,7 +60,6 @@ def train_logistic_regression(
 
 	# TRAIN OUR MODEL:
 	mod.fit(feat_matrix, labels)
-
 	# Return the trained model along with the objects we need to
 	# featurize test data in a way that aligns with our training
 	# matrix:
@@ -71,8 +70,8 @@ def evaluate_trained_classifier(model=None):
 	"""Evaluate model, the output of train_classifier, on the data in reader."""
 	mod, vectorizer, feature_selector = model
 	feat_matrix = vectorizer.transform(filteredFeatures)
-	if feature_selector:
-		feat_matrix = feature_selector.transform(feat_matrix)
+	# if feature_selector:
+	# 	feat_matrix = feature_selector.transform(feat_matrix)
 	predictions = mod.predict(feat_matrix)
 	print metrics.classification_report(filteredLabels, predictions)
 
@@ -164,14 +163,39 @@ def filterSpeakerLIWCDataset(features, labels, speakerCount, MIN_ACTS = -1):
 			filteredLabels.append(label)
 	return (filteredFeatures, filteredLabels, MIN_ACTS)
 
+def getImportantWeights(model, features):
+	print 
+	print "Highest and lowest weights in the model"
+	print 
+	coefficients = model.coef_
+	# there is a set of feature weights for each speaker
+	for i in xrange(coefficients.shape[0]):
+		weights= coefficients[i]
+		argmax = np.argmax(weights)
+		argmin = np.argmin(weights)
+		Wmax = np.max(weights)
+		Wmin = np.min(weights)
+		index = 0
+		featMax = 'None'
+		featMin = 'None'
+		for feat in features.keys():
+			if index == argmax:
+				featMax = feat
+			if index == argmin:
+				featMin = feat
+			index += 1
+		print "Max: " + featMax + ", " + str(Wmax)
+		print "Min: " + featMin + ", " + str(Wmin)
+		print
+
 if __name__ == "__main__":
 	print "Proportion of cutoff: 20"
 	for i in xrange(36):
 		print "========================================================================================================="
 		print "Play Number: " + str(i) 
 		# construct the multiclass dataset
-		# features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples/triples-'+str(i)+'.txt')
-		features, labels, speakerMap, speakerCount = constructSpeakerWordCountDataset('triples/triples-'+str(i)+'.txt')
+		features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples2/triples-'+str(i)+'.txt')
+		# features, labels, speakerMap, speakerCount = constructSpeakerWordCountDataset('triples2/triples-'+str(i)+'.txt')
 		# filter dataset
 		filteredFeatures, filteredLabels, MIN_ACTS = filterSpeakerLIWCDataset(features, labels, speakerCount)
 		print
@@ -180,6 +204,8 @@ if __name__ == "__main__":
 		print
 		# train model
 		model = train_logistic_regression(feats = filteredFeatures, labels = filteredLabels, cv = MIN_ACTS / 10)
+		# print out several LIWC weights (cannot be done for word features though)
+		getImportantWeights(model[0], getLIWCDictionary())
 		# evaluate
 		evaluate_trained_classifier(model)
 		print speakerMap
