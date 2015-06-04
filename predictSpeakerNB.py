@@ -17,7 +17,7 @@ if sklearn.__version__[:4] != '0.16':
 
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.feature_selection import SelectFpr, chi2, RFE
-from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.grid_search import GridSearchCV
 from sklearn.cross_validation import cross_val_score
 from sklearn import metrics
@@ -27,11 +27,10 @@ from SpeechAct import *
 from liwcFeaturizer import *
 
 # borrowed from the NLI codelab, but is our modification to accommodate multiclass classification
-def train_logistic_regression(
+def train_NB(
 		feats = None, labels = [],
 		feature_selector=SelectFpr(chi2, alpha=0.05), # Use None to stop feature selection
-		cv=5, # Number of folds used in cross-validation
-		priorlims=np.arange(.1, 3.1, .1)): # regularization priors to explore (we expect something around 1)
+		cv=5): # Number of folds used in cross-validation
 	# Map the count dictionaries to a sparse feature matrix:
 	vectorizer = DictVectorizer(sparse=False)
 	feats = vectorizer.fit_transform(feats)
@@ -42,16 +41,16 @@ def train_logistic_regression(
 
 	##### HYPER-PARAMETER SEARCH
 	# Define the basic model to use for parameter search:
-	searchmod = LogisticRegression(fit_intercept=True, intercept_scaling=1, verbose=1, solver='lbfgs', max_iter=2000)
+	searchmod = MultinomialNB()
 	# Parameters to grid-search over:
-	parameters = {'C':priorlims, 'penalty':['l1', 'l2'], 'multi_class':['multinomial', 'ovr']}  
+	parameters = {'alpha':np.arange(.1, 2.0, .5)}
 	# Cross-validation grid search to find the best hyper-parameters:	
 	clf = GridSearchCV(searchmod, parameters, cv=cv, n_jobs=-1)
 	clf.fit(feat_matrix, labels)
 	params = clf.best_params_
 
 	# Establish the model we want using the parameters obtained from the search:
-	mod = LogisticRegression(fit_intercept=True, intercept_scaling=1, C=params['C'], penalty=params['penalty'], multi_class=params['multi_class'], solver='lbfgs', verbose=1, max_iter=200)
+	mod = MultinomialNB(alpha=params['alpha'])
 	##### ASSESSMENT
 	scores = cross_val_score(mod, feat_matrix, labels, cv=cv, scoring="f1_macro")	  
 	print 'Best model', mod
@@ -203,7 +202,7 @@ if __name__ == "__main__":
 		print "Number of Total Speakers: " + str(len(speakerCount))
 		print
 		# train model
-		model = train_logistic_regression(feats = filteredFeatures, labels = filteredLabels, cv = MIN_ACTS / 10)
+		model = train_NB(feats = filteredFeatures, labels = filteredLabels, cv = MIN_ACTS / 10)
 		# print out several LIWC weights (cannot be done for word features though)
 		getImportantWeights(model[0], getLIWCDictionary())
 		# evaluate
