@@ -120,7 +120,16 @@ def _tfidf_row_func(row, colsums, doccount):
     # This ensures a defined IDF value >= 0.0:
     if df > 0.0 and df != doccount:
         idf = np.log(doccount / df)
-    tfs = row/colsums
+    if sum(colsums) > 0:
+        # tfs = row/colsums
+        tfs = []
+        for i, elem in enumerate(row):
+            if colsums[i] == 0:
+                tfs.append(0.0)
+            else:
+                tfs.append(elem/colsums[i])
+    else:
+        tfs = np.array(0 for x in range(len(colsums)))
     return tfs * idf
 
 ######################################################################

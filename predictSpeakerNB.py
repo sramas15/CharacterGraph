@@ -36,7 +36,7 @@ def train_NB(
 	feats = vectorizer.fit_transform(feats)
 	##### FEATURE SELECTION 
 	feat_matrix = feats
-	feature_selector = RFE(estimator=LogisticRegression(), n_features_to_select=None, step=1, verbose=0)
+	feature_selector = RFE(estimator=MultinomialNB(), n_features_to_select=None, step=1, verbose=0)
 	feat_matrix = feature_selector.fit_transform(feats, labels)
 
 	##### HYPER-PARAMETER SEARCH
