@@ -30,20 +30,21 @@ from liwcFeaturizer import *
 def train_NB(
 		feats = None, labels = [],
 		feature_selector=SelectFpr(chi2, alpha=0.05), # Use None to stop feature selection
-		cv=5): # Number of folds used in cross-validation
+		cv=5, # Number of folds used in cross-validation
+		priorlims=np.arange(.1, 2.0, .5)): # alphas to explore (we expect something around 1)
 	# Map the count dictionaries to a sparse feature matrix:
 	vectorizer = DictVectorizer(sparse=False)
 	feats = vectorizer.fit_transform(feats)
 	##### FEATURE SELECTION 
 	feat_matrix = feats
-	feature_selector = RFE(estimator=LogisticRegression(), n_features_to_select=None, step=1, verbose=0)
+	feature_selector = RFE(estimator=MultinomialNB(), n_features_to_select=None, step=1, verbose=0)
 	feat_matrix = feature_selector.fit_transform(feats, labels)
 
 	##### HYPER-PARAMETER SEARCH
 	# Define the basic model to use for parameter search:
 	searchmod = MultinomialNB()
 	# Parameters to grid-search over:
-	parameters = {'alpha':np.arange(.1, 2.0, .5)}
+	parameters = {'alpha':priorlims}
 	# Cross-validation grid search to find the best hyper-parameters:	
 	clf = GridSearchCV(searchmod, parameters, cv=cv, n_jobs=-1)
 	clf.fit(feat_matrix, labels)
@@ -65,7 +66,7 @@ def train_NB(
 	return (mod, vectorizer, feature_selector)
 
 # borrowed from the NLI codelab and modified to suit our data format
-def evaluate_trained_classifier(model=None):
+def evaluate_trained_classifier(model=None, filteredFeatures = None, filteredLabels = None):
 	"""Evaluate model, the output of train_classifier, on the data in reader."""
 	mod, vectorizer, feature_selector = model
 	feat_matrix = vectorizer.transform(filteredFeatures)
@@ -121,36 +122,13 @@ def constructSpeakerWordCountDataset(filename):
 		feat = Counter(re.split(DELIMS_PATTERN, act.text))
 		features.append(feat)
 	return (features, speakers, speakerInd, speakerCount)
-	# mat, rownames, headers = build(filename)
-	# features = []
-	# speakers = []
-	# speakerInd = {}
-	# speakerCount = {}
-	# index = 0
-	# for i in xrange(len(rownames)):
-	# 	chars = rownames[i].split('_')
-	# 	speaker = chars[0]
-	# 	listener = chars[0]
-	# 	if speaker not in speakerInd:
-	# 		speakerInd[speaker] = index
-	# 		index += 1
-	# 	if speakerInd[speaker] not in speakerCount:
-	# 		speakerCount[speakerInd[speaker]] = 1
-	# 	else:
-	# 		speakerCount[speakerInd[speaker]] += 1
-	# 	speakers.append(speakerInd[speaker])
-	# 	feat = {}
-	# 	for j in xrange(1, len(headers)):
-	# 		feat[headers[j]] = mat[i][j]
-	# 	features.append(feat)
-	# return (features, speakers, speakerInd, speakerCount)
 
 # constant for the speech act number cutoff proportion - speaker with acts fewer than
 # this fraction of the total acts will be eliminated
 CUTOFF_FRACTION = 20
 
 # filter the dataset to eliminate speakers with too few speech acts
-def filterSpeakerLIWCDataset(features, labels, speakerCount, MIN_ACTS = -1):
+def filterSpeakerByProportion(features, labels, speakerCount, MIN_ACTS = -1):
 	if MIN_ACTS == -1:
 		MIN_ACTS = len(features) / CUTOFF_FRACTION
 	# filter the speakers with too few number of speech acts
@@ -196,17 +174,17 @@ if __name__ == "__main__":
 		features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples/triples-'+str(i)+'.txt')
 		# features, labels, speakerMap, speakerCount = constructSpeakerWordCountDataset('triples2/triples-'+str(i)+'.txt')
 		# filter dataset
-		filteredFeatures, filteredLabels, MIN_ACTS = filterSpeakerLIWCDataset(features, labels, speakerCount)
+		filteredFeatures, filteredLabels, MIN_ACTS = filterSpeakerByProportion(features, labels, speakerCount)
 		print
 		print "Speech Act Number Cutoff: " + str(MIN_ACTS)
 		print "Number of Total Speakers: " + str(len(speakerCount))
 		print
 		# train model
-		model = train_NB(feats = filteredFeatures, labels = filteredLabels, cv = MIN_ACTS / 10)
+		model = train_NB(feats = filteredFeatures, labels = filteredLabels, cv = 10)
 		# print out several LIWC weights (cannot be done for word features though)
-		getImportantWeights(model[0], getLIWCDictionary())
+		# getImportantWeights(model[0], getLIWCDictionary())
 		# evaluate
-		evaluate_trained_classifier(model)
+		evaluate_trained_classifier(model, filteredFeatures = filteredFeatures, filteredLabels = filteredLabels)
 		print speakerMap
 		print
 		print speakerCount
