@@ -31,14 +31,16 @@ def train_logistic_regression(
 		feats = None, labels = [],
 		feature_selector=SelectFpr(chi2, alpha=0.05), # Use None to stop feature selection
 		cv=5, # Number of folds used in cross-validation
-		priorlims=np.arange(.1, 3.1, .1)): # regularization priors to explore (we expect something around 1)
+		priorlims=np.arange(.1, 3.1, .1), feature_elim = True): # regularization priors to explore (we expect something around 1)
 	# Map the count dictionaries to a sparse feature matrix:
 	vectorizer = DictVectorizer(sparse=False)
 	feats = vectorizer.fit_transform(feats)
 	##### FEATURE SELECTION 
 	feat_matrix = feats
-	feature_selector = RFE(estimator=LogisticRegression(), n_features_to_select=None, step=1, verbose=0)
-	feat_matrix = feature_selector.fit_transform(feats, labels)
+	feature_selector = None
+	if feature_elim == True:
+		feature_selector = RFE(estimator=LogisticRegression(), n_features_to_select=None, step=1, verbose=0)
+		feat_matrix = feature_selector.fit_transform(feats, labels)
 
 	##### HYPER-PARAMETER SEARCH
 	# Define the basic model to use for parameter search:

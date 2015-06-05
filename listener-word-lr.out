@@ -1,0 +1,1121 @@
+Play: 0
+
+=========================================================================================================
+Speaker: FIRST SOLDIER
+Number of Total Listeners: 175
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+154 features selected out of 308 total
+F1 mean: 0.04 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+        ALL       0.00      0.00      0.00         6
+    BERTRAM       0.20      0.03      0.06        29
+ FIRST LORD       0.00      0.00      0.00        29
+   PAROLLES       0.20      0.03      0.05        35
+SECOND LORD       0.22      0.95      0.35        38
+SECOND SOLDIER       0.00      0.00      0.00         9
+    SERVANT       0.00      0.00      0.00        29
+
+avg / total       0.12      0.22      0.10       175
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: BERTRAM
+Number of Total Listeners: 368
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+386 features selected out of 773 total
+F1 mean: 0.02 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+        ALL       0.00      0.00      0.00         6
+COUNTESS OF ROUSILLON       0.20      0.10      0.13        21
+      DIANA       1.00      0.25      0.40        20
+ FIRST LORD       0.23      0.31      0.26        59
+FIRST SOLDIER       0.00      0.00      0.00        12
+FOURTH LORD       0.00      0.00      0.00         6
+  GENTLEMAN       0.00      0.00      0.00        10
+     HELENA       0.00      0.00      0.00        20
+KING OF FRANCE       0.00      0.00      0.00        29
+      LAFEU       0.19      0.32      0.24        41
+   PAROLLES       0.30      0.79      0.44        61
+SECOND LORD       0.20      0.18      0.19        57
+    SERVANT       0.00      0.00      0.00        16
+      WIDOW       0.00      0.00      0.00        10
+
+avg / total       0.21      0.26      0.20       368
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: GENTLEMAN
+Number of Total Listeners: 21
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+21 features selected out of 43 total
+F1 mean: 0.17 (+/- 0.00)
+
+             precision    recall  f1-score   support
+
+      DIANA       0.33      1.00      0.50         7
+     HELENA       0.00      0.00      0.00         7
+      WIDOW       0.00      0.00      0.00         7
+
+avg / total       0.11      0.33      0.17        21
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: HELENA
+Number of Total Listeners: 285
+
+Best model LogisticRegression(C=0.20000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+585 features selected out of 1170 total
+F1 mean: 0.04 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+        ALL       0.00      0.00      0.00         9
+    BERTRAM       0.20      0.09      0.13        22
+      CLOWN       1.00      0.22      0.36         9
+COUNTESS OF ROUSILLON       0.65      0.68      0.67        22
+      DIANA       0.33      0.10      0.15        30
+FIRST GENTLEMAN       0.50      0.20      0.29         5
+ FIRST LORD       0.00      0.00      0.00        14
+FOURTH LORD       0.00      0.00      0.00        11
+  GENTLEMAN       0.00      0.00      0.00        10
+KING OF FRANCE       0.41      0.46      0.43        24
+      LAFEU       0.00      0.00      0.00        15
+    MARIANA       0.33      0.06      0.11        16
+   PAROLLES       0.25      0.89      0.39        44
+SECOND GENTLEMAN       0.00      0.00      0.00         5
+SECOND LORD       0.00      0.00      0.00        14
+      WIDOW       0.41      0.63      0.49        35
+
+avg / total       0.28      0.34      0.26       285
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: COUNTESS OF ROUSILLON
+Number of Total Listeners: 162
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+406 features selected out of 813 total
+F1 mean: 0.07 (+/- 0.03)
+
+             precision    recall  f1-score   support
+
+    BERTRAM       0.00      0.00      0.00        13
+      CLOWN       0.47      0.97      0.63        37
+FIRST GENTLEMAN       0.00      0.00      0.00        11
+ FIRST LORD       0.00      0.00      0.00         5
+     HELENA       0.44      0.63      0.52        35
+KING OF FRANCE       0.00      0.00      0.00         5
+      LAFEU       0.33      0.53      0.41        19
+SECOND GENTLEMAN       0.00      0.00      0.00        11
+SECOND LORD       0.00      0.00      0.00         5
+    STEWARD       1.00      0.24      0.38        21
+
+avg / total       0.37      0.45      0.35       162
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: KING OF FRANCE
+Number of Total Listeners: 485
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+552 features selected out of 1104 total
+F1 mean: 0.02 (+/- 0.03)
+
+             precision    recall  f1-score   support
+
+        ALL       0.00      0.00      0.00         9
+    BERTRAM       0.15      0.13      0.14        61
+COUNTESS OF ROUSILLON       0.20      0.02      0.04        44
+      DIANA       0.00      0.00      0.00        29
+ FIRST LORD       0.15      0.06      0.08        68
+FOURTH LORD       0.00      0.00      0.00        10
+  GENTLEMAN       0.00      0.00      0.00        32
+     HELENA       0.47      0.35      0.40        26
+      LAFEU       0.16      0.55      0.24        67
+   PAROLLES       0.00      0.00      0.00        42
+SECOND LORD       0.16      0.35      0.22        68
+      WIDOW       0.00      0.00      0.00        29
+
+avg / total       0.13      0.17      0.12       485
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: FIRST LORD
+Number of Total Listeners: 90
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+180 features selected out of 361 total
+F1 mean: 0.09 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+    BERTRAM       1.00      0.05      0.09        22
+FIRST SOLDIER       0.00      0.00      0.00         5
+KING OF FRANCE       0.00      0.00      0.00         5
+   PAROLLES       0.00      0.00      0.00        14
+SECOND LORD       0.43      1.00      0.60        38
+    SERVANT       0.00      0.00      0.00         6
+
+avg / total       0.42      0.43      0.27        90
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: CLOWN
+Number of Total Listeners: 91
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+316 features selected out of 633 total
+F1 mean: 0.13 (+/- 0.10)
+
+             precision    recall  f1-score   support
+
+COUNTESS OF ROUSILLON       0.58      1.00      0.73        48
+     HELENA       1.00      0.29      0.44         7
+      LAFEU       0.00      0.00      0.00        15
+   PAROLLES       0.50      0.38      0.43         8
+    STEWARD       0.00      0.00      0.00        13
+
+avg / total       0.43      0.58      0.46        91
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: PAROLLES
+Number of Total Listeners: 395
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+514 features selected out of 1029 total
+F1 mean: 0.04 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+        ALL       0.00      0.00      0.00         5
+    BERTRAM       0.25      0.82      0.39        77
+      CLOWN       0.67      0.17      0.27        12
+COUNTESS OF ROUSILLON       0.00      0.00      0.00         7
+      DIANA       0.00      0.00      0.00         8
+ FIRST LORD       0.20      0.02      0.04        46
+FIRST SOLDIER       0.33      0.03      0.05        40
+  GENTLEMAN       0.00      0.00      0.00         7
+     HELENA       0.77      0.34      0.48        29
+KING OF FRANCE       0.00      0.00      0.00        11
+      LAFEU       0.58      0.47      0.52        45
+SECOND LORD       0.24      0.35      0.29        60
+SECOND SOLDIER       0.00      0.00      0.00        14
+    SERVANT       0.00      0.00      0.00        26
+      WIDOW       0.00      0.00      0.00         8
+
+avg / total       0.29      0.30      0.23       395
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: SECOND LORD
+Number of Total Listeners: 171
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+280 features selected out of 560 total
+F1 mean: 0.07 (+/- 0.05)
+
+             precision    recall  f1-score   support
+
+        ALL       0.00      0.00      0.00         5
+    BERTRAM       0.00      0.00      0.00        29
+ FIRST LORD       0.39      0.93      0.55        46
+FIRST SOLDIER       0.38      0.18      0.24        28
+   PAROLLES       0.28      0.43      0.34        30
+SECOND SOLDIER       0.50      0.06      0.11        17
+    SERVANT       0.00      0.00      0.00        16
+
+avg / total       0.27      0.36      0.26       171
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: WIDOW
+Number of Total Listeners: 48
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+137 features selected out of 275 total
+F1 mean: 0.10 (+/- 0.14)
+
+             precision    recall  f1-score   support
+
+      DIANA       0.43      0.59      0.50        17
+     HELENA       0.45      0.59      0.51        17
+    MARIANA       0.33      0.07      0.12        14
+
+avg / total       0.41      0.44      0.39        48
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: DIANA
+Number of Total Listeners: 244
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+215 features selected out of 431 total
+F1 mean: 0.03 (+/- 0.03)
+
+             precision    recall  f1-score   support
+
+    BERTRAM       0.18      0.61      0.28        33
+COUNTESS OF ROUSILLON       0.00      0.00      0.00        24
+ FIRST LORD       0.00      0.00      0.00        24
+  GENTLEMAN       0.00      0.00      0.00        24
+     HELENA       0.00      0.00      0.00         9
+KING OF FRANCE       0.00      0.00      0.00        24
+      LAFEU       0.00      0.00      0.00        24
+    MARIANA       0.00      0.00      0.00        10
+   PAROLLES       0.00      0.00      0.00        14
+SECOND LORD       0.00      0.00      0.00        24
+      WIDOW       0.17      0.68      0.27        34
+
+avg / total       0.05      0.18      0.08       244
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: LAFEU
+Number of Total Listeners: 249
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+424 features selected out of 849 total
+F1 mean: 0.04 (+/- 0.04)
+
+             precision    recall  f1-score   support
+
+    BERTRAM       0.29      0.75      0.42        48
+      CLOWN       0.00      0.00      0.00        14
+COUNTESS OF ROUSILLON       0.50      0.50      0.50        40
+      DIANA       0.00      0.00      0.00         5
+ FIRST LORD       0.00      0.00      0.00        16
+FOURTH LORD       0.00      0.00      0.00         5
+  GENTLEMAN       0.00      0.00      0.00         6
+     HELENA       0.00      0.00      0.00        21
+KING OF FRANCE       0.43      0.35      0.38        26
+   PAROLLES       0.46      0.62      0.53        47
+SECOND LORD       0.00      0.00      0.00        16
+      WIDOW       0.00      0.00      0.00         5
+
+avg / total       0.27      0.38      0.30       249
+
+=========================================================================================================
+
+Play: 1
+
+=========================================================================================================
+Speaker: CHARMIAN
+Number of Total Listeners: 264
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+183 features selected out of 366 total
+F1 mean: 0.02 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+     ALEXAS       0.00      0.00      0.00        37
+        ALL       0.00      0.00      0.00        13
+     ANTONY       0.00      0.00      0.00         7
+     CAESAR       0.00      0.00      0.00         9
+  CLEOPATRA       0.25      0.02      0.04        45
+  ENOBARBUS       0.00      0.00      0.00        18
+     GALLUS       0.14      0.11      0.12         9
+       IRAS       0.24      0.97      0.39        63
+   MAECENAS       0.00      0.00      0.00         9
+    MARDIAN       0.00      0.00      0.00        24
+ PROCULEIUS       0.00      0.00      0.00        10
+ SOOTHSAYER       0.00      0.00      0.00        20
+
+avg / total       0.11      0.24      0.10       264
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: CLEOPATRA
+Number of Total Listeners: 976
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+740 features selected out of 1481 total
+F1 mean: 0.01 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+     ALEXAS       0.17      0.02      0.03        64
+        ALL       0.00      0.00      0.00        39
+     ANTONY       0.25      0.06      0.09        70
+     CAESAR       0.00      0.00      0.00        31
+   CHARMIAN       0.21      0.20      0.21       181
+      CLOWN       0.00      0.00      0.00         8
+  DEMETRIUS       0.00      0.00      0.00         6
+   DIOMEDES       0.00      0.00      0.00         9
+  DOLABELLA       0.00      0.00      0.00        26
+  ENOBARBUS       1.00      0.09      0.16        35
+       EROS       0.00      0.00      0.00        10
+ EUPHRONIUS       0.00      0.00      0.00        20
+     GALLUS       0.00      0.00      0.00        31
+       IRAS       0.19      0.79      0.31       187
+   MAECENAS       0.00      0.00      0.00        31
+    MARDIAN       0.11      0.01      0.02        95
+  MESSENGER       0.25      0.03      0.05        38
+      PHILO       0.00      0.00      0.00         6
+ PROCULEIUS       0.00      0.00      0.00        49
+   SELEUCUS       0.00      0.00      0.00         8
+    SERVANT       0.00      0.00      0.00         9
+ SOOTHSAYER       0.00      0.00      0.00         5
+     THYMUS       0.00      0.00      0.00        10
+    THYREUS       0.00      0.00      0.00         8
+
+avg / total       0.16      0.20      0.12       976
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: POMPEY
+Number of Total Listeners: 316
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+246 features selected out of 493 total
+F1 mean: 0.01 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.00      0.00      0.00        34
+        ALL       0.00      0.00      0.00        13
+     ANTONY       0.00      0.00      0.00        34
+     CAESAR       0.12      0.03      0.05        34
+    CAPTAIN       0.00      0.00      0.00        17
+  ENOBARBUS       0.00      0.00      0.00        34
+FIRST SERVANT       0.00      0.00      0.00        17
+    LEPIDUS       0.00      0.00      0.00        34
+   MAECENAS       0.00      0.00      0.00        34
+      MENAS       0.13      0.98      0.23        41
+ MENECRATES       0.00      0.00      0.00         7
+SECOND SERVANT       0.00      0.00      0.00        17
+
+avg / total       0.03      0.13      0.03       316
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: SOLDIER
+Number of Total Listeners: 40
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+85 features selected out of 170 total
+F1 mean: 0.04 (+/- 0.07)
+
+             precision    recall  f1-score   support
+
+     ANTONY       0.30      0.91      0.45        11
+   CANIDIUS       0.00      0.00      0.00         5
+  CLEOPATRA       0.00      0.00      0.00         6
+  ENOBARBUS       0.43      0.43      0.43         7
+       EROS       0.00      0.00      0.00         6
+  MESSENGER       0.00      0.00      0.00         5
+
+avg / total       0.16      0.33      0.20        40
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: MESSENGER
+Number of Total Listeners: 227
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+101 features selected out of 203 total
+F1 mean: 0.03 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+     ALEXAS       0.17      0.03      0.05        37
+        ALL       0.00      0.00      0.00        20
+     ANTONY       0.00      0.00      0.00         9
+   CHARMIAN       0.00      0.00      0.00        37
+  CLEOPATRA       0.18      0.95      0.30        40
+  ENOBARBUS       0.00      0.00      0.00         9
+FIRST ATTENDANT       0.00      0.00      0.00         6
+       IRAS       0.25      0.03      0.05        37
+    MARDIAN       0.00      0.00      0.00        20
+SECOND ATTENDANT       0.00      0.00      0.00         6
+ SOOTHSAYER       0.00      0.00      0.00         6
+
+avg / total       0.10      0.18      0.07       227
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: CANIDIUS
+Number of Total Listeners: 34
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+65 features selected out of 130 total
+F1 mean: 0.09 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+     ANTONY       0.00      0.00      0.00         7
+  CLEOPATRA       0.00      0.00      0.00         7
+  ENOBARBUS       0.29      1.00      0.45        10
+  MESSENGER       0.00      0.00      0.00         5
+    SOLDIER       0.00      0.00      0.00         5
+
+avg / total       0.09      0.29      0.13        34
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: MAECENAS
+Number of Total Listeners: 60
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+83 features selected out of 166 total
+F1 mean: 0.06 (+/- 0.05)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.26      0.93      0.41        15
+     ANTONY       0.00      0.00      0.00         9
+     CAESAR       0.17      0.07      0.10        14
+  ENOBARBUS       0.00      0.00      0.00         7
+    LEPIDUS       0.00      0.00      0.00         8
+  VENTIDIUS       0.00      0.00      0.00         7
+
+avg / total       0.10      0.25      0.12        60
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: ENOBARBUS
+Number of Total Listeners: 453
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+447 features selected out of 895 total
+F1 mean: 0.01 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.25      0.24      0.25        37
+     ALEXAS       0.25      0.05      0.08        20
+     ANTONY       0.14      0.85      0.24        55
+     CAESAR       1.00      0.03      0.06        32
+   CANIDIUS       0.00      0.00      0.00         6
+    CAPTAIN       0.00      0.00      0.00         9
+   CHARMIAN       0.25      0.04      0.06        27
+  CLEOPATRA       0.44      0.24      0.31        33
+       EROS       1.00      0.17      0.29         6
+ EUPHRONIUS       0.00      0.00      0.00         5
+FIRST ATTENDANT       0.00      0.00      0.00        10
+FIRST SERVANT       0.00      0.00      0.00         9
+       IRAS       0.00      0.00      0.00        27
+    LEPIDUS       0.44      0.12      0.19        34
+   MAECENAS       0.00      0.00      0.00        27
+      MENAS       0.37      0.57      0.45        28
+     POMPEY       0.00      0.00      0.00        13
+     SCARUS       0.00      0.00      0.00         6
+SECOND ATTENDANT       0.00      0.00      0.00        10
+SECOND SERVANT       0.00      0.00      0.00         9
+     SILIUS       0.00      0.00      0.00        10
+ SOOTHSAYER       0.00      0.00      0.00        15
+  VENTIDIUS       0.33      0.04      0.07        25
+
+avg / total       0.25      0.20      0.13       453
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: CAESAR
+Number of Total Listeners: 497
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+544 features selected out of 1088 total
+F1 mean: 0.01 (+/- 0.00)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.20      0.64      0.31        69
+     ANTONY       0.18      0.08      0.11        52
+   CHARMIAN       0.00      0.00      0.00        14
+  CLEOPATRA       0.00      0.00      0.00        14
+   DERCETAS       0.00      0.00      0.00         9
+  DOLABELLA       0.25      0.04      0.07        24
+  ENOBARBUS       0.40      0.05      0.09        40
+     GALLUS       0.00      0.00      0.00        23
+       IRAS       0.00      0.00      0.00        14
+    LEPIDUS       0.36      0.20      0.26        44
+   MAECENAS       0.15      0.48      0.22        69
+    MARDIAN       0.00      0.00      0.00        14
+      MENAS       0.00      0.00      0.00        10
+  MESSENGER       0.00      0.00      0.00         6
+    OCTAVIA       0.00      0.00      0.00        15
+     POMPEY       0.00      0.00      0.00        10
+ PROCULEIUS       0.00      0.00      0.00        22
+   SELEUCUS       0.00      0.00      0.00         8
+     SILIUS       0.00      0.00      0.00         7
+    THYREUS       0.00      0.00      0.00         6
+  VENTIDIUS       0.00      0.00      0.00        27
+
+avg / total       0.14      0.19      0.12       497
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: ALEXAS
+Number of Total Listeners: 57
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+84 features selected out of 169 total
+F1 mean: 0.04 (+/- 0.05)
+
+             precision    recall  f1-score   support
+
+   CHARMIAN       0.26      0.93      0.41        15
+  CLEOPATRA       0.00      0.00      0.00         8
+  ENOBARBUS       0.00      0.00      0.00         6
+       IRAS       0.00      0.00      0.00        15
+    MARDIAN       0.25      0.20      0.22         5
+ SOOTHSAYER       0.00      0.00      0.00         8
+
+avg / total       0.09      0.26      0.13        57
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: ANTONY
+Number of Total Listeners: 981
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+877 features selected out of 1754 total
+F1 mean: 0.01 (+/- 0.00)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.00      0.00      0.00        51
+     ALEXAS       0.00      0.00      0.00        27
+        ALL       0.50      0.08      0.13        26
+     CAESAR       0.50      0.02      0.04        53
+   CANIDIUS       0.00      0.00      0.00         8
+    CAPTAIN       0.00      0.00      0.00        14
+   CHARMIAN       0.17      0.06      0.09        84
+  CLEOPATRA       0.19      0.66      0.30       102
+  DEMETRIUS       0.00      0.00      0.00         7
+   DIOMEDES       0.00      0.00      0.00        13
+  ENOBARBUS       0.14      0.69      0.24       107
+       EROS       0.64      0.42      0.51        43
+ EUPHRONIUS       0.00      0.00      0.00        20
+FIRST ATTENDANT       0.00      0.00      0.00        19
+FIRST SERVANT       0.00      0.00      0.00        13
+       IRAS       0.21      0.04      0.06        84
+    LEPIDUS       0.00      0.00      0.00        51
+   MAECENAS       0.10      0.02      0.04        44
+      MENAS       0.00      0.00      0.00        20
+  MESSENGER       0.00      0.00      0.00        12
+    OCTAVIA       1.00      0.25      0.40        12
+      PHILO       0.00      0.00      0.00         7
+     POMPEY       0.00      0.00      0.00        20
+     SCARUS       1.00      0.40      0.57        10
+SECOND ATTENDANT       0.00      0.00      0.00        19
+SECOND SERVANT       0.00      0.00      0.00        13
+    SERVANT       0.00      0.00      0.00        12
+     SILIUS       0.00      0.00      0.00         7
+    SOLDIER       0.00      0.00      0.00         7
+ SOOTHSAYER       0.67      0.08      0.14        25
+     THYMUS       0.00      0.00      0.00        13
+    THYREUS       0.00      0.00      0.00         6
+  VENTIDIUS       0.17      0.06      0.09        32
+
+avg / total       0.19      0.19      0.12       981
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: EROS
+Number of Total Listeners: 49
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+81 features selected out of 163 total
+F1 mean: 0.13 (+/- 0.15)
+
+             precision    recall  f1-score   support
+
+        ALL       0.00      0.00      0.00         5
+     ANTONY       0.43      1.00      0.60        20
+   CHARMIAN       0.00      0.00      0.00         6
+  CLEOPATRA       0.00      0.00      0.00         6
+  ENOBARBUS       1.00      0.33      0.50         6
+       IRAS       0.00      0.00      0.00         6
+
+avg / total       0.30      0.45      0.30        49
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: THYREUS
+Number of Total Listeners: 53
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+64 features selected out of 129 total
+F1 mean: 0.03 (+/- 0.04)
+
+             precision    recall  f1-score   support
+
+     ANTONY       0.21      1.00      0.34        11
+   CHARMIAN       0.00      0.00      0.00         9
+  CLEOPATRA       0.00      0.00      0.00         9
+  ENOBARBUS       0.00      0.00      0.00         6
+ EUPHRONIUS       0.00      0.00      0.00         9
+       IRAS       0.00      0.00      0.00         9
+
+avg / total       0.04      0.21      0.07        53
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: AGRIPPA
+Number of Total Listeners: 108
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+119 features selected out of 238 total
+F1 mean: 0.05 (+/- 0.03)
+
+             precision    recall  f1-score   support
+
+     ANTONY       0.00      0.00      0.00        13
+     CAESAR       0.31      0.44      0.36        18
+  ENOBARBUS       0.23      0.85      0.36        20
+    LEPIDUS       0.17      0.08      0.11        12
+   MAECENAS       0.50      0.06      0.11        16
+     SILIUS       0.00      0.00      0.00        10
+  VENTIDIUS       0.00      0.00      0.00        19
+
+avg / total       0.19      0.25      0.16       108
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: LEPIDUS
+Number of Total Listeners: 148
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+129 features selected out of 258 total
+F1 mean: 0.02 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.24      0.29      0.26        21
+     ANTONY       0.00      0.00      0.00        17
+     CAESAR       0.18      0.68      0.28        22
+    CAPTAIN       0.00      0.00      0.00         7
+  ENOBARBUS       0.26      0.33      0.29        21
+FIRST SERVANT       0.00      0.00      0.00         7
+   MAECENAS       0.17      0.10      0.12        20
+      MENAS       0.00      0.00      0.00         9
+     POMPEY       0.00      0.00      0.00         9
+SECOND SERVANT       0.00      0.00      0.00         7
+  VENTIDIUS       0.00      0.00      0.00         8
+
+avg / total       0.12      0.20      0.14       148
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: OCTAVIA
+Number of Total Listeners: 36
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+81 features selected out of 162 total
+F1 mean: 0.10 (+/- 0.06)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.33      0.10      0.15        10
+     ANTONY       1.00      0.29      0.44         7
+     CAESAR       0.35      0.92      0.51        12
+   MAECENAS       0.00      0.00      0.00         7
+
+avg / total       0.41      0.39      0.30        36
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: CLOWN
+Number of Total Listeners: 64
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+65 features selected out of 131 total
+F1 mean: 0.03 (+/- 0.00)
+
+             precision    recall  f1-score   support
+
+     CAESAR       0.12      1.00      0.22         8
+   CHARMIAN       0.00      0.00      0.00         8
+  CLEOPATRA       0.00      0.00      0.00         8
+     GALLUS       0.00      0.00      0.00         8
+       IRAS       0.00      0.00      0.00         8
+   MAECENAS       0.00      0.00      0.00         8
+    MARDIAN       0.00      0.00      0.00         8
+ PROCULEIUS       0.00      0.00      0.00         8
+
+avg / total       0.02      0.12      0.03        64
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: FIRST GUARD
+Number of Total Listeners: 67
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+46 features selected out of 92 total
+F1 mean: 0.03 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+     CAESAR       0.00      0.00      0.00         7
+   CHARMIAN       0.00      0.00      0.00         7
+  CLEOPATRA       0.00      0.00      0.00         7
+     GALLUS       0.00      0.00      0.00         7
+       IRAS       0.00      0.00      0.00         7
+   MAECENAS       0.00      0.00      0.00         7
+    MARDIAN       0.00      0.00      0.00         7
+ PROCULEIUS       0.00      0.00      0.00         7
+SECOND GUARD       0.16      1.00      0.28        11
+
+avg / total       0.03      0.16      0.05        67
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: IRAS
+Number of Total Listeners: 69
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+59 features selected out of 118 total
+F1 mean: 0.03 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+     ALEXAS       0.00      0.00      0.00         7
+        ALL       0.00      0.00      0.00         6
+     ANTONY       0.00      0.00      0.00         6
+   CHARMIAN       0.25      1.00      0.40        15
+  CLEOPATRA       0.33      0.27      0.30        11
+  ENOBARBUS       0.00      0.00      0.00         7
+    MARDIAN       0.00      0.00      0.00         5
+ PROCULEIUS       0.00      0.00      0.00         5
+ SOOTHSAYER       0.00      0.00      0.00         7
+
+avg / total       0.11      0.26      0.13        69
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: SECOND SOLDIER
+Number of Total Listeners: 24
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+29 features selected out of 59 total
+F1 mean: 0.17 (+/- 0.00)
+
+             precision    recall  f1-score   support
+
+FIRST SOLDIER       0.33      1.00      0.50         8
+FOURTH SOLDIER       0.00      0.00      0.00         8
+THIRD SOLDIER       0.00      0.00      0.00         8
+
+avg / total       0.11      0.33      0.17        24
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: PROCULEIUS
+Number of Total Listeners: 36
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+74 features selected out of 148 total
+F1 mean: 0.10 (+/- 0.00)
+
+             precision    recall  f1-score   support
+
+   CHARMIAN       0.25      1.00      0.40         9
+  CLEOPATRA       0.00      0.00      0.00         9
+       IRAS       0.00      0.00      0.00         9
+    MARDIAN       0.00      0.00      0.00         9
+
+avg / total       0.06      0.25      0.10        36
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: THIRD SOLDIER
+Number of Total Listeners: 21
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+20 features selected out of 41 total
+F1 mean: 0.17 (+/- 0.00)
+
+             precision    recall  f1-score   support
+
+FIRST SOLDIER       0.33      1.00      0.50         7
+FOURTH SOLDIER       0.00      0.00      0.00         7
+SECOND SOLDIER       0.00      0.00      0.00         7
+
+avg / total       0.11      0.33      0.17        21
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: SOOTHSAYER
+Number of Total Listeners: 38
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+30 features selected out of 61 total
+F1 mean: 0.05 (+/- 0.09)
+
+             precision    recall  f1-score   support
+
+     ALEXAS       0.00      0.00      0.00        10
+   CHARMIAN       0.26      1.00      0.42        10
+  ENOBARBUS       0.00      0.00      0.00         8
+       IRAS       0.00      0.00      0.00        10
+
+avg / total       0.07      0.26      0.11        38
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: MENAS
+Number of Total Listeners: 179
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+120 features selected out of 241 total
+F1 mean: 0.03 (+/- 0.02)
+
+             precision    recall  f1-score   support
+
+    AGRIPPA       0.00      0.00      0.00        16
+     ANTONY       0.00      0.00      0.00        16
+     CAESAR       0.00      0.00      0.00        16
+    CAPTAIN       0.00      0.00      0.00        16
+  ENOBARBUS       0.19      0.97      0.31        32
+FIRST SERVANT       0.00      0.00      0.00        16
+    LEPIDUS       0.00      0.00      0.00        16
+   MAECENAS       0.00      0.00      0.00        16
+     POMPEY       0.25      0.16      0.19        19
+SECOND SERVANT       0.00      0.00      0.00        16
+
+avg / total       0.06      0.19      0.08       179
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: DOLABELLA
+Number of Total Listeners: 145
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='multinomial', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+100 features selected out of 200 total
+F1 mean: 0.02 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+     CAESAR       1.00      0.09      0.17        11
+   CHARMIAN       0.12      0.05      0.07        19
+  CLEOPATRA       0.00      0.00      0.00        21
+FIRST GUARD       0.00      0.00      0.00         5
+     GALLUS       0.00      0.00      0.00        10
+       IRAS       0.00      0.00      0.00        21
+   MAECENAS       0.00      0.00      0.00        10
+    MARDIAN       0.00      0.00      0.00        21
+ PROCULEIUS       0.15      0.95      0.27        22
+SECOND GUARD       0.00      0.00      0.00         5
+
+avg / total       0.12      0.16      0.06       145
+
+=========================================================================================================
+
+Play: 2
+
+=========================================================================================================
+Speaker: DUKE SENIOR
+Number of Total Listeners: 174
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+226 features selected out of 452 total
+F1 mean: 0.01 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+     AMIENS       0.18      0.97      0.31        32
+     AUDREY       0.00      0.00      0.00         8
+      CELIA       0.00      0.00      0.00        11
+ FIRST LORD       0.00      0.00      0.00        21
+      HYMEN       0.00      0.00      0.00         5
+     JAQUES       0.25      0.04      0.07        24
+     OLIVER       0.00      0.00      0.00        11
+    ORLANDO       0.00      0.00      0.00        19
+      PHEBE       0.00      0.00      0.00        10
+   ROSALIND       0.00      0.00      0.00        10
+SECOND LORD       0.00      0.00      0.00         5
+    SILVIUS       0.00      0.00      0.00        10
+ TOUCHSTONE       0.00      0.00      0.00         8
+
+avg / total       0.07      0.18      0.07       174
+
+=========================================================================================================
+
+=========================================================================================================
+Speaker: CELIA
+Number of Total Listeners: 273
+
+Best model LogisticRegression(C=0.10000000000000001, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=200,
+          multi_class='ovr', penalty='l1', random_state=None,
+          solver='lbfgs', tol=0.0001, verbose=1)
+377 features selected out of 755 total
+F1 mean: 0.06 (+/- 0.01)
+
+             precision    recall  f1-score   support
+
+    CHARLES       0.00      0.00      0.00        11
+      CORIN       0.00      0.00      0.00        25
+  FREDERICK       0.00      0.00      0.00        23
+    LE BEAU       0.00      0.00      0.00        19
+     OLIVER       0.00      0.00      0.00        10
+    ORLANDO       0.00      0.00      0.00        14
+   ROSALIND       0.40      1.00      0.57       108
+    SILVIUS       0.00      0.00      0.00        11
+ TOUCHSTONE       0.00      0.00      0.00        52
+
+avg / total       0.16      0.40      0.22       273
+
+=======================================================
