@@ -128,6 +128,7 @@ def _tfidf_row_func(row, colsums, doccount):
                 tfs.append(0.0)
             else:
                 tfs.append(elem/colsums[i])
+        tfs = np.array(tfs)
     else:
         tfs = np.array(0 for x in range(len(colsums)))
     return tfs * idf

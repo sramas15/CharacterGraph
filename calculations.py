@@ -16,7 +16,7 @@ for playNum in range(NUM_PLAYS):
 		# print neighbors(pair, mat, rownames)[:topK], '\n'
 		print 'HIGHEST TF-IDF WORD FOR PAIR', pair
 		row = mat_tfidf[index]
-		# print row, np.amax(row)
 		maxTFIDF = np.amax(row)
-		maxWord = colnames[row.index(maxTFIDF)]
-		print maxWord, '\t', maxTFIDF
+		maxIndices = [i for i, x in enumerate(row) if x==maxTFIDF]
+		maxWords = [colnames[ind] for ind in maxIndices]
+		print maxWords, '\t', maxTFIDF
