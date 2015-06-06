@@ -1664,7 +1664,7 @@ Enter BRUTUS and CASSIUS, and a throng of Citizens - FIRST CITIZEN, SECOND CITIZ
   FIRST CITIZEN. I will hear Brutus speak.
   SECOND CITIZEN. I will hear Cassius and compare their reasons,
     When severally we hear them rendered.
-                               Exit Cassius, with some Citizens.
+                               Exit CASSIUS, with some Citizens.
                                     Brutus goes into the pulpit.
   THIRD CITIZEN. The noble Brutus is ascended. Silence!
   BRUTUS. Be patient till the last.
