@@ -17,6 +17,7 @@ if sklearn.__version__[:4] != '0.16':
 
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.feature_selection import SelectFpr, chi2, RFE
+from sklearn.cluster import KMeans
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.grid_search import GridSearchCV
 from sklearn.cross_validation import cross_val_score
@@ -27,11 +28,11 @@ from SpeechAct import *
 from liwcFeaturizer import *
 
 # borrowed from the NLI codelab, but is our modification to accommodate multiclass classification
-def train_NB(
+def train_KMeans(
 		feats = None, labels = [],
 		feature_selector=SelectFpr(chi2, alpha=0.05), # Use None to stop feature selection
 		cv=5, # Number of folds used in cross-validation
-		priorlims=np.arange(.1, 2.0, .5)): # alphas to explore (we expect something around 1)
+		priorlims=np.arange(3, 15, 1)): # n_clusters to explore
 	# Map the count dictionaries to a sparse feature matrix:
 	vectorizer = DictVectorizer(sparse=False)
 	feats = vectorizer.fit_transform(feats)
@@ -42,16 +43,16 @@ def train_NB(
 
 	##### HYPER-PARAMETER SEARCH
 	# Define the basic model to use for parameter search:
-	searchmod = MultinomialNB()
+	searchmod = KMeans()
 	# Parameters to grid-search over:
-	parameters = {'alpha':priorlims}
+	parameters = {'n_clusters':priorlims}
 	# Cross-validation grid search to find the best hyper-parameters:	
 	clf = GridSearchCV(searchmod, parameters, cv=cv, n_jobs=-1)
 	clf.fit(feat_matrix, labels)
 	params = clf.best_params_
 
 	# Establish the model we want using the parameters obtained from the search:
-	mod = MultinomialNB(alpha=params['alpha'])
+	mod = KMeans(n_clusters=params['n_clusters'])
 	##### ASSESSMENT
 	scores = cross_val_score(mod, feat_matrix, labels, cv=cv, scoring="f1_macro")	  
 	print 'Best model', mod
@@ -171,7 +172,7 @@ if __name__ == "__main__":
 		print "========================================================================================================="
 		print "Play Number: " + str(i) 
 		# construct the multiclass dataset
-		features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples2/triples-'+str(i)+'.txt')
+		features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples/triples-'+str(i)+'.txt')
 		# features, labels, speakerMap, speakerCount = constructSpeakerWordCountDataset('triples/triples-'+str(i)+'.txt')
 		# filter dataset
 		filteredFeatures, filteredLabels, MIN_ACTS = filterSpeakerByProportion(features, labels, speakerCount)
@@ -180,7 +181,7 @@ if __name__ == "__main__":
 		print "Number of Total Speakers: " + str(len(speakerCount))
 		print
 		# train model
-		model = train_NB(feats = filteredFeatures, labels = filteredLabels, cv = 10)
+		model = train_KMeans(feats = filteredFeatures, labels = filteredLabels, cv = 10)
 		# print out several LIWC weights (cannot be done for word features though)
 		# getImportantWeights(model[0], getLIWCDictionary())
 		# evaluate

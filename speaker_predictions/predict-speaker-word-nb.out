@@ -1,0 +1,932 @@
+Proportion of cutoff: 20
+=========================================================================================================
+Play Number: 0
+
+Speech Act Number Cutoff: 47
+Number of Total Speakers: 23
+
+/Library/Python/2.7/site-packages/sklearn/metrics/classification.py:958: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Best model MultinomialNB(alpha=1.1000000000000001, class_prior=None, fit_prior=True)
+1827 features selected out of 3655 total
+F1 mean: 0.04 (+/- 0.00)
+             precision    recall  f1-score   support
+
+          0       1.00      0.70      0.83        88
+          1       1.00      0.65      0.79       103
+          2       1.00      0.73      0.85        98
+          3       1.00      0.59      0.74       111
+          4       0.39      1.00      0.56       142
+          6       1.00      0.61      0.76        88
+          8       1.00      0.49      0.66        63
+         10       1.00      0.56      0.72        59
+
+avg / total       0.88      0.70      0.73       752
+
+{'FIRST SOLDIER': 19, 'BERTRAM': 1, 'GENTLEMAN': 22, 'STEWARD': 9, 'HELENA': 3, 'SECOND GENTLEMAN': 14, 'COUNTESS OF ROUSILLON': 0, 'KING OF FRANCE': 6, 'FIRST GENTLEMAN': 15, 'SERVANT': 21, 'FIRST LORD': 7, 'FOURTH LORD': 12, 'CLOWN': 10, 'PAROLLES': 4, 'SECOND SOLDIER': 20, 'SECOND LORD': 8, 'WIDOW': 16, 'ALL': 11, 'DUKE OF FLORENCE': 13, 'MARIANA': 18, 'DIANA': 17, 'LAFEU': 2, 'PAGE': 5}
+
+{0: 88, 1: 103, 2: 98, 3: 111, 4: 142, 5: 1, 6: 88, 7: 40, 8: 63, 9: 6, 10: 59, 11: 2, 12: 1, 13: 6, 14: 6, 15: 6, 16: 21, 17: 45, 18: 5, 19: 38, 20: 2, 21: 1, 22: 9}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 1
+
+Speech Act Number Cutoff: 58
+Number of Total Speakers: 59
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1779 features selected out of 3559 total
+F1 mean: 0.14 (+/- 0.09)
+             precision    recall  f1-score   support
+
+          1       1.00      0.60      0.75       204
+          2       0.47      1.00      0.64       206
+          5       1.00      0.27      0.42        63
+          8       1.00      0.46      0.63       111
+         13       1.00      0.57      0.73        96
+
+avg / total       0.84      0.66      0.66       680
+
+{'FIRST WATCH': 46, 'FIRST SOLDIER': 39, 'CHARMIAN': 5, 'GALLUS': 55, 'VENTIDIUS': 27, 'PHILO': 0, 'SERVANT': 37, 'CLEOPATRA': 1, 'VARRIUS': 19, 'SCARUS': 33, 'POMPEY': 16, 'SOLDIER': 31, 'SILIUS': 28, 'MESSENGER': 3, 'CANIDIUS': 30, 'SOLDIERS': 43, 'CENTURION': 45, 'MAECENAS': 20, 'SECOND ATTENDANT': 11, 'BOTH': 23, 'GUARDSMAN': 57, 'SECOND WATCH': 47, 'FOURTH SOLDIER': 42, 'FIRST ATTENDANT': 10, 'EGYPTIAN': 53, 'THYMUS': 38, 'ENOBARBUS': 8, 'SECOND MESSENGER': 12, 'DIOMEDES': 52, 'CAESAR': 13, 'ALEXAS': 6, 'MENECRATES': 17, 'EUPHRONIUS': 35, 'ANTONY': 2, 'EROS': 29, 'THYREUS': 36, 'MARDIAN': 15, 'SECOND SOLDIER': 40, 'SELEUCUS': 56, 'AGRIPPA': 21, 'TAURUS': 32, 'LEPIDUS': 14, 'OCTAVIA': 22, 'CLOWN': 58, 'FIRST GUARD': 48, 'IRAS': 9, 'SECOND GUARD': 49, 'ALL': 24, 'FIRST SERVANT': 25, 'PROCULEIUS': 54, 'DEMETRIUS': 4, 'DERCETAS': 51, 'SECOND SERVANT': 26, 'THIRD SOLDIER': 41, 'THIRD GUARD': 50, 'SOOTHSAYER': 7, 'CAPTAIN': 44, 'MENAS': 18, 'DOLABELLA': 34}
+
+{0: 2, 1: 204, 2: 206, 3: 43, 4: 2, 5: 63, 6: 15, 7: 14, 8: 111, 9: 18, 10: 1, 11: 1, 12: 2, 13: 96, 14: 30, 15: 7, 16: 41, 17: 2, 18: 35, 19: 1, 20: 15, 21: 28, 22: 14, 23: 1, 24: 9, 25: 4, 26: 3, 27: 4, 28: 3, 29: 26, 30: 10, 31: 13, 32: 1, 33: 11, 34: 23, 35: 6, 36: 11, 37: 4, 38: 1, 39: 6, 40: 8, 41: 7, 42: 2, 43: 2, 44: 1, 45: 5, 46: 5, 47: 5, 48: 11, 49: 4, 50: 1, 51: 5, 52: 7, 53: 2, 54: 10, 55: 1, 56: 3, 57: 2, 58: 8}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 2
+
+Speech Act Number Cutoff: 40
+Number of Total Speakers: 25
+
+Best model MultinomialNB(alpha=0.59999999999999998, class_prior=None, fit_prior=True)
+1373 features selected out of 2747 total
+F1 mean: 0.14 (+/- 0.10)
+             precision    recall  f1-score   support
+
+          0       1.00      0.57      0.73       121
+          5       1.00      0.69      0.82       108
+          6       0.61      1.00      0.76       199
+          7       1.00      0.85      0.92        74
+         16       1.00      0.47      0.64        57
+
+avg / total       0.86      0.77      0.77       559
+
+{'DUKE SENIOR': 10, 'CELIA': 5, 'FREDERICK': 9, 'ROSALIND': 6, 'LE BEAU': 8, 'JAQUES': 16, 'DENNIS': 3, 'OLIVER': 2, 'CHARLES': 4, 'SECOND PAGE': 22, 'ADAM': 1, 'SILVIUS': 15, 'TOUCHSTONE': 7, 'FIRST LORD': 12, 'HYMEN': 23, 'JAQUES DE BOYS': 24, 'ORLANDO': 0, 'AMIENS': 11, 'PHEBE': 19, 'AUDREY': 17, 'SECOND LORD': 13, 'CORIN': 14, 'MARTEXT': 18, 'WILLIAM': 20, 'FIRST PAGE': 21}
+
+{0: 121, 1: 10, 2: 37, 3: 2, 4: 8, 5: 108, 6: 199, 7: 74, 8: 14, 9: 20, 10: 32, 11: 10, 12: 8, 13: 2, 14: 24, 15: 24, 16: 57, 17: 12, 18: 3, 19: 23, 20: 11, 21: 3, 22: 2, 23: 2, 24: 2}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 3
+
+Speech Act Number Cutoff: 30
+Number of Total Speakers: 19
+
+Best model MultinomialNB(alpha=1.1000000000000001, class_prior=None, fit_prior=True)
+1128 features selected out of 2257 total
+F1 mean: 0.09 (+/- 0.07)
+             precision    recall  f1-score   support
+
+          4       0.40      1.00      0.57       103
+          5       1.00      0.65      0.79        99
+          6       1.00      0.67      0.80        63
+          7       1.00      0.59      0.75        79
+          8       1.00      0.42      0.59        43
+          9       1.00      0.66      0.79        76
+         12       1.00      0.48      0.65        31
+
+avg / total       0.87      0.69      0.71       494
+
+{'ANGELO': 12, 'DUKE': 1, 'COURTEZAN': 15, 'ABBESS': 17, 'DROMIO OF SYRACUSE': 5, 'ANTIPHOLUS OF EPHESUS': 9, 'AEGEON': 0, 'FIRST MERCHANT': 3, 'LUCE': 11, 'MESSENGER': 18, 'DROMIO OF EPHESUS': 6, 'LUCIANA': 8, 'PINCH': 16, 'BALTHAZAR': 10, 'GAOLER': 2, 'SECOND MERCHANT': 13, 'ANTIPHOLUS OF SYRACUSE': 4, 'OFFICER': 14, 'ADRIANA': 7}
+
+{0: 17, 1: 22, 2: 1, 3: 3, 4: 103, 5: 99, 6: 63, 7: 79, 8: 43, 9: 76, 10: 5, 11: 7, 12: 31, 13: 13, 14: 11, 15: 11, 16: 6, 17: 16, 18: 2}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 4
+
+Speech Act Number Cutoff: 55
+Number of Total Speakers: 61
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1899 features selected out of 3799 total
+F1 mean: 0.09 (+/- 0.04)
+             precision    recall  f1-score   support
+
+          3       1.00      0.65      0.79       165
+          4       0.47      1.00      0.64       193
+          7       1.00      0.55      0.71        66
+          9       1.00      0.61      0.75       119
+         10       1.00      0.38      0.56        91
+         13       1.00      0.46      0.63        57
+
+avg / total       0.85      0.68      0.69       691
+
+{'FIRST WATCH': 49, 'FIRST SOLDIER': 17, 'SECOND CONSPIRATOR': 53, 'FIRST CITIZEN': 0, 'AEDILE': 40, 'SENATORS': 27, 'THIRD LORD': 60, 'LARTIUS': 8, 'THIRD CITIZEN': 28, 'LIEUTENANT': 22, 'ROMAN': 41, 'COMINIUS': 7, 'MESSENGER': 5, 'CITIZEN': 43, 'FIRST PATRICIAN': 39, 'AUFIDIUS': 11, 'BRUTUS': 10, 'SICINIUS': 9, 'PLEBEIANS': 37, 'SECOND CITIZEN': 2, 'SECOND WATCH': 50, 'VOLSCE': 42, 'HERALD': 24, 'SECOND MESSENGER': 48, 'THIRD CONSPIRATOR': 54, 'FIRST CONSPIRATOR': 52, 'FIRST OFFICER': 25, 'LORDS': 55, 'PATRICIANS': 36, 'SECOND SENATOR': 12, 'FIRST SENATOR': 6, 'VALERIA': 16, 'MENENIUS': 3, 'MARCIUS': 4, 'BOTH': 47, 'THIRD SERVANT': 46, 'VIRGILIA': 14, 'FIRST LORD': 56, 'AEDILES': 38, 'VOLUMNIA': 13, 'SEVENTH CITIZEN': 33, 'SECOND CITIZENS': 34, 'FIRST SERVANT': 44, 'SECOND LORD': 59, 'GENTLEWOMAN': 15, 'BOTH CITIZENS': 31, 'FIRST ROMAN': 19, 'BOTH TRIBUNES': 23, 'ALL': 1, 'SECOND SOLDIER': 18, 'FIFTH CITIZEN': 30, 'BOY': 51, 'SIXTH CITIZEN': 32, 'CITIZENS': 35, 'SECOND SERVANT': 45, 'FOURTH CITIZEN': 29, 'SECOND ROMAN': 20, 'ALL THE PEOPLE': 58, 'THIRD ROMAN': 21, 'SECOND OFFICER': 26, 'CONSPIRATORS': 57}
+
+{0: 34, 1: 16, 2: 17, 3: 165, 4: 193, 5: 13, 6: 22, 7: 66, 8: 24, 9: 119, 10: 91, 11: 45, 12: 4, 13: 57, 14: 26, 15: 1, 16: 14, 17: 8, 18: 1, 19: 1, 20: 1, 21: 1, 22: 4, 23: 7, 24: 2, 25: 4, 26: 3, 27: 1, 28: 14, 29: 3, 30: 1, 31: 1, 32: 1, 33: 1, 34: 1, 35: 3, 36: 4, 37: 13, 38: 1, 39: 1, 40: 9, 41: 10, 42: 9, 43: 3, 44: 17, 45: 17, 46: 20, 47: 3, 48: 4, 49: 12, 50: 6, 51: 1, 52: 3, 53: 2, 54: 3, 55: 3, 56: 4, 57: 2, 58: 1, 59: 3, 60: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 5
+
+Speech Act Number Cutoff: 43
+Number of Total Speakers: 40
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+2118 features selected out of 4236 total
+F1 mean: 0.05 (+/- 0.03)
+             precision    recall  f1-score   support
+
+          3       1.00      0.76      0.86        78
+          4       0.37      1.00      0.54       121
+          5       1.00      0.72      0.84        83
+          6       1.00      0.31      0.47        59
+          8       1.00      0.62      0.76        78
+         11       1.00      0.81      0.89        77
+         18       1.00      0.55      0.71        60
+         19       1.00      0.42      0.60        59
+         20       1.00      0.57      0.72        46
+
+avg / total       0.88      0.68      0.71       661
+
+{'FIRST GAOLER': 30, 'PHILARIO': 12, 'PISANIO': 6, 'IACHIMO': 11, 'MUSICIANS': 15, 'MESSENGER': 16, 'SECOND GAOLER': 31, 'GUIDERIUS': 19, 'BOTH': 24, 'CYMBELINE': 5, 'IMOGEN': 4, 'FIRST GENTLEMAN': 0, 'LUCIUS': 17, 'POSTHUMUS': 3, 'JUPITER': 37, 'CAPTAIN': 25, 'MOTHER': 33, 'BELARIUS': 18, 'SECOND SENATOR': 23, 'FRENCHMAN': 13, 'FIRST LORD': 7, 'BROTHERS': 36, 'SECOND BROTHER': 35, 'FIRST BROTHER': 34, 'LORD': 27, 'SECOND GENTLEMAN': 1, 'SECOND LORD': 9, 'FIRST CAPTAIN': 28, 'LADY': 10, 'SICILIUS': 32, 'SECOND CAPTAIN': 29, 'ALL': 38, 'CLOTEN': 8, 'QUEEN': 2, 'FIRST SENATOR': 21, 'ARVIRAGUS': 20, 'TRIBUNE': 22, 'SOOTHSAYER': 26, 'GAOLER': 39, 'CORNELIUS': 14}
+
+{0: 10, 1: 9, 2: 29, 3: 78, 4: 121, 5: 83, 6: 59, 7: 12, 8: 78, 9: 21, 10: 10, 11: 77, 12: 14, 13: 7, 14: 13, 15: 1, 16: 3, 17: 25, 18: 60, 19: 59, 20: 46, 21: 2, 22: 3, 23: 1, 24: 2, 25: 4, 26: 5, 27: 9, 28: 2, 29: 2, 30: 1, 31: 1, 32: 7, 33: 3, 34: 2, 35: 1, 36: 1, 37: 1, 38: 1, 39: 8}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 6
+
+Speech Act Number Cutoff: 56
+Number of Total Speakers: 34
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+2330 features selected out of 4660 total
+F1 mean: 0.10 (+/- 0.03)
+             precision    recall  f1-score   support
+
+          2       1.00      0.29      0.45       108
+          4       1.00      0.36      0.53       102
+          6       1.00      0.32      0.49        62
+          7       1.00      0.34      0.50        86
+          8       0.51      1.00      0.68       358
+          9       1.00      0.22      0.36        69
+         12       1.00      0.21      0.34        58
+
+avg / total       0.79      0.60      0.55       843
+
+{'GUILDENSTERN': 16, 'AMBASSADOR': 33, 'SERVANT': 26, 'GENTLEMAN': 24, 'GENTLEMEN': 21, 'SAILOR': 27, 'SECOND CLOWN': 29, 'MESSENGER': 25, 'OSRIC': 31, 'MARCELLUS': 3, 'ROSENCRANTZ': 15, 'VOLTEMAND': 17, 'CAPTAIN': 23, 'PROLOGUE': 20, 'LORD': 32, 'FIRST PLAYER': 18, 'GHOST': 13, 'BOTH': 10, 'HORATIO': 2, 'BERNARDO': 0, 'KING': 4, 'LAERTES': 6, 'CLOWN': 28, 'HAMLET': 8, 'PLAYER': 19, 'POLONIUS': 7, 'ALL': 11, 'FRANCISCO': 1, 'OPHELIA': 12, 'QUEEN': 9, 'FORTINBRAS': 22, 'REYNALDO': 14, 'PRIEST': 30, 'CORNELIUS': 5}
+
+{0: 19, 1: 8, 2: 108, 3: 31, 4: 102, 5: 1, 6: 62, 7: 86, 8: 358, 9: 69, 10: 9, 11: 6, 12: 58, 13: 15, 14: 13, 15: 45, 16: 29, 17: 1, 18: 6, 19: 2, 20: 1, 21: 1, 22: 5, 23: 7, 24: 2, 25: 3, 26: 1, 27: 2, 28: 33, 29: 12, 30: 2, 31: 25, 32: 3, 33: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 7
+
+Speech Act Number Cutoff: 38
+Number of Total Speakers: 33
+
+Best model MultinomialNB(alpha=0.10000000000000001, class_prior=None, fit_prior=True)
+1534 features selected out of 3068 total
+F1 mean: 0.28 (+/- 0.15)
+             precision    recall  f1-score   support
+
+          5       1.00      0.75      0.86       151
+          6       0.72      1.00      0.84       168
+          9       1.00      0.73      0.85       101
+
+avg / total       0.89      0.85      0.85       420
+
+{'HOSTESS': 22, 'SERVANT': 19, 'TRAVELLER': 16, 'DOUGLAS': 27, 'FALSTAFF': 5, 'VERNON': 29, 'MESSENGER': 28, 'HOTSPUR': 9, 'CHAMBERLAIN': 14, 'POINS': 0, 'KING': 3, 'GLENDOWER': 26, 'FIRST CARRIER': 11, 'SHERIFF': 23, 'BLUNT': 10, 'PETO': 1, 'NORTHUMBERLAND': 8, 'WORCESTER': 7, 'WESTMORELAND': 4, 'FRANCIS': 20, 'LANCASTER': 32, 'VINTNER': 21, 'THIEVES': 17, 'LADY': 18, 'PRINCE': 6, 'BARDOPH': 15, 'BARDOLPH': 2, 'ARCHBISHOP': 30, 'MORTIMER': 25, 'CARRIER': 24, 'SIR MICHAEL': 31, 'GADSHILL': 13, 'SECOND CARRIER': 12}
+
+{0: 37, 1: 8, 2: 18, 3: 29, 4: 9, 5: 151, 6: 168, 7: 35, 8: 11, 9: 101, 10: 10, 11: 8, 12: 6, 13: 17, 14: 6, 15: 1, 16: 3, 17: 1, 18: 8, 19: 3, 20: 14, 21: 1, 22: 24, 23: 5, 24: 1, 25: 13, 26: 23, 27: 19, 28: 6, 29: 12, 30: 5, 31: 4, 32: 5}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 8
+
+Speech Act Number Cutoff: 45
+Number of Total Speakers: 50
+
+Best model MultinomialNB(alpha=1.1000000000000001, class_prior=None, fit_prior=True)
+1296 features selected out of 2592 total
+F1 mean: 0.15 (+/- 0.06)
+             precision    recall  f1-score   support
+
+          6       0.60      1.00      0.75       186
+          8       1.00      0.38      0.55        56
+         13       1.00      0.51      0.68        49
+         17       1.00      0.60      0.75        60
+         30       1.00      0.48      0.65        77
+
+avg / total       0.83      0.71      0.70       428
+
+{'TRAVERS': 4, 'SHALLOW': 30, 'PRINCE HUMPHREY': 41, 'HOSTESS': 13, 'DOLL': 25, 'SERVANT': 9, 'PRINCE JOHN': 39, 'THIRD DRAWER': 24, 'WARWICK': 29, 'DAVY': 44, 'FALSTAFF': 6, 'FIRST BEADLE': 46, 'MESSENGER': 37, 'SECOND GROOM': 48, 'LADY PERCY': 21, 'SHADOW': 33, 'FEEBLE': 35, 'BROTHERS': 45, 'POINS': 18, 'CHIEF JUSTICE': 8, 'FANG': 14, 'MOWBRAY': 11, 'NORTHUMBERLAND': 3, 'MOULDY': 32, 'WESTMORELAND': 38, 'SECOND DRAWER': 23, 'SNARE': 15, 'FRANCIS': 22, 'COLVILLE': 40, 'PORTER': 2, 'HASTINGS': 12, 'CLARENCE': 42, 'KING': 28, 'WART': 34, 'BULLCALF': 36, 'PETO': 27, 'MORTON': 5, 'PRINCE': 17, 'SILENCE': 31, 'RUMOUR': 0, 'PISTOL': 26, 'FIRST GROOM': 47, 'BARDOLPH': 19, 'ARCHBISHOP': 10, 'LORD BARDOLPH': 1, 'PAGE': 7, 'THIRD GROOM': 49, 'HARCOURT': 43, 'GOWER': 16, 'LADY NORTHUMBERLAND': 20}
+
+{0: 1, 1: 18, 2: 2, 3: 17, 4: 1, 5: 6, 6: 186, 7: 17, 8: 56, 9: 7, 10: 25, 11: 18, 12: 17, 13: 49, 14: 7, 15: 2, 16: 4, 17: 60, 18: 28, 19: 30, 20: 2, 21: 2, 22: 4, 23: 2, 24: 2, 25: 31, 26: 31, 27: 1, 28: 33, 29: 26, 30: 77, 31: 22, 32: 5, 33: 2, 34: 2, 35: 7, 36: 5, 37: 1, 38: 21, 39: 26, 40: 5, 41: 10, 42: 13, 43: 1, 44: 14, 45: 1, 46: 4, 47: 1, 48: 1, 49: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 9
+
+Speech Act Number Cutoff: 35
+Number of Total Speakers: 47
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1501 features selected out of 3002 total
+F1 mean: 0.25 (+/- 0.17)
+             precision    recall  f1-score   support
+
+          0       0.68      1.00      0.81       147
+          9       1.00      0.58      0.73        62
+         18       1.00      0.50      0.67        40
+         20       1.00      0.65      0.79        68
+
+avg / total       0.85      0.78      0.77       317
+
+{'FRENCH SOLDIER': 39, 'BEDFORD': 12, 'COURT': 33, 'HOSTESS': 10, 'BOY': 11, 'WARWICK': 41, 'QUEEN ISABEL': 43, 'JAMY': 22, 'CANTERBURY': 3, 'BRITAINE': 27, 'MESSENGER': 19, 'BURGUNDY': 44, 'NYM': 8, 'FLUELLEN': 20, 'BOURBON': 40, 'DAUPHIN': 17, 'LORDS': 45, 'YORK': 38, 'SCROOP': 13, 'GREY': 15, 'GOVERNOR': 24, 'HERALD': 42, 'WESTMORELAND': 2, 'MACMORRIS': 23, 'PISTOL': 9, 'EXETER': 1, 'AMBASSADOR': 5, 'BATES': 34, 'FRENCH KING': 16, 'CONSTABLE': 18, 'ALICE': 26, 'ELY': 4, 'KING HENRY': 0, 'RAMBURES': 31, 'ALL': 46, 'CAMBRIDGE': 14, 'BARDOLPH': 7, 'GRANDPRE': 36, 'ERPINGHAM': 32, 'ORLEANS': 30, 'CHORUS': 6, 'KATHERINE': 25, 'SALISBURY': 37, 'MONTJOY': 28, 'GOWER': 21, 'WILLIAMS': 35, 'GLOUCESTER': 29}
+
+{0: 147, 1: 22, 2: 9, 3: 7, 4: 1, 5: 2, 6: 5, 7: 16, 8: 21, 9: 62, 10: 11, 11: 17, 12: 5, 13: 5, 14: 5, 15: 4, 16: 19, 17: 31, 18: 40, 19: 4, 20: 68, 21: 27, 22: 4, 23: 4, 24: 1, 25: 33, 26: 22, 27: 2, 28: 11, 29: 5, 30: 29, 31: 5, 32: 5, 33: 1, 34: 7, 35: 28, 36: 1, 37: 2, 38: 1, 39: 10, 40: 2, 41: 1, 42: 1, 43: 5, 44: 8, 45: 1, 46: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 10
+
+Speech Act Number Cutoff: 32
+Number of Total Speakers: 52
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1406 features selected out of 2813 total
+F1 mean: 0.10 (+/- 0.09)
+             precision    recall  f1-score   support
+
+          1       1.00      0.85      0.92        47
+          7       1.00      0.88      0.94        41
+         11       1.00      0.91      0.95        46
+         20       0.69      1.00      0.81        59
+         30       1.00      0.88      0.93        56
+         31       1.00      0.90      0.95        41
+
+avg / total       0.94      0.91      0.91       290
+
+{'BASSET': 43, 'BEDFORD': 0, 'BASTARD': 10, 'GENERAL OF THE FRENCH': 44, 'FIRST SENTINEL': 24, 'LAWYER': 35, 'BOY': 18, 'SERVANT': 47, 'WARWICK': 33, 'ALENCON': 8, 'LUCY': 45, 'TALBOT': 20, 'SOLDIER': 26, 'VERNON': 34, 'MESSENGER': 4, 'GLANSDALE': 22, 'SERGEANT': 23, 'FASTOLFE': 42, 'KING': 38, 'WOODVILLE': 15, 'PLANTAGENET': 30, 'FIRST SOLDIER': 40, 'GARGRAVE': 21, 'CHARLES': 7, 'BURGUNDY': 25, 'FIRST KEEPER': 37, 'SECOND MESSENGER': 5, 'SCOUT': 49, 'SOMERSET': 32, 'JOHN': 46, 'COUNTESS': 28, 'MAYOR': 16, 'PORTER': 29, 'EXETER': 2, 'SHEPHERD': 51, 'THIRD MESSENGER': 6, 'REIGNIER': 9, 'FIRST WARDER': 12, 'PUCELLE': 11, 'ALL': 39, 'CAPTAIN': 27, 'WINCHESTER': 3, 'MARGARET': 50, 'FIRST SERVING MAN': 14, 'WATCH': 41, 'MORTIMER': 36, 'SUFFOLK': 31, 'SALISBURY': 19, 'LEGATE': 48, 'GLOUCESTER': 1, 'SECOND WARDER': 13, 'OFFICER': 17}
+
+{0: 19, 1: 47, 2: 11, 3: 26, 4: 9, 5: 1, 6: 4, 7: 41, 8: 19, 9: 22, 10: 12, 11: 46, 12: 2, 13: 1, 14: 2, 15: 2, 16: 5, 17: 2, 18: 2, 19: 4, 20: 59, 21: 2, 22: 1, 23: 1, 24: 2, 25: 17, 26: 1, 27: 4, 28: 13, 29: 1, 30: 56, 31: 41, 32: 27, 33: 24, 34: 12, 35: 2, 36: 9, 37: 2, 38: 29, 39: 1, 40: 1, 41: 2, 42: 3, 43: 7, 44: 1, 45: 14, 46: 11, 47: 1, 48: 1, 49: 2, 50: 22, 51: 4}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 11
+
+Speech Act Number Cutoff: 39
+Number of Total Speakers: 66
+
+Best model MultinomialNB(alpha=0.59999999999999998, class_prior=None, fit_prior=True)
+1708 features selected out of 3417 total
+F1 mean: 0.11 (+/- 0.10)
+             precision    recall  f1-score   support
+
+          0       1.00      0.75      0.85        67
+          1       0.52      1.00      0.68        82
+          2       1.00      0.69      0.82        61
+          4       1.00      0.70      0.82        69
+          8       1.00      0.79      0.88        58
+         49       1.00      0.87      0.93        61
+
+avg / total       0.90      0.81      0.82       398
+
+{'IDEN': 62, 'DICK': 50, 'SHERIFF': 34, 'BOLINGBROKE': 18, 'SMITH': 51, 'COMMONS': 39, 'CLIFFORD': 61, 'BUCKINGHAM': 9, 'FIRST CITIZEN': 59, 'MESSENGER': 12, 'CADE': 49, 'SECOND GENTLEMAN': 45, 'WARWICK': 7, 'SPIRIT': 19, 'LIEUTENANT': 41, 'BOTH': 26, 'SECOND NEIGHBOUR': 28, 'RICHARD': 64, 'YOUNG CLIFFORD': 65, 'WHITMORE': 46, 'SERVING MAN': 32, 'FIRST GENTLEMAN': 42, 'HERALD': 33, 'SECOND MURDERER': 38, 'DUCHESS': 11, 'SECOND MESSENGER': 57, 'SAY': 56, 'EDWARD': 63, 'MASTER': 43, 'TOWNSMAN': 21, 'HORNER': 17, 'STANLEY': 35, 'SOMERSET': 10, 'PETER': 16, 'MAYOR': 24, 'HUME': 13, 'MARGERY JOURDAIN': 20, 'SCALES': 58, 'VAUX': 40, 'BEADLE': 25, 'MICHAEL': 53, 'FIRST PRENTICE': 30, 'FIRST MURDERER': 37, 'FIRST NEIGHBOUR': 27, 'SECOND PETITIONER': 15, 'YORK': 8, 'FIRST PETITIONER': 14, 'POST': 36, 'GEORGE': 47, 'WILLIAM STAFFORD': 55, 'STAFFORD': 54, 'SOLDIER': 60, 'ALL': 3, 'JOHN': 48, 'WIFE': 23, 'CLERK': 52, 'QUEEN': 2, 'SUFFOLK': 0, 'SECOND PRENTICE': 31, 'MATE': 44, 'CARDINAL': 5, 'SALISBURY': 6, 'SIMPCOX': 22, 'GLOUCESTER': 4, 'THIRD NEIGHBOUR': 29, 'KING HENRY': 1}
+
+{0: 67, 1: 82, 2: 61, 3: 12, 4: 69, 5: 31, 6: 17, 7: 32, 8: 58, 9: 24, 10: 11, 11: 21, 12: 4, 13: 6, 14: 4, 15: 3, 16: 8, 17: 5, 18: 7, 19: 5, 20: 1, 21: 2, 22: 18, 23: 7, 24: 2, 25: 1, 26: 1, 27: 1, 28: 1, 29: 1, 30: 1, 31: 1, 32: 2, 33: 1, 34: 2, 35: 4, 36: 1, 37: 4, 38: 1, 39: 2, 40: 1, 41: 11, 42: 4, 43: 1, 44: 1, 45: 1, 46: 8, 47: 9, 48: 10, 49: 61, 50: 24, 51: 9, 52: 2, 53: 3, 54: 6, 55: 5, 56: 13, 57: 1, 58: 2, 59: 1, 60: 1, 61: 17, 62: 9, 63: 1, 64: 6, 65: 4}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 12
+
+Speech Act Number Cutoff: 40
+Number of Total Speakers: 44
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1642 features selected out of 3284 total
+F1 mean: 0.07 (+/- 0.03)
+             precision    recall  f1-score   support
+
+          0       1.00      0.71      0.83       100
+          2       0.49      1.00      0.65       134
+          4       1.00      0.74      0.85       108
+          6       1.00      0.52      0.69        71
+         11       1.00      0.53      0.69        53
+         17       1.00      0.35      0.52        40
+
+avg / total       0.86      0.72      0.73       506
+
+{'RICHARD': 4, 'FIRST MESSENGER': 41, 'MONTAGUE': 3, 'TUTOR': 16, 'MESSENGER': 13, 'WARWICK': 0, 'RUTLAND': 15, 'MONTGOMERY': 38, 'NOBLEMAN': 23, 'QUEEN ELIZABETH': 30, 'SECOND MESSENGER': 42, 'PRINCE OF WALES': 12, 'NORTHUMBERLAND': 7, 'FATHER': 19, 'SON': 18, 'FIRST KEEPER': 20, 'SIR JOHN': 14, 'WESTMORELAND': 9, 'BONA': 26, 'MAYOR': 37, 'EXETER': 10, 'NORFOLK': 5, 'CLARENCE': 17, 'LADY GREY': 22, 'HUNTSMAN': 35, 'SECOND WATCHMAN': 32, 'FIRST WATCHMAN': 31, 'YORK': 1, 'OXFORD': 25, 'POST': 27, 'RIVERS': 34, 'SOMERVILLE': 43, 'SOMERSET': 28, 'CLIFFORD': 8, 'ALL': 40, 'LIEUTENANT': 36, 'QUEEN MARGARET': 11, 'THIRD WATCHMAN': 33, 'EDWARD': 2, 'LEWIS': 24, 'SOLDIER': 39, 'HASTINGS': 29, 'SECOND KEEPER': 21, 'KING HENRY': 6}
+
+{0: 100, 1: 38, 2: 134, 3: 10, 4: 108, 5: 3, 6: 71, 7: 15, 8: 35, 9: 6, 10: 13, 11: 53, 12: 16, 13: 12, 14: 1, 15: 7, 16: 2, 17: 40, 18: 4, 19: 4, 20: 7, 21: 9, 22: 24, 23: 1, 24: 21, 25: 13, 26: 4, 27: 3, 28: 11, 29: 9, 30: 6, 31: 5, 32: 5, 33: 3, 34: 5, 35: 2, 36: 1, 37: 3, 38: 5, 39: 1, 40: 1, 41: 1, 42: 1, 43: 3}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 13
+
+Speech Act Number Cutoff: 35
+Number of Total Speakers: 46
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1417 features selected out of 2834 total
+F1 mean: 0.09 (+/- 0.06)
+             precision    recall  f1-score   support
+
+          1       1.00      0.58      0.74        48
+          3       1.00      0.69      0.82        81
+          7       0.46      1.00      0.63        82
+          8       1.00      0.70      0.82        50
+         10       1.00      0.67      0.80        39
+         17       1.00      0.41      0.58        37
+
+avg / total       0.87      0.72      0.73       337
+
+{'BOY': 36, 'SERVANT': 15, 'GARTER': 45, 'ABERGAVENNY': 2, 'GENTLEMAN': 27, 'BRANDON': 5, 'BUCKINGHAM': 0, 'MESSENGER': 34, 'CAPUCIUS': 35, 'CHAMBERLAIN': 10, 'SECRETARY': 4, 'KING': 7, 'QUEEN KATHARINE': 8, 'FIRST GENTLEMAN': 16, 'BUTTS': 40, 'CRIER': 24, 'CRANMER': 38, 'GENTLEMAN USHER': 25, 'ANNE': 14, 'CROMWELL': 29, 'PORTER': 43, 'OLD LADY': 22, 'SURREY': 28, 'LINCOLN': 26, 'NORFOLK': 1, 'BOTH': 31, 'VAUX': 18, 'CHANCELLOR': 41, 'GARDINER': 21, 'SURVEYOR': 9, 'KEEPER': 39, 'SECOND GENTLEMAN': 17, 'DENNY': 37, 'SCRIBE': 23, 'GRIFFITH': 32, 'WOLSEY': 3, 'ALL': 42, 'SANDYS': 11, 'PATIENCE': 33, 'CAMPEIUS': 20, 'LOVELL': 12, 'SUFFOLK': 19, 'SERGEANT': 6, 'THIRD GENTLEMAN': 30, 'GUILDFORD': 13, 'MAN': 44}
+
+{0: 26, 1: 48, 2: 5, 3: 81, 4: 2, 5: 6, 6: 1, 7: 82, 8: 50, 9: 9, 10: 39, 11: 17, 12: 21, 13: 1, 14: 18, 15: 1, 16: 33, 17: 37, 18: 1, 19: 30, 20: 14, 21: 22, 22: 15, 23: 2, 24: 3, 25: 1, 26: 2, 27: 3, 28: 24, 29: 21, 30: 10, 31: 1, 32: 12, 33: 3, 34: 2, 35: 5, 36: 1, 37: 3, 38: 21, 39: 5, 40: 4, 41: 6, 42: 1, 43: 10, 44: 6, 45: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 14
+
+Speech Act Number Cutoff: 27
+Number of Total Speakers: 27
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1569 features selected out of 3139 total
+F1 mean: 0.08 (+/- 0.05)
+             precision    recall  f1-score   support
+
+          0       0.49      1.00      0.66        95
+          4       1.00      0.75      0.86        88
+          8       1.00      0.53      0.70        45
+         11       1.00      0.69      0.82        36
+         17       1.00      0.61      0.76        36
+         19       1.00      0.44      0.61        52
+
+avg / total       0.86      0.72      0.73       352
+
+{'BASTARD': 4, 'FRENCH HERALD': 14, 'BIGOT': 24, 'PANDULPH': 18, 'MESSENGER': 22, 'HUBERT': 19, 'CITIZEN': 13, 'GURNEY': 7, 'EXECUTIONER': 20, 'PEMBROKE': 21, 'ENGLISH HERALD': 15, 'LEWIS': 16, 'ROBERT': 5, 'ESSEX': 3, 'KING PHILIP': 8, 'ARTHUR': 9, 'KING JOHN': 0, 'AUSTRIA': 10, 'MELUN': 25, 'PRINCE HENRY': 26, 'CONSTANCE': 11, 'BLANCH': 12, 'ELINOR': 2, 'PETER': 23, 'CHATILLON': 1, 'SALISBURY': 17, 'LADY FAULCONBRIDGE': 6}
+
+{0: 95, 1: 5, 2: 22, 3: 1, 4: 88, 5: 4, 6: 5, 7: 1, 8: 45, 9: 23, 10: 16, 11: 36, 12: 9, 13: 10, 14: 1, 15: 1, 16: 26, 17: 36, 18: 23, 19: 52, 20: 2, 21: 20, 22: 9, 23: 1, 24: 6, 25: 3, 26: 8}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 15
+
+Speech Act Number Cutoff: 39
+Number of Total Speakers: 48
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1374 features selected out of 2749 total
+F1 mean: 0.14 (+/- 0.06)
+             precision    recall  f1-score   support
+
+          4       1.00      0.42      0.60        40
+          5       1.00      0.31      0.47        39
+          7       1.00      0.49      0.66        51
+          9       0.60      1.00      0.75       194
+         10       1.00      0.62      0.76       138
+
+avg / total       0.83      0.72      0.71       462
+
+{'PORTIA': 17, 'FIRST CITIZEN': 24, 'MARULLUS': 2, 'FIRST SOLDIER': 33, 'SERVANT': 19, 'MESSENGER': 42, 'VARRO': 39, 'THIRD SOLDIER': 35, 'FOURTH CITIZEN': 28, 'DECIUS': 14, 'MESSALA': 37, 'BRUTUS': 9, 'FIRST COMMONER': 1, 'CASCA': 5, 'SECOND CITIZEN': 25, 'TITINIUS': 38, 'LIGARIUS': 18, 'CICERO': 11, 'CLAUDIO': 41, 'LUCIUS': 13, 'PINDARUS': 32, 'CAESAR': 4, 'LUCILIUS': 31, 'ANTONY': 7, 'SECOND COMMONER': 3, 'DARDANIUS': 45, 'GHOST': 40, 'STRATO': 47, 'VOLUMNIUS': 46, 'CASSIUS': 10, 'CALPURNIA': 6, 'LEPIDUS': 30, 'PUBLIUS': 20, 'FLAVIUS': 0, 'OCTAVIUS': 29, 'THIRD CITIZEN': 26, 'METELLUS': 15, 'ALL': 27, 'SECOND SOLDIER': 34, 'CINNA': 12, 'CLITUS': 44, 'CITIZENS': 23, 'ARTEMIDORUS': 21, 'CATO': 43, 'TREBONIUS': 16, 'POPILIUS': 22, 'POET': 36, 'SOOTHSAYER': 8}
+
+{0: 5, 1: 1, 2: 6, 3: 6, 4: 40, 5: 39, 6: 6, 7: 51, 8: 9, 9: 194, 10: 138, 11: 4, 12: 19, 13: 24, 14: 12, 15: 5, 16: 4, 17: 16, 18: 5, 19: 11, 20: 2, 21: 3, 22: 2, 23: 1, 24: 18, 25: 18, 26: 16, 27: 12, 28: 16, 29: 19, 30: 3, 31: 10, 32: 5, 33: 4, 34: 2, 35: 1, 36: 3, 37: 20, 38: 10, 39: 6, 40: 3, 41: 2, 42: 1, 43: 3, 44: 8, 45: 3, 46: 3, 47: 4}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 16
+
+Speech Act Number Cutoff: 53
+Number of Total Speakers: 22
+
+Best model MultinomialNB(alpha=0.10000000000000001, class_prior=None, fit_prior=True)
+852 features selected out of 1705 total
+F1 mean: 0.03 (+/- 0.00)
+             precision    recall  f1-score   support
+
+          0       1.00      0.54      0.70       127
+          1       1.00      0.60      0.75       118
+          2       1.00      0.67      0.80        79
+          3       0.43      1.00      0.60       188
+          4       1.00      0.77      0.87        53
+          6       1.00      0.68      0.81        73
+          7       1.00      0.70      0.82        57
+         10       1.00      0.63      0.78        98
+         13       1.00      0.81      0.90        58
+         16       1.00      0.62      0.77        53
+
+avg / total       0.88      0.72      0.75       904
+
+{'OLD MAN': 17, 'CORNWALL': 16, 'MESSENGER': 19, 'ALBANY': 7, 'DOCTOR': 18, 'CORDELIA': 5, 'BURGUNDY': 8, 'HERALD': 21, 'CURAN': 15, 'EDMUND': 2, 'FOOL': 13, 'GENTLEMAN': 14, 'EDGAR': 10, 'GONERIL': 4, 'OSWALD': 11, 'REGAN': 6, 'KNIGHT': 12, 'FRANCE': 9, 'LEAR': 3, 'KENT': 0, 'CAPTAIN': 20, 'GLOUCESTER': 1}
+
+{0: 127, 1: 118, 2: 79, 3: 188, 4: 53, 5: 31, 6: 73, 7: 57, 8: 5, 9: 5, 10: 98, 11: 38, 12: 5, 13: 58, 14: 41, 15: 4, 16: 53, 17: 9, 18: 8, 19: 1, 20: 5, 21: 4}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 17
+
+Speech Act Number Cutoff: 52
+Number of Total Speakers: 19
+
+Best model MultinomialNB(alpha=1.1000000000000001, class_prior=None, fit_prior=True)
+1971 features selected out of 3943 total
+F1 mean: 0.03 (+/- 0.01)
+             precision    recall  f1-score   support
+
+          0       1.00      0.55      0.71       114
+          2       1.00      0.21      0.34        53
+          3       0.31      1.00      0.47       159
+          5       1.00      0.59      0.74        83
+          6       1.00      0.68      0.81       102
+          7       1.00      0.27      0.43        77
+          9       1.00      0.47      0.64        79
+         10       1.00      0.63      0.78       104
+         14       1.00      0.35      0.52        66
+         17       1.00      0.57      0.73        54
+
+avg / total       0.88      0.59      0.62       891
+
+{'KING': 0, 'MARCADE': 18, 'FIRST LORD': 11, 'MOTH': 7, 'PRINCESS OF FRANCE': 10, 'FORESTER': 15, 'NATHANIEL': 16, 'BOYET': 9, 'JAQUENETTA': 8, 'KATHARINE': 13, 'ROSALINE': 14, 'HOLOFERNES': 17, 'ARMADO': 6, 'BEROWNE': 3, 'DUMAIN': 2, 'COSTARD': 5, 'MARIA': 12, 'DULL': 4, 'LONGAVILLE': 1}
+
+{0: 114, 1: 41, 2: 53, 3: 159, 4: 15, 5: 83, 6: 102, 7: 77, 8: 13, 9: 79, 10: 104, 11: 2, 12: 19, 13: 37, 14: 66, 15: 4, 16: 19, 17: 54, 18: 3}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 18
+
+Speech Act Number Cutoff: 32
+Number of Total Speakers: 42
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1457 features selected out of 2915 total
+F1 mean: 0.12 (+/- 0.05)
+             precision    recall  f1-score   support
+
+          5       1.00      0.59      0.75        37
+          8       1.00      0.41      0.58        39
+          9       0.58      1.00      0.73       148
+         10       1.00      0.45      0.62        33
+         12       1.00      0.63      0.77        62
+         16       1.00      0.51      0.67        59
+
+avg / total       0.83      0.71      0.71       378
+
+{'DONALBAIN': 17, 'SERVANT': 22, 'OLD MAN': 18, 'THIRD WITCH': 2, 'MESSENGER': 13, 'SOLDIERS': 40, 'MENTEITH': 36, 'SECOND MURTHERER': 21, 'LORDS': 24, 'LENNOX': 7, 'MACDUFF': 16, 'SECOND APPARITION': 29, 'DOCTOR': 34, 'MALCOLM': 5, 'MURTHERER': 25, 'LADY MACBETH': 12, 'SON': 33, 'SIWARD': 39, 'BANQUO': 10, 'FIRST WITCH': 0, 'LORD': 27, 'FIRST APPARITION': 28, 'PORTER': 15, 'SERGEANT': 6, 'LADY MACDUFF': 32, 'YOUNG SIWARD': 41, 'THIRD': 31, 'ANGUS': 11, 'CAITHNESS': 37, 'GENTLEWOMAN': 35, 'THIRD APPARITION': 30, 'ALL': 3, 'FLEANCE': 14, 'DUNCAN': 4, 'HECATE': 26, 'MACBETH': 9, 'THIRD MURTHERER': 23, 'FIRST MURTHERER': 20, 'SECOND WITCH': 1, 'ATTENDANT': 19, 'SEYTON': 38, 'ROSS': 8}
+
+{0: 23, 1: 14, 2: 11, 3: 13, 4: 20, 5: 37, 6: 3, 7: 21, 8: 39, 9: 148, 10: 33, 11: 4, 12: 62, 13: 6, 14: 2, 15: 4, 16: 59, 17: 3, 18: 4, 19: 1, 20: 20, 21: 7, 22: 5, 23: 6, 24: 3, 25: 1, 26: 2, 27: 3, 28: 1, 29: 2, 30: 1, 31: 1, 32: 19, 33: 14, 34: 20, 35: 12, 36: 5, 37: 3, 38: 5, 39: 11, 40: 1, 41: 3}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 19
+
+Speech Act Number Cutoff: 31
+Number of Total Speakers: 24
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1627 features selected out of 3255 total
+F1 mean: 0.05 (+/- 0.03)
+             precision    recall  f1-score   support
+
+          0       1.00      0.48      0.65        48
+          1       1.00      0.29      0.45        31
+          3       1.00      0.62      0.77        74
+          4       1.00      0.50      0.67        48
+          5       1.00      0.52      0.68        48
+          6       0.36      1.00      0.53       117
+          7       1.00      0.25      0.40        36
+          9       1.00      0.59      0.75        79
+         11       1.00      0.39      0.56        44
+
+avg / total       0.86      0.60      0.62       525
+
+{'PORTIA': 6, 'SOLANIO': 2, 'SERVANT': 16, 'ARRAGON': 15, 'ANTONIO': 0, 'LAUNCELOT': 11, 'NERISSA': 7, 'JESSICA': 14, 'GRATIANO': 5, 'GOBBO': 12, 'SHYLOCK': 9, 'STEPHANO': 23, 'DUKE OF VENICE': 21, 'SERVINGMAN': 8, 'LORENZO': 4, 'PRINCE OF MOROCCO': 10, 'SALERIO': 1, 'ALL': 19, 'CLERK': 22, 'BASSANIO': 3, 'BALTHASAR': 20, 'TUBAL': 18, 'LEONARDO': 13, 'MAN': 17}
+
+{0: 48, 1: 31, 2: 19, 3: 74, 4: 48, 5: 48, 6: 117, 7: 36, 8: 1, 9: 79, 10: 7, 11: 44, 12: 19, 13: 2, 14: 27, 15: 4, 16: 2, 17: 1, 18: 8, 19: 1, 20: 1, 21: 18, 22: 1, 23: 3}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 20
+
+Speech Act Number Cutoff: 50
+Number of Total Speakers: 27
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1500 features selected out of 3000 total
+F1 mean: 0.04 (+/- 0.01)
+             precision    recall  f1-score   support
+
+          0       1.00      0.31      0.47        59
+          1       1.00      0.43      0.60        56
+          2       1.00      0.78      0.88        87
+          3       1.00      0.30      0.46        74
+          4       0.31      1.00      0.47       135
+         11       1.00      0.44      0.61        71
+         15       1.00      0.64      0.78       104
+         16       1.00      0.49      0.66        86
+         17       1.00      0.58      0.74        98
+
+avg / total       0.88      0.60      0.63       770
+
+{'SIMPLE': 8, 'PUCK': 25, 'QUICKLY': 11, 'FALSTAFF': 4, 'NYM': 7, 'ROBIN': 18, 'CAIUS': 13, 'EVANS': 2, 'SHALLOW': 0, 'MRS FORD': 16, 'SERVANT': 20, 'FENTON': 14, 'ANNE': 9, 'PISTOL': 6, 'RUGBY': 12, 'SLENDER': 1, 'FORD': 17, 'HOST': 10, 'FAIRY QUEEN': 24, 'THE SONG': 26, 'ALL': 19, 'FIRST SERVANT': 22, 'MRS PAGE': 15, 'BARDOLPH': 5, 'SECOND SERVANT': 23, 'WILLIAM': 21, 'PAGE': 3}
+
+{0: 59, 1: 56, 2: 87, 3: 74, 4: 135, 5: 14, 6: 26, 7: 13, 8: 24, 9: 20, 10: 45, 11: 71, 12: 9, 13: 48, 14: 20, 15: 104, 16: 86, 17: 98, 18: 6, 19: 1, 20: 1, 21: 11, 22: 2, 23: 1, 24: 4, 25: 3, 26: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 21
+
+Speech Act Number Cutoff: 25
+Number of Total Speakers: 33
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1430 features selected out of 2860 total
+F1 mean: 0.05 (+/- 0.06)
+             precision    recall  f1-score   support
+
+          0       1.00      0.62      0.77        48
+          3       1.00      0.69      0.81        48
+          4       1.00      0.69      0.81        48
+          5       0.36      1.00      0.53        51
+          6       1.00      0.68      0.81        37
+          7       1.00      0.74      0.85        38
+          8       1.00      0.86      0.92        50
+         14       1.00      0.82      0.90        33
+         16       1.00      0.69      0.82        29
+
+avg / total       0.91      0.76      0.79       382
+
+{'MOTH': 23, 'PEASEBLOSSOM': 21, 'PUCK': 14, 'EGEUS': 2, 'HELENA': 6, 'SNUG': 12, 'STARVELING': 10, 'FAIRY': 15, 'BOTTOM': 8, 'HERMIA': 3, 'FLUTE': 9, 'MUSTARDSEED': 24, 'WALL': 27, 'PROLOGUE': 26, 'QUINCE': 7, 'THESEUS': 0, 'THISBY': 29, 'TITANIA': 17, 'SNOUT': 11, 'LYSANDER': 5, 'COBWEB': 22, 'SECOND FAIRY': 20, 'MOONSHINE': 31, 'PYRAMUS': 28, 'ALL': 13, 'DEMETRIUS': 4, 'LION': 30, 'MOON': 32, 'CHORUS': 19, 'FIRST FAIRY': 18, 'HIPPOLYTA': 1, 'PHILOSTRATE': 25, 'OBERON': 16}
+
+{0: 48, 1: 14, 2: 7, 3: 48, 4: 48, 5: 51, 6: 37, 7: 38, 8: 50, 9: 10, 10: 4, 11: 7, 12: 2, 13: 2, 14: 33, 15: 3, 16: 29, 17: 23, 18: 2, 19: 2, 20: 1, 21: 4, 22: 4, 23: 2, 24: 5, 25: 6, 26: 2, 27: 2, 28: 9, 29: 8, 30: 2, 31: 2, 32: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 22
+
+Speech Act Number Cutoff: 48
+Number of Total Speakers: 22
+
+Best model MultinomialNB(alpha=1.1000000000000001, class_prior=None, fit_prior=True)
+1334 features selected out of 2668 total
+F1 mean: 0.09 (+/- 0.08)
+             precision    recall  f1-score   support
+
+          0       1.00      0.60      0.75       121
+          2       1.00      0.69      0.82       107
+          4       0.39      1.00      0.56       133
+          5       1.00      0.55      0.71       132
+          7       1.00      0.62      0.77       125
+         15       1.00      0.62      0.76        52
+
+avg / total       0.88      0.69      0.72       670
+
+{'FIRST WATCH': 17, 'BOY': 14, 'BEATRICE': 2, 'VERGES': 16, 'ANTONIO': 8, 'MARGARET': 12, 'LEONATO': 0, 'MESSENGER': 1, 'BOTH': 21, 'DOGBERRY': 15, 'CLAUDIO': 7, 'SECOND WATCH': 18, 'SEXTON': 20, 'JOHN': 6, 'BALTHASAR': 11, 'PEDRO': 4, 'HERO': 3, 'BORACHIO': 10, 'FRIAR': 19, 'URSULA': 13, 'CONRADE': 9, 'BENEDICK': 5}
+
+{0: 121, 1: 17, 2: 107, 3: 44, 4: 133, 5: 132, 6: 41, 7: 125, 8: 22, 9: 22, 10: 38, 11: 10, 12: 26, 13: 19, 14: 2, 15: 52, 16: 18, 17: 5, 18: 15, 19: 16, 20: 7, 21: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 23
+
+Speech Act Number Cutoff: 59
+Number of Total Speakers: 26
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1936 features selected out of 3872 total
+F1 mean: 0.10 (+/- 0.06)
+             precision    recall  f1-score   support
+
+          0       1.00      0.14      0.24        59
+          1       1.00      0.54      0.70       272
+          3       0.40      1.00      0.57       275
+          4       1.00      0.35      0.52       110
+         12       1.00      0.48      0.64       166
+         18       1.00      0.24      0.39       103
+
+avg / total       0.83      0.58      0.58       985
+
+{'RODERIGO': 0, 'DUKE': 6, 'GENTLEMEN': 22, 'SAILOR': 9, 'CASSIO': 4, 'BRABANTIO': 2, 'FOURTH GENTLEMAN': 17, 'FIRST GENTLEMAN': 14, 'GRATIANO': 25, 'HERALD': 19, 'FIRST MUSICIAN': 21, 'FIRST OFFICER': 5, 'DESDEMONA': 12, 'SECOND SENATOR': 8, 'FIRST SENATOR': 7, 'LODOVICO': 24, 'CLOWN': 20, 'IAGO': 1, 'MESSENGER': 10, 'SECOND GENTLEMAN': 15, 'BIANCA': 23, 'ALL': 11, 'THIRD GENTLEMAN': 16, 'OTHELLO': 3, 'EMILIA': 18, 'MONTANO': 13}
+
+{0: 59, 1: 272, 2: 30, 3: 275, 4: 110, 5: 3, 6: 24, 7: 7, 8: 1, 9: 2, 10: 2, 11: 4, 12: 166, 13: 24, 14: 1, 15: 5, 16: 4, 17: 1, 18: 103, 19: 1, 20: 14, 21: 5, 22: 1, 23: 15, 24: 33, 25: 19}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 24
+
+Speech Act Number Cutoff: 27
+Number of Total Speakers: 36
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1697 features selected out of 3395 total
+F1 mean: 0.07 (+/- 0.05)
+             precision    recall  f1-score   support
+
+          0       0.46      1.00      0.63        98
+          1       1.00      0.50      0.67        28
+          2       1.00      0.75      0.86        89
+          6       1.00      0.34      0.51        38
+         12       1.00      0.65      0.79        54
+         14       1.00      0.47      0.64        38
+         32       1.00      0.39      0.56        28
+
+avg / total       0.86      0.69      0.69       373
+
+{'SERVANT': 27, 'BOLINGBROKE': 2, 'GARDENER': 26, 'AUMERLE': 6, 'BERKELEY': 20, 'DUCHESS OF YORK': 32, 'MARSHAL': 5, 'DUCHESS OF GLOUCESTER': 4, 'CARLISLE': 23, 'EXTON': 33, 'MOWBRAY': 3, 'NORTHUMBERLAND': 14, 'SCROOP': 24, 'PERCY': 19, 'FITZWATER': 28, 'ABBOT': 31, 'SECOND HERALD': 8, 'SURREY': 30, 'GROOM': 34, 'SERVINGMAN': 17, 'GAUNT': 1, 'WILLOUGHBY': 16, 'YORK': 12, 'KEEPER': 35, 'LADY': 25, 'ANOTHER LORD': 29, 'ALL': 11, 'QUEEN': 13, 'KING RICHARD': 0, 'SALISBURY': 22, 'GREEN': 9, 'BAGOT': 18, 'CAPTAIN': 21, 'FIRST HERALD': 7, 'BUSHY': 10, 'ROSS': 15}
+
+{0: 98, 1: 28, 2: 89, 3: 13, 4: 4, 5: 10, 6: 38, 7: 1, 8: 1, 9: 10, 10: 13, 11: 1, 12: 54, 13: 25, 14: 38, 15: 11, 16: 8, 17: 3, 18: 6, 19: 12, 20: 2, 21: 2, 22: 3, 23: 6, 24: 6, 25: 6, 26: 6, 27: 5, 28: 6, 29: 1, 30: 3, 31: 2, 32: 28, 33: 6, 34: 4, 35: 4}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 25
+
+Speech Act Number Cutoff: 53
+Number of Total Speakers: 70
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1547 features selected out of 3095 total
+F1 mean: 0.30 (+/- 0.07)
+             precision    recall  f1-score   support
+
+          0       0.73      1.00      0.84       295
+          9       1.00      0.41      0.58        96
+         11       1.00      0.41      0.58        91
+
+avg / total       0.83      0.77      0.74       482
+
+{'FIRST CITIZEN': 26, 'DAUGHTER OF CLARENCE': 24, 'PURSUIVANT': 35, 'SHERIFF': 51, 'BOTH MURDERERS': 20, 'LOVEL': 41, 'GHOST OF GREY': 62, 'HERBERT': 54, 'GENTLEMEN': 6, 'BUCKINGHAM': 11, 'GHOST OF ANNE': 67, 'MESSENGER': 31, 'BRAKENBURY': 2, 'DUCHESS OF YORK': 23, 'NORFOLK': 57, 'GHOST OF PRINCE EDWARD': 58, 'DORSET': 14, 'GHOST OF VAUGHAN': 63, 'RATCLIFF': 38, 'SON OF CLARENCE': 22, 'RICHMOND': 52, 'SECOND CITIZEN': 27, 'GHOST OF HASTINGS': 65, 'GHOST OF RIVERS': 61, 'SECOND MESSENGER': 47, 'CATESBY': 15, 'ARCHBISHOP OF YORK': 29, 'GHOSTS OF YOUNG PRINCES': 66, 'FIRST GENTLEMAN': 5, 'GREY': 8, 'SECOND MURDERER': 19, 'DUCHESS': 46, 'KING EDWARD': 21, 'TYRREL': 45, 'QUEEN ELIZABETH': 9, 'THIRD MESSENGER': 48, 'OXFORD': 53, 'STANLEY': 12, 'ANNE': 4, 'BISHOP OF ELY': 40, 'GHOST OF CLARENCE': 60, 'MAYOR': 33, 'HASTINGS': 3, 'SURREY': 56, 'URSWICK': 50, 'CLARENCE': 1, 'LORDS': 69, 'SCRIVENER': 42, 'CHILDREN OF CLARENCE': 25, 'RIVERS': 7, 'FIRST MURDERER': 18, 'YORK': 30, 'DERBY': 39, 'KEEPER': 17, 'GHOSTS': 64, 'RIVER': 10, 'BLUNT': 55, 'THIRD CITIZEN': 28, 'FOURTH MESSENGER': 49, 'ALL': 43, 'GHOST OF BUCKINGHAM': 68, 'QUEEN MARGARET': 13, 'GHOST OF HENRY THE SIXTH': 59, 'PRIEST': 36, 'CARDINAL': 34, 'PRINCE OF WALES': 32, 'VAUGHAN': 37, 'PAGE': 44, 'MURDERERS': 16, 'GLOUCESTER': 0}
+
+{0: 295, 1: 32, 2: 11, 3: 43, 4: 50, 5: 1, 6: 1, 7: 18, 8: 7, 9: 96, 10: 1, 11: 91, 12: 26, 13: 33, 14: 8, 15: 28, 16: 3, 17: 6, 18: 33, 19: 28, 20: 1, 21: 12, 22: 6, 23: 43, 24: 3, 25: 3, 26: 7, 27: 6, 28: 9, 29: 6, 30: 21, 31: 13, 32: 18, 33: 8, 34: 2, 35: 3, 36: 2, 37: 1, 38: 19, 39: 8, 40: 4, 41: 2, 42: 1, 43: 1, 44: 3, 45: 10, 46: 1, 47: 1, 48: 3, 49: 1, 50: 2, 51: 2, 52: 14, 53: 1, 54: 1, 55: 3, 56: 1, 57: 8, 58: 1, 59: 1, 60: 1, 61: 1, 62: 1, 63: 1, 64: 1, 65: 1, 66: 1, 67: 1, 68: 1, 69: 3}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 26
+
+Speech Act Number Cutoff: 42
+Number of Total Speakers: 37
+
+Best model MultinomialNB(alpha=1.1000000000000001, class_prior=None, fit_prior=True)
+1924 features selected out of 3849 total
+F1 mean: 0.06 (+/- 0.02)
+             precision    recall  f1-score   support
+
+          4       1.00      0.36      0.53        64
+          8       1.00      0.79      0.88        52
+          9       1.00      0.29      0.44        42
+         13       0.43      1.00      0.60       163
+         16       1.00      0.56      0.72        91
+         17       1.00      0.61      0.76       117
+         18       1.00      0.58      0.73        62
+         23       1.00      0.61      0.76        56
+
+avg / total       0.86      0.67      0.68       647
+
+{'BOY': 33, 'SAMPSON': 1, 'TYBALT': 5, 'LADY CAPULET': 9, 'MONTAGUE': 10, 'APOTHECARY': 30, 'NURSE': 16, 'ABRAM': 3, 'CAPULET': 8, 'SECOND WATCH': 35, 'ROMEO': 13, 'SECOND MUSICIAN': 27, 'FIRST MUSICIAN': 26, 'THIRD WATCH': 36, 'FRIAR JOHN': 31, 'PETER': 24, 'LADY MONTAGUE': 11, 'MERCUTIO': 18, 'THIRD MUSICIAN': 28, 'PARIS': 14, 'THIRD SERVANT': 21, 'FRIAR LAURENCE': 23, 'FELLOW': 25, 'OFFICER': 6, 'GREGORY': 2, 'PRINCE': 12, 'JULIET': 17, 'SERVINGMAN': 15, 'FIRST SERVANT': 19, 'CHIEF WATCH': 34, 'CITIZENS': 7, 'SECOND SERVANT': 20, 'OTHER CAPULET': 22, 'CHORUS': 0, 'BALTHASAR': 29, 'PAGE': 32, 'BENVOLIO': 4}
+
+{0: 2, 1: 20, 2: 15, 3: 5, 4: 64, 5: 17, 6: 1, 7: 3, 8: 52, 9: 42, 10: 10, 11: 2, 12: 15, 13: 163, 14: 23, 15: 12, 16: 91, 17: 117, 18: 62, 19: 3, 20: 2, 21: 1, 22: 2, 23: 56, 24: 13, 25: 2, 26: 11, 27: 2, 28: 1, 29: 12, 30: 4, 31: 4, 32: 2, 33: 2, 34: 5, 35: 1, 36: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 27
+
+Speech Act Number Cutoff: 41
+Number of Total Speakers: 34
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1382 features selected out of 2764 total
+F1 mean: 0.05 (+/- 0.00)
+             precision    recall  f1-score   support
+
+         13       0.37      1.00      0.54       158
+         14       1.00      0.44      0.61        61
+         15       1.00      0.40      0.57        62
+         16       1.00      0.29      0.44        49
+         17       1.00      0.26      0.41        43
+         18       1.00      0.49      0.66        75
+         21       1.00      0.35      0.51        78
+         22       1.00      0.31      0.47        65
+
+avg / total       0.83      0.54      0.54       591
+
+{'CURTIS': 23, 'TRANIO': 18, 'HOSTESS': 1, 'SERVANT': 5, 'PLAYERS': 6, 'TAILOR': 31, 'MESSENGER': 12, 'HORTENSIO': 15, 'BAPTISTA': 22, 'GREMIO': 16, 'BIONDELLO': 19, 'LORD': 2, 'NICHOLAS': 27, 'JOSEPH': 26, 'GRUMIO': 14, 'SLY': 0, 'THIRD SERVANT': 9, 'BIANCA': 20, 'PHILIP': 25, 'VINCENTIO': 32, 'NATHANIEL': 24, 'WIDOW': 33, 'ALL': 10, 'PETER': 28, 'FIRST SERVANT': 7, 'PEDANT': 29, 'SECOND HUNTSMAN': 4, 'SECOND SERVANT': 8, 'KATHERINA': 21, 'FIRST HUNTSMAN': 3, 'LUCENTIO': 17, 'HABERDASHER': 30, 'PETRUCHIO': 13, 'PAGE': 11}
+
+{0: 24, 1: 3, 2: 18, 3: 4, 4: 2, 5: 3, 6: 4, 7: 6, 8: 4, 9: 4, 10: 1, 11: 8, 12: 1, 13: 158, 14: 61, 15: 62, 16: 49, 17: 43, 18: 75, 19: 36, 20: 28, 21: 78, 22: 65, 23: 20, 24: 4, 25: 1, 26: 1, 27: 1, 28: 2, 29: 20, 30: 1, 31: 12, 32: 23, 33: 8}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 28
+
+Speech Act Number Cutoff: 32
+Number of Total Speakers: 19
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1623 features selected out of 3246 total
+F1 mean: 0.04 (+/- 0.04)
+             precision    recall  f1-score   support
+
+          2       1.00      0.45      0.62        40
+          3       1.00      0.41      0.58        59
+          4       1.00      0.52      0.68        52
+          5       1.00      0.72      0.83        67
+          7       1.00      0.39      0.56        51
+          8       0.32      1.00      0.49       113
+          9       1.00      0.36      0.53        47
+         10       1.00      0.48      0.65        50
+         14       1.00      0.44      0.61        39
+         15       1.00      0.53      0.70        60
+
+avg / total       0.87      0.59      0.62       578
+
+{'IRIS': 16, 'CALIBAN': 10, 'JUNO': 18, 'ADRIAN': 12, 'ALONSO': 2, 'CERES': 17, 'GONZALO': 4, 'ANTONIO': 3, 'PROSPERO': 8, 'FRANCISCO': 13, 'MASTER': 0, 'STEPHANO': 15, 'MIRANDA': 7, 'MARINERS': 6, 'BOATSWAIN': 1, 'FERDINAND': 11, 'SEBASTIAN': 5, 'TRINCULO': 14, 'ARIEL': 9}
+
+{0: 2, 1: 12, 2: 40, 3: 59, 4: 52, 5: 67, 6: 1, 7: 51, 8: 113, 9: 47, 10: 50, 11: 31, 12: 9, 13: 2, 14: 39, 15: 60, 16: 4, 17: 4, 18: 2}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 29
+
+Speech Act Number Cutoff: 37
+Number of Total Speakers: 58
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1386 features selected out of 2772 total
+F1 mean: 0.21 (+/- 0.11)
+             precision    recall  f1-score   support
+
+          4       0.65      1.00      0.79       210
+          8       1.00      0.33      0.50       100
+          9       1.00      0.32      0.48        38
+         18       1.00      0.47      0.64        40
+
+avg / total       0.81      0.71      0.67       388
+
+{'ALL SERVANTS': 25, 'SERVILIUS': 35, 'VENTIDIUS': 12, 'ALCIBIADES': 9, 'SERVANT': 14, 'THIRD LORD': 13, 'CUPID': 15, 'FIRST BANDIT': 51, 'SENATORS': 57, 'MESSENGER': 5, 'LUCULLIUS': 31, 'JEWELLER': 3, 'TIMANDRA': 49, 'LORDS': 22, 'FLAMINIUS': 29, 'FIRST LADY': 16, 'SECOND STRANGER': 34, 'PHRYNIA AND TIMANDRA': 50, 'LUCIUS': 32, 'FIRST SENATOR': 41, 'SERVANTS': 28, 'SECOND BANDIT': 52, 'LUCILIUS': 7, 'SECOND SENATOR': 42, 'HORTENSIUS': 39, 'PAINTER': 1, 'LUCULLUS': 30, 'MERCHANT': 2, 'FIRST LORD': 10, 'LADIES': 17, 'THIRD STRANGER': 36, 'FOURTH LORD': 46, 'THIRD BANDIT': 53, 'THIRD SERVANT': 21, 'TITUS': 38, 'THIRD SENATOR': 43, 'APEMANTUS': 8, 'BANDITTI': 54, 'FLAVIUS': 18, 'ATTENDANTS': 45, 'SENATOR': 23, 'SECOND LORD': 11, 'PHRYNIA': 48, 'TIMON': 4, 'ALL': 19, 'FIRST SERVANT': 47, 'SOLDIER': 56, 'BOTH': 55, 'FOOL': 26, 'SECOND SERVANT': 20, 'PAGE': 27, 'PHILOTUS': 40, 'CAPHIS': 24, 'FIRST STRANGER': 33, 'POET': 0, 'SEMPRONIUS': 37, 'OLD ATHENIAN': 6, 'FIRST AND SECOND LORDS': 44}
+
+{0: 30, 1: 30, 2: 8, 3: 8, 4: 210, 5: 6, 6: 10, 7: 3, 8: 100, 9: 38, 10: 27, 11: 28, 12: 2, 13: 12, 14: 9, 15: 1, 16: 1, 17: 1, 18: 40, 19: 1, 20: 2, 21: 2, 22: 1, 23: 4, 24: 14, 25: 4, 26: 9, 27: 4, 28: 2, 29: 11, 30: 5, 31: 1, 32: 10, 33: 4, 34: 3, 35: 8, 36: 1, 37: 2, 38: 12, 39: 6, 40: 6, 41: 27, 42: 14, 43: 2, 44: 1, 45: 2, 46: 3, 47: 2, 48: 1, 49: 3, 50: 3, 51: 5, 52: 4, 53: 3, 54: 4, 55: 6, 56: 2, 57: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 30
+
+Speech Act Number Cutoff: 28
+Number of Total Speakers: 27
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1747 features selected out of 3494 total
+F1 mean: 0.05 (+/- 0.00)
+             precision    recall  f1-score   support
+
+          0       1.00      0.50      0.67        48
+          2       1.00      0.62      0.76        65
+          4       0.41      1.00      0.58       118
+          5       1.00      0.57      0.72        51
+          6       1.00      0.43      0.60        49
+          7       1.00      0.13      0.24        30
+          8       1.00      0.51      0.68        39
+         15       1.00      0.58      0.73        57
+
+avg / total       0.85      0.63      0.64       457
+
+{'BOY': 17, 'GOTHS': 23, 'FIRST GOTH': 22, 'AEMILIUS': 21, 'GOTH': 25, 'ROMAN': 26, 'TAMORA': 6, 'NURSE': 18, 'BASSIANUS': 1, 'MARTIUS': 13, 'LUCIUS': 5, 'MUTIUS': 11, 'TRIBUNES': 10, 'SECOND GOTH': 24, 'CHIRON': 7, 'TITUS': 4, 'SATURNINUS': 0, 'CLOWN': 20, 'AARON': 15, 'PUBLIUS': 19, 'LAVINIA': 9, 'QUINTUS': 12, 'MARCUS': 2, 'ALL': 14, 'DEMETRIUS': 8, 'MESSENGER': 16, 'CAPTAIN': 3}
+
+{0: 48, 1: 14, 2: 65, 3: 1, 4: 118, 5: 51, 6: 49, 7: 30, 8: 39, 9: 15, 10: 1, 11: 3, 12: 10, 13: 10, 14: 3, 15: 57, 16: 1, 17: 11, 18: 10, 19: 5, 20: 12, 21: 4, 22: 3, 23: 1, 24: 1, 25: 2, 26: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 31
+
+Speech Act Number Cutoff: 57
+Number of Total Speakers: 29
+
+Best model MultinomialNB(alpha=0.10000000000000001, class_prior=None, fit_prior=True)
+1949 features selected out of 3898 total
+F1 mean: 0.09 (+/- 0.07)
+             precision    recall  f1-score   support
+
+          0       1.00      0.61      0.76       131
+          1       0.37      1.00      0.54       153
+          3       1.00      0.44      0.61       153
+          8       1.00      0.64      0.78        80
+         11       1.00      0.67      0.80        90
+         12       1.00      0.45      0.62        74
+         15       1.00      0.63      0.77        57
+
+avg / total       0.87      0.65      0.68       738
+
+{'BOY': 5, 'SERVANT': 20, 'MYRMIDON': 27, 'MENELAUS': 9, 'SOLDIERS': 28, 'HELENUS': 16, 'ULYSSES': 8, 'HECTOR': 15, 'DIOMEDES': 19, 'TROILUS': 0, 'NESTOR': 7, 'ANDROMACHE': 25, 'AENEAS': 2, 'PARIS': 18, 'CALCHAS': 22, 'AJAX': 10, 'ACHILLES': 12, 'THERSITES': 11, 'MARGARELON': 26, 'ALL': 24, 'AGAMEMNON': 6, 'PATROCLUS': 13, 'PANDARUS': 1, 'PRIAM': 14, 'HELEN': 21, 'DEIPHOBUS': 23, 'ALEXANDER': 4, 'CRESSIDA': 3, 'CASSANDRA': 17}
+
+{0: 131, 1: 153, 2: 44, 3: 153, 4: 8, 5: 3, 6: 53, 7: 38, 8: 80, 9: 11, 10: 55, 11: 90, 12: 74, 13: 38, 14: 6, 15: 57, 16: 1, 17: 13, 18: 27, 19: 54, 20: 15, 21: 19, 22: 4, 23: 2, 24: 2, 25: 6, 26: 3, 27: 1, 28: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 32
+
+Speech Act Number Cutoff: 46
+Number of Total Speakers: 18
+
+Best model MultinomialNB(alpha=1.1000000000000001, class_prior=None, fit_prior=True)
+1606 features selected out of 3212 total
+F1 mean: 0.03 (+/- 0.00)
+             precision    recall  f1-score   support
+
+          0       1.00      0.43      0.60        58
+          3       1.00      0.60      0.75       122
+          5       0.33      1.00      0.49       152
+          6       1.00      0.37      0.54        59
+          7       1.00      0.57      0.72        88
+          8       1.00      0.70      0.82        99
+          9       1.00      0.52      0.68       120
+         10       1.00      0.60      0.75        87
+         13       1.00      0.39      0.56        51
+
+avg / total       0.88      0.63      0.66       836
+
+{'ANTONIO': 11, 'DUKE': 0, 'SECOND OFFICER': 16, 'CURIO': 1, 'SEBASTIAN': 12, 'MALVOLIO': 10, 'SIR TOBY': 5, 'VALENTINE': 2, 'AGUECHEEK': 7, 'FABIAN': 13, 'OLIVIA': 9, 'CLOWN': 8, 'VIOLA': 3, 'FIRST OFFICER': 15, 'CAPTAIN': 4, 'PRIEST': 17, 'SERVANT': 14, 'MARIA': 6}
+
+{0: 58, 1: 4, 2: 3, 3: 122, 4: 10, 5: 152, 6: 59, 7: 88, 8: 99, 9: 120, 10: 87, 11: 27, 12: 31, 13: 51, 14: 1, 15: 5, 16: 3, 17: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 33
+
+Speech Act Number Cutoff: 42
+Number of Total Speakers: 17
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1432 features selected out of 2864 total
+F1 mean: 0.06 (+/- 0.05)
+             precision    recall  f1-score   support
+
+          0       0.31      1.00      0.48       149
+          1       1.00      0.50      0.67       149
+          2       1.00      0.55      0.71       117
+          3       1.00      0.54      0.70       107
+          4       1.00      0.27      0.43        48
+          7       1.00      0.28      0.43        58
+          8       1.00      0.40      0.57        68
+         10       1.00      0.33      0.50        48
+
+avg / total       0.86      0.56      0.59       744
+
+{'DUKE': 10, 'SILVIA': 7, 'JULIA': 3, 'ANTONIO': 5, 'OUTLAWS': 16, 'EGLAMOUR': 15, 'HOST': 14, 'PROTEUS': 1, 'FIRST OUTLAW': 11, 'SECOND OUTLAW': 12, 'PANTHINO': 6, 'THIRD OUTLAW': 13, 'LUCETTA': 4, 'VALENTINE': 0, 'SPEED': 2, 'LAUNCE': 8, 'THURIO': 9}
+
+{0: 149, 1: 149, 2: 117, 3: 107, 4: 48, 5: 11, 6: 14, 7: 58, 8: 68, 9: 36, 10: 48, 11: 11, 12: 11, 13: 7, 14: 16, 15: 8, 16: 1}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 34
+
+Speech Act Number Cutoff: 37
+Number of Total Speakers: 34
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1806 features selected out of 3612 total
+F1 mean: 0.06 (+/- 0.04)
+             precision    recall  f1-score   support
+
+          1       1.00      0.53      0.69        72
+          2       1.00      0.60      0.75        57
+          3       0.39      1.00      0.56       125
+         10       1.00      0.64      0.78        59
+         21       1.00      0.33      0.50        42
+         22       1.00      0.47      0.64        64
+         24       1.00      0.48      0.65        65
+         25       1.00      0.58      0.73        45
+
+avg / total       0.86      0.64      0.65       529
+
+{'AUTOLYCUS': 24, 'SHEPHERD': 21, 'SERVANT': 16, 'ARCHIDAMUS': 0, 'GENTLEMAN': 29, 'SECOND LADY': 7, 'PERDITA': 26, 'MARINER': 20, 'MOPSA': 28, 'LORDS': 15, 'FIRST LADY': 6, 'POLIXENES': 2, 'FIRST GENTLEMAN': 31, 'DORCAS': 27, 'HERMIONE': 4, 'LORD': 30, 'FLORIZEL': 25, 'MAMILLIUS': 5, 'FIRST LORD': 8, 'LEONTES': 3, 'DION': 18, 'CLEOMENES': 17, 'OFFICER': 19, 'SECOND GENTLEMAN': 32, 'CAMILLO': 1, 'PAULINA': 10, 'FIRST SERVANT': 13, 'THIRD GENTLEMAN': 33, 'SECOND SERVANT': 14, 'CLOWN': 22, 'TIME': 23, 'EMILIA': 12, 'GAOLER': 11, 'ANTIGONUS': 9}
+
+{0: 7, 1: 72, 2: 57, 3: 125, 4: 35, 5: 13, 6: 4, 7: 3, 8: 14, 9: 19, 10: 59, 11: 6, 12: 4, 13: 2, 14: 1, 15: 2, 16: 10, 17: 7, 18: 4, 19: 5, 20: 3, 21: 42, 22: 64, 23: 1, 24: 65, 25: 45, 26: 25, 27: 11, 28: 13, 29: 5, 30: 4, 31: 6, 32: 4, 33: 6}
+=========================================================================================================
+
+=========================================================================================================
+Play Number: 35
+
+Speech Act Number Cutoff: 44
+Number of Total Speakers: 23
+
+Best model MultinomialNB(alpha=1.6000000000000001, class_prior=None, fit_prior=True)
+1682 features selected out of 3364 total
+F1 mean: 0.06 (+/- 0.01)
+             precision    recall  f1-score   support
+
+          0       0.39      1.00      0.56       193
+          1       1.00      0.26      0.41        78
+          2       1.00      0.47      0.64        83
+          3       1.00      0.45      0.62       110
+          7       1.00      0.33      0.50        60
+          9       1.00      0.32      0.49        65
+         11       1.00      0.60      0.75       129
+
+avg / total       0.84      0.58      0.59       718
+
+{'DUKE': 0, 'BARNARDINE': 21, 'SERVANT': 16, 'FIRST GENTLEMAN': 4, 'POMPEY': 7, 'MESSENGER': 20, 'ELBOW': 13, 'ISABELLA': 11, 'ESCALUS': 1, 'FRIAR THOMAS': 10, 'CLAUDIO': 8, 'PROVOST': 9, 'PETER': 22, 'MRS OVERDONE': 6, 'JUSTICE': 15, 'SECOND GENTLEMAN': 5, 'ABHORSON': 19, 'JULIET': 17, 'ANGELO': 2, 'LUCIO': 3, 'FROTH': 14, 'MARIANA': 18, 'FRANCISCA': 12}
+
+{0: 193, 1: 78, 2: 83, 3: 110, 4: 14, 5: 8, 6: 15, 7: 60, 8: 35, 9: 65, 10: 3, 11: 129, 12: 2, 13: 28, 14: 8, 15: 3, 16: 3, 17: 7, 18: 24, 19: 13, 20: 1, 21: 7, 22: 6}
+=========================================================================================================
