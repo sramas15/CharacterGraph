@@ -12,28 +12,28 @@ Number of Total Speakers: 23
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.05)
+1827 features selected out of 3655 total
+F1 mean: 0.04 (+/- 0.07)
 /Library/Python/2.7/site-packages/sklearn/metrics/classification.py:960: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples.
   'recall', 'true', average, warn_for)
              precision    recall  f1-score   support
 
-          0       0.14      0.15      0.14        88
-          1       0.06      0.01      0.02       103
-          2       0.14      0.57      0.22        98
-          3       0.22      0.02      0.03       111
-          4       0.67      0.01      0.03       142
+          0       0.00      0.00      0.00        88
+          1       0.14      0.99      0.24       103
+          2       0.00      0.00      0.00        98
+          3       0.00      0.00      0.00       111
+          4       0.00      0.00      0.00       142
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00        88
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00        63
           9       0.00      0.00      0.00         0
-         10       0.07      0.05      0.06        59
+         10       0.00      0.00      0.00        59
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
 
-avg / total       0.21      0.10      0.06       752
+avg / total       0.02      0.14      0.03       752
 
 {'FIRST SOLDIER': 19, 'BERTRAM': 1, 'GENTLEMAN': 22, 'STEWARD': 9, 'HELENA': 3, 'SECOND GENTLEMAN': 14, 'COUNTESS OF ROUSILLON': 0, 'KING OF FRANCE': 6, 'FIRST GENTLEMAN': 15, 'SERVANT': 21, 'FIRST LORD': 7, 'FOURTH LORD': 12, 'CLOWN': 10, 'PAROLLES': 4, 'SECOND SOLDIER': 20, 'SECOND LORD': 8, 'WIDOW': 16, 'ALL': 11, 'DUKE OF FLORENCE': 13, 'MARIANA': 18, 'DIANA': 17, 'LAFEU': 2, 'PAGE': 5}
 
@@ -49,26 +49,26 @@ Number of Total Speakers: 59
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.06)
+1779 features selected out of 3559 total
+F1 mean: 0.03 (+/- 0.16)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
-          1       0.00      0.00      0.00       204
-          2       0.43      0.01      0.03       206
+          1       0.30      0.99      0.46       204
+          2       0.00      0.00      0.00       206
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00         0
-          5       0.04      0.05      0.05        63
+          5       0.00      0.00      0.00        63
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
-          8       0.14      0.06      0.09       111
+          8       1.00      0.01      0.02       111
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
-         13       0.35      0.12      0.18        96
+         13       0.00      0.00      0.00        96
 
-avg / total       0.21      0.04      0.05       680
+avg / total       0.25      0.30      0.14       680
 
 {'FIRST WATCH': 46, 'FIRST SOLDIER': 39, 'CHARMIAN': 5, 'GALLUS': 55, 'VENTIDIUS': 27, 'PHILO': 0, 'SERVANT': 37, 'CLEOPATRA': 1, 'VARRIUS': 19, 'SCARUS': 33, 'POMPEY': 16, 'SOLDIER': 31, 'SILIUS': 28, 'MESSENGER': 3, 'CANIDIUS': 30, 'SOLDIERS': 43, 'CENTURION': 45, 'MAECENAS': 20, 'SECOND ATTENDANT': 11, 'BOTH': 23, 'GUARDSMAN': 57, 'SECOND WATCH': 47, 'FOURTH SOLDIER': 42, 'FIRST ATTENDANT': 10, 'EGYPTIAN': 53, 'THYMUS': 38, 'ENOBARBUS': 8, 'SECOND MESSENGER': 12, 'DIOMEDES': 52, 'CAESAR': 13, 'ALEXAS': 6, 'MENECRATES': 17, 'EUPHRONIUS': 35, 'ANTONY': 2, 'EROS': 29, 'THYREUS': 36, 'MARDIAN': 15, 'SECOND SOLDIER': 40, 'SELEUCUS': 56, 'AGRIPPA': 21, 'TAURUS': 32, 'LEPIDUS': 14, 'OCTAVIA': 22, 'CLOWN': 58, 'FIRST GUARD': 48, 'IRAS': 9, 'SECOND GUARD': 49, 'ALL': 24, 'FIRST SERVANT': 25, 'PROCULEIUS': 54, 'DEMETRIUS': 4, 'DERCETAS': 51, 'SECOND SERVANT': 26, 'THIRD SOLDIER': 41, 'THIRD GUARD': 50, 'SOOTHSAYER': 7, 'CAPTAIN': 44, 'MENAS': 18, 'DOLABELLA': 34}
 
@@ -84,20 +84,20 @@ Number of Total Speakers: 25
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.05 (+/- 0.11)
+1373 features selected out of 2747 total
+F1 mean: 0.03 (+/- 0.09)
 /Library/Python/2.7/site-packages/sklearn/metrics/classification.py:958: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
   'precision', 'predicted', average, warn_for)
              precision    recall  f1-score   support
 
-          0       0.00      0.00      0.00       121
+          0       0.22      0.98      0.35       121
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00         0
-          5       0.20      0.64      0.30       108
+          5       0.00      0.00      0.00       108
           6       0.00      0.00      0.00       199
-          7       0.17      0.03      0.05        74
+          7       0.00      0.00      0.00        74
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
@@ -106,7 +106,7 @@ F1 mean: 0.05 (+/- 0.11)
          13       0.00      0.00      0.00         0
          16       0.00      0.00      0.00        57
 
-avg / total       0.06      0.13      0.06       559
+avg / total       0.05      0.21      0.08       559
 
 {'DUKE SENIOR': 10, 'CELIA': 5, 'FREDERICK': 9, 'ROSALIND': 6, 'LE BEAU': 8, 'JAQUES': 16, 'DENNIS': 3, 'OLIVER': 2, 'CHARLES': 4, 'SECOND PAGE': 22, 'ADAM': 1, 'SILVIUS': 15, 'TOUCHSTONE': 7, 'FIRST LORD': 12, 'HYMEN': 23, 'JAQUES DE BOYS': 24, 'ORLANDO': 0, 'AMIENS': 11, 'PHEBE': 19, 'AUDREY': 17, 'SECOND LORD': 13, 'CORIN': 14, 'MARTEXT': 18, 'WILLIAM': 20, 'FIRST PAGE': 21}
 
@@ -119,28 +119,29 @@ Play Number: 3
 Speech Act Number Cutoff: 30
 Number of Total Speakers: 19
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.05)
+1128 features selected out of 2257 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
-          4       0.22      0.18      0.20       103
+          4       0.00      0.00      0.00       103
           5       0.00      0.00      0.00        99
-          6       0.29      0.14      0.19        63
+          6       0.00      0.00      0.00        63
           7       0.00      0.00      0.00        79
           8       0.00      0.00      0.00        43
           9       0.00      0.00      0.00        76
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
-         12       0.18      0.19      0.18        31
+         12       0.00      0.00      0.00        31
+         13       0.00      0.00      0.00         0
 
-avg / total       0.09      0.07      0.08       494
+avg / total       0.00      0.00      0.00       494
 
 {'ANGELO': 12, 'DUKE': 1, 'COURTEZAN': 15, 'ABBESS': 17, 'DROMIO OF SYRACUSE': 5, 'ANTIPHOLUS OF EPHESUS': 9, 'AEGEON': 0, 'FIRST MERCHANT': 3, 'LUCE': 11, 'MESSENGER': 18, 'DROMIO OF EPHESUS': 6, 'LUCIANA': 8, 'PINCH': 16, 'BALTHAZAR': 10, 'GAOLER': 2, 'SECOND MERCHANT': 13, 'ANTIPHOLUS OF SYRACUSE': 4, 'OFFICER': 14, 'ADRIANA': 7}
 
@@ -156,26 +157,26 @@ Number of Total Speakers: 61
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.04 (+/- 0.07)
+1899 features selected out of 3799 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
-          3       0.42      0.10      0.17       165
+          3       0.00      0.00      0.00       165
           4       0.00      0.00      0.00       193
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
-          7       0.05      0.02      0.02        66
+          7       0.00      0.00      0.00        66
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00       119
          10       0.00      0.00      0.00        91
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
-         13       0.03      0.02      0.02        57
+         13       0.00      0.00      0.00        57
 
-avg / total       0.11      0.03      0.04       691
+avg / total       0.00      0.00      0.00       691
 
 {'FIRST WATCH': 49, 'FIRST SOLDIER': 17, 'SECOND CONSPIRATOR': 53, 'FIRST CITIZEN': 0, 'AEDILE': 40, 'SENATORS': 27, 'THIRD LORD': 60, 'LARTIUS': 8, 'THIRD CITIZEN': 28, 'LIEUTENANT': 22, 'ROMAN': 41, 'COMINIUS': 7, 'MESSENGER': 5, 'CITIZEN': 43, 'FIRST PATRICIAN': 39, 'AUFIDIUS': 11, 'BRUTUS': 10, 'SICINIUS': 9, 'PLEBEIANS': 37, 'SECOND CITIZEN': 2, 'SECOND WATCH': 50, 'VOLSCE': 42, 'HERALD': 24, 'SECOND MESSENGER': 48, 'THIRD CONSPIRATOR': 54, 'FIRST CONSPIRATOR': 52, 'FIRST OFFICER': 25, 'LORDS': 55, 'PATRICIANS': 36, 'SECOND SENATOR': 12, 'FIRST SENATOR': 6, 'VALERIA': 16, 'MENENIUS': 3, 'MARCIUS': 4, 'BOTH': 47, 'THIRD SERVANT': 46, 'VIRGILIA': 14, 'FIRST LORD': 56, 'AEDILES': 38, 'VOLUMNIA': 13, 'SEVENTH CITIZEN': 33, 'SECOND CITIZENS': 34, 'FIRST SERVANT': 44, 'SECOND LORD': 59, 'GENTLEWOMAN': 15, 'BOTH CITIZENS': 31, 'FIRST ROMAN': 19, 'BOTH TRIBUNES': 23, 'ALL': 1, 'SECOND SOLDIER': 18, 'FIFTH CITIZEN': 30, 'BOY': 51, 'SIXTH CITIZEN': 32, 'CITIZENS': 35, 'SECOND SERVANT': 45, 'FOURTH CITIZEN': 29, 'SECOND ROMAN': 20, 'ALL THE PEOPLE': 58, 'THIRD ROMAN': 21, 'SECOND OFFICER': 26, 'CONSPIRATORS': 57}
 
@@ -191,29 +192,29 @@ Number of Total Speakers: 40
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.02 (+/- 0.04)
+2118 features selected out of 4236 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
-          3       0.10      0.55      0.17        78
-          4       0.20      0.01      0.02       121
+          3       1.00      0.01      0.03        78
+          4       0.00      0.00      0.00       121
           5       0.00      0.00      0.00        83
-          6       0.25      0.05      0.08        59
+          6       0.00      0.00      0.00        59
           7       0.00      0.00      0.00         0
-          8       0.12      0.04      0.06        78
+          8       0.00      0.00      0.00        78
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
-         11       0.11      0.04      0.06        77
+         11       0.00      0.00      0.00        77
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
          18       0.00      0.00      0.00        60
          19       0.00      0.00      0.00        59
          20       0.00      0.00      0.00        46
 
-avg / total       0.10      0.08      0.04       661
+avg / total       0.12      0.00      0.00       661
 
 {'FIRST GAOLER': 30, 'PHILARIO': 12, 'PISANIO': 6, 'IACHIMO': 11, 'MUSICIANS': 15, 'MESSENGER': 16, 'SECOND GAOLER': 31, 'GUIDERIUS': 19, 'BOTH': 24, 'CYMBELINE': 5, 'IMOGEN': 4, 'FIRST GENTLEMAN': 0, 'LUCIUS': 17, 'POSTHUMUS': 3, 'JUPITER': 37, 'CAPTAIN': 25, 'MOTHER': 33, 'BELARIUS': 18, 'SECOND SENATOR': 23, 'FRENCHMAN': 13, 'FIRST LORD': 7, 'BROTHERS': 36, 'SECOND BROTHER': 35, 'FIRST BROTHER': 34, 'LORD': 27, 'SECOND GENTLEMAN': 1, 'SECOND LORD': 9, 'FIRST CAPTAIN': 28, 'LADY': 10, 'SICILIUS': 32, 'SECOND CAPTAIN': 29, 'ALL': 38, 'CLOTEN': 8, 'QUEEN': 2, 'FIRST SENATOR': 21, 'ARVIRAGUS': 20, 'TRIBUNE': 22, 'SOOTHSAYER': 26, 'GAOLER': 39, 'CORNELIUS': 14}
 
@@ -226,28 +227,29 @@ Play Number: 6
 Speech Act Number Cutoff: 56
 Number of Total Speakers: 34
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.02 (+/- 0.03)
+2330 features selected out of 4660 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00         0
-          2       0.05      0.04      0.04       108
+          2       0.00      0.00      0.00       108
           3       0.00      0.00      0.00         0
-          4       1.00      0.02      0.04       102
+          4       0.00      0.00      0.00       102
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00        62
-          7       0.06      0.01      0.02        86
-          8       0.42      0.03      0.06       358
-          9       0.08      0.16      0.11        69
+          7       0.00      0.00      0.00        86
+          8       1.00      0.00      0.01       358
+          9       0.00      0.00      0.00        69
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00        58
+         13       0.00      0.00      0.00         0
 
-avg / total       0.32      0.03      0.05       843
+avg / total       0.42      0.00      0.00       843
 
 {'GUILDENSTERN': 16, 'AMBASSADOR': 33, 'SERVANT': 26, 'GENTLEMAN': 24, 'GENTLEMEN': 21, 'SAILOR': 27, 'SECOND CLOWN': 29, 'MESSENGER': 25, 'OSRIC': 31, 'MARCELLUS': 3, 'ROSENCRANTZ': 15, 'VOLTEMAND': 17, 'CAPTAIN': 23, 'PROLOGUE': 20, 'LORD': 32, 'FIRST PLAYER': 18, 'GHOST': 13, 'BOTH': 10, 'HORATIO': 2, 'BERNARDO': 0, 'KING': 4, 'LAERTES': 6, 'CLOWN': 28, 'HAMLET': 8, 'PLAYER': 19, 'POLONIUS': 7, 'ALL': 11, 'FRANCISCO': 1, 'OPHELIA': 12, 'QUEEN': 9, 'FORTINBRAS': 22, 'REYNALDO': 14, 'PRIEST': 30, 'CORNELIUS': 5}
 
@@ -263,8 +265,8 @@ Number of Total Speakers: 33
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.01 (+/- 0.04)
+1534 features selected out of 3068 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
@@ -273,16 +275,16 @@ F1 mean: 0.01 (+/- 0.04)
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00         0
           5       0.00      0.00      0.00       151
-          6       0.25      0.01      0.01       168
+          6       0.00      0.00      0.00       168
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00         0
-          9       0.29      0.19      0.23       101
+          9       0.00      0.00      0.00       101
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
 
-avg / total       0.17      0.05      0.06       420
+avg / total       0.00      0.00      0.00       420
 
 {'HOSTESS': 22, 'SERVANT': 19, 'TRAVELLER': 16, 'DOUGLAS': 27, 'FALSTAFF': 5, 'VERNON': 29, 'MESSENGER': 28, 'HOTSPUR': 9, 'CHAMBERLAIN': 14, 'POINS': 0, 'KING': 3, 'GLENDOWER': 26, 'FIRST CARRIER': 11, 'SHERIFF': 23, 'BLUNT': 10, 'PETO': 1, 'NORTHUMBERLAND': 8, 'WORCESTER': 7, 'WESTMORELAND': 4, 'FRANCIS': 20, 'LANCASTER': 32, 'VINTNER': 21, 'THIEVES': 17, 'LADY': 18, 'PRINCE': 6, 'BARDOPH': 15, 'BARDOLPH': 2, 'ARCHBISHOP': 30, 'MORTIMER': 25, 'CARRIER': 24, 'SIR MICHAEL': 31, 'GADSHILL': 13, 'SECOND CARRIER': 12}
 
@@ -295,11 +297,11 @@ Play Number: 8
 Speech Act Number Cutoff: 45
 Number of Total Speakers: 50
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.01 (+/- 0.04)
+1296 features selected out of 2592 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
@@ -335,11 +337,11 @@ Number of Total Speakers: 47
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.07 (+/- 0.13)
+1501 features selected out of 3002 total
+F1 mean: 0.25 (+/- 0.55)
              precision    recall  f1-score   support
 
-          0       0.41      0.10      0.16       147
+          0       0.45      0.93      0.61       147
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
@@ -356,7 +358,7 @@ F1 mean: 0.07 (+/- 0.13)
          18       0.00      0.00      0.00        40
          20       0.00      0.00      0.00        68
 
-avg / total       0.19      0.05      0.08       317
+avg / total       0.21      0.43      0.28       317
 
 {'FRENCH SOLDIER': 39, 'BEDFORD': 12, 'COURT': 33, 'HOSTESS': 10, 'BOY': 11, 'WARWICK': 41, 'QUEEN ISABEL': 43, 'JAMY': 22, 'CANTERBURY': 3, 'BRITAINE': 27, 'MESSENGER': 19, 'BURGUNDY': 44, 'NYM': 8, 'FLUELLEN': 20, 'BOURBON': 40, 'DAUPHIN': 17, 'LORDS': 45, 'YORK': 38, 'SCROOP': 13, 'GREY': 15, 'GOVERNOR': 24, 'HERALD': 42, 'WESTMORELAND': 2, 'MACMORRIS': 23, 'PISTOL': 9, 'EXETER': 1, 'AMBASSADOR': 5, 'BATES': 34, 'FRENCH KING': 16, 'CONSTABLE': 18, 'ALICE': 26, 'ELY': 4, 'KING HENRY': 0, 'RAMBURES': 31, 'ALL': 46, 'CAMBRIDGE': 14, 'BARDOLPH': 7, 'GRANDPRE': 36, 'ERPINGHAM': 32, 'ORLEANS': 30, 'CHORUS': 6, 'KATHERINE': 25, 'SALISBURY': 37, 'MONTJOY': 28, 'GOWER': 21, 'WILLIAMS': 35, 'GLOUCESTER': 29}
 
@@ -369,15 +371,15 @@ Play Number: 10
 Speech Act Number Cutoff: 32
 Number of Total Speakers: 52
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.02 (+/- 0.04)
+1406 features selected out of 2813 total
+F1 mean: 0.02 (+/- 0.09)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
-          1       0.29      0.19      0.23        47
+          1       0.16      0.91      0.27        47
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00         0
@@ -389,11 +391,12 @@ F1 mean: 0.02 (+/- 0.04)
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00        46
          12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          20       0.00      0.00      0.00        59
          30       0.00      0.00      0.00        56
          31       0.00      0.00      0.00        41
 
-avg / total       0.05      0.03      0.04       290
+avg / total       0.03      0.15      0.04       290
 
 {'BASSET': 43, 'BEDFORD': 0, 'BASTARD': 10, 'GENERAL OF THE FRENCH': 44, 'FIRST SENTINEL': 24, 'LAWYER': 35, 'BOY': 18, 'SERVANT': 47, 'WARWICK': 33, 'ALENCON': 8, 'LUCY': 45, 'TALBOT': 20, 'SOLDIER': 26, 'VERNON': 34, 'MESSENGER': 4, 'GLANSDALE': 22, 'SERGEANT': 23, 'FASTOLFE': 42, 'KING': 38, 'WOODVILLE': 15, 'PLANTAGENET': 30, 'FIRST SOLDIER': 40, 'GARGRAVE': 21, 'CHARLES': 7, 'BURGUNDY': 25, 'FIRST KEEPER': 37, 'SECOND MESSENGER': 5, 'SCOUT': 49, 'SOMERSET': 32, 'JOHN': 46, 'COUNTESS': 28, 'MAYOR': 16, 'PORTER': 29, 'EXETER': 2, 'SHEPHERD': 51, 'THIRD MESSENGER': 6, 'REIGNIER': 9, 'FIRST WARDER': 12, 'PUCELLE': 11, 'ALL': 39, 'CAPTAIN': 27, 'WINCHESTER': 3, 'MARGARET': 50, 'FIRST SERVING MAN': 14, 'WATCH': 41, 'MORTIMER': 36, 'SUFFOLK': 31, 'SALISBURY': 19, 'LEGATE': 48, 'GLOUCESTER': 1, 'SECOND WARDER': 13, 'OFFICER': 17}
 
@@ -406,28 +409,30 @@ Play Number: 11
 Speech Act Number Cutoff: 39
 Number of Total Speakers: 66
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=12, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.05)
+1708 features selected out of 3417 total
+F1 mean: 0.06 (+/- 0.10)
              precision    recall  f1-score   support
 
-          0       0.13      0.07      0.10        67
-          1       0.11      0.06      0.08        82
-          2       0.16      0.66      0.26        61
+          0       0.00      0.00      0.00        67
+          1       0.21      0.98      0.34        82
+          2       0.00      0.00      0.00        61
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00        69
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
-          8       0.75      0.05      0.10        58
+          8       1.00      0.02      0.03        58
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
+         12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          49       0.00      0.00      0.00        61
 
-avg / total       0.18      0.13      0.09       398
+avg / total       0.19      0.20      0.08       398
 
 {'IDEN': 62, 'DICK': 50, 'SHERIFF': 34, 'BOLINGBROKE': 18, 'SMITH': 51, 'COMMONS': 39, 'CLIFFORD': 61, 'BUCKINGHAM': 9, 'FIRST CITIZEN': 59, 'MESSENGER': 12, 'CADE': 49, 'SECOND GENTLEMAN': 45, 'WARWICK': 7, 'SPIRIT': 19, 'LIEUTENANT': 41, 'BOTH': 26, 'SECOND NEIGHBOUR': 28, 'RICHARD': 64, 'YOUNG CLIFFORD': 65, 'WHITMORE': 46, 'SERVING MAN': 32, 'FIRST GENTLEMAN': 42, 'HERALD': 33, 'SECOND MURDERER': 38, 'DUCHESS': 11, 'SECOND MESSENGER': 57, 'SAY': 56, 'EDWARD': 63, 'MASTER': 43, 'TOWNSMAN': 21, 'HORNER': 17, 'STANLEY': 35, 'SOMERSET': 10, 'PETER': 16, 'MAYOR': 24, 'HUME': 13, 'MARGERY JOURDAIN': 20, 'SCALES': 58, 'VAUX': 40, 'BEADLE': 25, 'MICHAEL': 53, 'FIRST PRENTICE': 30, 'FIRST MURDERER': 37, 'FIRST NEIGHBOUR': 27, 'SECOND PETITIONER': 15, 'YORK': 8, 'FIRST PETITIONER': 14, 'POST': 36, 'GEORGE': 47, 'WILLIAM STAFFORD': 55, 'STAFFORD': 54, 'SOLDIER': 60, 'ALL': 3, 'JOHN': 48, 'WIFE': 23, 'CLERK': 52, 'QUEEN': 2, 'SUFFOLK': 0, 'SECOND PRENTICE': 31, 'MATE': 44, 'CARDINAL': 5, 'SALISBURY': 6, 'SIMPCOX': 22, 'GLOUCESTER': 4, 'THIRD NEIGHBOUR': 29, 'KING HENRY': 1}
 
@@ -443,27 +448,27 @@ Number of Total Speakers: 44
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.04 (+/- 0.06)
+1642 features selected out of 3284 total
+F1 mean: 0.04 (+/- 0.08)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00       100
           1       0.00      0.00      0.00         0
-          2       0.00      0.00      0.00       134
+          2       1.00      0.01      0.01       134
           3       0.00      0.00      0.00         0
-          4       0.13      0.04      0.06       108
+          4       0.00      0.00      0.00       108
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00        71
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
-         11       0.07      0.11      0.09        53
+         11       0.00      0.00      0.00        53
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
          17       0.00      0.00      0.00        40
 
-avg / total       0.04      0.02      0.02       506
+avg / total       0.26      0.00      0.00       506
 
 {'RICHARD': 4, 'FIRST MESSENGER': 41, 'MONTAGUE': 3, 'TUTOR': 16, 'MESSENGER': 13, 'WARWICK': 0, 'RUTLAND': 15, 'MONTGOMERY': 38, 'NOBLEMAN': 23, 'QUEEN ELIZABETH': 30, 'SECOND MESSENGER': 42, 'PRINCE OF WALES': 12, 'NORTHUMBERLAND': 7, 'FATHER': 19, 'SON': 18, 'FIRST KEEPER': 20, 'SIR JOHN': 14, 'WESTMORELAND': 9, 'BONA': 26, 'MAYOR': 37, 'EXETER': 10, 'NORFOLK': 5, 'CLARENCE': 17, 'LADY GREY': 22, 'HUNTSMAN': 35, 'SECOND WATCHMAN': 32, 'FIRST WATCHMAN': 31, 'YORK': 1, 'OXFORD': 25, 'POST': 27, 'RIVERS': 34, 'SOMERVILLE': 43, 'SOMERSET': 28, 'CLIFFORD': 8, 'ALL': 40, 'LIEUTENANT': 36, 'QUEEN MARGARET': 11, 'THIRD WATCHMAN': 33, 'EDWARD': 2, 'LEWIS': 24, 'SOLDIER': 39, 'HASTINGS': 29, 'SECOND KEEPER': 21, 'KING HENRY': 6}
 
@@ -479,19 +484,19 @@ Number of Total Speakers: 46
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.01 (+/- 0.02)
+1417 features selected out of 2834 total
+F1 mean: 0.04 (+/- 0.11)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00        48
           2       0.00      0.00      0.00         0
-          3       0.24      0.60      0.35        81
+          3       0.00      0.00      0.00        81
           4       0.00      0.00      0.00         0
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00        82
-          8       0.00      0.00      0.00        50
+          8       1.00      0.02      0.04        50
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00        39
          11       0.00      0.00      0.00         0
@@ -499,7 +504,7 @@ F1 mean: 0.01 (+/- 0.02)
          13       0.00      0.00      0.00         0
          17       0.00      0.00      0.00        37
 
-avg / total       0.06      0.15      0.08       337
+avg / total       0.15      0.00      0.01       337
 
 {'BOY': 36, 'SERVANT': 15, 'GARTER': 45, 'ABERGAVENNY': 2, 'GENTLEMAN': 27, 'BRANDON': 5, 'BUCKINGHAM': 0, 'MESSENGER': 34, 'CAPUCIUS': 35, 'CHAMBERLAIN': 10, 'SECRETARY': 4, 'KING': 7, 'QUEEN KATHARINE': 8, 'FIRST GENTLEMAN': 16, 'BUTTS': 40, 'CRIER': 24, 'CRANMER': 38, 'GENTLEMAN USHER': 25, 'ANNE': 14, 'CROMWELL': 29, 'PORTER': 43, 'OLD LADY': 22, 'SURREY': 28, 'LINCOLN': 26, 'NORFOLK': 1, 'BOTH': 31, 'VAUX': 18, 'CHANCELLOR': 41, 'GARDINER': 21, 'SURVEYOR': 9, 'KEEPER': 39, 'SECOND GENTLEMAN': 17, 'DENNY': 37, 'SCRIBE': 23, 'GRIFFITH': 32, 'WOLSEY': 3, 'ALL': 42, 'SANDYS': 11, 'PATIENCE': 33, 'CAMPEIUS': 20, 'LOVELL': 12, 'SUFFOLK': 19, 'SERGEANT': 6, 'THIRD GENTLEMAN': 30, 'GUILDFORD': 13, 'MAN': 44}
 
@@ -512,14 +517,14 @@ Play Number: 14
 Speech Act Number Cutoff: 27
 Number of Total Speakers: 27
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=11, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.04 (+/- 0.08)
+1569 features selected out of 3139 total
+F1 mean: 0.06 (+/- 0.14)
              precision    recall  f1-score   support
 
-          0       0.34      0.27      0.30        95
+          0       0.27      0.97      0.42        95
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
@@ -527,14 +532,16 @@ F1 mean: 0.04 (+/- 0.08)
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
-          8       0.15      0.64      0.24        45
+          8       0.00      0.00      0.00        45
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
-         11       0.00      0.00      0.00        36
+         11       1.00      0.03      0.05        36
+         12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          17       0.00      0.00      0.00        36
          19       0.00      0.00      0.00        52
 
-avg / total       0.11      0.16      0.11       352
+avg / total       0.18      0.26      0.12       352
 
 {'BASTARD': 4, 'FRENCH HERALD': 14, 'BIGOT': 24, 'PANDULPH': 18, 'MESSENGER': 22, 'HUBERT': 19, 'CITIZEN': 13, 'GURNEY': 7, 'EXECUTIONER': 20, 'PEMBROKE': 21, 'ENGLISH HERALD': 15, 'LEWIS': 16, 'ROBERT': 5, 'ESSEX': 3, 'KING PHILIP': 8, 'ARTHUR': 9, 'KING JOHN': 0, 'AUSTRIA': 10, 'MELUN': 25, 'PRINCE HENRY': 26, 'CONSTANCE': 11, 'BLANCH': 12, 'ELINOR': 2, 'PETER': 23, 'CHATILLON': 1, 'SALISBURY': 17, 'LADY FAULCONBRIDGE': 6}
 
@@ -550,26 +557,26 @@ Number of Total Speakers: 48
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.01 (+/- 0.02)
+1374 features selected out of 2749 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
-          4       0.00      0.00      0.00        40
-          5       0.25      0.03      0.05        39
+          4       1.00      0.03      0.05        40
+          5       0.00      0.00      0.00        39
           6       0.00      0.00      0.00         0
-          7       0.09      0.49      0.15        51
+          7       1.00      0.02      0.04        51
           8       0.00      0.00      0.00         0
-          9       1.00      0.01      0.01       194
-         10       0.50      0.09      0.15       138
+          9       0.00      0.00      0.00       194
+         10       1.00      0.01      0.01       138
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
 
-avg / total       0.60      0.08      0.07       462
+avg / total       0.50      0.01      0.01       462
 
 {'PORTIA': 17, 'FIRST CITIZEN': 24, 'MARULLUS': 2, 'FIRST SOLDIER': 33, 'SERVANT': 19, 'MESSENGER': 42, 'VARRO': 39, 'THIRD SOLDIER': 35, 'FOURTH CITIZEN': 28, 'DECIUS': 14, 'MESSALA': 37, 'BRUTUS': 9, 'FIRST COMMONER': 1, 'CASCA': 5, 'SECOND CITIZEN': 25, 'TITINIUS': 38, 'LIGARIUS': 18, 'CICERO': 11, 'CLAUDIO': 41, 'LUCIUS': 13, 'PINDARUS': 32, 'CAESAR': 4, 'LUCILIUS': 31, 'ANTONY': 7, 'SECOND COMMONER': 3, 'DARDANIUS': 45, 'GHOST': 40, 'STRATO': 47, 'VOLUMNIUS': 46, 'CASSIUS': 10, 'CALPURNIA': 6, 'LEPIDUS': 30, 'PUBLIUS': 20, 'FLAVIUS': 0, 'OCTAVIUS': 29, 'THIRD CITIZEN': 26, 'METELLUS': 15, 'ALL': 27, 'SECOND SOLDIER': 34, 'CINNA': 12, 'CLITUS': 44, 'CITIZENS': 23, 'ARTEMIDORUS': 21, 'CATO': 43, 'TREBONIUS': 16, 'POPILIUS': 22, 'POET': 36, 'SOOTHSAYER': 8}
 
@@ -582,30 +589,30 @@ Play Number: 16
 Speech Act Number Cutoff: 53
 Number of Total Speakers: 22
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.04 (+/- 0.04)
+852 features selected out of 1705 total
+F1 mean: 0.03 (+/- 0.04)
              precision    recall  f1-score   support
 
-          0       0.25      0.13      0.17       127
-          1       0.11      0.40      0.17       118
+          0       0.14      0.98      0.25       127
+          1       0.00      0.00      0.00       118
           2       0.00      0.00      0.00        79
-          3       0.15      0.04      0.07       188
-          4       0.07      0.08      0.07        53
+          3       0.00      0.00      0.00       188
+          4       0.00      0.00      0.00        53
           5       0.00      0.00      0.00         0
-          6       0.11      0.07      0.08        73
+          6       0.00      0.00      0.00        73
           7       0.00      0.00      0.00        57
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00         0
-         10       0.06      0.03      0.04        98
+         10       0.00      0.00      0.00        98
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00        58
          16       0.00      0.00      0.00        53
 
-avg / total       0.10      0.09      0.08       904
+avg / total       0.02      0.14      0.03       904
 
 {'OLD MAN': 17, 'CORNWALL': 16, 'MESSENGER': 19, 'ALBANY': 7, 'DOCTOR': 18, 'CORDELIA': 5, 'BURGUNDY': 8, 'HERALD': 21, 'CURAN': 15, 'EDMUND': 2, 'FOOL': 13, 'GENTLEMAN': 14, 'EDGAR': 10, 'GONERIL': 4, 'OSWALD': 11, 'REGAN': 6, 'KNIGHT': 12, 'FRANCE': 9, 'LEAR': 3, 'KENT': 0, 'CAPTAIN': 20, 'GLOUCESTER': 1}
 
@@ -618,30 +625,31 @@ Play Number: 17
 Speech Act Number Cutoff: 52
 Number of Total Speakers: 19
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.04)
+1971 features selected out of 3943 total
+F1 mean: 0.03 (+/- 0.05)
              precision    recall  f1-score   support
 
-          0       0.12      0.03      0.04       114
+          0       0.00      0.00      0.00       114
           1       0.00      0.00      0.00         0
-          2       0.00      0.00      0.00        53
-          3       0.50      0.04      0.08       159
+          2       0.06      1.00      0.11        53
+          3       0.00      0.00      0.00       159
           4       0.00      0.00      0.00         0
-          5       0.00      0.00      0.00        83
-          6       0.00      0.00      0.00       102
+          5       1.00      0.01      0.02        83
+          6       1.00      0.01      0.02       102
           7       0.00      0.00      0.00        77
           8       0.00      0.00      0.00         0
-          9       0.20      0.01      0.02        79
-         10       0.24      0.08      0.12       104
+          9       1.00      0.01      0.02        79
+         10       0.00      0.00      0.00       104
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          14       0.00      0.00      0.00        66
          17       0.00      0.00      0.00        54
 
-avg / total       0.15      0.02      0.04       891
+avg / total       0.30      0.06      0.01       891
 
 {'KING': 0, 'MARCADE': 18, 'FIRST LORD': 11, 'MOTH': 7, 'PRINCESS OF FRANCE': 10, 'FORESTER': 15, 'NATHANIEL': 16, 'BOYET': 9, 'JAQUENETTA': 8, 'KATHARINE': 13, 'ROSALINE': 14, 'HOLOFERNES': 17, 'ARMADO': 6, 'BEROWNE': 3, 'DUMAIN': 2, 'COSTARD': 5, 'MARIA': 12, 'DULL': 4, 'LONGAVILLE': 1}
 
@@ -657,8 +665,8 @@ Number of Total Speakers: 42
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.01 (+/- 0.02)
+1457 features selected out of 2915 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
@@ -666,18 +674,18 @@ F1 mean: 0.01 (+/- 0.02)
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00         0
-          5       0.33      0.08      0.13        37
+          5       0.00      0.00      0.00        37
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00        39
           9       0.00      0.00      0.00       148
-         10       0.11      0.12      0.11        33
+         10       0.00      0.00      0.00        33
          11       0.00      0.00      0.00         0
-         12       0.20      0.03      0.06        62
+         12       0.00      0.00      0.00        62
          13       0.00      0.00      0.00         0
          16       0.00      0.00      0.00        59
 
-avg / total       0.07      0.02      0.03       378
+avg / total       0.00      0.00      0.00       378
 
 {'DONALBAIN': 17, 'SERVANT': 22, 'OLD MAN': 18, 'THIRD WITCH': 2, 'MESSENGER': 13, 'SOLDIERS': 40, 'MENTEITH': 36, 'SECOND MURTHERER': 21, 'LORDS': 24, 'LENNOX': 7, 'MACDUFF': 16, 'SECOND APPARITION': 29, 'DOCTOR': 34, 'MALCOLM': 5, 'MURTHERER': 25, 'LADY MACBETH': 12, 'SON': 33, 'SIWARD': 39, 'BANQUO': 10, 'FIRST WITCH': 0, 'LORD': 27, 'FIRST APPARITION': 28, 'PORTER': 15, 'SERGEANT': 6, 'LADY MACDUFF': 32, 'YOUNG SIWARD': 41, 'THIRD': 31, 'ANGUS': 11, 'CAITHNESS': 37, 'GENTLEWOMAN': 35, 'THIRD APPARITION': 30, 'ALL': 3, 'FLEANCE': 14, 'DUNCAN': 4, 'HECATE': 26, 'MACBETH': 9, 'THIRD MURTHERER': 23, 'FIRST MURTHERER': 20, 'SECOND WITCH': 1, 'ATTENDANT': 19, 'SEYTON': 38, 'ROSS': 8}
 
@@ -690,28 +698,29 @@ Play Number: 19
 Speech Act Number Cutoff: 31
 Number of Total Speakers: 24
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.05)
+1627 features selected out of 3255 total
+F1 mean: 0.02 (+/- 0.05)
              precision    recall  f1-score   support
 
-          0       0.07      0.04      0.05        48
-          1       0.02      0.03      0.02        31
+          0       0.09      1.00      0.17        48
+          1       0.00      0.00      0.00        31
           2       0.00      0.00      0.00         0
-          3       0.20      0.05      0.09        74
-          4       0.12      0.19      0.14        48
+          3       0.00      0.00      0.00        74
+          4       0.00      0.00      0.00        48
           5       0.00      0.00      0.00        48
           6       0.00      0.00      0.00       117
-          7       0.09      0.75      0.15        36
+          7       0.00      0.00      0.00        36
           8       0.00      0.00      0.00         0
-          9       0.33      0.01      0.02        79
+          9       0.00      0.00      0.00        79
          10       0.00      0.00      0.00         0
-         11       0.22      0.05      0.08        44
+         11       0.00      0.00      0.00        44
          12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
 
-avg / total       0.12      0.09      0.05       525
+avg / total       0.01      0.09      0.02       525
 
 {'PORTIA': 6, 'SOLANIO': 2, 'SERVANT': 16, 'ARRAGON': 15, 'ANTONIO': 0, 'LAUNCELOT': 11, 'NERISSA': 7, 'JESSICA': 14, 'GRATIANO': 5, 'GOBBO': 12, 'SHYLOCK': 9, 'STEPHANO': 23, 'DUKE OF VENICE': 21, 'SERVINGMAN': 8, 'LORENZO': 4, 'PRINCE OF MOROCCO': 10, 'SALERIO': 1, 'ALL': 19, 'CLERK': 22, 'BASSANIO': 3, 'BALTHASAR': 20, 'TUBAL': 18, 'LEONARDO': 13, 'MAN': 17}
 
@@ -727,29 +736,29 @@ Number of Total Speakers: 27
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.02 (+/- 0.04)
+1500 features selected out of 3000 total
+F1 mean: 0.02 (+/- 0.05)
              precision    recall  f1-score   support
 
-          0       0.09      0.05      0.07        59
-          1       0.06      0.39      0.10        56
+          0       0.08      1.00      0.14        59
+          1       0.00      0.00      0.00        56
           2       0.00      0.00      0.00        87
           3       0.00      0.00      0.00        74
-          4       0.00      0.00      0.00       135
+          4       1.00      0.01      0.01       135
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
-         11       0.07      0.08      0.08        71
+         11       0.00      0.00      0.00        71
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
          15       0.00      0.00      0.00       104
          16       0.00      0.00      0.00        86
          17       0.00      0.00      0.00        98
 
-avg / total       0.02      0.04      0.02       770
+avg / total       0.18      0.08      0.01       770
 
 {'SIMPLE': 8, 'PUCK': 25, 'QUICKLY': 11, 'FALSTAFF': 4, 'NYM': 7, 'ROBIN': 18, 'CAIUS': 13, 'EVANS': 2, 'SHALLOW': 0, 'MRS FORD': 16, 'SERVANT': 20, 'FENTON': 14, 'ANNE': 9, 'PISTOL': 6, 'RUGBY': 12, 'SLENDER': 1, 'FORD': 17, 'HOST': 10, 'FAIRY QUEEN': 24, 'THE SONG': 26, 'ALL': 19, 'FIRST SERVANT': 22, 'MRS PAGE': 15, 'BARDOLPH': 5, 'SECOND SERVANT': 23, 'WILLIAM': 21, 'PAGE': 3}
 
@@ -762,29 +771,31 @@ Play Number: 21
 Speech Act Number Cutoff: 25
 Number of Total Speakers: 33
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=12, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.01 (+/- 0.03)
+1430 features selected out of 2860 total
+F1 mean: 0.02 (+/- 0.07)
              precision    recall  f1-score   support
 
-          0       0.08      0.04      0.05        48
+          0       0.00      0.00      0.00        48
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00        48
           4       0.00      0.00      0.00        48
           5       0.00      0.00      0.00        51
-          6       0.11      0.11      0.11        37
-          7       0.12      0.05      0.07        38
+          6       0.00      0.00      0.00        37
+          7       0.00      0.00      0.00        38
           8       0.00      0.00      0.00        50
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
+         12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          14       0.00      0.00      0.00        33
          16       0.00      0.00      0.00        29
 
-avg / total       0.03      0.02      0.02       382
+avg / total       0.00      0.00      0.00       382
 
 {'MOTH': 23, 'PEASEBLOSSOM': 21, 'PUCK': 14, 'EGEUS': 2, 'HELENA': 6, 'SNUG': 12, 'STARVELING': 10, 'FAIRY': 15, 'BOTTOM': 8, 'HERMIA': 3, 'FLUTE': 9, 'MUSTARDSEED': 24, 'WALL': 27, 'PROLOGUE': 26, 'QUINCE': 7, 'THESEUS': 0, 'THISBY': 29, 'TITANIA': 17, 'SNOUT': 11, 'LYSANDER': 5, 'COBWEB': 22, 'SECOND FAIRY': 20, 'MOONSHINE': 31, 'PYRAMUS': 28, 'ALL': 13, 'DEMETRIUS': 4, 'LION': 30, 'MOON': 32, 'CHORUS': 19, 'FIRST FAIRY': 18, 'HIPPOLYTA': 1, 'PHILOSTRATE': 25, 'OBERON': 16}
 
@@ -800,16 +811,16 @@ Number of Total Speakers: 22
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.05)
+1334 features selected out of 2668 total
+F1 mean: 0.06 (+/- 0.05)
              precision    recall  f1-score   support
 
-          0       0.12      0.02      0.03       121
+          0       0.18      0.98      0.31       121
           1       0.00      0.00      0.00         0
-          2       0.28      0.05      0.08       107
+          2       0.00      0.00      0.00       107
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00       133
-          5       0.19      0.58      0.29       132
+          5       1.00      0.01      0.02       132
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00       125
           8       0.00      0.00      0.00         0
@@ -820,7 +831,7 @@ F1 mean: 0.03 (+/- 0.05)
          13       0.00      0.00      0.00         0
          15       0.00      0.00      0.00        52
 
-avg / total       0.10      0.12      0.07       670
+avg / total       0.23      0.18      0.06       670
 
 {'FIRST WATCH': 17, 'BOY': 14, 'BEATRICE': 2, 'VERGES': 16, 'ANTONIO': 8, 'MARGARET': 12, 'LEONATO': 0, 'MESSENGER': 1, 'BOTH': 21, 'DOGBERRY': 15, 'CLAUDIO': 7, 'SECOND WATCH': 18, 'SEXTON': 20, 'JOHN': 6, 'BALTHASAR': 11, 'PEDRO': 4, 'HERO': 3, 'BORACHIO': 10, 'FRIAR': 19, 'URSULA': 13, 'CONRADE': 9, 'BENEDICK': 5}
 
@@ -833,18 +844,18 @@ Play Number: 23
 Speech Act Number Cutoff: 59
 Number of Total Speakers: 26
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=12, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.04)
+1936 features selected out of 3872 total
+F1 mean: 0.04 (+/- 0.12)
              precision    recall  f1-score   support
 
-          0       0.06      0.66      0.12        59
+          0       0.06      0.98      0.11        59
           1       0.00      0.00      0.00       272
           2       0.00      0.00      0.00         0
-          3       0.31      0.01      0.03       275
-          4       0.14      0.03      0.05       110
+          3       0.00      0.00      0.00       275
+          4       0.00      0.00      0.00       110
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
@@ -853,9 +864,10 @@ F1 mean: 0.03 (+/- 0.04)
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00       166
+         13       0.00      0.00      0.00         0
          18       0.00      0.00      0.00       103
 
-avg / total       0.10      0.05      0.02       985
+avg / total       0.00      0.06      0.01       985
 
 {'RODERIGO': 0, 'DUKE': 6, 'GENTLEMEN': 22, 'SAILOR': 9, 'CASSIO': 4, 'BRABANTIO': 2, 'FOURTH GENTLEMAN': 17, 'FIRST GENTLEMAN': 14, 'GRATIANO': 25, 'HERALD': 19, 'FIRST MUSICIAN': 21, 'FIRST OFFICER': 5, 'DESDEMONA': 12, 'SECOND SENATOR': 8, 'FIRST SENATOR': 7, 'LODOVICO': 24, 'CLOWN': 20, 'IAGO': 1, 'MESSENGER': 10, 'SECOND GENTLEMAN': 15, 'BIANCA': 23, 'ALL': 11, 'THIRD GENTLEMAN': 16, 'OTHELLO': 3, 'EMILIA': 18, 'MONTANO': 13}
 
@@ -871,28 +883,28 @@ Number of Total Speakers: 36
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.06)
+1697 features selected out of 3395 total
+F1 mean: 0.05 (+/- 0.11)
              precision    recall  f1-score   support
 
-          0       0.25      0.01      0.02        98
-          1       0.11      0.07      0.09        28
+          0       1.00      0.01      0.02        98
+          1       0.07      0.93      0.13        28
           2       0.00      0.00      0.00        89
           3       0.00      0.00      0.00         0
           4       0.00      0.00      0.00         0
           5       0.00      0.00      0.00         0
-          6       0.04      0.03      0.03        38
+          6       0.00      0.00      0.00        38
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
-         12       0.00      0.00      0.00        54
+         12       1.00      0.02      0.04        54
          13       0.00      0.00      0.00         0
          14       0.00      0.00      0.00        38
          32       0.00      0.00      0.00        28
 
-avg / total       0.08      0.01      0.01       373
+avg / total       0.41      0.08      0.02       373
 
 {'SERVANT': 27, 'BOLINGBROKE': 2, 'GARDENER': 26, 'AUMERLE': 6, 'BERKELEY': 20, 'DUCHESS OF YORK': 32, 'MARSHAL': 5, 'DUCHESS OF GLOUCESTER': 4, 'CARLISLE': 23, 'EXTON': 33, 'MOWBRAY': 3, 'NORTHUMBERLAND': 14, 'SCROOP': 24, 'PERCY': 19, 'FITZWATER': 28, 'ABBOT': 31, 'SECOND HERALD': 8, 'SURREY': 30, 'GROOM': 34, 'SERVINGMAN': 17, 'GAUNT': 1, 'WILLOUGHBY': 16, 'YORK': 12, 'KEEPER': 35, 'LADY': 25, 'ANOTHER LORD': 29, 'ALL': 11, 'QUEEN': 13, 'KING RICHARD': 0, 'SALISBURY': 22, 'GREEN': 9, 'BAGOT': 18, 'CAPTAIN': 21, 'FIRST HERALD': 7, 'BUSHY': 10, 'ROSS': 15}
 
@@ -908,11 +920,11 @@ Number of Total Speakers: 70
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.04)
+1547 features selected out of 3095 total
+F1 mean: 0.21 (+/- 0.31)
              precision    recall  f1-score   support
 
-          0       1.00      0.01      0.01       295
+          0       0.61      0.98      0.75       295
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
@@ -923,11 +935,11 @@ F1 mean: 0.03 (+/- 0.04)
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00        96
          10       0.00      0.00      0.00         0
-         11       0.00      0.00      0.00        91
+         11       1.00      0.01      0.02        91
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
 
-avg / total       0.61      0.00      0.01       482
+avg / total       0.56      0.60      0.47       482
 
 {'FIRST CITIZEN': 26, 'DAUGHTER OF CLARENCE': 24, 'PURSUIVANT': 35, 'SHERIFF': 51, 'BOTH MURDERERS': 20, 'LOVEL': 41, 'GHOST OF GREY': 62, 'HERBERT': 54, 'GENTLEMEN': 6, 'BUCKINGHAM': 11, 'GHOST OF ANNE': 67, 'MESSENGER': 31, 'BRAKENBURY': 2, 'DUCHESS OF YORK': 23, 'NORFOLK': 57, 'GHOST OF PRINCE EDWARD': 58, 'DORSET': 14, 'GHOST OF VAUGHAN': 63, 'RATCLIFF': 38, 'SON OF CLARENCE': 22, 'RICHMOND': 52, 'SECOND CITIZEN': 27, 'GHOST OF HASTINGS': 65, 'GHOST OF RIVERS': 61, 'SECOND MESSENGER': 47, 'CATESBY': 15, 'ARCHBISHOP OF YORK': 29, 'GHOSTS OF YOUNG PRINCES': 66, 'FIRST GENTLEMAN': 5, 'GREY': 8, 'SECOND MURDERER': 19, 'DUCHESS': 46, 'KING EDWARD': 21, 'TYRREL': 45, 'QUEEN ELIZABETH': 9, 'THIRD MESSENGER': 48, 'OXFORD': 53, 'STANLEY': 12, 'ANNE': 4, 'BISHOP OF ELY': 40, 'GHOST OF CLARENCE': 60, 'MAYOR': 33, 'HASTINGS': 3, 'SURREY': 56, 'URSWICK': 50, 'CLARENCE': 1, 'LORDS': 69, 'SCRIVENER': 42, 'CHILDREN OF CLARENCE': 25, 'RIVERS': 7, 'FIRST MURDERER': 18, 'YORK': 30, 'DERBY': 39, 'KEEPER': 17, 'GHOSTS': 64, 'RIVER': 10, 'BLUNT': 55, 'THIRD CITIZEN': 28, 'FOURTH MESSENGER': 49, 'ALL': 43, 'GHOST OF BUCKINGHAM': 68, 'QUEEN MARGARET': 13, 'GHOST OF HENRY THE SIXTH': 59, 'PRIEST': 36, 'CARDINAL': 34, 'PRINCE OF WALES': 32, 'VAUGHAN': 37, 'PAGE': 44, 'MURDERERS': 16, 'GLOUCESTER': 0}
 
@@ -943,8 +955,8 @@ Number of Total Speakers: 37
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.00 (+/- 0.01)
+1924 features selected out of 3849 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
@@ -960,13 +972,13 @@ F1 mean: 0.00 (+/- 0.01)
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
-         13       0.12      0.07      0.09       163
+         13       0.00      0.00      0.00       163
          16       0.00      0.00      0.00        91
          17       0.00      0.00      0.00       117
          18       0.00      0.00      0.00        62
          23       0.00      0.00      0.00        56
 
-avg / total       0.03      0.02      0.02       647
+avg / total       0.00      0.00      0.00       647
 
 {'BOY': 33, 'SAMPSON': 1, 'TYBALT': 5, 'LADY CAPULET': 9, 'MONTAGUE': 10, 'APOTHECARY': 30, 'NURSE': 16, 'ABRAM': 3, 'CAPULET': 8, 'SECOND WATCH': 35, 'ROMEO': 13, 'SECOND MUSICIAN': 27, 'FIRST MUSICIAN': 26, 'THIRD WATCH': 36, 'FRIAR JOHN': 31, 'PETER': 24, 'LADY MONTAGUE': 11, 'MERCUTIO': 18, 'THIRD MUSICIAN': 28, 'PARIS': 14, 'THIRD SERVANT': 21, 'FRIAR LAURENCE': 23, 'FELLOW': 25, 'OFFICER': 6, 'GREGORY': 2, 'PRINCE': 12, 'JULIET': 17, 'SERVINGMAN': 15, 'FIRST SERVANT': 19, 'CHIEF WATCH': 34, 'CITIZENS': 7, 'SECOND SERVANT': 20, 'OTHER CAPULET': 22, 'CHORUS': 0, 'BALTHASAR': 29, 'PAGE': 32, 'BENVOLIO': 4}
 
@@ -979,10 +991,10 @@ Play Number: 27
 Speech Act Number Cutoff: 41
 Number of Total Speakers: 34
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
+1382 features selected out of 2764 total
 F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
@@ -1021,31 +1033,30 @@ Play Number: 28
 Speech Act Number Cutoff: 32
 Number of Total Speakers: 19
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.02 (+/- 0.04)
+1623 features selected out of 3246 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00         0
-          2       0.07      0.55      0.13        40
+          2       0.00      0.00      0.00        40
           3       0.00      0.00      0.00        59
-          4       0.00      0.00      0.00        52
-          5       0.04      0.03      0.03        67
+          4       0.09      0.98      0.17        52
+          5       0.00      0.00      0.00        67
           6       0.00      0.00      0.00         0
-          7       0.14      0.02      0.03        51
-          8       0.38      0.03      0.05       113
-          9       0.10      0.02      0.04        47
-         10       0.09      0.04      0.05        50
+          7       0.00      0.00      0.00        51
+          8       0.00      0.00      0.00       113
+          9       0.00      0.00      0.00        47
+         10       0.00      0.00      0.00        50
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
-         13       0.00      0.00      0.00         0
          14       0.00      0.00      0.00        39
          15       0.00      0.00      0.00        60
 
-avg / total       0.11      0.05      0.03       578
+avg / total       0.01      0.09      0.01       578
 
 {'IRIS': 16, 'CALIBAN': 10, 'JUNO': 18, 'ADRIAN': 12, 'ALONSO': 2, 'CERES': 17, 'GONZALO': 4, 'ANTONIO': 3, 'PROSPERO': 8, 'FRANCISCO': 13, 'MASTER': 0, 'STEPHANO': 15, 'MIRANDA': 7, 'MARINERS': 6, 'BOATSWAIN': 1, 'FERDINAND': 11, 'SEBASTIAN': 5, 'TRINCULO': 14, 'ARIEL': 9}
 
@@ -1058,27 +1069,30 @@ Play Number: 29
 Speech Act Number Cutoff: 37
 Number of Total Speakers: 58
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=11, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.01 (+/- 0.04)
+1386 features selected out of 2772 total
+F1 mean: 0.00 (+/- 0.00)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
           3       0.00      0.00      0.00         0
-          4       0.50      0.02      0.05       210
+          4       1.00      0.00      0.01       210
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00       100
-          9       0.07      0.11      0.08        38
+          9       0.00      0.00      0.00        38
          10       0.00      0.00      0.00         0
+         11       0.00      0.00      0.00         0
+         12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          18       0.00      0.00      0.00        40
 
-avg / total       0.28      0.02      0.03       388
+avg / total       0.54      0.00      0.01       388
 
 {'ALL SERVANTS': 25, 'SERVILIUS': 35, 'VENTIDIUS': 12, 'ALCIBIADES': 9, 'SERVANT': 14, 'THIRD LORD': 13, 'CUPID': 15, 'FIRST BANDIT': 51, 'SENATORS': 57, 'MESSENGER': 5, 'LUCULLIUS': 31, 'JEWELLER': 3, 'TIMANDRA': 49, 'LORDS': 22, 'FLAMINIUS': 29, 'FIRST LADY': 16, 'SECOND STRANGER': 34, 'PHRYNIA AND TIMANDRA': 50, 'LUCIUS': 32, 'FIRST SENATOR': 41, 'SERVANTS': 28, 'SECOND BANDIT': 52, 'LUCILIUS': 7, 'SECOND SENATOR': 42, 'HORTENSIUS': 39, 'PAINTER': 1, 'LUCULLUS': 30, 'MERCHANT': 2, 'FIRST LORD': 10, 'LADIES': 17, 'THIRD STRANGER': 36, 'FOURTH LORD': 46, 'THIRD BANDIT': 53, 'THIRD SERVANT': 21, 'TITUS': 38, 'THIRD SENATOR': 43, 'APEMANTUS': 8, 'BANDITTI': 54, 'FLAVIUS': 18, 'ATTENDANTS': 45, 'SENATOR': 23, 'SECOND LORD': 11, 'PHRYNIA': 48, 'TIMON': 4, 'ALL': 19, 'FIRST SERVANT': 47, 'SOLDIER': 56, 'BOTH': 55, 'FOOL': 26, 'SECOND SERVANT': 20, 'PAGE': 27, 'PHILOTUS': 40, 'CAPHIS': 24, 'FIRST STRANGER': 33, 'POET': 0, 'SEMPRONIUS': 37, 'OLD ATHENIAN': 6, 'FIRST AND SECOND LORDS': 44}
 
@@ -1091,28 +1105,30 @@ Play Number: 30
 Speech Act Number Cutoff: 28
 Number of Total Speakers: 27
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=12, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
+1747 features selected out of 3494 total
 F1 mean: 0.02 (+/- 0.04)
              precision    recall  f1-score   support
 
-          0       0.10      0.62      0.17        48
+          0       0.00      0.00      0.00        48
           1       0.00      0.00      0.00         0
-          2       1.00      0.02      0.03        65
+          2       0.00      0.00      0.00        65
           3       0.00      0.00      0.00         0
-          4       0.33      0.01      0.02       118
-          5       0.32      0.12      0.17        51
-          6       0.18      0.04      0.07        49
-          7       0.04      0.07      0.05        30
+          4       0.00      0.00      0.00       118
+          5       0.00      0.00      0.00        51
+          6       0.00      0.00      0.00        49
+          7       0.00      0.00      0.00        30
           8       0.00      0.00      0.00        39
           9       0.00      0.00      0.00         0
          10       0.00      0.00      0.00         0
          11       0.00      0.00      0.00         0
+         12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          15       0.00      0.00      0.00        57
 
-avg / total       0.30      0.09      0.06       457
+avg / total       0.00      0.00      0.00       457
 
 {'BOY': 17, 'GOTHS': 23, 'FIRST GOTH': 22, 'AEMILIUS': 21, 'GOTH': 25, 'ROMAN': 26, 'TAMORA': 6, 'NURSE': 18, 'BASSIANUS': 1, 'MARTIUS': 13, 'LUCIUS': 5, 'MUTIUS': 11, 'TRIBUNES': 10, 'SECOND GOTH': 24, 'CHIRON': 7, 'TITUS': 4, 'SATURNINUS': 0, 'CLOWN': 20, 'AARON': 15, 'PUBLIUS': 19, 'LAVINIA': 9, 'QUINTUS': 12, 'MARCUS': 2, 'ALL': 14, 'DEMETRIUS': 8, 'MESSENGER': 16, 'CAPTAIN': 3}
 
@@ -1125,28 +1141,30 @@ Play Number: 31
 Speech Act Number Cutoff: 57
 Number of Total Speakers: 29
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=10, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.07 (+/- 0.11)
+1949 features selected out of 3898 total
+F1 mean: 0.06 (+/- 0.11)
              precision    recall  f1-score   support
 
-          0       0.16      0.76      0.27       131
-          1       1.00      0.01      0.01       153
+          0       0.18      0.98      0.30       131
+          1       0.00      0.00      0.00       153
           2       0.00      0.00      0.00         0
-          3       0.17      0.01      0.01       153
+          3       0.00      0.00      0.00       153
           4       0.00      0.00      0.00         0
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
-          8       1.00      0.03      0.05        80
+          8       1.00      0.01      0.02        80
           9       0.00      0.00      0.00         0
-         11       0.00      0.00      0.00        90
+         10       0.00      0.00      0.00         0
+         11       1.00      0.01      0.02        90
          12       0.00      0.00      0.00        74
+         13       0.00      0.00      0.00         0
          15       0.00      0.00      0.00        57
 
-avg / total       0.38      0.14      0.06       738
+avg / total       0.26      0.18      0.06       738
 
 {'BOY': 5, 'SERVANT': 20, 'MYRMIDON': 27, 'MENELAUS': 9, 'SOLDIERS': 28, 'HELENUS': 16, 'ULYSSES': 8, 'HECTOR': 15, 'DIOMEDES': 19, 'TROILUS': 0, 'NESTOR': 7, 'ANDROMACHE': 25, 'AENEAS': 2, 'PARIS': 18, 'CALCHAS': 22, 'AJAX': 10, 'ACHILLES': 12, 'THERSITES': 11, 'MARGARELON': 26, 'ALL': 24, 'AGAMEMNON': 6, 'PATROCLUS': 13, 'PANDARUS': 1, 'PRIAM': 14, 'HELEN': 21, 'DEIPHOBUS': 23, 'ALEXANDER': 4, 'CRESSIDA': 3, 'CASSANDRA': 17}
 
@@ -1159,29 +1177,29 @@ Play Number: 32
 Speech Act Number Cutoff: 46
 Number of Total Speakers: 18
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.02 (+/- 0.03)
+1606 features selected out of 3212 total
+F1 mean: 0.00 (+/- 0.01)
              precision    recall  f1-score   support
 
-          0       0.09      0.07      0.08        58
+          0       0.07      0.95      0.12        58
           1       0.00      0.00      0.00         0
           2       0.00      0.00      0.00         0
-          3       0.13      0.53      0.21       122
+          3       0.00      0.00      0.00       122
           4       0.00      0.00      0.00         0
           5       0.00      0.00      0.00       152
-          6       0.11      0.05      0.07        59
-          7       0.07      0.06      0.06        88
-          8       0.17      0.05      0.08        99
-          9       1.00      0.01      0.02       120
-         10       0.00      0.00      0.00        87
+          6       0.00      0.00      0.00        59
+          7       0.00      0.00      0.00        88
+          8       0.00      0.00      0.00        99
+          9       0.00      0.00      0.00       120
+         10       1.00      0.01      0.02        87
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00        51
 
-avg / total       0.20      0.10      0.06       836
+avg / total       0.11      0.07      0.01       836
 
 {'ANTONIO': 11, 'DUKE': 0, 'SECOND OFFICER': 16, 'CURIO': 1, 'SEBASTIAN': 12, 'MALVOLIO': 10, 'SIR TOBY': 5, 'VALENTINE': 2, 'AGUECHEEK': 7, 'FABIAN': 13, 'OLIVIA': 9, 'CLOWN': 8, 'VIOLA': 3, 'FIRST OFFICER': 15, 'CAPTAIN': 4, 'PRIEST': 17, 'SERVANT': 14, 'MARIA': 6}
 
@@ -1197,26 +1215,26 @@ Number of Total Speakers: 17
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.04 (+/- 0.05)
+1432 features selected out of 2864 total
+F1 mean: 0.05 (+/- 0.06)
              precision    recall  f1-score   support
 
-          0       0.19      0.09      0.12       149
-          1       0.00      0.00      0.00       149
+          0       0.20      0.98      0.33       149
+          1       1.00      0.01      0.01       149
           2       0.00      0.00      0.00       117
-          3       0.00      0.00      0.00       107
+          3       1.00      0.01      0.02       107
           4       0.00      0.00      0.00        48
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00        58
-          8       0.04      0.01      0.02        68
+          8       1.00      0.01      0.03        68
           9       0.00      0.00      0.00         0
-         10       0.06      0.60      0.11        48
+         10       0.00      0.00      0.00        48
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
 
-avg / total       0.05      0.06      0.03       744
+avg / total       0.48      0.20      0.07       744
 
 {'DUKE': 10, 'SILVIA': 7, 'JULIA': 3, 'ANTONIO': 5, 'OUTLAWS': 16, 'EGLAMOUR': 15, 'HOST': 14, 'PROTEUS': 1, 'FIRST OUTLAW': 11, 'SECOND OUTLAW': 12, 'PANTHINO': 6, 'THIRD OUTLAW': 13, 'LUCETTA': 4, 'VALENTINE': 0, 'SPEED': 2, 'LAUNCE': 8, 'THURIO': 9}
 
@@ -1229,32 +1247,33 @@ Play Number: 34
 Speech Act Number Cutoff: 37
 Number of Total Speakers: 34
 
-Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=13, n_init=10,
+Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.03 (+/- 0.09)
+1806 features selected out of 3612 total
+F1 mean: 0.02 (+/- 0.08)
              precision    recall  f1-score   support
 
           0       0.00      0.00      0.00         0
-          1       0.30      0.04      0.07        72
+          1       0.14      0.99      0.24        72
           2       0.00      0.00      0.00        57
-          3       0.33      0.03      0.06       125
+          3       0.00      0.00      0.00       125
           4       0.00      0.00      0.00         0
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
           7       0.00      0.00      0.00         0
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00         0
-         10       0.11      0.07      0.08        59
+         10       1.00      0.02      0.03        59
          11       0.00      0.00      0.00         0
          12       0.00      0.00      0.00         0
+         13       0.00      0.00      0.00         0
          21       0.00      0.00      0.00        42
          22       0.00      0.00      0.00        64
          24       0.00      0.00      0.00        65
          25       0.00      0.00      0.00        45
 
-avg / total       0.13      0.02      0.03       529
+avg / total       0.13      0.14      0.04       529
 
 {'AUTOLYCUS': 24, 'SHEPHERD': 21, 'SERVANT': 16, 'ARCHIDAMUS': 0, 'GENTLEMAN': 29, 'SECOND LADY': 7, 'PERDITA': 26, 'MARINER': 20, 'MOPSA': 28, 'LORDS': 15, 'FIRST LADY': 6, 'POLIXENES': 2, 'FIRST GENTLEMAN': 31, 'DORCAS': 27, 'HERMIONE': 4, 'LORD': 30, 'FLORIZEL': 25, 'MAMILLIUS': 5, 'FIRST LORD': 8, 'LEONTES': 3, 'DION': 18, 'CLEOMENES': 17, 'OFFICER': 19, 'SECOND GENTLEMAN': 32, 'CAMILLO': 1, 'PAULINA': 10, 'FIRST SERVANT': 13, 'THIRD GENTLEMAN': 33, 'SECOND SERVANT': 14, 'CLOWN': 22, 'TIME': 23, 'EMILIA': 12, 'GAOLER': 11, 'ANTIGONUS': 9}
 
@@ -1270,26 +1289,26 @@ Number of Total Speakers: 23
 Best model KMeans(copy_x=True, init='k-means++', max_iter=300, n_clusters=14, n_init=10,
     n_jobs=1, precompute_distances='auto', random_state=None, tol=0.0001,
     verbose=0)
-32 features selected out of 64 total
-F1 mean: 0.02 (+/- 0.03)
+1682 features selected out of 3364 total
+F1 mean: 0.08 (+/- 0.08)
              precision    recall  f1-score   support
 
-          0       0.34      0.12      0.18       193
-          1       0.13      0.14      0.14        78
-          2       0.17      0.07      0.10        83
-          3       0.20      0.01      0.02       110
+          0       0.00      0.00      0.00       193
+          1       0.11      1.00      0.20        78
+          2       0.00      0.00      0.00        83
+          3       0.00      0.00      0.00       110
           4       0.00      0.00      0.00         0
           5       0.00      0.00      0.00         0
           6       0.00      0.00      0.00         0
-          7       0.07      0.05      0.06        60
+          7       0.00      0.00      0.00        60
           8       0.00      0.00      0.00         0
           9       0.00      0.00      0.00        65
          10       0.00      0.00      0.00         0
-         11       0.17      0.01      0.01       129
+         11       0.00      0.00      0.00       129
          12       0.00      0.00      0.00         0
          13       0.00      0.00      0.00         0
 
-avg / total       0.19      0.06      0.08       718
+avg / total       0.01      0.11      0.02       718
 
 {'DUKE': 0, 'BARNARDINE': 21, 'SERVANT': 16, 'FIRST GENTLEMAN': 4, 'POMPEY': 7, 'MESSENGER': 20, 'ELBOW': 13, 'ISABELLA': 11, 'ESCALUS': 1, 'FRIAR THOMAS': 10, 'CLAUDIO': 8, 'PROVOST': 9, 'PETER': 22, 'MRS OVERDONE': 6, 'JUSTICE': 15, 'SECOND GENTLEMAN': 5, 'ABHORSON': 19, 'JULIET': 17, 'ANGELO': 2, 'LUCIO': 3, 'FROTH': 14, 'MARIANA': 18, 'FRANCISCA': 12}
 

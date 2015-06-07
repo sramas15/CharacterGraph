@@ -171,8 +171,8 @@ if __name__ == "__main__":
 		print "========================================================================================================="
 		print "Play Number: " + str(i) 
 		# construct the multiclass dataset
-		features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples2/triples-'+str(i)+'.txt')
-		# features, labels, speakerMap, speakerCount = constructSpeakerWordCountDataset('triples/triples-'+str(i)+'.txt')
+		# features, labels, speakerMap, speakerCount = constructSpeakerLIWCDataset('triples/triples-'+str(i)+'.txt')
+		features, labels, speakerMap, speakerCount = constructSpeakerWordCountDataset('triples/triples-'+str(i)+'.txt')
 		# filter dataset
 		filteredFeatures, filteredLabels, MIN_ACTS = filterSpeakerByProportion(features, labels, speakerCount)
 		print
