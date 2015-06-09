@@ -3,7 +3,6 @@ from random import sample
 from sklearn import metrics
 
 NUM_PLAYS = 36
-# PRUNING_LIMIT = 40
 outFile = 'predict-speaker-baseline.out'
 
 for playNum in range(NUM_PLAYS):
