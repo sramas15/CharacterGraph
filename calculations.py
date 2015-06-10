@@ -1,7 +1,7 @@
 from distributedwordreps import *
 import numpy as np
 
-NUM_PLAYS = 1
+NUM_PLAYS = 36
 
 for playNum in range(NUM_PLAYS):
 	csvFile = 'matrices/matrix-'+str(playNum)+'.csv'
